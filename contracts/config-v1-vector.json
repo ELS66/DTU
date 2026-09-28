@@ -1,0 +1,31 @@
+{
+  "executionConfig": {
+    "points": [
+      {
+        "rawType": "BOOL",
+        "byteOrder": "AB",
+        "pointCode": 2,
+        "slaveId": 1,
+        "read": { "intervalMs": 500, "count": 1, "address": 8, "function": 1 },
+        "write": { "address": 8, "function": 5 }
+      },
+      {
+        "pointCode": 1,
+        "slaveId": 1,
+        "read": { "function": 3, "address": 0, "count": 1, "intervalMs": 1000 },
+        "write": { "function": 6, "address": 0 },
+        "rawType": "INT16",
+        "byteOrder": "AB"
+      }
+    ],
+    "serial": {
+      "parity": "NONE",
+      "stopBits": 1,
+      "dataBits": 8,
+      "baudRate": 9600,
+      "port": "RS485"
+    }
+  },
+  "canonicalUtf8": "{\"schemaVersion\":1,\"serial\":{\"port\":\"RS485\",\"baudRate\":9600,\"dataBits\":8,\"stopBits\":1,\"parity\":\"NONE\"},\"points\":[{\"pointCode\":1,\"slaveId\":1,\"read\":{\"function\":3,\"address\":0,\"count\":1,\"intervalMs\":1000},\"write\":{\"function\":6,\"address\":0},\"rawType\":\"INT16\",\"byteOrder\":\"AB\"},{\"pointCode\":2,\"slaveId\":1,\"read\":{\"function\":1,\"address\":8,\"count\":1,\"intervalMs\":500},\"write\":{\"function\":5,\"address\":8},\"rawType\":\"BOOL\",\"byteOrder\":\"AB\"}]}",
+  "sha256": "0310bceb54926efd8a86b3aaf84f64101c002d156506552971a2c41d68ae61d9"
+}

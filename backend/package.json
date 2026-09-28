@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "tsc -p tsconfig.json",
-    "test": "npm run build && node --test dist/test/telemetry.test.js dist/test/app.test.js",
+    "test": "npm run build && node --test dist/test/telemetry.test.js dist/test/app.test.js dist/test/config.test.js",
     "start": "node dist/main.js"
   },
   "dependencies": {

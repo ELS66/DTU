@@ -12,7 +12,7 @@
   "releaseId": "1b37a40b-1736-475f-bf57-0861fcb07c5a",
   "revision": 12,
   "expiresAt": 1780000100000,
-  "contentHash": "64位十六进制SHA256",
+  "contentHash": "adb8caea5ba67a5aedf21ce6ef9795170c4397c14d505f0be38fd1ef7c21deb0",
   "serial": {"port": "RS485", "baudRate": 9600, "dataBits": 8, "stopBits": 1, "parity": "NONE"},
   "points": [{
     "pointCode": 1, "slaveId": 1,
@@ -22,7 +22,13 @@
 }
 ```
 
-`contentHash` 是固定规范化序列化后的执行配置 SHA256，不包括外层 releaseId、expiresAt。规范化形式和测试向量需要在跨语言实现前锁定。服务器保存完整快照，DTU 仅看到执行所需字段。DTU 校验版本、单调 revision、hash、串口能力、点数及调度负载，在持久保存完成后原子切换。收到相同 releaseId 时仅返回已有结果，不重复应用。
+`contentHash` 只覆盖执行配置 `serial` 和 `points`，不包括外层 `protocolVersion`、`releaseId`、`revision`、`expiresAt` 或 `contentHash` 本身。哈希输入是 UTF-8、无空格的 JSON，字段顺序固定为：顶层 `schemaVersion`、`serial`、`points`；`serial` 内为 `port`、`baudRate`、`dataBits`、`stopBits`、`parity`；每个点为 `pointCode`、`slaveId`、`read`、`write`、`rawType`、`byteOrder`；`read` 内为 `function`、`address`、`count`、`intervalMs`；`write` 内为 `function`、`address`。`schemaVersion` 固定为整数 1，点先按 `pointCode` 升序排序；空映射编码为 JSON `null`。所有配置数值都是十进制整数，枚举都是本文规定的 ASCII 字符串；禁止额外字段。执行配置的规范化 UTF-8 字节不得超过 32768 字节。SHA-256 以 64 个小写十六进制字符表示。
+
+共享向量见 [`config-v1-vector.json`](config-v1-vector.json)，Python 参考实现为 [`config_v1.py`](config_v1.py)，Node 实现为 `backend/src/protocol/config-release.ts`。上例 hash 与所示执行配置匹配；`expiresAt` 只是示例时间，实际发布时必须设置有效截止时间。
+
+配置验证限制：`revision` 为 1～4294967295，与遥测帧的 `configRevision` 一致；点数为 1～128，`pointCode` 唯一且为 1～65535，`slaveId` 为 1～247；串口限定 RS485/RS232/TTL、8 数据位、1/2 停止位、NONE/EVEN/ODD 校验，波特率 1200～115200。`read` 与 `write` 至少有一个非空。BOOL 读取只允许功能码 1/2、写入功能码 5；16 位数值读取只允许 3/4、写入 6；32 位数值读取只允许 3/4、写入 16。读取寄存器数必须与类型宽度匹配，地址及寄存器范围不能越过 65535；采集间隔为 100～3600000 毫秒。16 位和 BOOL 字节序固定 `AB`；32 位允许 `ABCD`、`BADC`、`CDAB`、`DCBA`。这是一版明确可执行的子集，其他 Modbus 功能码和位域映射需要新契约版本。
+
+服务器保存完整快照，DTU 仅看到执行所需字段。DTU 还须校验过期时间、单调 revision、串口能力和调度负载，在持久保存完成后原子切换。收到相同 releaseId 时仅返回已有结果，不重复应用。
 
 上行 `config/reply`：`protocolVersion`、`releaseId`、`revision`、`status`（RECEIVED、APPLIED、REJECTED）、`errorCode`、`appliedRevision`。只有 APPLIED 更新云端 appliedRevision。云端应使用实时查询或重试同步恢复丢失的 reply。
 
@@ -52,4 +58,4 @@ DTU 检查截止时间、已应用 revision、pointCode、类型与写权限。�
 
 上行 `telemetry` 使用二进制协议。服务器将批次写入 inbox 并提交后，回传 `telemetry/ack` JSON：`protocolVersion`、`bootId`、`sequence`、`status`（STORED 或 REJECTED）、`errorCode`。重复的同一批次返回 STORED。DTU 只有收到 STORED 才从离线队列释放该批次。
 
-以上消息都需要定义最大大小、超时和重试退避。JSON 字段名、类型和取值由后续 JSON Schema 与固件 golden vectors 锁定；本文件为第一阶段待验证契约。
+命令、回复和 ACK 的最大大小、超时和重试退避仍待定义。配置哈希与字段限制已由 Python/Node 共享向量验证；C 固件实现和命令/回复 JSON Schema 尚未完成，因此整个控制契约仍为草案。
