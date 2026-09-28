@@ -1,0 +1,10 @@
+.env
+**/target/
+**/node_modules/
+**/dist/
+**/__pycache__/
+**/*.pyc
+contracts/build/
+.idea/
+.vscode/
+*.log
