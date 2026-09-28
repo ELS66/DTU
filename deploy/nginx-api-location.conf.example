@@ -1,4 +1,6 @@
-# 放入宝塔 PHP 站点的 server 块，并替换已有的 location /。
+# 宝塔站点对外监听 7927，Node 只在本机监听 7926。
+# 先把该站点的 root 改为仓库之外的空目录。
+# 将以下 location 放入现有 server 块，并替换已有的 location /。
 # 如果使用宝塔「反向代理」页面配置，则无需手工粘贴此片段。
 location / {
     proxy_pass http://127.0.0.1:7926;

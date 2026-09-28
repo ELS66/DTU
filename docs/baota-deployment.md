@@ -28,7 +28,7 @@ bash deploy/baota-release.sh
 
 ## 用宝塔 PHP 站点承接 API 域名
 
-可以沿用宝塔的 **PHP 项目/传统站点** 来管理域名和 HTTPS；这里的 PHP 站点只承担 Nginx 入口，后端依旧由 Node.js 运行。站点根目录必须是一个不含仓库源码的独立空目录，不能指向 `/www/wwwroot/DTU`。如果现有 Git 站点的根目录已指向仓库，就新建独立 PHP 站点或调整它的对外根目录后再绑定业务域名。
+可以沿用宝塔的 **PHP 项目/传统站点** 来管理域名和 HTTPS；这里的 PHP 站点只承担 Nginx 入口，后端依旧由 Node.js 运行。当前站点对外监听 `7927`，Node 后端只在本机监听 `7926`，不能让两者监听同一个端口。站点根目录必须是一个不含仓库源码的独立空目录，不能指向 `/www/wwwroot/DTU`。如果现有 Git 站点的根目录已指向仓库，就新建独立 PHP 站点或调整它的对外根目录后再绑定业务域名，例如创建 `/www/wwwroot/dtu-public` 并把站点根目录设为该目录。
 
 先在服务器上用与后续 Git 部署脚本相同的系统用户启动 PM2。确认 `node`、`npm`、`pm2` 都来自预期的 Node.js 24 环境，再执行：
 
@@ -41,7 +41,7 @@ curl --fail http://127.0.0.1:7926/health
 
 健康检查应返回 `{"status":"ok"}`。`deploy/ecosystem.config.cjs` 固定只启动一个进程，默认监听 `127.0.0.1:7926`；需要其他端口时，在启动和部署脚本的环境中使用同一个 `PORT` 值。PM2 必须在开机后恢复进程；按服务器现有 PM2 安装方式配置开机启动，并重启服务器验证一次。
 
-随后在 PHP 站点的 **设置 → 反向代理** 添加规则，目标 URL 填 `http://127.0.0.1:7926`，代理目录选 `/`。也可以把 `deploy/nginx-api-location.conf.example` 中的 `location /` 放进该站点 Nginx 的 `server` 块，替换原有同名规则；不要在同一个站点重复配置两份 `location /`。保存后先执行 `nginx -t` 检查配置，再重载 Nginx。公网域名和证书在该 PHP 站点中配置，Node 的 7926 端口保持只监听本机。
+将 PHP 站点的 `listen` 两行改为 `listen 7927;` 和 `listen [::]:7927;`，再到 **设置 → 反向代理** 添加规则，目标 URL 填 `http://127.0.0.1:7926`，代理目录选 `/`。也可以把 `deploy/nginx-api-location.conf.example` 中的 `location /` 放进该站点 Nginx 的 `server` 块，替换原有同名规则；不要在同一个站点重复配置两份 `location /`。保存后先执行 `nginx -t` 检查配置，再重载 Nginx。公网域名和证书在该 PHP 站点中配置，Node 的 7926 端口保持只监听本机。若站点仍使用 IP 和明文 HTTP，验证地址为 `http://114.132.81.183:7927/health`。
 
 以上配置和健康检查都通过后，可把宝塔 Git 管理的部署脚本改为：
 
