@@ -19,7 +19,7 @@
 | 用户端 | H5；首版包含完整拖拽面板设计器 |
 | 通知 | 首版不做外部通知 |
 | OTA | 首版必须包含 |
-| 技术路线 | Java + Vue；已有服务器、域名 |
+| 技术路线 | Node.js + TypeScript + Vue；用户已明确从 Java 切换，已有宝塔服务器和域名 |
 | 规模、周期、团队 | 尚未确定，不给出承诺交付日期和生产容量 |
 | 服务端管理 | 宝塔面板；计划使用 GitHub webhook 触发更新 |
 
@@ -66,14 +66,14 @@ Command 与发送任务在一个数据库事务中保存，通过 outbox 异步�
 
 ## 4. 技术栈与仓库
 
-- Java 21、Spring Boot、Spring Security、Spring WebSocket、Maven。
-- 数据访问采用 MyBatis + Flyway，避免同时维护两套 ORM。
+- Node.js 24 LTS 作为生产目标；后端采用 TypeScript + Fastify 模块化单体。本地 Node.js 22 可进行协议与构建验证。
+- 数据访问沿用 PostgreSQL SQL 迁移；Node 数据访问库及迁移执行器在数据库任务中锁定。
 - Vue 3、TypeScript、Vite、Pinia；Admin 使用 Element Plus，H5 使用 Vant，图表使用 ECharts。
 - 拖拽布局优先验证 GridStack；Schema 与其内部格式隔离，H5 Renderer 不依赖设计器运行时。
 - PostgreSQL 为持久化主库；开发阶段历史按时间分区。TimescaleDB 作为容量验证后的可选扩展，不首日部署两套独立数据库。
 - Redis 用于缓存、在线租约和短期推送协调；EMQX 承担 MQTT 认证与 Topic ACL。
 - 固件采用 ESP-IDF、C/C++、ESP-MQTT、HTTPS OTA；模拟器采用 Python。
-- 编码启动任务锁定 Spring Boot、ESP-IDF、Node、MQTT 客户端、EMQX 等精确版本并验证兼容性，不自动沿用旧文档的大版本或无约束 latest 镜像。
+- 编码启动任务锁定 Node、Fastify、TypeScript、ESP-IDF、MQTT 客户端、EMQX 等精确版本并验证兼容性，不自动沿用旧文档的大版本或无约束 latest 镜像。
 
 ```text
 backend/
@@ -293,7 +293,7 @@ OTA 状态：CREATED、NOTIFIED、DOWNLOADING、VERIFIED、REBOOTING、SELF_TEST
 
 | 阶段 | 交付物 | 完成条件 |
 |---|---|---|
-| P0 契约与硬件探路 | 决策记录、DDL 草案、协议、依赖版本、开发板串口与 Flash 实测 | 二进制 C/Python/Java 测试向量一致；接口/OTA 资源限制明确 |
+| P0 契约与硬件探路 | 决策记录、DDL 草案、协议、依赖版本、开发板串口与 Flash 实测 | 二进制 C/Python/TypeScript 测试向量一致；接口/OTA 资源限制明确 |
 | P1 平台与身份 | 仓库、Compose、登录、多租户、身份库存、认领与授权 | 两租户读取/修改/WS/MQTT 越权均失败；并发认领只有一次成功 |
 | P2 版本化模型与采集 | 产品发布、配置、模拟器、转换、Shadow、历史基础 | 旧版本缓存按旧映射解释；重复/乱序不污染最新状态 |
 | P3 控制闭环 | 命令、outbox、执行与回读、基础操作页面 | 重复命令不重复执行；版本不符拒绝；超时和迟到结果正确 |
@@ -315,7 +315,7 @@ OTA 状态：CREATED、NOTIFIED、DOWNLOADING、VERIFIED、REBOOTING、SELF_TEST
 | T01/P0 | 需求与假设 -> ADR、支持矩阵、风险清单 | docs/ | 无 | 物理接口与协议分开、未确认项可追踪 | 无 |
 | T02/P0 | 已选技术 -> 版本锁定、骨架、开发环境 | backend/、前端、deploy/ | health/readiness | 构建通过、服务健康、依赖版本可复现 | T01 |
 | T03/P0 | 模型决策 -> ER、DDL、迁移 | docs/database.md、backend/migrations/ | 核心表草案 | 唯一约束、租户关联、升级回退策略审查 | T01 |
-| T04/P0 | 协议草案 -> 二进制/配置/WS 契约与向量 | contracts/、docs/ | OpenAPI 初稿 | C/Python/Java 解码一致，非法包拒绝 | T01 |
+| T04/P0 | 协议草案 -> 二进制/配置/WS 契约与向量 | contracts/、docs/ | OpenAPI 初稿 | C/Python/TypeScript 解码一致，非法包拒绝 | T01 |
 | T05/P0 | ESP32-S3 -> 硬件能力报告与最小固件 | dtu-firmware/、docs/hardware.md | 无 | WiFi、三接口测试方案、Flash/分区预算明确 | T01 |
 | T06/P1 | 用户/租户设计 -> 登录、角色、项目授权 | backend/auth、tenant、project；前端登录 | 身份成员表、auth/project API | 双租户横向越权和会话失效测试通过 | T02,T03 |
 | T07/P1 | 身份与归属设计 -> 出厂库存、认领、分配 | backend/identity、gateway、device | 身份/认领/绑定表与 API | 并发认领、转移后旧访问撤销 | T06 |
@@ -375,6 +375,7 @@ OTA 状态：CREATED、NOTIFIED、DOWNLOADING、VERIFIED、REBOOTING、SELF_TEST
 
 - ESP32-S3 UART 与外部收发器依据：[ESP32-S3 Technical Reference Manual](https://documentation.espressif.com/esp32-s3_technical_reference_manual_en.pdf)。
 - OTA 签名与回滚能力：[ESP-IDF ESP32-S3 Security](https://docs.espressif.com/projects/esp-idf/en/v5.3.2/esp32s3/security/security.html)。具体行为按启动任务锁定的 SDK 版本重新验证。
-- Java 与 Spring Boot 兼容性：[Spring Boot System Requirements](https://docs.spring.io/spring-boot/system-requirements.html)。本文采用 Java 21，Boot 精确版本在 T02 锁定。
+- Node.js 生产版本：[Node.js Releases](https://nodejs.org/en/about/previous-releases)。Node.js 24 为 LTS，后端依赖由 `backend/package-lock.json` 锁定。
+- Node 服务框架：[Fastify 文档](https://fastify.dev/docs/latest/)。
 - MQTT 投递语义：[MQTT 3.1.1 Specification](https://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html)。
 - Modbus 功能码与数据模型：[Modbus Application Protocol V1.1b3](https://modbus.org/docs/Modbus_Application_Protocol_V1_1b3.pdf)。

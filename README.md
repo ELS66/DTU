@@ -5,10 +5,10 @@
 ## 当前交付
 
 - `contracts/`：网关遥测二进制协议 v1 草案与可执行测试向量。
-- `backend/`：Java 21 / Spring Boot 服务骨架与首批 PostgreSQL 迁移。
+- `backend/`：Node.js + TypeScript / Fastify 服务骨架与首批 PostgreSQL 迁移。
 - `deploy/`：本地数据库、缓存和 MQTT Broker 的开发环境配置。
 - `docs/`：架构决策与硬件验证清单。
 
 当前实际进度与限制见 [第一个迭代进度](docs/sprint-01-progress.md)。
 
-在接口和硬件选型完成前，不把当前骨架视为可上线系统。服务端运行需要 Maven 与 Docker，当前工作机尚未安装或开放这两项工具。
+在接口和硬件选型完成前，不把当前骨架视为可上线系统。后端可在 `backend/` 运行 `npm ci`、`npm test` 和 `npm start`；数据库迁移及完整业务功能仍在开发。

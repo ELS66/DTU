@@ -1,6 +1,6 @@
 # 遥测二进制协议 v1（候选）
 
-本契约用于模拟器、固件、Java 接入模块共享实现。所有多字节整数采用网络字节序；Modbus 寄存器字节序只用于 DTU 解码，不影响本帧。
+本契约用于模拟器、固件、Node.js 接入模块共享实现。所有多字节整数采用网络字节序；Modbus 寄存器字节序只用于 DTU 解码，不影响本帧。
 
 | 偏移 | 长度 | 字段 |
 |---:|---:|---|
@@ -33,4 +33,4 @@ quality：0=GOOD，1=READ_TIMEOUT，2=MODBUS_ERROR，3=INVALID_VALUE。GOOD 要�
 
 这里没有对 MQTT TLS 流量叠加 CRC；传输层损坏由 TLS 处理。应用层持久接收 ACK 独立于 MQTT PUBACK。ACK 需要确认持久接收完成后才能发，固件据此清理离线缓存。
 
-`telemetry_v1.py` 与 `test_telemetry_v1.py` 是编码参考实现；后端 `TelemetryFrame` 已通过同一 golden vector，`TelemetryV1.java` 是可独立运行的跨语言检查。C 固件实现和更多异常向量通过后，才能把本草案标为冻结。
+`telemetry_v1.py` 与 `test_telemetry_v1.py` 是编码参考实现；后端 TypeScript 解码器已通过同一 golden vector。C 固件实现和更多异常向量通过后，才能把本草案标为冻结。
