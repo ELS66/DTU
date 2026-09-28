@@ -5,6 +5,7 @@
 ## 当前交付
 
 - `contracts/`：网关遥测二进制协议、配置快照哈希规范与 Python/Node 共享测试向量。
+- `dtu-simulator/`：无需真实设备的协议状态机与离线往返演示。
 - `backend/`：Node.js + TypeScript / Fastify 服务骨架与首批 PostgreSQL 迁移。
 - `deploy/`：本地数据库、缓存和 MQTT Broker 的开发环境配置。
 - `docs/`：架构决策与硬件验证清单。

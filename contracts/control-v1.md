@@ -30,7 +30,7 @@
 
 服务器保存完整快照，DTU 仅看到执行所需字段。DTU 还须校验过期时间、单调 revision、串口能力和调度负载，在持久保存完成后原子切换。收到相同 releaseId 时仅返回已有结果，不重复应用。
 
-上行 `config/reply`：`protocolVersion`、`releaseId`、`revision`、`status`（RECEIVED、APPLIED、REJECTED）、`errorCode`、`appliedRevision`。只有 APPLIED 更新云端 appliedRevision。云端应使用实时查询或重试同步恢复丢失的 reply。
+上行 `config/reply`：`protocolVersion`、`releaseId`、`revision`、`status`（RECEIVED、APPLIED、REJECTED）、`errorCode`、`appliedRevision`。`appliedRevision` 为 0～4294967295；当 status 为 APPLIED 时，它必须等于本条 reply 的 revision。REJECTED 必须给出 `errorCode`，其余状态必须为 JSON `null`。只有 APPLIED 更新云端 appliedRevision。云端应使用实时查询或重试同步恢复丢失的 reply。
 
 ## 绝对值控制
 
@@ -50,12 +50,14 @@
 
 DTU 检查截止时间、已应用 revision、pointCode、类型与写权限。首次收到时保存 commandId 和处理阶段；重复到达时回复已有事实，不重新写 Modbus。命令持久去重记录的保留时间必须覆盖最大可能重投递时间；本地空间不足时停止接收新命令并报告错误。
 
-上行 `command/reply`：`protocolVersion`、`commandId`、`configRevision`、`status`、`errorCode`、`observedRawValue`、`observedAt`。状态为 RECEIVED、EXECUTING、WRITE_ACKED、VERIFIED、FAILED、REJECTED。`observedRawValue` 仅在关联该命令的回读成功时出现。W 点可结束于 WRITE_ACKED，不假装已验证状态。MQTT PUBACK 不是物理设备执行成功。
+`configRevision` 为 1～4294967295，`pointCode` 为 1～65535。`rawValue` 与 `rawType` 匹配：BOOL 使用 JSON 布尔值；UINT16、INT16、UINT32、INT32 使用其二进制范围内的整数；FLOAT32 使用可表示的有限 JSON 数值，设备按 IEEE 754 float32 舍入。结构校验不代替执行校验：到期时间、当前 applied revision、映射、写权限和命令去重必须由设备执行前再次确认。
+
+上行 `command/reply`：`protocolVersion`、`commandId`、`configRevision`、`status`、`errorCode`、`observedRawValue`、`observedAt`。状态为 RECEIVED、EXECUTING、WRITE_ACKED、VERIFIED、FAILED、REJECTED。只有 VERIFIED 必须同时给出非空 `observedRawValue` 和 UTC 毫秒 `observedAt`；其他状态两者都必须为 JSON `null`。FAILED、REJECTED 必须给出 `errorCode`，其余状态必须为 `null`。服务端按 commandId 找到原命令，再核对回读类型、设备归属与配置版本；不能仅靠 reply 声称 VERIFIED。W 点可结束于 WRITE_ACKED，不假装已验证状态。MQTT PUBACK 不是物理设备执行成功。
 
 服务端公开的结果额外包含 UNCONFIRMED、EXPIRED。超时任务不能覆盖已经记录的晚到执行事实；用户界面可提示“结果未确认，请查看设备当前状态”。
 
 ## 遥测持久接收确认
 
-上行 `telemetry` 使用二进制协议。服务器将批次写入 inbox 并提交后，回传 `telemetry/ack` JSON：`protocolVersion`、`bootId`、`sequence`、`status`（STORED 或 REJECTED）、`errorCode`。重复的同一批次返回 STORED。DTU 只有收到 STORED 才从离线队列释放该批次。
+上行 `telemetry` 使用二进制协议。服务器将批次写入 inbox 并提交后，回传 `telemetry/ack` JSON：`protocolVersion`、`bootId`、`sequence`、`status`（STORED 或 REJECTED）、`errorCode`。`bootId` 是 16 字节原值的 32 字符小写十六进制；`sequence` 是范围 1～2^63-1 的**十进制字符串**，不能用 JSON number，避免超过 JavaScript 安全整数后丢精度。STORED 的 `errorCode` 必须是 `null`，REJECTED 必须给出错误码。重复的同一批次返回 STORED。DTU 只有收到 STORED 才从离线队列释放该批次。若报文头损坏到无法可信读取 bootId/sequence，服务端记录诊断但不构造猜测身份的 ACK。
 
-命令、回复和 ACK 的最大大小、超时和重试退避仍待定义。配置哈希与字段限制已由 Python/Node 共享向量验证；C 固件实现和命令/回复 JSON Schema 尚未完成，因此整个控制契约仍为草案。
+`command/set`、`command/reply`、`config/reply`、`telemetry/ack` 各自的 UTF-8 JSON 载荷上限为 1024 字节，禁止重复字段和额外字段。错误码为 1～64 字符的大写 ASCII，首字符为字母，后续只允许字母、数字和下划线。共享样例与 Python/Node 校验器见 [`control-v1-vector.json`](control-v1-vector.json)、[`control_v1.py`](control_v1.py) 和 `backend/src/protocol/control-messages.ts`。最大重投递时长、超时和退避仍待定义；C 固件实现和 JSON Schema 尚未完成，因此整个控制契约仍为草案。

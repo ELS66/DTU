@@ -1,0 +1,44 @@
+{
+  "commandSet": {
+    "protocolVersion": 1,
+    "commandId": "0f23f2b2-03a8-482e-a697-cdc33438cfdb",
+    "configRevision": 12,
+    "expiresAt": 1780000100000,
+    "pointCode": 2,
+    "rawType": "INT16",
+    "rawValue": 300
+  },
+  "commandReplyVerified": {
+    "protocolVersion": 1,
+    "commandId": "0f23f2b2-03a8-482e-a697-cdc33438cfdb",
+    "configRevision": 12,
+    "status": "VERIFIED",
+    "errorCode": null,
+    "observedRawValue": 300,
+    "observedAt": 1780000000100
+  },
+  "commandReplyFailed": {
+    "protocolVersion": 1,
+    "commandId": "0f23f2b2-03a8-482e-a697-cdc33438cfdb",
+    "configRevision": 12,
+    "status": "FAILED",
+    "errorCode": "MODBUS_TIMEOUT",
+    "observedRawValue": null,
+    "observedAt": null
+  },
+  "configReplyApplied": {
+    "protocolVersion": 1,
+    "releaseId": "1b37a40b-1736-475f-bf57-0861fcb07c5a",
+    "revision": 12,
+    "status": "APPLIED",
+    "errorCode": null,
+    "appliedRevision": 12
+  },
+  "telemetryAckStored": {
+    "protocolVersion": 1,
+    "bootId": "000102030405060708090a0b0c0d0e0f",
+    "sequence": "9223372036854775807",
+    "status": "STORED",
+    "errorCode": null
+  }
+}
