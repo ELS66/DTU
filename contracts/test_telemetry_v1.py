@@ -38,6 +38,12 @@ class TelemetryContractTest(unittest.TestCase):
                            (Reading(1, 2, 1, 0, None),))
         self.assertEqual(decode(encode(sample)), sample)
 
+    def test_rejects_negative_point_time(self):
+        sample = Telemetry(12, bytes(16), 1, 1, False, True,
+                           (Reading(1, 2, 0, -2, 3),))
+        with self.assertRaises(ValueError):
+            encode(sample)
+
 
 if __name__ == "__main__":
     unittest.main()

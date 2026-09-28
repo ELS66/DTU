@@ -48,6 +48,9 @@ def _validate_common(message: Telemetry) -> None:
         raise ValueError("time flag and timestamp disagree")
     if not message.time_trusted and any(p.sample_offset_ms for p in message.points):
         raise ValueError("untrusted time cannot have point offsets")
+    if message.time_trusted and any(message.sample_time_ms + p.sample_offset_ms < 0
+                                    for p in message.points):
+        raise ValueError("invalid point sample time")
     if len({p.point_code for p in message.points}) != len(message.points):
         raise ValueError("duplicate point code")
 
