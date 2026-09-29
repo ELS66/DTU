@@ -5,7 +5,7 @@
 ## 首次启动数据库
 
 1. 设置 `DATABASE_URL`，指向专用的空 PostgreSQL 数据库。
-2. 运行 `npm run migrate`。命令按 V1、V2、V3 顺序应用迁移，记录 SHA-256 校验和；重复运行会跳过已应用文件，文件被改动或迁移失败时会拒绝继续。当前版本在一个事务中执行所有待应用迁移。
+2. 运行 `npm run migrate`。命令按 V1～V4 顺序应用迁移，记录 SHA-256 校验和；重复运行会跳过已应用文件，文件被改动或迁移失败时会拒绝继续。当前版本在一个事务中执行所有待应用迁移。
 3. 设置 `DTU_BOOTSTRAP_PASSWORD` 为至少 12 字符的初始密码，再运行 `npm run bootstrap -- --login admin --tenant "租户名称"`。命令只允许在没有用户和租户的数据库上执行，创建首个租户管理员后应清除该环境变量。
 4. 运行 `npm start`，使用登录接口获取 token。
 
@@ -20,5 +20,7 @@
 - `POST /api/v1/tenants/{tenantId}/projects`：租户管理员创建项目。
 - `GET /api/v1/tenants/{tenantId}/members`：租户管理员查看本租户成员。
 - `PUT /api/v1/tenants/{tenantId}/projects/{projectId}/members/{userId}`：租户管理员为本租户成员设置项目角色。数据库语句同时核对操作者、项目和目标成员的租户归属。
+- `POST /api/v1/tenants/{tenantId}/invitations`：租户管理员为尚未存在的账号生成 24 小时有效的一次性邀请令牌；令牌只在响应中返回一次，由管理员安全交给受邀人。
+- `POST /api/v1/auth/accept-invitation`：受邀人提交令牌并自行设置密码，原子创建用户和租户成员关系。重复、过期令牌会被拒绝。
 
-`app_user.password_hash` 使用 `scrypt$N$r$p$salt$hash` 格式。当前仅有首个管理员初始化，没有后续用户创建、密码重置、刷新 token、登录限速、审计或完整前端登录流程；这组接口仍属于开发阶段，不应直接作为公开登录服务上线。
+`app_user.password_hash` 使用 `scrypt$N$r$p$salt$hash` 格式。当前支持首个管理员初始化和新账号邀请，但尚未支持已有账号加入另一租户、密码重置、刷新 token、登录限速或审计；这组接口仍属于开发阶段，不应直接作为公开登录服务上线。

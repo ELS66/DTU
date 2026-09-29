@@ -1,8 +1,9 @@
 import assert from 'node:assert/strict';
+import { randomUUID } from 'node:crypto';
 import { test } from 'node:test';
 import { createApp } from '../app.js';
 import { hashPassword, verifyPassword } from '../auth/password.js';
-import type { AuthStore, AuthenticatedUser, Membership, ProjectRole, ProjectSummary, TenantRole, UserRecord } from '../auth/store.js';
+import type { AuthStore, AuthenticatedUser, InvitationAcceptance, Membership, ProjectRole, ProjectSummary, TenantRole, UserRecord } from '../auth/store.js';
 
 const ALPHA = 'aaaaaaaa-aaaa-4aaa-aaaa-aaaaaaaaaaaa';
 const BETA = 'bbbbbbbb-bbbb-4bbb-bbbb-bbbbbbbbbbbb';
@@ -14,6 +15,8 @@ class MemoryAuthStore implements AuthStore {
   sessions = new Map<string, { userId: string; expiresAt: Date; revoked: boolean }>();
   members = new Map<string, Membership[]>();
   projects = new Map<string, { id: string; name: string; memberIds: string[] }[]>();
+  invitations = new Map<string, { tenantId: string; loginName: string; role: TenantRole;
+    expiresAt: Date; consumed: boolean }>();
 
   async findUserByLogin(name: string) { return this.users.get(name) ?? null; }
   async createSession(hash: string, userId: string, expiresAt: Date) {
@@ -61,6 +64,27 @@ class MemoryAuthStore implements AuthStore {
       (membership) => membership.tenantId === tenantId,
     )).map((user) => ({ id: user.id, loginName: user.loginName,
       role: this.members.get(user.id)!.find((membership) => membership.tenantId === tenantId)!.role }));
+  }
+  async createInvitation(tenantId: string, actorId: string, _invitationId: string,
+                         name: string, role: TenantRole, hash: string, expiresAt: Date) {
+    if (await this.findTenantRole(actorId, tenantId) !== 'TENANT_ADMIN' || this.users.has(name)) return false;
+    this.invitations.set(hash, { tenantId, loginName: name, role, expiresAt, consumed: false });
+    return true;
+  }
+  async isInvitationActive(hash: string) {
+    const invite = this.invitations.get(hash);
+    return !!invite && !invite.consumed && invite.expiresAt > new Date();
+  }
+  async acceptInvitation(hash: string, passwordHash: string): Promise<InvitationAcceptance> {
+    const invite = this.invitations.get(hash);
+    if (!invite || !await this.isInvitationActive(hash)) return 'INVALID';
+    if (this.users.has(invite.loginName)) return 'LOGIN_EXISTS';
+    const userId = randomUUID();
+    this.users.set(invite.loginName, { id: userId, loginName: invite.loginName,
+      passwordHash, enabled: true });
+    this.members.set(userId, [{ tenantId: invite.tenantId, tenantName: 'Beta', role: invite.role }]);
+    invite.consumed = true;
+    return { userId, tenantId: invite.tenantId, loginName: invite.loginName };
   }
 }
 
@@ -112,6 +136,51 @@ test('only tenant admins can create projects and assign current tenant members',
       payload: { role: 'VIEWER' } })).statusCode, 204);
     const visible = await app.inject({ method: 'GET', url: createUrl, headers: alice });
     assert.deepEqual(visible.json().items, [{ id: projectId, name: 'Pump station' }]);
+  } finally {
+    await app.close();
+  }
+});
+
+test('invitation is tenant-admin only, expires, and can create one account once', async () => {
+  const store = new MemoryAuthStore();
+  store.users.set('alice', { id: USER, loginName: 'alice', enabled: true,
+    passwordHash: await hashPassword('correct horse battery staple') });
+  store.users.set('bob', { id: OTHER, loginName: 'bob', enabled: true,
+    passwordHash: await hashPassword('another strong password') });
+  store.members.set(USER, [{ tenantId: ALPHA, tenantName: 'Alpha', role: 'USER' }]);
+  store.members.set(OTHER, [{ tenantId: BETA, tenantName: 'Beta', role: 'TENANT_ADMIN' }]);
+  const app = createApp({ authStore: store });
+  try {
+    const login = async (name: string, password: string) => {
+      const response = await app.inject({ method: 'POST', url: '/api/v1/auth/login',
+        payload: { loginName: name, password } });
+      return { authorization: `Bearer ${response.json().accessToken as string}` };
+    };
+    const alice = await login('alice', 'correct horse battery staple');
+    const bob = await login('bob', 'another strong password');
+    const url = `/api/v1/tenants/${BETA}/invitations`;
+    assert.equal((await app.inject({ method: 'POST', url, headers: alice,
+      payload: { loginName: 'charlie', role: 'USER' } })).statusCode, 404);
+    const invite = await app.inject({ method: 'POST', url, headers: bob,
+      payload: { loginName: 'charlie', role: 'USER' } });
+    assert.equal(invite.statusCode, 201);
+    const invitationToken = invite.json().invitationToken as string;
+    assert.equal(invitationToken.length, 43);
+    const accept = () => app.inject({ method: 'POST', url: '/api/v1/auth/accept-invitation',
+      payload: { invitationToken, password: 'charlies secure password' } });
+    assert.equal((await accept()).statusCode, 201);
+    assert.equal((await accept()).statusCode, 400);
+    const charlie = await login('charlie', 'charlies secure password');
+    assert.deepEqual((await app.inject({ method: 'GET', url: `/api/v1/tenants/${BETA}/projects`,
+      headers: charlie })).json().items, []);
+    const expired = await app.inject({ method: 'POST', url, headers: bob,
+      payload: { loginName: 'diana', role: 'USER' } });
+    const expiredToken = expired.json().invitationToken as string;
+    for (const entry of store.invitations.values()) {
+      if (entry.loginName === 'diana') entry.expiresAt = new Date(0);
+    }
+    assert.equal((await app.inject({ method: 'POST', url: '/api/v1/auth/accept-invitation',
+      payload: { invitationToken: expiredToken, password: 'dianas secure password' } })).statusCode, 400);
   } finally {
     await app.close();
   }

@@ -4,6 +4,7 @@ import { hashPassword, verifyPassword } from './password.js';
 import type { AuthenticatedUser, AuthStore } from './store.js';
 
 const SESSION_MS = 12 * 60 * 60 * 1000;
+const INVITATION_MS = 24 * 60 * 60 * 1000;
 const UUID_PATTERN = '^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$';
 const dummyHash = hashPassword('not-a-real-user-password');
 const tokenHash = (token: string) => createHash('sha256').update(token).digest('hex');
@@ -124,5 +125,54 @@ export function registerAuthRoutes(app: FastifyInstance, store: AuthStore): void
     if (!members) return reply.code(404).send({ code: 'NOT_FOUND' });
     reply.header('Cache-Control', 'no-store');
     return { items: members };
+  });
+
+  app.post('/api/v1/tenants/:tenantId/invitations', {
+    schema: {
+      params: { type: 'object', required: ['tenantId'], properties: {
+        tenantId: { type: 'string', pattern: UUID_PATTERN },
+      } },
+      body: { type: 'object', additionalProperties: false,
+        required: ['loginName', 'role'], properties: {
+          loginName: { type: 'string', pattern: '^[A-Za-z0-9_.@-]{3,120}$' },
+          role: { type: 'string', enum: ['TENANT_ADMIN', 'USER'] },
+        } },
+    },
+  }, async (request, reply) => {
+    const session = await authenticate(request, store);
+    if (!session) return reply.code(401).send({ code: 'UNAUTHORIZED' });
+    const { tenantId } = request.params as { tenantId: string };
+    const { loginName, role } = request.body as {
+      loginName: string; role: 'TENANT_ADMIN' | 'USER';
+    };
+    const invitationToken = randomBytes(32).toString('base64url');
+    const expiresAt = new Date(Date.now() + INVITATION_MS);
+    const created = await store.createInvitation(tenantId, session.user.id, randomUUID(),
+      loginName, role, tokenHash(invitationToken), expiresAt);
+    if (!created) return reply.code(404).send({ code: 'NOT_FOUND' });
+    reply.header('Cache-Control', 'no-store');
+    return reply.code(201).send({ invitationToken, loginName, role,
+      expiresAt: expiresAt.toISOString() });
+  });
+
+  app.post('/api/v1/auth/accept-invitation', {
+    schema: { body: { type: 'object', additionalProperties: false,
+      required: ['invitationToken', 'password'], properties: {
+        invitationToken: { type: 'string', pattern: '^[A-Za-z0-9_-]{43}$' },
+        password: { type: 'string', minLength: 12, maxLength: 1024 },
+      } } },
+  }, async (request, reply) => {
+    const { invitationToken, password } = request.body as {
+      invitationToken: string; password: string;
+    };
+    const hash = tokenHash(invitationToken);
+    if (!await store.isInvitationActive(hash)) {
+      return reply.code(400).send({ code: 'INVALID_INVITATION' });
+    }
+    const result = await store.acceptInvitation(hash, await hashPassword(password));
+    if (result === 'INVALID') return reply.code(400).send({ code: 'INVALID_INVITATION' });
+    if (result === 'LOGIN_EXISTS') return reply.code(409).send({ code: 'INVITATION_UNAVAILABLE' });
+    reply.header('Cache-Control', 'no-store');
+    return reply.code(201).send(result);
   });
 }

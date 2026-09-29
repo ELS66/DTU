@@ -20,6 +20,12 @@ const newProjectName = ref('');
 const selectedProject = ref('');
 const selectedMember = ref('');
 const selectedRole = ref<ProjectRole>('VIEWER');
+const inviteLoginName = ref('');
+const inviteRole = ref<'TENANT_ADMIN' | 'USER'>('USER');
+const invitationToken = ref('');
+const acceptToken = ref('');
+const acceptPassword = ref('');
+const showAccept = ref(false);
 const busy = ref(false);
 const error = ref('');
 const notice = ref('');
@@ -37,7 +43,8 @@ async function api<T>(path: string, init: RequestInit = {}): Promise<T> {
   });
   if (!response.ok) {
     if (response.status === 401 && token.value) token.value = '';
-    throw new Error(response.status === 401 ? path === '/auth/login'
+    throw new Error(response.status === 400 && path === '/auth/accept-invitation'
+      ? '邀请无效或已过期。' : response.status === 401 ? path === '/auth/login'
       ? '账号或密码不正确。' : '登录已失效，请重新登录。'
       : response.status === 404 ? '无权访问或目标不存在。' : '操作未完成，请稍后重试。');
   }
@@ -71,6 +78,7 @@ async function loadTenantData() {
   const tenantId = selectedTenant.value;
   if (!tenantId) return;
   error.value = '';
+  invitationToken.value = '';
   try {
     const projectResult = await api<{ items: Project[] }>(`/tenants/${tenantId}/projects`);
     if (selectedTenant.value !== tenantId) return;
@@ -123,6 +131,46 @@ async function assignMember() {
   }
 }
 
+async function createInvitation() {
+  if (!selectedTenant.value || !inviteLoginName.value.trim()) return;
+  busy.value = true;
+  error.value = '';
+  notice.value = '';
+  invitationToken.value = '';
+  try {
+    const result = await api<{ invitationToken: string }>(`/tenants/${selectedTenant.value}/invitations`, {
+      method: 'POST', body: JSON.stringify({ loginName: inviteLoginName.value.trim(), role: inviteRole.value }),
+    });
+    invitationToken.value = result.invitationToken;
+    inviteLoginName.value = '';
+    notice.value = '邀请已生成。请通过安全渠道将令牌交给受邀人。';
+  } catch (cause) {
+    error.value = cause instanceof Error ? cause.message : '邀请创建失败。';
+  } finally {
+    busy.value = false;
+  }
+}
+
+async function acceptInvitation() {
+  busy.value = true;
+  error.value = '';
+  notice.value = '';
+  try {
+    const result = await api<{ loginName: string }>('/auth/accept-invitation', {
+      method: 'POST', body: JSON.stringify({ invitationToken: acceptToken.value.trim(), password: acceptPassword.value }),
+    });
+    loginName.value = result.loginName;
+    acceptToken.value = '';
+    acceptPassword.value = '';
+    showAccept.value = false;
+    notice.value = '账号已创建，请登录。';
+  } catch (cause) {
+    error.value = cause instanceof Error ? cause.message : '接受邀请失败。';
+  } finally {
+    busy.value = false;
+  }
+}
+
 async function logout() {
   try { await api<void>('/auth/logout', { method: 'POST' }); } catch { /* clear local session anyway */ }
   token.value = '';
@@ -130,6 +178,7 @@ async function logout() {
   projects.value = [];
   members.value = [];
   selectedTenant.value = '';
+  invitationToken.value = '';
   notice.value = '';
   error.value = '';
 }
@@ -142,14 +191,29 @@ async function logout() {
       <ElAlert v-if="error" class="message" :title="error" type="error" :closable="false" show-icon />
       <ElAlert v-if="notice" class="message" :title="notice" type="success" :closable="false" show-icon />
       <ElCard v-if="!token" class="login-card">
-        <h1>登录平台</h1>
-        <form @submit.prevent="login">
-          <label for="login-name">账号</label>
-          <input id="login-name" v-model="loginName" autocomplete="username" required />
-          <label for="login-password">密码</label>
-          <input id="login-password" v-model="password" type="password" autocomplete="current-password" required />
-          <button type="submit" :disabled="busy">{{ busy ? '登录中…' : '登录' }}</button>
-        </form>
+        <template v-if="!showAccept">
+          <h1>登录平台</h1>
+          <form @submit.prevent="login">
+            <label for="login-name">账号</label>
+            <input id="login-name" v-model="loginName" autocomplete="username" required />
+            <label for="login-password">密码</label>
+            <input id="login-password" v-model="password" type="password" autocomplete="current-password" required />
+            <button type="submit" :disabled="busy">{{ busy ? '登录中…' : '登录' }}</button>
+          </form>
+          <button class="link-button" @click="showAccept = true; error = ''; notice = ''">使用邀请加入</button>
+        </template>
+        <template v-else>
+          <h1>接受邀请</h1>
+          <form @submit.prevent="acceptInvitation">
+            <label for="invite-token">邀请令牌</label>
+            <input id="invite-token" v-model="acceptToken" autocomplete="off" required />
+            <label for="new-password">设置密码</label>
+            <input id="new-password" v-model="acceptPassword" type="password" minlength="12"
+              autocomplete="new-password" required />
+            <button type="submit" :disabled="busy">创建账号</button>
+          </form>
+          <button class="link-button" @click="showAccept = false; error = ''; notice = ''">返回登录</button>
+        </template>
       </ElCard>
       <template v-else>
         <div class="page-title"><div><h1>项目管理</h1><p>查看当前租户的项目与成员授权。</p></div>
@@ -181,6 +245,19 @@ async function logout() {
               </select>
               <button type="submit" :disabled="busy || !selectedProject || !selectedMember">保存权限</button>
             </form></ElCard>
+            <ElCard><h2>邀请成员</h2><form @submit.prevent="createInvitation">
+              <label for="invite-name">新成员账号</label>
+              <input id="invite-name" v-model="inviteLoginName" minlength="3" maxlength="120" required />
+              <label for="invite-role">租户角色</label><select id="invite-role" v-model="inviteRole">
+                <option value="USER">普通用户</option><option value="TENANT_ADMIN">租户管理员</option>
+              </select>
+              <button type="submit" :disabled="busy">生成邀请</button>
+            </form>
+              <div v-if="invitationToken" class="invite-result">
+                <p>邀请令牌仅显示在此处，请及时复制并安全交给受邀人。有效期为 24 小时。</p>
+                <code>{{ invitationToken }}</code>
+              </div>
+            </ElCard>
           </div>
         </template>
       </template>

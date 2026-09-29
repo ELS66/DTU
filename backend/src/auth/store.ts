@@ -30,6 +30,14 @@ export interface TenantMemberSummary {
   role: TenantRole;
 }
 
+export interface AcceptedInvitation {
+  userId: string;
+  tenantId: string;
+  loginName: string;
+}
+
+export type InvitationAcceptance = AcceptedInvitation | 'INVALID' | 'LOGIN_EXISTS';
+
 export interface AuthStore {
   findUserByLogin(loginName: string): Promise<UserRecord | null>;
   createSession(tokenHash: string, userId: string, expiresAt: Date): Promise<void>;
@@ -42,4 +50,8 @@ export interface AuthStore {
   setProjectMember(tenantId: string, projectId: string, actorId: string,
     memberId: string, role: ProjectRole): Promise<boolean>;
   listTenantMembers(tenantId: string, actorId: string): Promise<TenantMemberSummary[] | null>;
+  createInvitation(tenantId: string, actorId: string, invitationId: string,
+    loginName: string, role: TenantRole, tokenHash: string, expiresAt: Date): Promise<boolean>;
+  isInvitationActive(tokenHash: string): Promise<boolean>;
+  acceptInvitation(tokenHash: string, passwordHash: string): Promise<InvitationAcceptance>;
 }

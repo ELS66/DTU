@@ -1,5 +1,6 @@
 import type { Pool } from 'pg';
-import type { AuthStore, AuthenticatedUser, Membership, ProjectRole, ProjectSummary, TenantMemberSummary, TenantRole, UserRecord } from './store.js';
+import { randomUUID } from 'node:crypto';
+import type { AuthStore, AuthenticatedUser, InvitationAcceptance, Membership, ProjectRole, ProjectSummary, TenantMemberSummary, TenantRole, UserRecord } from './store.js';
 
 export class PostgresAuthStore implements AuthStore {
   constructor(private readonly pool: Pool) {}
@@ -112,5 +113,65 @@ export class PostgresAuthStore implements AuthStore {
     );
     return result.rows.length ? result.rows.map((row) => ({ id: row.id,
       loginName: row.login_name, role: row.role })) : null;
+  }
+
+  async createInvitation(tenantId: string, actorId: string, invitationId: string,
+                         loginName: string, role: TenantRole, tokenHash: string,
+                         expiresAt: Date): Promise<boolean> {
+    const result = await this.pool.query(
+      `INSERT INTO tenant_invitation
+         (id, tenant_id, login_name, role, token_hash, invited_by, expires_at)
+       SELECT $3, actor.tenant_id, $4, $5, $6, actor.user_id, $7
+       FROM tenant_member actor
+       WHERE actor.tenant_id = $1 AND actor.user_id = $2 AND actor.role = 'TENANT_ADMIN'
+         AND NOT EXISTS (SELECT 1 FROM app_user WHERE login_name = $4)
+       RETURNING id`,
+      [tenantId, actorId, invitationId, loginName, role, tokenHash, expiresAt],
+    );
+    return (result.rowCount ?? 0) === 1;
+  }
+
+  async isInvitationActive(tokenHash: string): Promise<boolean> {
+    const result = await this.pool.query<{ active: boolean }>(
+      `SELECT EXISTS(SELECT 1 FROM tenant_invitation WHERE token_hash = $1
+       AND consumed_at IS NULL AND expires_at > now()) AS active`, [tokenHash],
+    );
+    return result.rows[0]?.active ?? false;
+  }
+
+  async acceptInvitation(tokenHash: string, passwordHash: string): Promise<InvitationAcceptance> {
+    const client = await this.pool.connect();
+    try {
+      await client.query('BEGIN');
+      try {
+        const result = await client.query<{
+          id: string; tenant_id: string; login_name: string; role: TenantRole;
+        }>(
+          `SELECT id, tenant_id, login_name, role FROM tenant_invitation
+           WHERE token_hash = $1 AND consumed_at IS NULL AND expires_at > now() FOR UPDATE`,
+          [tokenHash],
+        );
+        const invitation = result.rows[0];
+        if (!invitation) {
+          await client.query('ROLLBACK');
+          return 'INVALID';
+        }
+        const userId = randomUUID();
+        await client.query('INSERT INTO app_user (id, login_name, password_hash) VALUES ($1, $2, $3)',
+          [userId, invitation.login_name, passwordHash]);
+        await client.query('INSERT INTO tenant_member (tenant_id, user_id, role) VALUES ($1, $2, $3)',
+          [invitation.tenant_id, userId, invitation.role]);
+        await client.query('UPDATE tenant_invitation SET consumed_at = now() WHERE id = $1',
+          [invitation.id]);
+        await client.query('COMMIT');
+        return { userId, tenantId: invitation.tenant_id, loginName: invitation.login_name };
+      } catch (error) {
+        await client.query('ROLLBACK');
+        if ((error as { code?: string }).code === '23505') return 'LOGIN_EXISTS';
+        throw error;
+      }
+    } finally {
+      client.release();
+    }
   }
 }

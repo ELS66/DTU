@@ -8,9 +8,9 @@ import { bootstrapTenant } from '../db/bootstrap.js';
 const files = loadMigrations(fileURLToPath(new URL('../../migrations/', import.meta.url)));
 
 test('migration files are consecutive and checksum changes are rejected', () => {
-  assert.deepEqual(files.map((file) => file.version), [1, 2, 3]);
-  assert.equal(pendingMigrations(files, []).length, 3);
-  assert.equal(pendingMigrations(files, files.slice(0, 2)).length, 1);
+  assert.deepEqual(files.map((file) => file.version), [1, 2, 3, 4]);
+  assert.equal(pendingMigrations(files, []).length, 4);
+  assert.equal(pendingMigrations(files, files.slice(0, 2)).length, 2);
   assert.equal(pendingMigrations(files, files).length, 0);
   assert.throws(() => pendingMigrations(files, [{ ...files[0]!, checksum: '0'.repeat(64) }]));
   assert.throws(() => pendingMigrations(files, [files[1]!]));
