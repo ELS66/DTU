@@ -1,4 +1,4 @@
-"""Small deterministic gateway model for protocol tests; no physical I/O or MQTT yet."""
+"""Small deterministic gateway model for protocol tests; no physical I/O."""
 
 from __future__ import annotations
 
