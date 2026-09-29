@@ -13,4 +13,4 @@
 
 当前实际进度与限制见 [第一个迭代进度](docs/sprint-01-progress.md)。
 
-在接口和硬件选型完成前，不把当前骨架视为可上线系统。后端可在 `backend/` 运行 `npm ci`、`npm test` 和 `npm start`；两个前端目录各自运行 `npm ci`、`npm run dev` 或 `npm run build`。数据库迁移及完整业务功能仍在开发。
+在接口和硬件选型完成前，不把当前骨架视为可上线系统。后端使用方法及首批身份接口见 [后端说明](backend/README.md)；两个前端目录各自运行 `npm ci`、`npm run dev` 或 `npm run build`。数据库迁移及完整业务功能仍在开发。
