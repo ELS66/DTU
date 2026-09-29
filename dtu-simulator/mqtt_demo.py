@@ -6,6 +6,7 @@ import time
 from pathlib import Path
 
 from mqtt_transport import MqttGateway
+from retry_policy import TelemetryRetryTimer
 from simulator import GatewaySimulator
 
 
@@ -18,10 +19,9 @@ def main() -> None:
     parser.add_argument("--password")
     parser.add_argument("--ca-file", type=Path)
     parser.add_argument("--sample-interval", type=float, default=5.0)
-    parser.add_argument("--retry-interval", type=float, default=10.0)
     args = parser.parse_args()
-    if args.sample_interval <= 0 or args.retry_interval <= 0:
-        parser.error("intervals must be positive")
+    if args.sample_interval <= 0:
+        parser.error("sample interval must be positive")
     try:
         import paho.mqtt.client as mqtt
     except ImportError as exc:
@@ -47,7 +47,7 @@ def main() -> None:
     client.connect(args.host, args.port, keepalive=60)
     print(f"Simulated gateway {args.gateway_id} connected; awaiting config/set")
     next_sample = time.monotonic() + args.sample_interval
-    next_retry = time.monotonic() + args.retry_interval
+    retry_timer = TelemetryRetryTimer()
     while True:
         client.loop(timeout=1.0)
         now = time.monotonic()
@@ -58,9 +58,8 @@ def main() -> None:
                 except ValueError as exc:
                     print(f"Sample skipped: {exc}")
             next_sample = now + args.sample_interval
-        if now >= next_retry:
+        if retry_timer.due(adapter.gateway.pending, now):
             adapter.resend_pending()
-            next_retry = now + args.retry_interval
 
 
 if __name__ == "__main__":

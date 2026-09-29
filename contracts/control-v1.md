@@ -62,4 +62,6 @@ DTU 检查截止时间、已应用 revision、pointCode、类型与写权限。�
 
 `command/set`、`command/reply`、`config/reply`、`telemetry/ack` 各自的 UTF-8 JSON 载荷上限为 1024 字节，禁止重复字段和额外字段。错误码为 1～64 字符的大写 ASCII，首字符为字母，后续只允许字母、数字和下划线。共享样例与 Python/Node 校验器见 [`control-v1-vector.json`](control-v1-vector.json)、[`control_v1.py`](control_v1.py) 和 `backend/src/protocol/control-messages.ts`。
 
-结构校验用 [JSON Schema](control-v1.schema.json) 提供 `configSet`、`commandSet`、`commandReply`、`configReply` 和 `telemetryAck` 定义。Schema 不能代替重复 JSON 字段与字节长度检查、配置哈希与 pointCode 唯一性、功能码/类型组合、地址加长度边界、时间到期、ACK sequence 上界以及 `APPLIED` 与 appliedRevision 相等性校验；这些仍以 Python/Node 参考实现为准。最大重投递时长、超时和退避仍待定义；C 固件实现尚未完成，因此整个控制契约仍为草案。
+模拟器对未获 STORED ACK 的最早遥测批次使用 2、4、8、16、30 秒退避，之后每 60 秒重发；重连时立即补发。重发保持原 bootId、sequence、revision、采样时间与点值，只设置补传标志。ACK 释放最早批次后，新批次从 2 秒重新计时。此节是开发环境的重试基线，固件离线队列持久化、容量与磨损预算仍需硬件验证。
+
+结构校验用 [JSON Schema](control-v1.schema.json) 提供 `configSet`、`commandSet`、`commandReply`、`configReply` 和 `telemetryAck` 定义。Schema 不能代替重复 JSON 字段与字节长度检查、配置哈希与 pointCode 唯一性、功能码/类型组合、地址加长度边界、时间到期、ACK sequence 上界以及 `APPLIED` 与 appliedRevision 相等性校验；这些仍以 Python/Node 参考实现为准。命令与配置的最大重投递时长、超时和退避仍待定义；C 固件实现尚未完成，因此整个控制契约仍为草案。
