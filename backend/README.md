@@ -17,5 +17,8 @@
 - `POST /api/v1/auth/logout`：撤销当前 token。
 - `GET /api/v1/me`：返回当前账号和租户成员关系。
 - `GET /api/v1/tenants/{tenantId}/projects`：租户管理员可见该租户所有项目；普通用户仅可见自己加入的项目。每次请求从数据库重新核对账号状态和成员关系。
+- `POST /api/v1/tenants/{tenantId}/projects`：租户管理员创建项目。
+- `GET /api/v1/tenants/{tenantId}/members`：租户管理员查看本租户成员。
+- `PUT /api/v1/tenants/{tenantId}/projects/{projectId}/members/{userId}`：租户管理员为本租户成员设置项目角色。数据库语句同时核对操作者、项目和目标成员的租户归属。
 
 `app_user.password_hash` 使用 `scrypt$N$r$p$salt$hash` 格式。当前仅有首个管理员初始化，没有后续用户创建、密码重置、刷新 token、登录限速、审计或完整前端登录流程；这组接口仍属于开发阶段，不应直接作为公开登录服务上线。

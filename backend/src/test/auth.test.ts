@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { test } from 'node:test';
 import { createApp } from '../app.js';
 import { hashPassword, verifyPassword } from '../auth/password.js';
-import type { AuthStore, AuthenticatedUser, Membership, ProjectSummary, TenantRole, UserRecord } from '../auth/store.js';
+import type { AuthStore, AuthenticatedUser, Membership, ProjectRole, ProjectSummary, TenantRole, UserRecord } from '../auth/store.js';
 
 const ALPHA = 'aaaaaaaa-aaaa-4aaa-aaaa-aaaaaaaaaaaa';
 const BETA = 'bbbbbbbb-bbbb-4bbb-bbbb-bbbbbbbbbbbb';
@@ -33,9 +33,34 @@ class MemoryAuthStore implements AuthStore {
   async findTenantRole(userId: string, tenantId: string): Promise<TenantRole | null> {
     return this.members.get(userId)?.find((membership) => membership.tenantId === tenantId)?.role ?? null;
   }
-  async listProjects(tenantId: string, userId: string, role: TenantRole): Promise<ProjectSummary[]> {
+  async listProjects(tenantId: string, userId: string): Promise<ProjectSummary[] | null> {
+    const role = await this.findTenantRole(userId, tenantId);
+    if (!role) return null;
     return (this.projects.get(tenantId) ?? []).filter((project) => role === 'TENANT_ADMIN'
       || project.memberIds.includes(userId)).map(({ id, name }) => ({ id, name }));
+  }
+  async createProject(tenantId: string, actorId: string, projectId: string,
+                      name: string): Promise<ProjectSummary | null> {
+    if (await this.findTenantRole(actorId, tenantId) !== 'TENANT_ADMIN') return null;
+    this.projects.set(tenantId, [...this.projects.get(tenantId) ?? [],
+      { id: projectId, name, memberIds: [] }]);
+    return { id: projectId, name };
+  }
+  async setProjectMember(tenantId: string, projectId: string, actorId: string,
+                         memberId: string, _role: ProjectRole): Promise<boolean> {
+    if (await this.findTenantRole(actorId, tenantId) !== 'TENANT_ADMIN'
+      || !await this.findTenantRole(memberId, tenantId)) return false;
+    const project = this.projects.get(tenantId)?.find((item) => item.id === projectId);
+    if (!project) return false;
+    if (!project.memberIds.includes(memberId)) project.memberIds.push(memberId);
+    return true;
+  }
+  async listTenantMembers(tenantId: string, actorId: string) {
+    if (await this.findTenantRole(actorId, tenantId) !== 'TENANT_ADMIN') return null;
+    return [...this.users.values()].filter((user) => this.members.get(user.id)?.some(
+      (membership) => membership.tenantId === tenantId,
+    )).map((user) => ({ id: user.id, loginName: user.loginName,
+      role: this.members.get(user.id)!.find((membership) => membership.tenantId === tenantId)!.role }));
   }
 }
 
@@ -44,6 +69,52 @@ test('password hashes verify without exposing the original password', async () =
   assert.match(hash, /^scrypt\$/);
   assert.equal(await verifyPassword('strong test password', hash), true);
   assert.equal(await verifyPassword('wrong password', hash), false);
+});
+
+test('only tenant admins can create projects and assign current tenant members', async () => {
+  const store = new MemoryAuthStore();
+  store.users.set('alice', { id: USER, loginName: 'alice', enabled: true,
+    passwordHash: await hashPassword('correct horse battery staple') });
+  store.users.set('bob', { id: OTHER, loginName: 'bob', enabled: true,
+    passwordHash: await hashPassword('another strong password') });
+  store.members.set(USER, [{ tenantId: ALPHA, tenantName: 'Alpha', role: 'USER' }]);
+  store.members.set(OTHER, [{ tenantId: BETA, tenantName: 'Beta', role: 'TENANT_ADMIN' }]);
+  const app = createApp({ authStore: store });
+  try {
+    const login = async (name: string, password: string) => {
+      const response = await app.inject({ method: 'POST', url: '/api/v1/auth/login',
+        payload: { loginName: name, password } });
+      return { authorization: `Bearer ${response.json().accessToken as string}` };
+    };
+    const alice = await login('alice', 'correct horse battery staple');
+    const bob = await login('bob', 'another strong password');
+    const createUrl = `/api/v1/tenants/${BETA}/projects`;
+    assert.equal((await app.inject({ method: 'POST', url: createUrl, headers: alice,
+      payload: { name: 'Forbidden' } })).statusCode, 404);
+    const created = await app.inject({ method: 'POST', url: createUrl, headers: bob,
+      payload: { name: '  Pump station  ' } });
+    assert.equal(created.statusCode, 201);
+    assert.equal(created.json().name, 'Pump station');
+    const projectId = created.json().id as string;
+    const memberUrl = `/api/v1/tenants/${BETA}/projects/${projectId}/members/${USER}`;
+    assert.equal((await app.inject({ method: 'PUT', url: memberUrl, headers: bob,
+      payload: { role: 'VIEWER' } })).statusCode, 404);
+    store.members.set(USER, [...store.members.get(USER)!,
+      { tenantId: BETA, tenantName: 'Beta', role: 'USER' }]);
+    assert.equal((await app.inject({ method: 'PUT', url: memberUrl, headers: alice,
+      payload: { role: 'VIEWER' } })).statusCode, 404);
+    assert.equal((await app.inject({ method: 'GET', url: `/api/v1/tenants/${BETA}/members`,
+      headers: alice })).statusCode, 404);
+    const members = await app.inject({ method: 'GET', url: `/api/v1/tenants/${BETA}/members`, headers: bob });
+    assert.equal(members.statusCode, 200);
+    assert.equal(members.json().items.length, 2);
+    assert.equal((await app.inject({ method: 'PUT', url: memberUrl, headers: bob,
+      payload: { role: 'VIEWER' } })).statusCode, 204);
+    const visible = await app.inject({ method: 'GET', url: createUrl, headers: alice });
+    assert.deepEqual(visible.json().items, [{ id: projectId, name: 'Pump station' }]);
+  } finally {
+    await app.close();
+  }
 });
 
 test('login, tenant isolation, project membership and logout', async () => {

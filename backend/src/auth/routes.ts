@@ -1,9 +1,10 @@
-import { createHash, randomBytes } from 'node:crypto';
+import { createHash, randomBytes, randomUUID } from 'node:crypto';
 import type { FastifyInstance, FastifyRequest } from 'fastify';
 import { hashPassword, verifyPassword } from './password.js';
 import type { AuthenticatedUser, AuthStore } from './store.js';
 
 const SESSION_MS = 12 * 60 * 60 * 1000;
+const UUID_PATTERN = '^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$';
 const dummyHash = hashPassword('not-a-real-user-password');
 const tokenHash = (token: string) => createHash('sha256').update(token).digest('hex');
 
@@ -57,15 +58,71 @@ export function registerAuthRoutes(app: FastifyInstance, store: AuthStore): void
 
   app.get('/api/v1/tenants/:tenantId/projects', {
     schema: { params: { type: 'object', required: ['tenantId'], properties: {
-      tenantId: { type: 'string', pattern: '^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$' },
+      tenantId: { type: 'string', pattern: UUID_PATTERN },
     } } },
   }, async (request, reply) => {
     const session = await authenticate(request, store);
     if (!session) return reply.code(401).send({ code: 'UNAUTHORIZED' });
     const { tenantId } = request.params as { tenantId: string };
-    const role = await store.findTenantRole(session.user.id, tenantId);
-    if (!role) return reply.code(404).send({ code: 'NOT_FOUND' });
+    const projects = await store.listProjects(tenantId, session.user.id);
+    if (!projects) return reply.code(404).send({ code: 'NOT_FOUND' });
     reply.header('Cache-Control', 'no-store');
-    return { items: await store.listProjects(tenantId, session.user.id, role) };
+    return { items: projects };
+  });
+
+  app.post('/api/v1/tenants/:tenantId/projects', {
+    schema: {
+      params: { type: 'object', required: ['tenantId'], properties: {
+        tenantId: { type: 'string', pattern: UUID_PATTERN },
+      } },
+      body: { type: 'object', additionalProperties: false, required: ['name'], properties: {
+        name: { type: 'string', minLength: 1, maxLength: 160 },
+      } },
+    },
+  }, async (request, reply) => {
+    const session = await authenticate(request, store);
+    if (!session) return reply.code(401).send({ code: 'UNAUTHORIZED' });
+    const { tenantId } = request.params as { tenantId: string };
+    const name = (request.body as { name: string }).name.trim();
+    if (!name) return reply.code(400).send({ code: 'INVALID_NAME' });
+    const project = await store.createProject(tenantId, session.user.id, randomUUID(), name);
+    if (!project) return reply.code(404).send({ code: 'NOT_FOUND' });
+    return reply.code(201).send(project);
+  });
+
+  app.put('/api/v1/tenants/:tenantId/projects/:projectId/members/:memberId', {
+    schema: {
+      params: { type: 'object', required: ['tenantId', 'projectId', 'memberId'], properties: {
+        tenantId: { type: 'string', pattern: UUID_PATTERN },
+        projectId: { type: 'string', pattern: UUID_PATTERN },
+        memberId: { type: 'string', pattern: UUID_PATTERN },
+      } },
+      body: { type: 'object', additionalProperties: false, required: ['role'], properties: {
+        role: { type: 'string', enum: ['PROJECT_ADMIN', 'OPERATOR', 'VIEWER'] },
+      } },
+    },
+  }, async (request, reply) => {
+    const session = await authenticate(request, store);
+    if (!session) return reply.code(401).send({ code: 'UNAUTHORIZED' });
+    const { tenantId, projectId, memberId } = request.params as {
+      tenantId: string; projectId: string; memberId: string;
+    };
+    const { role } = request.body as { role: 'PROJECT_ADMIN' | 'OPERATOR' | 'VIEWER' };
+    const changed = await store.setProjectMember(tenantId, projectId, session.user.id, memberId, role);
+    return changed ? reply.code(204).send() : reply.code(404).send({ code: 'NOT_FOUND' });
+  });
+
+  app.get('/api/v1/tenants/:tenantId/members', {
+    schema: { params: { type: 'object', required: ['tenantId'], properties: {
+      tenantId: { type: 'string', pattern: UUID_PATTERN },
+    } } },
+  }, async (request, reply) => {
+    const session = await authenticate(request, store);
+    if (!session) return reply.code(401).send({ code: 'UNAUTHORIZED' });
+    const { tenantId } = request.params as { tenantId: string };
+    const members = await store.listTenantMembers(tenantId, session.user.id);
+    if (!members) return reply.code(404).send({ code: 'NOT_FOUND' });
+    reply.header('Cache-Control', 'no-store');
+    return { items: members };
   });
 }
