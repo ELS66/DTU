@@ -60,4 +60,6 @@ DTU 检查截止时间、已应用 revision、pointCode、类型与写权限。�
 
 上行 `telemetry` 使用二进制协议。服务器将批次写入 inbox 并提交后，回传 `telemetry/ack` JSON：`protocolVersion`、`bootId`、`sequence`、`status`（STORED 或 REJECTED）、`errorCode`。`bootId` 是 16 字节原值的 32 字符小写十六进制；`sequence` 是范围 1～2^63-1 的**十进制字符串**，不能用 JSON number，避免超过 JavaScript 安全整数后丢精度。STORED 的 `errorCode` 必须是 `null`，REJECTED 必须给出错误码。重复的同一批次返回 STORED。DTU 只有收到 STORED 才从离线队列释放该批次。若报文头损坏到无法可信读取 bootId/sequence，服务端记录诊断但不构造猜测身份的 ACK。
 
-`command/set`、`command/reply`、`config/reply`、`telemetry/ack` 各自的 UTF-8 JSON 载荷上限为 1024 字节，禁止重复字段和额外字段。错误码为 1～64 字符的大写 ASCII，首字符为字母，后续只允许字母、数字和下划线。共享样例与 Python/Node 校验器见 [`control-v1-vector.json`](control-v1-vector.json)、[`control_v1.py`](control_v1.py) 和 `backend/src/protocol/control-messages.ts`。最大重投递时长、超时和退避仍待定义；C 固件实现和 JSON Schema 尚未完成，因此整个控制契约仍为草案。
+`command/set`、`command/reply`、`config/reply`、`telemetry/ack` 各自的 UTF-8 JSON 载荷上限为 1024 字节，禁止重复字段和额外字段。错误码为 1～64 字符的大写 ASCII，首字符为字母，后续只允许字母、数字和下划线。共享样例与 Python/Node 校验器见 [`control-v1-vector.json`](control-v1-vector.json)、[`control_v1.py`](control_v1.py) 和 `backend/src/protocol/control-messages.ts`。
+
+结构校验用 [JSON Schema](control-v1.schema.json) 提供 `configSet`、`commandSet`、`commandReply`、`configReply` 和 `telemetryAck` 定义。Schema 不能代替重复 JSON 字段与字节长度检查、配置哈希与 pointCode 唯一性、功能码/类型组合、地址加长度边界、时间到期、ACK sequence 上界以及 `APPLIED` 与 appliedRevision 相等性校验；这些仍以 Python/Node 参考实现为准。最大重投递时长、超时和退避仍待定义；C 固件实现尚未完成，因此整个控制契约仍为草案。

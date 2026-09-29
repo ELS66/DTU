@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "tsc -p tsconfig.json",
-    "test": "npm run build && node --test dist/test/telemetry.test.js dist/test/app.test.js dist/test/config.test.js dist/test/control.test.js",
+    "test": "npm run build && node --test dist/test/telemetry.test.js dist/test/app.test.js dist/test/config.test.js dist/test/control.test.js schema-test.mjs",
     "start": "node dist/main.js"
   },
   "dependencies": {
@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@types/node": "22.15.30",
+    "ajv": "8.17.1",
     "typescript": "5.9.3"
   }
 }

@@ -1,0 +1,133 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$defs": {
+    "uuid": {"type": "string", "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"},
+    "revision": {"type": "integer", "minimum": 1, "maximum": 4294967295},
+    "time": {"type": "integer", "minimum": 1, "maximum": 9007199254740991},
+    "errorCode": {"type": "string", "pattern": "^[A-Z][A-Z0-9_]{0,63}$"},
+    "rawValue": {"anyOf": [
+      {"type": "boolean"},
+      {"type": "integer", "minimum": -2147483648, "maximum": 4294967295},
+      {"type": "number", "minimum": -3.4028234663852886e38, "maximum": 3.4028234663852886e38}
+    ]},
+    "serial": {
+      "type": "object", "additionalProperties": false,
+      "required": ["port", "baudRate", "dataBits", "stopBits", "parity"],
+      "properties": {
+        "port": {"enum": ["RS485", "RS232", "TTL"]},
+        "baudRate": {"type": "integer", "minimum": 1200, "maximum": 115200},
+        "dataBits": {"const": 8}, "stopBits": {"enum": [1, 2]},
+        "parity": {"enum": ["NONE", "EVEN", "ODD"]}
+      }
+    },
+    "readMapping": {
+      "type": "object", "additionalProperties": false,
+      "required": ["function", "address", "count", "intervalMs"],
+      "properties": {
+        "function": {"enum": [1, 2, 3, 4]},
+        "address": {"type": "integer", "minimum": 0, "maximum": 65535},
+        "count": {"enum": [1, 2]},
+        "intervalMs": {"type": "integer", "minimum": 100, "maximum": 3600000}
+      }
+    },
+    "writeMapping": {
+      "type": "object", "additionalProperties": false,
+      "required": ["function", "address"],
+      "properties": {
+        "function": {"enum": [5, 6, 16]},
+        "address": {"type": "integer", "minimum": 0, "maximum": 65535}
+      }
+    },
+    "point": {
+      "type": "object", "additionalProperties": false,
+      "required": ["pointCode", "slaveId", "read", "write", "rawType", "byteOrder"],
+      "properties": {
+        "pointCode": {"type": "integer", "minimum": 1, "maximum": 65535},
+        "slaveId": {"type": "integer", "minimum": 1, "maximum": 247},
+        "read": {"anyOf": [{"$ref": "#/$defs/readMapping"}, {"type": "null"}]},
+        "write": {"anyOf": [{"$ref": "#/$defs/writeMapping"}, {"type": "null"}]},
+        "rawType": {"enum": ["UINT16", "INT16", "UINT32", "INT32", "FLOAT32", "BOOL"]},
+        "byteOrder": {"enum": ["AB", "ABCD", "BADC", "CDAB", "DCBA"]}
+      },
+      "not": {"properties": {"read": {"type": "null"}, "write": {"type": "null"}}},
+      "allOf": [
+        {"if": {"properties": {"rawType": {"enum": ["BOOL", "UINT16", "INT16"]}}}, "then": {"properties": {"byteOrder": {"const": "AB"}}}},
+        {"if": {"properties": {"rawType": {"enum": ["UINT32", "INT32", "FLOAT32"]}}}, "then": {"properties": {"byteOrder": {"enum": ["ABCD", "BADC", "CDAB", "DCBA"]}}}}
+      ]
+    },
+    "configSet": {
+      "type": "object", "additionalProperties": false,
+      "required": ["protocolVersion", "releaseId", "revision", "expiresAt", "contentHash", "serial", "points"],
+      "properties": {
+        "protocolVersion": {"const": 1}, "releaseId": {"$ref": "#/$defs/uuid"},
+        "revision": {"$ref": "#/$defs/revision"}, "expiresAt": {"$ref": "#/$defs/time"},
+        "contentHash": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+        "serial": {"$ref": "#/$defs/serial"},
+        "points": {"type": "array", "minItems": 1, "maxItems": 128, "items": {"$ref": "#/$defs/point"}}
+      }
+    },
+    "commandSet": {
+      "type": "object", "additionalProperties": false,
+      "required": ["protocolVersion", "commandId", "configRevision", "expiresAt", "pointCode", "rawType", "rawValue"],
+      "properties": {
+        "protocolVersion": {"const": 1}, "commandId": {"$ref": "#/$defs/uuid"},
+        "configRevision": {"$ref": "#/$defs/revision"}, "expiresAt": {"$ref": "#/$defs/time"},
+        "pointCode": {"type": "integer", "minimum": 1, "maximum": 65535},
+        "rawType": {"enum": ["UINT16", "INT16", "UINT32", "INT32", "FLOAT32", "BOOL"]},
+        "rawValue": {"$ref": "#/$defs/rawValue"}
+      },
+      "allOf": [
+        {"if": {"properties": {"rawType": {"const": "BOOL"}}}, "then": {"properties": {"rawValue": {"type": "boolean"}}}},
+        {"if": {"properties": {"rawType": {"const": "UINT16"}}}, "then": {"properties": {"rawValue": {"type": "integer", "minimum": 0, "maximum": 65535}}}},
+        {"if": {"properties": {"rawType": {"const": "INT16"}}}, "then": {"properties": {"rawValue": {"type": "integer", "minimum": -32768, "maximum": 32767}}}},
+        {"if": {"properties": {"rawType": {"const": "UINT32"}}}, "then": {"properties": {"rawValue": {"type": "integer", "minimum": 0, "maximum": 4294967295}}}},
+        {"if": {"properties": {"rawType": {"const": "INT32"}}}, "then": {"properties": {"rawValue": {"type": "integer", "minimum": -2147483648, "maximum": 2147483647}}}},
+        {"if": {"properties": {"rawType": {"const": "FLOAT32"}}}, "then": {"properties": {"rawValue": {"type": "number", "minimum": -3.4028234663852886e38, "maximum": 3.4028234663852886e38}}}}
+      ]
+    },
+    "commandReply": {
+      "type": "object", "additionalProperties": false,
+      "required": ["protocolVersion", "commandId", "configRevision", "status", "errorCode", "observedRawValue", "observedAt"],
+      "properties": {
+        "protocolVersion": {"const": 1}, "commandId": {"$ref": "#/$defs/uuid"},
+        "configRevision": {"$ref": "#/$defs/revision"},
+        "status": {"enum": ["RECEIVED", "EXECUTING", "WRITE_ACKED", "VERIFIED", "FAILED", "REJECTED"]},
+        "errorCode": {"anyOf": [{"$ref": "#/$defs/errorCode"}, {"type": "null"}]},
+        "observedRawValue": {"anyOf": [{"$ref": "#/$defs/rawValue"}, {"type": "null"}]},
+        "observedAt": {"anyOf": [{"$ref": "#/$defs/time"}, {"type": "null"}]}
+      },
+      "allOf": [
+        {"if": {"properties": {"status": {"enum": ["FAILED", "REJECTED"]}}}, "then": {"properties": {"errorCode": {"$ref": "#/$defs/errorCode"}}}, "else": {"properties": {"errorCode": {"type": "null"}}}},
+        {"if": {"properties": {"status": {"const": "VERIFIED"}}}, "then": {"properties": {"observedRawValue": {"$ref": "#/$defs/rawValue"}, "observedAt": {"$ref": "#/$defs/time"}}}, "else": {"properties": {"observedRawValue": {"type": "null"}, "observedAt": {"type": "null"}}}}
+      ]
+    },
+    "configReply": {
+      "type": "object", "additionalProperties": false,
+      "required": ["protocolVersion", "releaseId", "revision", "status", "errorCode", "appliedRevision"],
+      "properties": {
+        "protocolVersion": {"const": 1}, "releaseId": {"$ref": "#/$defs/uuid"},
+        "revision": {"$ref": "#/$defs/revision"},
+        "status": {"enum": ["RECEIVED", "APPLIED", "REJECTED"]},
+        "errorCode": {"anyOf": [{"$ref": "#/$defs/errorCode"}, {"type": "null"}]},
+        "appliedRevision": {"type": "integer", "minimum": 0, "maximum": 4294967295}
+      },
+      "if": {"properties": {"status": {"const": "REJECTED"}}},
+      "then": {"properties": {"errorCode": {"$ref": "#/$defs/errorCode"}}},
+      "else": {"properties": {"errorCode": {"type": "null"}}}
+    },
+    "telemetryAck": {
+      "type": "object", "additionalProperties": false,
+      "required": ["protocolVersion", "bootId", "sequence", "status", "errorCode"],
+      "properties": {
+        "protocolVersion": {"const": 1},
+        "bootId": {"type": "string", "pattern": "^[0-9a-f]{32}$"},
+        "sequence": {"type": "string", "pattern": "^[1-9][0-9]{0,18}$"},
+        "status": {"enum": ["STORED", "REJECTED"]},
+        "errorCode": {"anyOf": [{"$ref": "#/$defs/errorCode"}, {"type": "null"}]}
+      },
+      "if": {"properties": {"status": {"const": "REJECTED"}}},
+      "then": {"properties": {"errorCode": {"$ref": "#/$defs/errorCode"}}},
+      "else": {"properties": {"errorCode": {"type": "null"}}}
+    }
+  }
+}
