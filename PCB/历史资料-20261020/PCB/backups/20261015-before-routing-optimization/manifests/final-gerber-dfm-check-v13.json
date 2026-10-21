@@ -1,0 +1,7 @@
+{
+  "silkToMaskMinimumMm": 0.47431699999999927,
+  "holeToHoleMinimumMm": 0.4103286000188738,
+  "allFourCopperLayersPresent": true,
+  "topSmtConnectors": 3,
+  "factoryDfmPassed": false
+}

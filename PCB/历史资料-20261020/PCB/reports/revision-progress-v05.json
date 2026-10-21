@@ -1,0 +1,215 @@
+{
+  "success": true,
+  "result": {
+    "doc": {
+      "documentType": 1,
+      "uuid": "8902a3019bd8d84c",
+      "tabId": "8902a3019bd8d84c@b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5",
+      "parentProjectUuid": "b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5"
+    },
+    "parts": [
+      {
+        "ref": "U9",
+        "device": "c5edd155e1137a26"
+      },
+      {
+        "ref": "Q5",
+        "device": "aafd5be77326f7d5"
+      },
+      {
+        "ref": "Q6",
+        "device": "aafd5be77326f7d5"
+      },
+      {
+        "ref": "U13",
+        "device": "f3bbf2d0ade5527f"
+      },
+      {
+        "ref": "U14",
+        "device": "58216bb5ea7763d1"
+      },
+      {
+        "ref": "D15",
+        "device": "b46ae248fa98e9e3"
+      },
+      {
+        "ref": "D16",
+        "device": "b46ae248fa98e9e3"
+      },
+      {
+        "ref": "D17",
+        "device": "b46ae248fa98e9e3"
+      },
+      {
+        "ref": "U14",
+        "device": "58216bb5ea7763d1"
+      },
+      {
+        "ref": "U14",
+        "device": "58216bb5ea7763d1"
+      },
+      {
+        "ref": "U14",
+        "device": "58216bb5ea7763d1"
+      },
+      {
+        "ref": "R102",
+        "device": "74a427d2801852e2"
+      },
+      {
+        "ref": "R103",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R104",
+        "device": "0954fbb54c18a94f"
+      },
+      {
+        "ref": "R105",
+        "device": "d40c717e86df8968"
+      },
+      {
+        "ref": "C100",
+        "device": "8d950a0235b1c43c"
+      },
+      {
+        "ref": "R108",
+        "device": "74a427d2801852e2"
+      },
+      {
+        "ref": "R109",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R110",
+        "device": "0954fbb54c18a94f"
+      },
+      {
+        "ref": "R111",
+        "device": "d40c717e86df8968"
+      },
+      {
+        "ref": "C101",
+        "device": "8d950a0235b1c43c"
+      },
+      {
+        "ref": "R114",
+        "device": "74a427d2801852e2"
+      },
+      {
+        "ref": "R115",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R116",
+        "device": "0954fbb54c18a94f"
+      },
+      {
+        "ref": "R117",
+        "device": "d40c717e86df8968"
+      },
+      {
+        "ref": "C102",
+        "device": "8d950a0235b1c43c"
+      },
+      {
+        "ref": "R118",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R119",
+        "device": "4191f2733da2d3d1"
+      },
+      {
+        "ref": "R120",
+        "device": "d5f55e4d33fcdd8e"
+      },
+      {
+        "ref": "R121",
+        "device": "4191f2733da2d3d1"
+      },
+      {
+        "ref": "R122",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R123",
+        "device": "4191f2733da2d3d1"
+      },
+      {
+        "ref": "R124",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R125",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R126",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R127",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R128",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R129",
+        "device": "4191f2733da2d3d1"
+      },
+      {
+        "ref": "R130",
+        "device": "5fdc2e7645f69783"
+      },
+      {
+        "ref": "R131",
+        "device": "4191f2733da2d3d1"
+      },
+      {
+        "ref": "C103",
+        "device": "8d950a0235b1c43c"
+      },
+      {
+        "ref": "C104",
+        "device": "8d950a0235b1c43c"
+      },
+      {
+        "ref": "C105",
+        "device": "8d950a0235b1c43c"
+      },
+      {
+        "ref": "Q7",
+        "device": "aafd5be77326f7d5"
+      },
+      {
+        "ref": "R100",
+        "device": "27bc7a70fc6eb8ab"
+      },
+      {
+        "ref": "R101",
+        "device": "d5f55e4d33fcdd8e"
+      },
+      {
+        "ref": "R106",
+        "device": "27bc7a70fc6eb8ab"
+      },
+      {
+        "ref": "R107",
+        "device": "d5f55e4d33fcdd8e"
+      },
+      {
+        "ref": "R112",
+        "device": "27bc7a70fc6eb8ab"
+      },
+      {
+        "ref": "R113",
+        "device": "d5f55e4d33fcdd8e"
+      }
+    ],
+    "wireCount": 129
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

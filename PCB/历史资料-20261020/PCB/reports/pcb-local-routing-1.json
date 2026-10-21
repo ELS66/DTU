@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "result": {
+    "created": [
+      {
+        "net": "MCU_BST",
+        "id": "e1b1439ad42562f3"
+      },
+      {
+        "net": "LTE_BST",
+        "id": "60bf9b073f2e2798"
+      },
+      {
+        "net": "ESP_STRAP26",
+        "id": "8cb9096c22addcdf"
+      },
+      {
+        "net": "ESP_STRAP27",
+        "id": "e4d0a8d13e27d32a"
+      },
+      {
+        "net": "LTE_FB",
+        "id": "0dab1fc61e67edcf"
+      },
+      {
+        "net": "LTE_FB",
+        "id": "886c0c287e2a48ee"
+      },
+      {
+        "net": "LTE_FB",
+        "id": "0fc1cfa577f144b0"
+      },
+      {
+        "net": "POWER_FAULT_N",
+        "id": "b32a9bf57f5c2e03"
+      },
+      {
+        "net": "TTL_5V_FB",
+        "id": "ee77ec293b079896"
+      },
+      {
+        "net": "TTL_5V_FB",
+        "id": "e42deb4cc64f7e7d"
+      },
+      {
+        "net": "TTL_5V_FB",
+        "id": "30bf0d9ad89c98aa"
+      },
+      {
+        "net": "RS485_A",
+        "id": "f32c7a65a488c6c7"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

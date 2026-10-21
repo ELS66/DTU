@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='da9775b4e341e163260ddd9bb097311369dc525f008e7fcc093462a87b61a989')throw Error('Wrong project');await eda.dmt_EditorControl.openDocument('8902a3019bd8d84c');const errors=await eda.sch_Drc.check(true,false,true);return errors;

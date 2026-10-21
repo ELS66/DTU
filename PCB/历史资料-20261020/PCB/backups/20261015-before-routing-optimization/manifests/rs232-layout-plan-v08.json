@@ -1,0 +1,129 @@
+{
+  "placements": [
+    {
+      "ref": "U7",
+      "x": 27,
+      "y": 12,
+      "rotation": 180
+    },
+    {
+      "ref": "C30",
+      "x": 28,
+      "y": 16.8,
+      "rotation": 180
+    },
+    {
+      "ref": "C31",
+      "x": 26.35,
+      "y": 18.5,
+      "rotation": 180
+    },
+    {
+      "ref": "C32",
+      "x": 30.8,
+      "y": 14.6,
+      "rotation": 0
+    },
+    {
+      "ref": "C33",
+      "x": 24.1,
+      "y": 16.35,
+      "rotation": 180
+    },
+    {
+      "ref": "C34",
+      "x": 27,
+      "y": 7.2,
+      "rotation": 0
+    },
+    {
+      "ref": "R102",
+      "x": 38.7,
+      "y": 17,
+      "rotation": 0
+    },
+    {
+      "ref": "R105",
+      "x": 37.8,
+      "y": 20,
+      "rotation": 90
+    },
+    {
+      "ref": "R117",
+      "x": 39.5,
+      "y": 20,
+      "rotation": 90
+    },
+    {
+      "ref": "D17",
+      "x": 40.6,
+      "y": 28.1,
+      "rotation": 90
+    },
+    {
+      "ref": "D7",
+      "x": 41.2,
+      "y": 7,
+      "rotation": 90
+    }
+  ],
+  "deletePolys": [
+    "a289e09558745351",
+    "2e94b2e97d4f97fe",
+    "5e897ba1876361c1",
+    "de5962e386628550",
+    "8cb6fd6dbcfa1338",
+    "576f5f8ebcbd79df",
+    "447e6f48edb88130",
+    "49b14adfe2f8d2c7",
+    "1072c661762d0905",
+    "333ee64694cd195f",
+    "192fcbc1881728da",
+    "d3111e19740c4cc4",
+    "8b0d151177116a12",
+    "d0eb837ff6b8d7ad",
+    "19924212be0ce6be",
+    "8957bb60f7d6c1de",
+    "a5dc5228432f36b5",
+    "02a33fe99ee2cd78",
+    "a575903d413095a0",
+    "884a8e09e9f64c9d",
+    "7dec5e68d5148d05",
+    "df594023e3442f1f",
+    "9e72c7a5c3818aae",
+    "f50de415a20f3863",
+    "adc667fd415c8ade",
+    "100d31b5256d4437",
+    "9815e56a4e0738b4",
+    "7e6de26a8150d743",
+    "470299bb656d1234",
+    "c8d7829fc99e2f6f",
+    "305bbc6bfbc459c4",
+    "b77cae1f6050bc50",
+    "a725ad0ee7b7c460",
+    "815fc4505f49c85a",
+    "b6540adde37f057f",
+    "a57c3000f068ab3e",
+    "e25359d4c59e5ecb"
+  ],
+  "deleteVias": [
+    "0694f3f880e1146b",
+    "61d2aa4c07558b9c",
+    "1ce9eb37c3ce3463",
+    "7dda7f36bb241a50",
+    "49ecba1e1cf74fa8",
+    "b33de1cfaa402926",
+    "ecd7a2df05ef1a34",
+    "641a7823960f58ff",
+    "bd2dae968009d765",
+    "bae79d95dae4b411",
+    "e3728c0d14a415f1",
+    "369db619c9148fcf",
+    "32ef4337796dafda",
+    "86b5a17ce3a35cb2",
+    "19abe9837d72b8d3",
+    "036109ec2d4ccbc9",
+    "33c351a3595ec0ac"
+  ],
+  "padCollisions": []
+}

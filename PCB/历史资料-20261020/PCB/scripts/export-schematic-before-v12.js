@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc')throw Error('Wrong project');const f=await eda.sch_ManufactureData.getNetlistFile('schematic-before-v12','EasyEDA');if(!f)throw Error('No netlist');return {name:f.name,content:await f.text()};

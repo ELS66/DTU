@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "result": {
+    "report": {
+      "lines": 0,
+      "vias": 10,
+      "fills": 0,
+      "pours": 0
+    },
+    "removed": 17,
+    "saved": true
+  },
+  "windowId": "adb71a11-6db8-48c3-8859-f78c7ce85201"
+}

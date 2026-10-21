@@ -1,0 +1,44 @@
+{
+  "reference": "Hirose U.FL legacy catalogue p3 recommended mounting pattern: signal 1.00 x 1.05 mm, inner edge 1.00 mm from connector centre; central area marked no conductive traces.",
+  "signalCopperLocalBoundsMm": [
+    -0.5,
+    0.35,
+    0.5,
+    1.4
+  ],
+  "signalPadShiftLocalYmm": 0.224887,
+  "manufacturerNoTraceAreaTopCopperAreaMm2": 0.0,
+  "factoryModelMetalInPermittedSolderAreaMm2": 0.3300000000000066,
+  "permittedMetalOutsideCopperMm2": 0.0,
+  "permittedMetalOutsideMaskMm2": 0.0,
+  "groundConnectivity": [
+    {
+      "pinCenterMm": [
+        12.6,
+        67.35
+      ],
+      "connectedGroundVias": [
+        "6085135c819a0a52",
+        "fb331bdbbf3ebd23",
+        "c82ab33a1f65480a",
+        "2662308277b0d568"
+      ]
+    },
+    {
+      "pinCenterMm": [
+        15.4,
+        67.35
+      ],
+      "connectedGroundVias": [
+        "6085135c819a0a52",
+        "fb331bdbbf3ebd23",
+        "c82ab33a1f65480a",
+        "2662308277b0d568"
+      ]
+    }
+  ],
+  "factoryDfmFullModelRatioMayRemainFlagged": true,
+  "scope": "A geometric/reference review, not a full simulation of the factory DFM classifier or real reflow process.",
+  "U2AssemblyStillRequired": true,
+  "U2PcbUnchanged": true
+}

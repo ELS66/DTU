@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "result": {
+    "ids": [
+      {
+        "kind": "route",
+        "id": "1860a18c54d822eb"
+      },
+      {
+        "kind": "route",
+        "id": "603dca6ed5d8fe6f"
+      },
+      {
+        "kind": "route",
+        "id": "dfea540ee37e2043"
+      },
+      {
+        "kind": "route",
+        "id": "6ce7c6b5c7e27de0"
+      },
+      {
+        "kind": "route",
+        "id": "815fc4505f49c85a"
+      },
+      {
+        "kind": "route",
+        "id": "a7c397bd1a688af4"
+      },
+      {
+        "kind": "route",
+        "id": "6211faca88553961"
+      },
+      {
+        "kind": "route",
+        "id": "3f661cc85d271d7d"
+      },
+      {
+        "kind": "route",
+        "id": "b6540adde37f057f"
+      },
+      {
+        "kind": "route",
+        "id": "ef30ed2b41e7d71e"
+      },
+      {
+        "kind": "route",
+        "id": "7273712b58014f0a"
+      },
+      {
+        "kind": "route",
+        "id": "2d7264a5e76c7bfe"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

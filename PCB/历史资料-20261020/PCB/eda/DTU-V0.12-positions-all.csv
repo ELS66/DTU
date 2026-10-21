@@ -1,0 +1,160 @@
+﻿Designator,Device,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Pins,Layer,Rotation,SMD,Comment,Value,Type,Supplier,Datasheet
+C1,CL31B106KAHNNNE,C1206,15mm,22.167mm,15mm,22.167mm,13.407mm,22.167mm,2,B,0,Yes,10uF,10uF,,LCSC,https://item.szlcsc.com/datasheet/CL31B106KAHNNNE/15532.html
+C2,CC0603KRX7R9BB104,C0603,9.6mm,22.167mm,9.6mm,22.167mm,8.9mm,22.167mm,2,B,0,Yes,100nF,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C3,CL31B106KAHNNNE,C1206,25.2mm,19.25mm,25.2mm,19.25mm,23.607mm,19.25mm,2,B,0,Yes,10uF,10uF,,LCSC,https://item.szlcsc.com/datasheet/CL31B106KAHNNNE/15532.html
+C4,CL10B222KB8NNNC,C0603,20.4mm,22.167mm,20.4mm,22.167mm,19.7mm,22.167mm,2,B,0,Yes,2.2nF,2.2nF,,LCSC,https://item.szlcsc.com/datasheet/CL10B222KB8NNNC/16715.html
+D1,SS34_C8678,SMA_L4.3-W2.6-LS5.2-RD,5.4mm,12.833mm,5.4mm,12.833mm,5.4mm,10.633mm,2,B,90,Yes,SS34,,,LCSC,https://item.szlcsc.com/datasheet/SS34/9178.html
+D2,SS34_C8678,SMA_L4.3-W2.6-LS5.2-RD,17.4mm,18.667mm,17.4mm,18.667mm,15.2mm,18.667mm,2,B,0,Yes,SS34,,,LCSC,https://item.szlcsc.com/datasheet/SS34/9178.html
+D3,SS34_C8678,SMA_L4.3-W2.6-LS5.2-RD,9mm,18.667mm,9mm,18.667mm,6.8mm,18.667mm,2,B,0,Yes,SS34,,,LCSC,https://item.szlcsc.com/datasheet/SS34/9178.html
+D4,SMBJ12A/54,SMB_L4.6-W3.6-LS5.3-RD,31.2mm,23.917mm,31.2mm,23.917mm,28.839mm,23.917mm,2,B,0,Yes,SMBJ12A/54,,TVS,LCSC,https://item.szlcsc.com/datasheet/SMBJ12A%252F54/2072973.html
+F1,1812L200/16DR,F1812,43.2mm,23.333mm,43.2mm,23.333mm,43.2mm,21.48mm,2,B,90,Yes,1812L200/16DR,,,LCSC,https://item.szlcsc.com/datasheet/1812L200%252F16DR/439021.html
+F2,1812L200/16DR,F1812,54.6mm,17.5mm,54.6mm,17.5mm,54.6mm,15.647mm,2,B,90,Yes,1812L200/16DR,,,LCSC,https://item.szlcsc.com/datasheet/1812L200%252F16DR/439021.html
+F3,1812L200/16DR,F1812,19.2mm,12.25mm,19.2mm,12.25mm,19.2mm,10.397mm,2,B,90,Yes,1812L200/16DR,,,LCSC,https://item.szlcsc.com/datasheet/1812L200%252F16DR/439021.html
+R1,0603WAF2323T5E,R0603,18mm,25.083mm,18mm,25.083mm,17.247mm,25.083mm,2,B,0,Yes,232kΩ,232kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF2323T5E/23640.html
+R2,0603WAF1003T5E,R0603,24.6mm,22.167mm,24.6mm,22.167mm,23.847mm,22.167mm,2,B,0,Yes,100kΩ,100kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html
+R3,0603WAF1004T5E,R0603,13.8mm,25.083mm,13.8mm,25.083mm,13.047mm,25.083mm,2,B,0,Yes,1MΩ,1MΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1004T5E/23662.html
+R4,0603WAF1003T5E,R0603,22.2mm,24.5mm,22.2mm,24.5mm,21.447mm,24.5mm,2,B,0,Yes,100kΩ,100kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html
+R5,0603WAF1871T5E,R0603,30mm,19.25mm,30mm,19.25mm,30mm,18.497mm,2,B,90,Yes,1.87kΩ,1.87kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1871T5E/23577.html
+R6,0603WAF1002T5E,R0603,3.6mm,18.667mm,3.6mm,18.667mm,3.6mm,17.913mm,2,B,90,Yes,10kΩ,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+U3,TPS259470ARPWR,VQFN-10_L2.0-W2.0-P0.45-TL,12.48mm,6.767mm,12.48mm,6.767mm,11.565mm,5.867mm,10,B,0,Yes,TPS259470ARPWR,,,LCSC,https://www.ti.com/cn/lit/ds/symlink/tps25947.pdf
+C10,CL10A105KB8NNNC,C0603,33.568mm,53.982mm,33.568mm,53.982mm,33.568mm,54.682mm,2,B,270,Yes,1uF 16V,1uF,,LCSC,https://item.szlcsc.com/datasheet/CL10A105KB8NNNC/16531.html
+C11,CL31B106KAHNNNE,C1206,30.22mm,58.145mm,30.22mm,58.145mm,31.812mm,58.145mm,2,B,180,Yes,10uF 25V,10uF,,LCSC,https://item.szlcsc.com/datasheet/CL31B106KAHNNNE/15532.html
+C12,CC0603KRX7R9BB104,C0603,32.13mm,55.463mm,32.13mm,55.463mm,32.13mm,56.163mm,2,B,270,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+D18,"PESD5V0U1UL,315",SOD-882_L1.0-W0.6-RD,37.753mm,63.525mm,37.753mm,63.525mm,37.753mm,63.875mm,2,B,270,Yes,"PESD5V0U1UL,315",,ESD,LCSC,https://item.szlcsc.com/datasheet/PESD5V0U1UL%252C315/86574.html
+D19,"PESD5V0U1UL,315",SOD-882_L1.0-W0.6-RD,40.801mm,67.139mm,40.801mm,67.139mm,40.801mm,66.789mm,2,B,90,Yes,"PESD5V0U1UL,315",,ESD,LCSC,https://item.szlcsc.com/datasheet/PESD5V0U1UL%252C315/86574.html
+R10,0603WAF1002T5E,R0603,42mm,54.25mm,42mm,54.25mm,41.247mm,54.25mm,2,B,0,Yes,10k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+R11,0603WAF1002T5E,R0603,46.8mm,48.417mm,46.8mm,48.417mm,46.8mm,47.663mm,2,B,90,Yes,10k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+R12,0603WAF1002T5E,R0603,42mm,43.75mm,42mm,43.75mm,41.247mm,43.75mm,2,B,0,Yes,10k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+R13,0603WAF1002T5E,R0603,46.2mm,45.5mm,46.2mm,45.5mm,45.447mm,45.5mm,2,B,0,Yes,10k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+R14,0603WAF1003T5E,R0603,45mm,42.583mm,45mm,42.583mm,45mm,41.83mm,2,B,90,Yes,100k,100kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html
+R15,0603WAF220JT5E,R0603,31.5mm,40mm,31.5mm,40mm,32.253mm,40mm,2,B,180,Yes,22R,22Ω,厚膜电阻,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+R16,0603WAF220JT5E,R0603,31.5mm,41.27mm,31.5mm,41.27mm,32.253mm,41.27mm,2,B,180,Yes,22R,22Ω,厚膜电阻,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+SW2,SKRPACE010,KEY-SMD_4P-L4.2-W3.2-P2.20-LS4.6,38.4mm,31.5mm,38.4mm,31.5mm,36.3mm,30.425mm,4,B,0,Yes,SKRPACE010,,,LCSC,https://item.szlcsc.com/datasheet/SKRPACE010/151122.html
+SW3,SKRPACE010,KEY-SMD_4P-L4.2-W3.2-P2.20-LS4.6,49.8mm,31.5mm,49.8mm,31.5mm,47.7mm,30.425mm,4,B,0,Yes,SKRPACE010,,,LCSC,https://item.szlcsc.com/datasheet/SKRPACE010/151122.html
+U1,ESP32-C5-WROOM-1U-N8R4_C49308183,COMM-SMD_32P-L21.2-W18.0_ESP32-C5-WROOM-1U,42.78mm,48.971mm,42.78mm,48.971mm,33.903mm,56.506mm,40,T,0,Yes,2.4GHz；5GHz,2.4GHz；5GHz,,LCSC,https://item.szlcsc.com/datasheet/ESP32-C5-WROOM-1U-N8R4/51773997.html
+C80,6SVPC220MV,CAP-SMD_BD6.3-L6.6-W6.6-FD,9.8mm,38mm,9.8mm,38mm,7.13mm,38mm,2,T,0,Yes,6SVPC220MV,220uF,聚合物,LCSC,https://item.szlcsc.com/datasheet/6SVPC220MV/139789.html
+C81,GRM21BR61A226ME44L,C0805,5.7mm,48.196mm,5.7mm,48.196mm,6.7mm,48.196mm,2,B,180,Yes,22uF 10V,22uF,,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200305/C490387_23319AE8C154DEB24C505E6C82A8106A.pdf
+C82,CC0603KRX7R9BB104,C0603,6.901mm,45.629mm,6.901mm,45.629mm,6.901mm,46.33mm,2,B,270,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C83,CL10C101JB8NNNC,C0603,8.34mm,45.629mm,8.34mm,45.629mm,8.34mm,46.33mm,2,B,270,Yes,100pF 50V,100pF,,LCSC,https://item.szlcsc.com/datasheet/CL10C101JB8NNNC/15530.html
+C84,CL10C330JB8NNNC,C0603,8.821mm,48.777mm,8.821mm,48.777mm,8.821mm,48.077mm,2,B,90,Yes,33pF 50V,33pF,,LCSC,https://item.szlcsc.com/datasheet/CL10C330JB8NNNC/2015.html
+D20,"PESD5V0U1UL,315",SOD-882_L1.0-W0.6-RD,18.552mm,63.524mm,18.552mm,63.524mm,18.552mm,63.874mm,2,B,270,Yes,"PESD5V0U1UL,315",,ESD,LCSC,https://item.szlcsc.com/datasheet/PESD5V0U1UL%252C315/86574.html
+D21,"PESD5V0U1UL,315",SOD-882_L1.0-W0.6-RD,21.601mm,63.525mm,21.601mm,63.525mm,21.601mm,63.875mm,2,B,270,Yes,"PESD5V0U1UL,315",,ESD,LCSC,https://item.szlcsc.com/datasheet/PESD5V0U1UL%252C315/86574.html
+R60,0603WAF0000T5E,R0603,21.84mm,56.2mm,21.84mm,56.2mm,21.84mm,55.447mm,2,B,90,Yes,0R,0Ω,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF0000T5E/21903.html
+R61,0603WAF0000T5E,R0603,20.64mm,56.2mm,20.64mm,56.2mm,20.64mm,55.447mm,2,B,90,Yes,0R,0Ω,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF0000T5E/21903.html
+SW4,SKRPACE010,KEY-SMD_4P-L4.2-W3.2-P2.20-LS4.6,25.5mm,61.5mm,25.5mm,61.5mm,23.4mm,60.425mm,4,B,0,Yes,SKRPACE010,,,LCSC,https://item.szlcsc.com/datasheet/SKRPACE010/151122.html
+C50,CL10A105KB8NNNC,C0603,7.5mm,60.15mm,7.5mm,60.15mm,7.5mm,59.45mm,2,T,90,Yes,TUNE DNP,1uF,,LCSC,https://item.szlcsc.com/datasheet/CL10A105KB8NNNC/16531.html
+C51,CL10A105KB8NNNC,C0603,12.8mm,60.6mm,12.8mm,60.6mm,12.1mm,60.6mm,2,T,0,Yes,TUNE DNP,1uF,,LCSC,https://item.szlcsc.com/datasheet/CL10A105KB8NNNC/16531.html
+C52,CC0603KRX7R9BB104,C0603,17.972mm,26.749mm,17.972mm,26.749mm,18.672mm,26.749mm,2,B,180,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C53,CL10C101JB8NNNC,C0603,17.971mm,27.948mm,17.971mm,27.948mm,18.671mm,27.948mm,2,B,180,Yes,1uF 16V,1uF,,LCSC,https://item.szlcsc.com/datasheet/CL10C101JB8NNNC/15530.html
+C54,CL10B103KB8NNNC,C0603,19.341mm,47.093mm,19.341mm,47.093mm,20.041mm,47.093mm,2,B,180,Yes,10nF 50V,10nF,,LCSC,https://item.szlcsc.com/datasheet/CL10B103KB8NNNC/1941.html
+C55,CL10C330JB8NNNC,C0603,17.971mm,31.828mm,17.971mm,31.828mm,18.671mm,31.828mm,2,B,180,Yes,33pF,33pF,,LCSC,https://item.szlcsc.com/datasheet/CL10C330JB8NNNC/2015.html
+D10,"PESD5V0U1UL,315",SOD-882_L1.0-W0.6-RD,13.3mm,62.5mm,13.3mm,62.5mm,12.95mm,62.5mm,2,T,0,Yes,"PESD5V0U1UL,315",,ESD,LCSC,https://item.szlcsc.com/datasheet/PESD5V0U1UL%252C315/86574.html
+D11,"PESD5V0U1UL,315",SOD-882_L1.0-W0.6-RD,20.023mm,30.559mm,20.023mm,30.559mm,19.673mm,30.559mm,2,B,0,Yes,"PESD5V0U1UL,315",,ESD,LCSC,https://item.szlcsc.com/datasheet/PESD5V0U1UL%252C315/86574.html
+D12,"PESD5V0U1UL,315",SOD-882_L1.0-W0.6-RD,20.021mm,29.09mm,20.021mm,29.09mm,19.671mm,29.09mm,2,B,0,Yes,"PESD5V0U1UL,315",,ESD,LCSC,https://item.szlcsc.com/datasheet/PESD5V0U1UL%252C315/86574.html
+D13,"PESD5V0U1UL,315",SOD-882_L1.0-W0.6-RD,18.671mm,33.18mm,18.671mm,33.18mm,18.671mm,32.83mm,2,B,90,Yes,"PESD5V0U1UL,315",,ESD,LCSC,https://item.szlcsc.com/datasheet/PESD5V0U1UL%252C315/86574.html
+J4,SMN-303,SIM-SMD_SMN-303,12mm,27mm,12mm,27mm,5.328mm,20.5mm,11,T,270,Yes,SMN-303,,,LCSC,https://item.szlcsc.com/datasheet/SMN-303/256999.html
+J5,U.FL-R-SMT(10),ANT-SMD_U.FL-R-SMT10,10.8mm,63.5mm,10.8mm,63.5mm,12.2mm,64.15mm,3,T,180,Yes,U.FL-R-SMT(10),6GHz,,LCSC,https://item.szlcsc.com/datasheet/U.FL-R-SMT(10)/432319.html
+R50,0603WAF0000T5E,R0603,9.2mm,60.15mm,9.2mm,60.15mm,9.2mm,59.397mm,2,T,90,Yes,0R,0Ω,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF0000T5E/21903.html
+R51,0603WAF220JT5E,R0603,24.394mm,42.794mm,24.394mm,42.794mm,23.641mm,42.794mm,2,B,0,Yes,22R,22Ω,厚膜电阻,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+R52,0603WAF220JT5E,R0603,23.293mm,43.994mm,23.293mm,43.994mm,22.54mm,43.994mm,2,B,0,Yes,22R,22Ω,厚膜电阻,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+R53,0603WAF220JT5E,R0603,19.087mm,41.993mm,19.087mm,41.993mm,19.84mm,41.993mm,2,B,180,Yes,22R,22Ω,厚膜电阻,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+R54,0603WAF1002T5E,R0603,20.624mm,31.959mm,20.624mm,31.959mm,21.377mm,31.959mm,2,B,180,Yes,10k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+C30,CC0603KRX7R9BB104,C0603,31.8mm,15.75mm,31.8mm,15.75mm,31.1mm,15.75mm,2,B,0,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C31,CC0603KRX7R9BB104,C0603,34.8mm,7mm,34.8mm,7mm,34.8mm,6.3mm,2,B,90,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C32,CC0603KRX7R9BB104,C0603,35.4mm,15.75mm,35.4mm,15.75mm,35.4mm,15.05mm,2,B,90,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C33,CC0603KRX7R9BB104,C0603,31.8mm,13.417mm,31.8mm,13.417mm,31.1mm,13.417mm,2,B,0,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C34,CC0603KRX7R9BB104,C0603,35.4mm,11.667mm,35.4mm,11.667mm,35.4mm,10.967mm,2,B,90,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C35,CC0603KRX7R9BB104,C0603,1.8mm,12.833mm,1.8mm,12.833mm,1.8mm,12.133mm,2,B,90,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C36,CC0603KRX7R9BB104,C0603,48mm,10.5mm,48mm,10.5mm,47.3mm,10.5mm,2,B,0,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C37,CC0603KRX7R9BB104,C0603,48mm,8.167mm,48mm,8.167mm,47.3mm,8.167mm,2,B,0,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C38,CC0603KRX7R9BB104,C0603,48mm,12.833mm,48mm,12.833mm,47.3mm,12.833mm,2,B,0,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+D5,SM712_C127543,SOT-23_L2.9-W1.3-P1.90-LS2.4-BR,37.2mm,2.917mm,37.2mm,2.917mm,38.35mm,3.867mm,3,B,0,Yes,SM712_C127543,,ESD,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20170914/C127543_1505374072386969062.pdf
+D6,SMF7.0CA-TP,SOD-123FL_L2.8-W1.7-LS3.6-BI,17.4mm,1.75mm,17.4mm,1.75mm,15.815mm,1.75mm,2,B,0,Yes,SMF7.0CA-TP,,TVS,LCSC,https://item.szlcsc.com/datasheet/SMF7.0CA-TP/751832.html
+D7,SMF12CA,SOD-123_L2.8-W1.8-LS3.7-BI,31.2mm,10.5mm,31.2mm,10.5mm,32.885mm,10.5mm,2,B,0,Yes,SMF12CA,,TVS,LCSC,https://item.szlcsc.com/datasheet/SMF12CA/381907.html
+D8,PESD5V0S1BA,SOD-323_L1.7-W1.3-LS2.5-BI,22.2mm,1.75mm,22.2mm,1.75mm,20.995mm,1.75mm,2,B,0,Yes,PESD5V0S1BA,,ESD,LCSC,https://item.szlcsc.com/datasheet/PESD5V0S1BA/2973376.html
+D9,PESD5V0S1BA,SOD-323_L1.7-W1.3-LS2.5-BI,24mm,11.667mm,24mm,11.667mm,22.795mm,11.667mm,2,B,0,Yes,PESD5V0S1BA,,ESD,LCSC,https://item.szlcsc.com/datasheet/PESD5V0S1BA/2973376.html
+J1,B4B-PH-K-S(LF)(SN),CONN-TH_B4B-PH-K-S,15.24mm,3.3mm,15.24mm,3.3mm,12.24mm,3.3mm,4,T,180,No,B4B-PH-K-S(LF)(SN),,,LCSC,https://item.szlcsc.com/datasheet/B4B-PH-K-S(LF)(SN)/142627.html
+J2,B4B-PH-K-S(LF)(SN),CONN-TH_B4B-PH-K-S,30mm,3.3mm,30mm,3.3mm,27mm,3.3mm,4,T,180,No,B4B-PH-K-S(LF)(SN),,,LCSC,https://item.szlcsc.com/datasheet/B4B-PH-K-S(LF)(SN)/142627.html
+J3,B4B-PH-K-S(LF)(SN),CONN-TH_B4B-PH-K-S,44.76mm,3.3mm,44.76mm,3.3mm,41.76mm,3.3mm,4,T,180,No,B4B-PH-K-S(LF)(SN),,,LCSC,https://item.szlcsc.com/datasheet/B4B-PH-K-S(LF)(SN)/142627.html
+R30,0603WAF100JT5E,R0603,9.6mm,24.5mm,9.6mm,24.5mm,8.847mm,24.5mm,2,B,0,Yes,10R,10Ω,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF100JT5E/23586.html
+R31,0603WAF100JT5E,R0603,42mm,10.5mm,42mm,10.5mm,42mm,9.747mm,2,B,90,Yes,10R,10Ω,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF100JT5E/23586.html
+R32,0603WAF1200T5E,R0603,43.8mm,7mm,43.8mm,7mm,43.047mm,7mm,2,B,0,Yes,120R DNP,120Ω,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1200T5E/23514.html
+R33,0603WAF1000T5E,R0603,44.4mm,9.917mm,44.4mm,9.917mm,44.4mm,9.163mm,2,B,90,Yes,100R,100Ω,厚膜电阻,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+R34,0603WAF1000T5E,R0603,48mm,5.833mm,48mm,5.833mm,47.247mm,5.833mm,2,B,0,Yes,100R,100Ω,厚膜电阻,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+R35,0603WAF1000T5E,R0603,51.6mm,9.917mm,51.6mm,9.917mm,51.6mm,9.163mm,2,B,90,Yes,100R,100Ω,厚膜电阻,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+R36,0603WAF3300T5E,R0603,52.2mm,12.833mm,52.2mm,12.833mm,51.447mm,12.833mm,2,B,0,Yes,330R,330Ω,厚膜电阻,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+R37,0603WAF1003T5E,R0603,42mm,18.667mm,42mm,18.667mm,41.247mm,18.667mm,2,B,0,Yes,100k,100kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html
+R38,0603WAF1002T5E,R0603,38.4mm,15.75mm,38.4mm,15.75mm,38.4mm,14.997mm,2,B,90,Yes,10k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+R121,0603WAF1003T5E,R0603,47.4mm,15.167mm,47.4mm,15.167mm,46.647mm,15.167mm,2,B,0,Yes,100k,100kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html
+C70,CC0603KRX7R9BB104,C0603,32.968mm,46.503mm,32.968mm,46.503mm,32.268mm,46.503mm,2,B,0,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+Q1,MMBT3904LT1G,SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR,13.64mm,35.468mm,13.64mm,35.468mm,12.405mm,34.518mm,3,B,180,Yes,MMBT3904LT1G,,,LCSC,https://item.szlcsc.com/datasheet/MMBT3904LT1G/82615.html
+Q2,MMBT3904LT1G,SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR,24mm,40.25mm,24mm,40.25mm,23.05mm,41.485mm,3,B,90,Yes,MMBT3904LT1G,,,LCSC,https://item.szlcsc.com/datasheet/MMBT3904LT1G/82615.html
+R70,0603WAF1002T5E,R0603,37.8mm,37.917mm,37.8mm,37.917mm,37.8mm,37.163mm,2,B,90,Yes,10k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+R71,0603WAF1003T5E,R0603,31.2mm,34.417mm,31.2mm,34.417mm,30.447mm,34.417mm,2,B,0,Yes,100k,100kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html
+R72,0603WAF1002T5E,R0603,33.6mm,50.75mm,33.6mm,50.75mm,32.847mm,50.75mm,2,B,0,Yes,10k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+R73,0603WAF1003T5E,R0603,23.4mm,46.083mm,23.4mm,46.083mm,23.4mm,45.33mm,2,B,90,Yes,100k,100kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html
+R82,0603WAF1003T5E,R0603,37.2mm,46.083mm,37.2mm,46.083mm,37.2mm,45.33mm,2,B,90,Yes,100k,100kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html
+R84,0603WAF1001T5E,R0603,18mm,43.167mm,18mm,43.167mm,17.247mm,43.167mm,2,B,0,Yes,1k,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+R85,0603WAF1001T5E,R0603,29.4mm,50.167mm,29.4mm,50.167mm,28.647mm,50.167mm,2,B,0,Yes,1k,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+C106,CC0603KRX7R9BB104,C0603,44.28mm,24.91mm,44.28mm,24.91mm,44.28mm,25.61mm,2,T,270,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C107,CC0603KRX7R9BB104,C0603,58.679mm,18.314mm,58.679mm,18.314mm,58.679mm,17.614mm,2,T,90,Yes,4.7uF 16V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C108,CC0603KRX7R9BB104,C0603,43.781mm,16.393mm,43.781mm,16.393mm,43.781mm,15.693mm,2,T,90,Yes,4.7uF 16V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C109,CL10C101JB8NNNC,C0603,51.062mm,21.408mm,51.062mm,21.408mm,51.062mm,22.108mm,2,T,270,Yes,3.3pF 50V,100pF,,LCSC,https://item.szlcsc.com/datasheet/CL10C101JB8NNNC/15530.html
+C90,CL31B106KAHNNNE,C1206,22.92mm,17.799mm,22.92mm,17.799mm,22.92mm,19.391mm,2,T,270,Yes,10uF 25V,10uF,,LCSC,https://item.szlcsc.com/datasheet/CL31B106KAHNNNE/15532.html
+C91,CC0603KRX7R9BB104,C0603,29.88mm,19.306mm,29.88mm,19.306mm,29.88mm,20.006mm,2,T,270,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C92,CC0603KRX7R9BB104,C0603,25.08mm,15.924mm,25.08mm,15.924mm,25.08mm,16.624mm,2,T,270,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C93,GRM21BR61A226ME44L,C0805,33mm,32.667mm,33mm,32.667mm,33mm,31.667mm,2,T,90,Yes,22uF 10V,22uF,,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200305/C490387_23319AE8C154DEB24C505E6C82A8106A.pdf
+C94,GRM21BR61A226ME44L,C0805,21mm,29.05mm,21mm,29.05mm,21mm,30.05mm,2,T,270,Yes,22uF 10V,22uF,,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200305/C490387_23319AE8C154DEB24C505E6C82A8106A.pdf
+C95,CL10C101JB8NNNC,C0603,32.76mm,17.092mm,32.76mm,17.092mm,32.76mm,16.392mm,2,T,90,Yes,100pF 50V,100pF,,LCSC,https://item.szlcsc.com/datasheet/CL10C101JB8NNNC/15530.html
+C96,CL31B106KAHNNNE,C1206,49.079mm,22.233mm,49.079mm,22.233mm,49.079mm,23.826mm,2,T,270,Yes,10uF 25V,10uF,,LCSC,https://item.szlcsc.com/datasheet/CL31B106KAHNNNE/15532.html
+C97,CC0603KRX7R9BB104,C0603,48.121mm,31.093mm,48.121mm,31.093mm,48.121mm,30.393mm,2,T,90,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C98,GRM21BR61A226ME44L,C0805,57.718mm,26.833mm,57.718mm,26.833mm,57.718mm,27.833mm,2,T,270,Yes,22uF 10V,22uF,,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200305/C490387_23319AE8C154DEB24C505E6C82A8106A.pdf
+C99,GRM21BR61A226ME44L,C0805,57.719mm,31.266mm,57.719mm,31.266mm,57.719mm,30.266mm,2,T,90,Yes,22uF 10V,22uF,,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20200305/C490387_23319AE8C154DEB24C505E6C82A8106A.pdf
+D14,MBR0530,SOD-123FL_L2.7-W1.8-LS3.7-RD,46.343mm,13.942mm,46.343mm,13.942mm,44.608mm,13.942mm,2,T,0,Yes,MBR0530,,,LCSC,https://item.szlcsc.com/datasheet/MBR0530/3419390.html
+L2,NR5040T4R7N,IND-SMD_L4.9-W4.9_NR5040T4R7N,53.4mm,28mm,53.4mm,28mm,51.6mm,28mm,2,T,0,Yes,NR5040T4R7N,4.7uH,-,LCSC,https://item.szlcsc.com/datasheet/NR5040T4R7N/223349.html
+L3,SWPA4020S3R3MT,IND-SMD_L4.0-W4.0_SLW4010S,54.36mm,17.5mm,54.36mm,17.5mm,56.16mm,17.5mm,2,T,180,Yes,SWPA4020S3R3MT,3.3uH,-,LCSC,https://item.szlcsc.com/datasheet/SWPA4020S3R3MT/84588.html
+R90,0603WAF7502T5E,R0603,29.824mm,16.741mm,29.824mm,16.741mm,30.577mm,16.741mm,2,T,180,Yes,75k,75kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF7502T5E/23969.html
+R91,0603WAF2002T5E,R0603,31.32mm,19.021mm,31.32mm,19.021mm,31.32mm,18.268mm,2,T,90,Yes,20k,20kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF2002T5E/4591.html
+R92,0603WAF1002T5E,R0603,50.102mm,17.38mm,50.102mm,17.38mm,50.102mm,16.626mm,2,T,90,Yes,620k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+R93,0603WAF1002T5E,R0603,46.079mm,19.893mm,46.079mm,19.893mm,46.832mm,19.893mm,2,T,180,Yes,200k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+U11,TPS61040DBVR,SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL,47.04mm,17.15mm,47.04mm,17.15mm,48.194mm,16.2mm,5,T,90,Yes,TPS61040DBVR,,,LCSC,https://www.ti.com/cn/lit/ds/symlink/tps61040.pdf
+U5,AP63203WU-7,TSOT-26_L2.9-W1.6-P0.95-LS2.8-BL,46.2mm,28mm,46.2mm,28mm,45mm,28.95mm,6,T,270,Yes,AP63203WU-7,,,LCSC,https://item.szlcsc.com/datasheet/AP63203WU-7/832852.html
+D30,19-217/R6C-AL1M2VY/3T,LED0603-RD,58.2mm,54.2mm,58.2mm,54.2mm,58.2mm,53.451mm,2,T,90,Yes,19-217/R6C-AL1M2VY/3T,,,LCSC,
+R140,0603WAF1001T5E,R0603,55.8mm,50.75mm,55.8mm,50.75mm,55.047mm,50.75mm,2,B,0,Yes,1kΩ,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+D31,19-217/GHC-YR1S2/3T,LED0603-RD,58.2mm,49.3mm,58.2mm,49.3mm,58.2mm,48.551mm,2,T,90,Yes,19-217/GHC-YR1S2/3T,,,LCSC,
+R141,0603WAF1001T5E,R0603,55.8mm,44.917mm,55.8mm,44.917mm,55.047mm,44.917mm,2,B,0,Yes,1kΩ,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+D32,19-217/BHC-ZL1M2RY/3T,LED0603-FD_BLUE,58.2mm,44.4mm,58.2mm,44.4mm,58.2mm,43.68mm,2,T,90,Yes,19-217/BHC-ZL1M2RY/3T,,,LCSC,https://en.everlight.com/wp-content/plugins/ItemRelationship/product_files/pdf/19-217-BHC-ZL1M2RY-3T.pdf
+R142,0603WAF1001T5E,R0603,55.8mm,38.5mm,55.8mm,38.5mm,55.047mm,38.5mm,2,B,0,Yes,1kΩ,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+D33,19-217/R6C-AL1M2VY/3T,LED0603-RD,1.8mm,54.2mm,1.8mm,54.2mm,1.8mm,53.451mm,2,T,90,Yes,19-217/R6C-AL1M2VY/3T,,,LCSC,
+R143,0603WAF1001T5E,R0603,4.2mm,50.75mm,4.2mm,50.75mm,3.447mm,50.75mm,2,B,0,Yes,1kΩ,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+D34,19-217/GHC-YR1S2/3T,LED0603-RD,1.8mm,49.3mm,1.8mm,49.3mm,1.8mm,48.551mm,2,T,90,Yes,19-217/GHC-YR1S2/3T,,,LCSC,
+R144,0603WAF1001T5E,R0603,4.2mm,44.917mm,4.2mm,44.917mm,3.447mm,44.917mm,2,B,0,Yes,1kΩ,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+D35,19-217/BHC-ZL1M2RY/3T,LED0603-FD_BLUE,1.8mm,44.4mm,1.8mm,44.4mm,1.8mm,43.68mm,2,T,90,Yes,19-217/BHC-ZL1M2RY/3T,,,LCSC,https://en.everlight.com/wp-content/plugins/ItemRelationship/product_files/pdf/19-217-BHC-ZL1M2RY-3T.pdf
+R145,0603WAF1001T5E,R0603,4.2mm,38.5mm,4.2mm,38.5mm,3.447mm,38.5mm,2,B,0,Yes,1kΩ,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+D36,19-217/GHC-YR1S2/3T,LED0603-RD,44mm,35mm,44mm,35mm,43.251mm,35mm,2,T,0,Yes,19-217/GHC-YR1S2/3T,,,LCSC,
+R146,0603WAF1001T5E,R0603,39mm,20.417mm,39mm,20.417mm,39mm,19.663mm,2,B,90,Yes,1kΩ,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+D37,19-217/BHC-ZL1M2RY/3T,LED0603-FD_BLUE,52mm,35mm,52mm,35mm,51.28mm,35mm,2,T,0,Yes,19-217/BHC-ZL1M2RY/3T,,,LCSC,https://en.everlight.com/wp-content/plugins/ItemRelationship/product_files/pdf/19-217-BHC-ZL1M2RY-3T.pdf
+R147,0603WAF1001T5E,R0603,49.8mm,20.417mm,49.8mm,20.417mm,49.047mm,20.417mm,2,B,0,Yes,1kΩ,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+J6,HDR-M_2.54_1x5P,HDR-TH_5P-P2.54-V-M,39.6mm,65.5mm,39.6mm,65.5mm,34.52mm,65.5mm,5,T,0,No,HDR-M_2.54_1x5P,,,,
+J7,HDR-M_2.54_1x5P,HDR-TH_5P-P2.54-V-M,20.4mm,65.5mm,20.4mm,65.5mm,15.32mm,65.5mm,5,T,0,No,HDR-M_2.54_1x5P,,,,
+U8,SN74LVC1T45DCKR,SC-70-6_L2.2-W1.3-P0.65-LS2.2-BR,47.76mm,10.5mm,47.76mm,10.5mm,48.706mm,9.85mm,6,T,0,Yes,SN74LVC1T45DCKR,,,LCSC,https://www.ti.com/cn/lit/ds/symlink/sn74lvc1t45.pdf
+U6,b4cd37efae224338,SO-8_L4.9-W3.9-P1.27-LS6.0-BL,12mm,12.017mm,12mm,12.017mm,14.45mm,13.922mm,8,B,270,Yes,MAX3485ESA+,,收发器,LCSC,https://item.szlcsc.com/datasheet/MAX3485ESA%252B/1636028.html
+U7,05bcc323f9d0680a,TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL,30mm,10.85mm,30mm,10.85mm,32.275mm,13.716mm,16,T,180,Yes,BL13232ETS,,收发器,LCSC,https://item.szlcsc.com/datasheet/BL13232ETS/3475667.html
+U12,db4eb27e630688e5,SC-70-6_L2.2-W1.3-P0.65-LS2.1-BL,42mm,15.75mm,42mm,15.75mm,41.16mm,15.1mm,6,B,90,Yes,SN74LVC1G11DCKR,,,LCSC,https://www.ti.com/cn/lit/ds/symlink/sn74lvc1g11.pdf
+R100,f49e062640243798,R0603,4.3mm,25.083mm,4.3mm,25.083mm,4.3mm,24.33mm,2,B,90,Yes,270R,270Ω,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF2700T5E/23693.html
+R101,f49e062640243798,R0603,5.4mm,22.167mm,5.4mm,22.167mm,4.647mm,22.167mm,2,B,0,Yes,270R,270Ω,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF2700T5E/23693.html
+U2,2848422365a9150d,LCC-LGA-109_L17.7-W15.8-P1.10_MC661,17.04mm,50.295mm,17.04mm,50.295mm,10.44mm,42.795mm,109,T,90,Yes,ML307R-DL,,,LCSC,https://item.szlcsc.com/datasheet/ML307R-DL/51313686.html
+R64,d5f55e4d33fcdd8e,R0603,21mm,42.583mm,21mm,42.583mm,21mm,41.83mm,2,B,90,Yes,1k,1kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1001T5E/21904.html
+R55,5fdc2e7645f69783,R0603,19.288mm,48.293mm,19.288mm,48.293mm,18.535mm,48.293mm,2,B,0,Yes,10k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+C56,e45033b0d865e1bc,C0603,17.971mm,29.289mm,17.971mm,29.289mm,18.671mm,29.289mm,2,B,180,Yes,33pF,33pF,,LCSC,https://item.szlcsc.com/datasheet/CL10C330JB8NNNC/2015.html
+C57,e45033b0d865e1bc,C0603,17.971mm,30.559mm,17.971mm,30.559mm,18.671mm,30.559mm,2,B,180,Yes,33pF,33pF,,LCSC,https://item.szlcsc.com/datasheet/CL10C330JB8NNNC/2015.html
+U10,2a7ea242ee7d1ec0,SC-70-6_L2.2-W1.3-P0.65-LS2.2-BR,33.265mm,48.66mm,33.265mm,48.66mm,32.32mm,48.011mm,6,B,180,Yes,SN74LVC1T45DCKR,,,LCSC,https://www.ti.com/cn/lit/ds/symlink/sn74lvc1t45.pdf
+U13,2a7ea242ee7d1ec0,SC-70-6_L2.2-W1.3-P0.65-LS2.2-BR,29.909mm,47.533mm,29.909mm,47.533mm,29.259mm,48.479mm,6,B,90,Yes,SN74LVC1T45DCKR,,,LCSC,https://www.ti.com/cn/lit/ds/symlink/sn74lvc1t45.pdf
+C71,8d950a0235b1c43c,C0603,35.359mm,45.92mm,35.359mm,45.92mm,35.359mm,46.62mm,2,B,270,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C72,8d950a0235b1c43c,C0603,27.688mm,47.821mm,27.688mm,47.821mm,27.688mm,48.521mm,2,B,270,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+C73,8d950a0235b1c43c,C0603,28.29mm,45.031mm,28.29mm,45.031mm,28.99mm,45.031mm,2,B,180,Yes,100nF 50V,100nF,,LCSC,https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html
+R77,4191f2733da2d3d1,R0603,20.4mm,45.5mm,20.4mm,45.5mm,19.647mm,45.5mm,2,B,0,Yes,100k,100kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html
+R78,5fdc2e7645f69783,R0603,37.2mm,42mm,37.2mm,42mm,37.2mm,41.247mm,2,B,90,Yes,10k,10kΩ,厚膜电阻,LCSC,https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html
+U4,5ff811235bef809e,TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR,27mm,19.017mm,27mm,19.017mm,28.2mm,18.067mm,6,T,0,Yes,AP63300WU-7,,,LCSC,https://item.szlcsc.com/datasheet/AP63300WU-7/2250062.html
+L1,1b5e913a10e322e8,IND-SMD_L8.0-W8.0_1217AS,27.24mm,26.833mm,27.24mm,26.833mm,27.24mm,23.933mm,2,T,90,Yes,SWPA8040S6R8MT,6.8uH,-,LCSC,https://atta.szlcsc.com/upload/public/pdf/source/20231024/317626D2AA2F8AB4113C1875E432E6E1.pdf
+C85,d21bbfa45a9f070c,CAP-SMD_BD6.3-L6.6-W6.6-FD,21mm,37.8mm,21mm,37.8mm,18.33mm,37.8mm,2,T,0,Yes,6SVPC220MV,220uF,聚合物,LCSC,https://item.szlcsc.com/datasheet/6SVPC220MV/139789.html

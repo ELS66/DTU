@@ -1,0 +1,69 @@
+{
+  "success": true,
+  "result": {
+    "0603WAF1503T5E": [
+      {
+        "name": "0603WAF1503T5E",
+        "uuid": "db283e3760f94330ac8590f5100e16e2",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C22807",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF1243T5E": [
+      {
+        "name": "0603WAF1243T5E",
+        "uuid": "3c8629189ed24bb4b101ce049a9be261",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C22788",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF9103T5E": [
+      {
+        "name": "0603WAF9103T5E",
+        "uuid": "2ccb784195c94fe589cfb3316f28211b",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C23263",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF4701T5E": [
+      {
+        "name": "0603WAF4701T5E",
+        "uuid": "0f0661658cdd4f45888ea39caf7e9650",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C23162",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF1002T5E": [
+      {
+        "name": "0603WAF1002T5E",
+        "uuid": "b948db94476e4027ac8953235755ec96",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C25804",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF1003T5E": [
+      {
+        "name": "0603WAF1003T5E",
+        "uuid": "40ff282b3d594c33b798d1707d8406cb",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C25803",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF1001T5E": [
+      {
+        "name": "0603WAF1001T5E",
+        "uuid": "18db11499a04403ba8c98e2f7a687fbc",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C21190",
+        "footprint": "R0603"
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

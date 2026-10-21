@@ -1,0 +1,1 @@
+const lib='52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9';try{return await eda.lib_Device.search('ZX-HY2.0-4PLT_DTU_VERIFIED',lib,undefined,undefined,10,1);}catch(e){return {error:String(e),detail:JSON.stringify(e)};}

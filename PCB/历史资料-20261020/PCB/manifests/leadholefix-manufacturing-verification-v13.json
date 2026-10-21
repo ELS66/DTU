@@ -1,0 +1,61 @@
+{
+  "PCB_DRC": 0,
+  "factoryDfmPassed": false,
+  "movedVias": [
+    {
+      "via": "bd31757caf9c21db",
+      "net": "SIM_VDD",
+      "fromMm": [
+        20.77500036,
+        26.274999519999998
+      ],
+      "toMm": [
+        20.525,
+        26.675
+      ],
+      "modelLeadToHoleGapMm": 0.32503472788513904,
+      "annulusToMaskGapMm": 0.22223595148935912,
+      "holeToMaskGapMm": 0.3470851338161425
+    },
+    {
+      "via": "026b68367e7fffbc",
+      "net": "GND",
+      "fromMm": [
+        27.35000118,
+        40.9250007
+      ],
+      "toMm": [
+        26.7,
+        40.925
+      ],
+      "modelLeadToHoleGapMm": 0.42570954306165876,
+      "annulusToMaskGapMm": 0.1992085100000054,
+      "holeToMaskGapMm": 0.324208260000006
+    }
+  ],
+  "routes": 507,
+  "vias": 306,
+  "drills": 322,
+  "minimumDrillWallGapMm": 0.32737368156270225,
+  "silkToDrillWallMinimumGapMm": 0.2618840000000002,
+  "silkToMaskMinimumGapMm": 0.2890929999999994,
+  "unchangedProductionFilesByBytes": [
+    "Gerber_TopSilkscreenLayer.GTO",
+    "Gerber_BottomSilkscreenLayer.GBO",
+    "Gerber_TopSolderMaskLayer.GTS",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_TopPasteMaskLayer.GTP",
+    "Gerber_BoardOutlineLayer.GKO",
+    "Drill_NPTH_Through.DRL"
+  ],
+  "nativeNonChangedGerberGeometryCompared": true,
+  "changedSourceTypes": {
+    "POURED": 3,
+    "POLY": 7,
+    "VIA": 2
+  },
+  "componentPadNetTextRulesUnchanged": true,
+  "BOMandCPLUnchanged": true,
+  "localModelLimitations": "DFM may use different lead models; four screenshots rows match two locations but factory rerun is required. J4 other ground-lead model has existing ~0.125mm hole clearance, not matched to displayed 0.02mm pairs; remains to confirm.",
+  "independentCopperCheck": "No new conflicts; 2 existing nonedited pair distances about0.151961mm vs helper0.1528mm threshold are retained and nativeDRC0."
+}

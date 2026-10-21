@@ -1,0 +1,366 @@
+{
+  "C265102": {
+    "model": "S4B-PH-SM4-TB(LF)(SN)",
+    "package": "SMD,P=2mm,卧贴"
+  },
+  "C45961": {
+    "model": "PESD5V0F1BL,315",
+    "package": "DFN1006-2(SOD882)"
+  },
+  "C308787": {
+    "model": "UMH9NTN",
+    "package": "SOT-363"
+  },
+  "C544759": {
+    "model": "TLV75901PDRVR",
+    "package": "WSON-6-EP(2x2)"
+  },
+  "C5186957": {
+    "model": "TXU0202DCUR",
+    "package": "VSSOP-8"
+  },
+  "C49308183": {
+    "model": "ESP32-C5-WROOM-1U-N8R4",
+    "package": "SMD,21.2x18mm"
+  },
+  "C2653873": {
+    "model": "TPS25940ARVCR",
+    "package": "WQFN-20-EP(3x4)"
+  },
+  "C210837": {
+    "model": "MF-MSMF200-2",
+    "package": "1812"
+  },
+  "C8678": {
+    "model": "SS34",
+    "package": "SMA(DO-214AC)"
+  },
+  "C1981435": {
+    "model": "SMBJ12A/54",
+    "package": "DO-214AA(SMBJ)"
+  },
+  "C139797": {
+    "model": "SKRPACE010",
+    "package": "SMD-4P,4.2x3.2mm"
+  },
+  "C128504": {
+    "model": "6SVPC220MV",
+    "package": "SMD,D6.3xL6mm"
+  },
+  "C266628": {
+    "model": "SIM-115C",
+    "package": "SMD"
+  },
+  "C434808": {
+    "model": "U.FL-R-SMT(10)",
+    "package": "SMD"
+  },
+  "C85401": {
+    "model": "PESD5V0U1UL,315",
+    "package": "DFN1006-2(SOD-882)"
+  },
+  "C2671345": {
+    "model": "THVD1410DR",
+    "package": "SOIC-8"
+  },
+  "C44383": {
+    "model": "MAX3221IPWR",
+    "package": "TSSOP-16"
+  },
+  "C90755": {
+    "model": "SN74LV4T125PWR",
+    "package": "TSSOP-14"
+  },
+  "C23654": {
+    "model": "SN74LVC1G125DBVR",
+    "package": "SOT-23-5"
+  },
+  "C131334": {
+    "model": "B4B-PH-K-S(LF)(SN)",
+    "package": "插件,P=2mm"
+  },
+  "C127543": {
+    "model": "SM712",
+    "package": "SOT-23"
+  },
+  "C399256": {
+    "model": "SMF12CA",
+    "package": "SOD-123FL"
+  },
+  "C2827694": {
+    "model": "PESD5V0S1BA",
+    "package": "SOD-323"
+  },
+  "C546582": {
+    "model": "74HC139PW,118",
+    "package": "TSSOP-16"
+  },
+  "C54949": {
+    "model": "DSIC02LSGET",
+    "package": "SMD,P=2.54mm"
+  },
+  "C81464": {
+    "model": "MMBT3904LT1G",
+    "package": "SOT-23"
+  },
+  "C1849453": {
+    "model": "SN74AXC4T774PWR",
+    "package": "TSSOP-16"
+  },
+  "C2071868": {
+    "model": "AP63200WU-7",
+    "package": "TSOT-23-6"
+  },
+  "C780769": {
+    "model": "AP63203WU-7",
+    "package": "TSOT-23-6"
+  },
+  "C7722": {
+    "model": "TPS61040DBVR",
+    "package": "SOT-23-5"
+  },
+  "C2983233": {
+    "model": "MBR0530",
+    "package": "SOD-123FL"
+  },
+  "C57254": {
+    "model": "SWPA6045S6R8MT",
+    "package": "SMD,6x6mm"
+  },
+  "C223064": {
+    "model": "NR5040T4R7N",
+    "package": "SMD,4.9x4.9mm"
+  },
+  "C83424": {
+    "model": "SWPA4020S3R3MT",
+    "package": "SMD,4x4mm"
+  },
+  "C546418": {
+    "model": "74AXP4T245PWJ",
+    "package": "TSSOP-16"
+  },
+  "C266888": {
+    "model": "SMN-303",
+    "package": "SMD"
+  },
+  "C6819": {
+    "model": "SN74HC148DR",
+    "package": "SOIC-16"
+  },
+  "C7430196": {
+    "model": "LM339BIPWR",
+    "package": "TSSOP-14"
+  },
+  "C5364063": {
+    "model": "BAT54WSX",
+    "package": "SOD-323"
+  },
+  "C7833": {
+    "model": "SN74LVC1G125DCKR",
+    "package": "SC-70-5"
+  },
+  "C22807": {
+    "model": "0603WAF1503T5E",
+    "package": "0603"
+  },
+  "C25804": {
+    "model": "0603WAF1002T5E",
+    "package": "0603"
+  },
+  "C22788": {
+    "model": "0603WAF1243T5E",
+    "package": "0603"
+  },
+  "C23263": {
+    "model": "0603WAF9103T5E",
+    "package": "0603"
+  },
+  "C23162": {
+    "model": "0603WAF4701T5E",
+    "package": "0603"
+  },
+  "C14663": {
+    "model": "CC0603KRX7R9BB104",
+    "package": "0603"
+  },
+  "C25803": {
+    "model": "0603WAF1003T5E",
+    "package": "0603"
+  },
+  "C21190": {
+    "model": "0603WAF1001T5E",
+    "package": "0603"
+  },
+  "C22809": {
+    "model": "0603WAF1502T5E",
+    "package": "0603"
+  },
+  "C3662799": {
+    "model": "TPS259470ARPWR",
+    "package": "QFN-10(2x2)"
+  },
+  "C22913": {
+    "model": "0603WAF2323T5E",
+    "package": "0603"
+  },
+  "C22935": {
+    "model": "0603WAF1004T5E",
+    "package": "0603"
+  },
+  "C22850": {
+    "model": "0603WAF1871T5E",
+    "package": "0603"
+  },
+  "C14860": {
+    "model": "CL31B106KAHNNNE",
+    "package": "1206"
+  },
+  "C16033": {
+    "model": "CL10B222KB8NNNC",
+    "package": "0603"
+  },
+  "C23345": {
+    "model": "0603WAF220JT5E",
+    "package": "0603"
+  },
+  "C23186": {
+    "model": "0603WAF5101T5E",
+    "package": "0603"
+  },
+  "C15849": {
+    "model": "CL10A105KB8NNNC",
+    "package": "0603"
+  },
+  "C165948": {
+    "model": "TYPE-C-31-M-12",
+    "package": "SMD"
+  },
+  "C441864": {
+    "model": "GRM21BR61A226ME44L",
+    "package": "0805"
+  },
+  "C14858": {
+    "model": "CL10C101JB8NNNC",
+    "package": "0603"
+  },
+  "C1663": {
+    "model": "CL10C330JB8NNNC",
+    "package": "0603"
+  },
+  "C21189": {
+    "model": "0603WAF0000T5E",
+    "package": "0603"
+  },
+  "C1589": {
+    "model": "CL10B103KB8NNNC",
+    "package": "0603"
+  },
+  "C22859": {
+    "model": "0603WAF100JT5E",
+    "package": "0603"
+  },
+  "C22787": {
+    "model": "0603WAF1200T5E",
+    "package": "0603"
+  },
+  "C22775": {
+    "model": "0603WAF1000T5E",
+    "package": "0603"
+  },
+  "C23138": {
+    "model": "0603WAF3300T5E",
+    "package": "0603"
+  },
+  "C23242": {
+    "model": "0603WAF7502T5E",
+    "package": "0603"
+  },
+  "C4184": {
+    "model": "0603WAF2002T5E",
+    "package": "0603"
+  },
+  "C439873": {
+    "model": "1812L200/16DR",
+    "package": "1812"
+  },
+  "C1849398": {
+    "model": "THVD2410DR",
+    "package": "SOIC-8"
+  },
+  "C712347": {
+    "model": "SMF7.0CA-TP",
+    "package": "SOD-123FL"
+  },
+  "C21404": {
+    "model": "SN74LVC2G125DCUR",
+    "package": "VSSOP-8"
+  },
+  "C72044": {
+    "model": "19-217/R6C-AL1M2VY/3T",
+    "package": "0603"
+  },
+  "C72043": {
+    "model": "19-217/GHC-YR1S2/3T",
+    "package": "0603"
+  },
+  "C72041": {
+    "model": "19-217/BHC-ZL1M2RY/3T",
+    "package": "0603"
+  },
+  "C9382": {
+    "model": "SN74LVC1T45DCKR",
+    "package": "SC-70-6"
+  },
+  "C1545222": {
+    "model": "MAX3485ESA+",
+    "package": "SO-8"
+  },
+  "C2999161": {
+    "model": "BL13232ETS",
+    "package": "TSSOP-16"
+  },
+  "C22966": {
+    "model": "0603WAF2700T5E",
+    "package": "0603"
+  },
+  "C529281": {
+    "model": "SN74LVC1G11DCKR",
+    "package": "SC-70-6"
+  },
+  "C48982537": {
+    "model": "ML307R-DL",
+    "package": "SMD,17.7x15.8mm"
+  },
+  "C2158012": {
+    "model": "AP63300WU-7",
+    "package": "TSOT-23-6"
+  },
+  "C97502": {
+    "model": "TPD2EUSB30DRTR",
+    "package": "SOT(9x3)"
+  },
+  "C784821": {
+    "model": "CAY16-103J4LF",
+    "package": "0603x4"
+  },
+  "C840642": {
+    "model": "CAY16-220J4LF",
+    "package": "0603x4"
+  },
+  "C149100": {
+    "model": "CAY16-104J4LF",
+    "package": "0603x4"
+  },
+  "C784824": {
+    "model": "CAY16-102J4LF",
+    "package": "0603x4"
+  },
+  "C83465": {
+    "model": "SWPA8040S6R8MT",
+    "package": "SMD"
+  },
+  "C7429562": {
+    "model": "ZX-HY2.0-4PLT",
+    "package": "SMD,P=2mm"
+  }
+}

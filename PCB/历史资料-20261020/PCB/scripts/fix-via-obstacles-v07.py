@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path('PCB/scripts/plan-fanout-v07.py');s=p.read_text(encoding='utf-8-sig');s=s.replace("sorted(railnames,key=lambda n:n!='GND')","sorted(railnames,key=lambda n:(n!='GND',n))");s=s.replace("obs=obstacles(net,1);allpads=", "obs=obstacles(net,1);viaobs=unary_union([obs]+[t['geom'] for t in tracks if t['net']!=net and t['layer']!=1]);allpads=");s=s.replace("circle.buffer(.17).intersects(obs)","circle.buffer(.17).intersects(viaobs)");p.write_text(s,encoding='utf-8')

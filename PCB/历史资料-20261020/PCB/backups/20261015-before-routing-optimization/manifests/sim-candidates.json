@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "result": [
+    {
+      "uuid": "c063e97519bd4d95bb1703161091689f",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SMN-303",
+      "footprint": "SIM-SMD_SMN-303",
+      "supplierId": "C266888"
+    },
+    {
+      "uuid": "22e08d8d975a4ad0ba156c18f82bf284",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SMN-303-ARP7_1",
+      "footprint": "SIM-SMD_SMN-303-ARP7",
+      "supplierId": "C9900286408"
+    },
+    {
+      "uuid": "45ff96b7cc4642e2a0b8b35e45df36af",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SIM_NANO_SMN-303-ACP7",
+      "footprint": "NANO-SIM-SMD_HYC63-SIM07-137",
+      "supplierId": "C9900022815"
+    },
+    {
+      "uuid": "cce027dfd4954950ac7c1e744e1031b1",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SMN-303S-ACP7",
+      "footprint": "SIM-SMD_SMN-303",
+      "supplierId": "C2895022"
+    },
+    {
+      "uuid": "38bfca35be864162afd50fefd4fcfbef",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SMN-303-ARP7",
+      "footprint": "SIM-SMD_SMN-303-ARP7",
+      "supplierId": "C5137194"
+    }
+  ],
+  "windowId": "8b5d94cc-0e2a-429a-8b5f-a64207bef6f6"
+}

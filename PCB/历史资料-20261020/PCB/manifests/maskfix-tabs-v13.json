@@ -1,0 +1,180 @@
+{
+  "success": true,
+  "result": {
+    "document": {
+      "documentType": 3,
+      "uuid": "4211128ecf040c100b33238447713203",
+      "tabId": "4211128ecf040c100b33238447713203@52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9",
+      "parentProjectUuid": "52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9"
+    },
+    "tree": {
+      "id": "editor-window-main",
+      "tabs": [
+        {
+          "title": "Start Page",
+          "tabId": "tab_page1",
+          "icon": {
+            "iconClassName": "icon-eda-logo"
+          },
+          "tabStyle": {
+            "width": "auto",
+            "minWidth": "76px"
+          },
+          "isAbleDelete": false,
+          "group": "start_blank",
+          "draggable": true,
+          "data": {
+            "doctype": -1
+          },
+          "isDisplayNone": false
+        },
+        {
+          "tabId": "4211128ecf040c100b33238447713203@52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9",
+          "title": "DTU_V0.13_正面贴片_60x70",
+          "icon": {
+            "iconClassName": "icon-eda-pcb icon-color-green"
+          },
+          "draggable": true,
+          "isAbleDelete": true,
+          "notUseI18n": true,
+          "data": {
+            "doctype": 3,
+            "ticket": 147802,
+            "updateTime": 1792027609774,
+            "isProjectLib": false,
+            "real-title": "DTU_V0.13_正面贴片_60x70",
+            "pid": "52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9",
+            "isPartition": false,
+            "_extApiOpenEventPublished": true,
+            "creator": "0c9678a4817f4bfdae4fc75bb046846a",
+            "owner": "0c9678a4817f4bfdae4fc75bb046846a",
+            "drcResult": [
+              {
+                "id": "DRCTab|_|Errors",
+                "title": [
+                  "All",
+                  "(0)"
+                ],
+                "args": {
+                  "iconCls": "icon-eda-eye",
+                  "eyeState": true,
+                  "treeNodeType": "errors"
+                },
+                "children": []
+              }
+            ],
+            "title": "DTU_V0.13_正面贴片_60x70"
+          },
+          "isUnSaved": 0,
+          "isHighLight": false
+        },
+        {
+          "tabId": "8902a3019bd8d84c@52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9",
+          "title": "06_Receive_Merge.DTU_V0.13",
+          "icon": {
+            "iconClassName": "icon-eda-page icon-color-blue"
+          },
+          "draggable": true,
+          "isAbleDelete": true,
+          "notUseI18n": true,
+          "data": {
+            "containerId": "editor-window-main",
+            "doctype": 1,
+            "ticket": 134327,
+            "updateTime": 1791959295423,
+            "data-model-sheet-uuid": "8902a3019bd8d84c",
+            "title": "06_Receive_Merge",
+            "pid": "52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9",
+            "version": "1791959295423",
+            "schematicName": "DTU_V0.13",
+            "data-schematic-uuid": "5a91bce448072d09",
+            "simSchematicName": "",
+            "isBlockSymbolSheet": false,
+            "creator": "0c9678a4817f4bfdae4fc75bb046846a",
+            "owner": "0c9678a4817f4bfdae4fc75bb046846a",
+            "_extApiOpenEventPublished": true,
+            "sch": true
+          },
+          "titleStyle": {}
+        },
+        {
+          "tabId": "80c4e7847cda6643@52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9",
+          "title": "CONN-SMD_4P-P2.00_HY2.0-4P",
+          "icon": {
+            "iconClassName": "icon-eda-footprint theme-symbol-icon-filter"
+          },
+          "draggable": true,
+          "isAbleDelete": true,
+          "notUseI18n": true,
+          "data": {
+            "doctype": 4,
+            "ticket": 148161,
+            "updateTime": 1792030591592,
+            "isProjectLib": false,
+            "real-title": "CONN-SMD_4P-P2.00_HY2.0-4P",
+            "isPartition": false,
+            "_extApiOpenEventPublished": true,
+            "owner": "0c9678a4817f4bfdae4fc75bb046846a"
+          },
+          "isUnSaved": 0,
+          "isHighLight": false
+        },
+        {
+          "tabId": "31c8ed08a1998d0d@52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9",
+          "title": "05_Field_Interfaces.DTU_V0.13",
+          "icon": {
+            "iconClassName": "icon-eda-page icon-color-blue"
+          },
+          "draggable": true,
+          "isAbleDelete": true,
+          "notUseI18n": true,
+          "data": {
+            "containerId": "editor-window-main",
+            "doctype": 1,
+            "ticket": 140579,
+            "updateTime": 1791966504154,
+            "data-model-sheet-uuid": "31c8ed08a1998d0d",
+            "title": "05_Field_Interfaces",
+            "pid": "52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9",
+            "version": "1791966504154",
+            "schematicName": "DTU_V0.13",
+            "data-schematic-uuid": "5a91bce448072d09",
+            "simSchematicName": "",
+            "isBlockSymbolSheet": false,
+            "creator": "0c9678a4817f4bfdae4fc75bb046846a",
+            "owner": "0c9678a4817f4bfdae4fc75bb046846a",
+            "sch": true,
+            "_extApiOpenEventPublished": true
+          },
+          "titleStyle": {},
+          "isUnSaved": false,
+          "isHighLight": false
+        },
+        {
+          "tabId": "0190edb3deceabcd@52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9",
+          "title": "CONN-SMD_4P-P2.00_HY2.0-4P",
+          "icon": {
+            "iconClassName": "icon-eda-footprint theme-symbol-icon-filter"
+          },
+          "draggable": true,
+          "isAbleDelete": true,
+          "notUseI18n": true,
+          "data": {
+            "doctype": 4,
+            "ticket": 148637,
+            "updateTime": 1792031572798,
+            "isProjectLib": false,
+            "real-title": "CONN-SMD_4P-P2.00_HY2.0-4P",
+            "isPartition": false,
+            "_extApiOpenEventPublished": true,
+            "owner": "0c9678a4817f4bfdae4fc75bb046846a"
+          },
+          "isUnSaved": 0,
+          "isHighLight": false
+        }
+      ],
+      "activeTab": "4211128ecf040c100b33238447713203@52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9"
+    }
+  },
+  "windowId": "43e23193-d74d-4207-8c28-ea857cff742c"
+}

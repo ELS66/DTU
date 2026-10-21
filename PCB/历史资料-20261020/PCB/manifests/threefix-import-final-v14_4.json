@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "result": {
+    "imported": {
+      "itemType": "Project",
+      "uuid": "ba912ce2dfad253c22e034fef383544af50374bc5b74a7f6f0299caf191a7a67",
+      "friendlyName": "DTU-V0.14.4-三处修正-60x75",
+      "teamUuid": "0c9678a4817f4bfdae4fc75bb046846a"
+    }
+  },
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

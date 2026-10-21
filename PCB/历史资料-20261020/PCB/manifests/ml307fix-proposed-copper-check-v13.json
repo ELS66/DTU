@@ -1,0 +1,23 @@
+{
+  "conflicts": [
+    {
+      "a": "t380",
+      "b": "t364",
+      "an": "TTL_RX_EXT",
+      "bn": "VDD_3V3",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.151961
+    },
+    {
+      "a": "t381",
+      "b": "t364",
+      "an": "TTL_RX_EXT",
+      "bn": "VDD_3V3",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.151961
+    }
+  ],
+  "minimumClearanceMm": 0.1519607679427344
+}

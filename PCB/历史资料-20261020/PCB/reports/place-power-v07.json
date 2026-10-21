@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "result": {
+    "moved": 26,
+    "removedNets": [
+      "GND",
+      "LTE_BST",
+      "LTE_FB",
+      "LTE_PWR_EN",
+      "LTE_SW",
+      "MCU_BST",
+      "MCU_SW",
+      "TTL_5V_FB",
+      "TTL_BOOST_SW",
+      "VDD_3V3",
+      "VDD_4G",
+      "VDD_5V_IF",
+      "VIN_PROT"
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

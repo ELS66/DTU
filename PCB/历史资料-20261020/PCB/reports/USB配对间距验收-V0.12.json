@@ -1,0 +1,66 @@
+[
+  {
+    "net": "ESP_USB_DP_EXT",
+    "layer": 1,
+    "measuredCenterlineMm": 33.15989138292882,
+    "nearNominal0_4mm": 29.02077196793533,
+    "fartherThan0_8mm": 2.6128548998463375,
+    "maxNearestOppositeCenterMm": 2.085502455789622
+  },
+  {
+    "net": "LTE_USB_DP_EXT",
+    "layer": 1,
+    "measuredCenterlineMm": 5.888279475358005,
+    "nearNominal0_4mm": 2.196218899381053,
+    "fartherThan0_8mm": 2.756561946463255,
+    "maxNearestOppositeCenterMm": 2.086336741486706
+  },
+  {
+    "net": "ESP_USB_DP",
+    "layer": 1,
+    "measuredCenterlineMm": 1.72069057829854,
+    "nearNominal0_4mm": 0,
+    "fartherThan0_8mm": 1.72069057829854,
+    "maxNearestOppositeCenterMm": 2.6011924667507755
+  },
+  {
+    "net": "ESP_USB_DP",
+    "layer": 2,
+    "measuredCenterlineMm": 1.17134258209316,
+    "nearNominal0_4mm": 0,
+    "fartherThan0_8mm": 1.17134258209316,
+    "maxNearestOppositeCenterMm": 2.2766815192475645
+  },
+  {
+    "net": "LTE_USB_DP",
+    "layer": 1,
+    "measuredCenterlineMm": 1.2705166880132925,
+    "nearNominal0_4mm": 0,
+    "fartherThan0_8mm": 1.2705166880132925,
+    "maxNearestOppositeCenterMm": 2.135568296749834
+  },
+  {
+    "net": "LTE_USB_DP",
+    "layer": 2,
+    "measuredCenterlineMm": 1.1913666083131533,
+    "nearNominal0_4mm": 0,
+    "fartherThan0_8mm": 1.1913666083131533,
+    "maxNearestOppositeCenterMm": 2.07745385242744
+  },
+  {
+    "net": "ESP_USB_DP_EXT",
+    "layer": 2,
+    "measuredCenterlineMm": 4.090334450036635,
+    "nearNominal0_4mm": 0,
+    "fartherThan0_8mm": 4.090334450036635,
+    "maxNearestOppositeCenterMm": 2.501117498688982
+  },
+  {
+    "net": "LTE_USB_DP_EXT",
+    "layer": 2,
+    "measuredCenterlineMm": 8.779193833167449,
+    "nearNominal0_4mm": 0,
+    "fartherThan0_8mm": 8.779193833167449,
+    "maxNearestOppositeCenterMm": 2.500000080000003
+  }
+]

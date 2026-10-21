@@ -1,0 +1,1 @@
+const out={};for(const [ref,s]of Object.entries({SW2:"debd27ab112c4cd1ac2e554c30fa6fbb",C80:"76c012e9b7664dbe9c71774ff74fed7e",D14:"8fed2f0c8bfd4b5e880036fccc917ff1"}))out[ref]=await eda.lib_Symbol.getDocumentSource(s,"0819f05c4eef4c71ace90d822a990e87");return out;

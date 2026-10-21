@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-20",
+  "firmwareVersion": "0.5.0-dev",
+  "hardwareRevision": "V0.14.4",
+  "sdkVersion": "5.5.1",
+  "scope": [
+    "Board contact independent from state freshness",
+    "Snapshot cadence, duplicate coalescing and failure retry",
+    "Storage initialization/write health and diagnostics"
+  ],
+  "defaults": {
+    "stateStaleMs": 5000,
+    "contactOfflineMs": 7767,
+    "periodicRecordMs": 10000,
+    "criticalDebounceMs": 250,
+    "minimumCriticalWriteGapMs": 2000,
+    "writeRetryMs": 5000,
+    "lagDiagnosticMs": 15000
+  },
+  "recordCompatibility": {
+    "partitionChanged": false,
+    "recordFormatVersion": 1,
+    "recordBytes": 36,
+    "historyAutomaticallyBecomesLive": false,
+    "historyWrittenBackToBoard": false,
+    "automaticNvsErase": false
+  },
+  "build": {
+    "image": "c5/build/iot_module.bin",
+    "bytes": 987648,
+    "sha256": "8a4ebb1f462d083b96b0c75957a2ad91e66a83ca36b215d995f80ee62cf8d613",
+    "compilerDiagnosticMatches": 0
+  },
+  "softwareVerification": {
+    "productionCoreChecksPassed": 9227,
+    "healthyCountdownSimulationMs": 25000,
+    "panelEventStormSimulationMs": 20000,
+    "observationDuringSaveVerified": true,
+    "retryDoesNotAdvanceSavedRevisionVerified": true,
+    "staleObservationsNotRewrittenVerified": true
+  },
+  "sources": [
+    {
+      "path": "c5/components/module_core/module_runtime_policy.c",
+      "sha256": "672b500c00505441e7fa600fb30e5da780a8217d0bc3edd83f726d7edd18d90d"
+    },
+    {
+      "path": "c5/components/module_core/include/module_runtime_policy.h",
+      "sha256": "38f69f12c32c4643e5b74f8e5369411e4b47fc1864e8ff93ea03db72fa17fad6"
+    },
+    {
+      "path": "c5/main/runtime_store.c",
+      "sha256": "d66784ad6480dab3755fbd817012fe0f3fcc5aaeda31bef36efb5f4cf95d1bae"
+    },
+    {
+      "path": "c5/main/field_bus.c",
+      "sha256": "0101ef616ffeb87ab6d8c27f93b0f5985f845e035d8d708b5ac4decd0bb0ab90"
+    },
+    {
+      "path": "c5/main/diagnostics.c",
+      "sha256": "3a6606ff1140450a904ec55685fadc02b762b94b44bc2feea0e94690577a34fc"
+    }
+  ],
+  "hardwareFlashed": false,
+  "actualNvsFaultInjectionVerified": false,
+  "suddenPowerLossVerified": false,
+  "hardwareTimingVerified": false,
+  "mqttIntegration": "deferred pending user backend documents"
+}

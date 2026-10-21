@@ -1,0 +1,501 @@
+[
+  {
+    "net": "RS485_A_EXT",
+    "accepted": true,
+    "oldVias": 10,
+    "newVias": 6,
+    "oldLengthMm": 49.357,
+    "newLengthMm": 36.337,
+    "groups": 1,
+    "seconds": 8.0
+  },
+  {
+    "net": "RS485_B_EXT",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 14,
+    "seconds": 9.6
+  },
+  {
+    "net": "RS485_A",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 8,
+    "seconds": 5.9
+  },
+  {
+    "net": "ESP_BOOT",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 7,
+    "seconds": 19.5
+  },
+  {
+    "net": "SIM_DATA",
+    "accepted": false,
+    "oldVias": 7,
+    "newVias": 7,
+    "oldLengthMm": 52.827,
+    "newLengthMm": 51.158,
+    "groups": 1,
+    "seconds": 10.6
+  },
+  {
+    "net": "RS485_A_EXT",
+    "accepted": false,
+    "oldVias": 6,
+    "newVias": 6,
+    "oldLengthMm": 36.337,
+    "newLengthMm": 36.307,
+    "groups": 1,
+    "seconds": 7.5
+  },
+  {
+    "net": "TTL_RX_EXT",
+    "accepted": true,
+    "oldVias": 6,
+    "newVias": 2,
+    "oldLengthMm": 51.36,
+    "newLengthMm": 30.438,
+    "groups": 1,
+    "seconds": 5.6
+  },
+  {
+    "net": "ESP_STRAP27",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 5,
+    "seconds": 3.3
+  },
+  {
+    "net": "FIELD_TX",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 5,
+    "seconds": 8.1
+  },
+  {
+    "net": "LED_LTE_R_N",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 5,
+    "seconds": 9.7
+  },
+  {
+    "net": "MCU_485_DE",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 5,
+    "seconds": 16.9
+  },
+  {
+    "net": "MCU_LTE_RX",
+    "accepted": false,
+    "oldVias": 5,
+    "newVias": 2,
+    "oldLengthMm": 28.831,
+    "newLengthMm": 33.767,
+    "groups": 1,
+    "seconds": 4.8
+  },
+  {
+    "net": "RS485_B",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 5,
+    "seconds": 21.1
+  },
+  {
+    "net": "SIM_CLK",
+    "accepted": false,
+    "oldVias": 5,
+    "newVias": 6,
+    "oldLengthMm": 47.718,
+    "newLengthMm": 45.755,
+    "groups": 1,
+    "seconds": 8.0
+  },
+  {
+    "net": "SIM_RST_M",
+    "accepted": true,
+    "oldVias": 5,
+    "newVias": 2,
+    "oldLengthMm": 25.836,
+    "newLengthMm": 26.303,
+    "groups": 1,
+    "seconds": 2.6
+  },
+  {
+    "net": "TTL_TX_EXT",
+    "accepted": true,
+    "oldVias": 5,
+    "newVias": 4,
+    "oldLengthMm": 27.846,
+    "newLengthMm": 25.093,
+    "groups": 1,
+    "seconds": 5.5
+  },
+  {
+    "net": "485_RX_RAW",
+    "accepted": true,
+    "oldVias": 4,
+    "newVias": 3,
+    "oldLengthMm": 23.662,
+    "newLengthMm": 24.541,
+    "groups": 1,
+    "seconds": 5.5
+  },
+  {
+    "net": "LED_RX_N",
+    "accepted": true,
+    "oldVias": 4,
+    "newVias": 2,
+    "oldLengthMm": 10.198,
+    "newLengthMm": 9.118,
+    "groups": 1,
+    "seconds": 2.8
+  },
+  {
+    "net": "LTE_RXD",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 4,
+    "seconds": 10.5
+  },
+  {
+    "net": "RS232_RX_EXT",
+    "accepted": true,
+    "oldVias": 4,
+    "newVias": 2,
+    "oldLengthMm": 18.357,
+    "newLengthMm": 14.717,
+    "groups": 1,
+    "seconds": 4.7
+  },
+  {
+    "net": "RS232_TX_EXT",
+    "accepted": true,
+    "oldVias": 4,
+    "newVias": 2,
+    "oldLengthMm": 22.889,
+    "newLengthMm": 17.029,
+    "groups": 1,
+    "seconds": 4.9
+  },
+  {
+    "net": "SIM_RST",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 4,
+    "seconds": 4.8
+  },
+  {
+    "net": "232_RIN",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 3,
+    "seconds": 2.3
+  },
+  {
+    "net": "232_RX_RAW",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 3,
+    "seconds": 3.6
+  },
+  {
+    "net": "232_TOUT",
+    "accepted": true,
+    "oldVias": 3,
+    "newVias": 2,
+    "oldLengthMm": 7.514,
+    "newLengthMm": 7.271,
+    "groups": 1,
+    "seconds": 3.3
+  },
+  {
+    "net": "ESP_EN",
+    "accepted": true,
+    "oldVias": 3,
+    "newVias": 2,
+    "oldLengthMm": 35.279,
+    "newLengthMm": 37.573,
+    "groups": 1,
+    "seconds": 6.1
+  },
+  {
+    "net": "ESP_STRAP26",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 3,
+    "seconds": 3.5
+  },
+  {
+    "net": "FIELD_RX",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 3,
+    "seconds": 3.6
+  },
+  {
+    "net": "LED_TX_N",
+    "accepted": false,
+    "oldVias": 3,
+    "newVias": 2,
+    "oldLengthMm": 11.953,
+    "newLengthMm": 15.654,
+    "groups": 1,
+    "seconds": 2.5
+  },
+  {
+    "net": "LTE_TXD",
+    "accepted": true,
+    "oldVias": 3,
+    "newVias": 2,
+    "oldLengthMm": 22.184,
+    "newLengthMm": 23.98,
+    "groups": 1,
+    "seconds": 2.5
+  },
+  {
+    "net": "SIM_CLK_M",
+    "accepted": true,
+    "oldVias": 3,
+    "newVias": 2,
+    "oldLengthMm": 28.328,
+    "newLengthMm": 24.779,
+    "groups": 1,
+    "seconds": 2.6
+  },
+  {
+    "net": "LED_ESP_B_A",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 0,
+    "oldLengthMm": 14.567,
+    "newLengthMm": 21.937,
+    "groups": 1,
+    "seconds": 2.4
+  },
+  {
+    "net": "LED_ESP_G_A",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 0,
+    "oldLengthMm": 19.99,
+    "newLengthMm": 24.91,
+    "groups": 1,
+    "seconds": 2.3
+  },
+  {
+    "net": "LED_ESP_G_N",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 2,
+    "seconds": 3.9
+  },
+  {
+    "net": "LED_ESP_R_A",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 2,
+    "oldLengthMm": 22.728,
+    "newLengthMm": 28.041,
+    "groups": 1,
+    "seconds": 3.0
+  },
+  {
+    "net": "LED_LTE_B_A",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 2,
+    "oldLengthMm": 10.882,
+    "newLengthMm": 10.411,
+    "groups": 1,
+    "seconds": 2.6
+  },
+  {
+    "net": "LED_LTE_B_N",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 2,
+    "seconds": 3.3
+  },
+  {
+    "net": "LED_LTE_G_A",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 2,
+    "oldLengthMm": 16.681,
+    "newLengthMm": 16.15,
+    "groups": 1,
+    "seconds": 2.5
+  },
+  {
+    "net": "LED_LTE_G_N",
+    "accepted": true,
+    "oldVias": 2,
+    "newVias": 0,
+    "oldLengthMm": 42.349,
+    "newLengthMm": 48.357,
+    "groups": 1,
+    "seconds": 2.9
+  },
+  {
+    "net": "LED_LTE_R_A",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 2,
+    "oldLengthMm": 22.543,
+    "newLengthMm": 21.89,
+    "groups": 1,
+    "seconds": 2.5
+  },
+  {
+    "net": "LED_RX_A",
+    "accepted": false,
+    "reason": "routing failed",
+    "oldVias": 2,
+    "seconds": 3.3
+  },
+  {
+    "net": "LED_TX_A",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 2,
+    "oldLengthMm": 12.059,
+    "newLengthMm": 11.268,
+    "groups": 1,
+    "seconds": 2.9
+  },
+  {
+    "net": "LTE_BOOT",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 2,
+    "oldLengthMm": 22.46,
+    "newLengthMm": 20.334,
+    "groups": 1,
+    "seconds": 2.3
+  },
+  {
+    "net": "LTE_BOOT_FIXTURE",
+    "accepted": true,
+    "oldVias": 2,
+    "newVias": 1,
+    "oldLengthMm": 31.456,
+    "newLengthMm": 30.071,
+    "groups": 1,
+    "seconds": 2.3
+  },
+  {
+    "net": "LTE_RESET",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 2,
+    "oldLengthMm": 11.064,
+    "newLengthMm": 10.912,
+    "groups": 1,
+    "seconds": 2.3
+  },
+  {
+    "net": "MCU_LTE_TX",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 2,
+    "oldLengthMm": 23.282,
+    "newLengthMm": 26.882,
+    "groups": 1,
+    "seconds": 2.5
+  },
+  {
+    "net": "SIM_DATA_M",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 2,
+    "oldLengthMm": 23.294,
+    "newLengthMm": 20.521,
+    "groups": 1,
+    "seconds": 2.5
+  },
+  {
+    "net": "TTL_RX_BUF",
+    "accepted": false,
+    "oldVias": 2,
+    "newVias": 2,
+    "oldLengthMm": 17.378,
+    "newLengthMm": 15.828,
+    "groups": 1,
+    "seconds": 2.6
+  },
+  {
+    "net": "SIM_DATA",
+    "method": "keep-top-fanout",
+    "accepted": true,
+    "oldVias": 7,
+    "newVias": 5,
+    "oldLengthMm": 52.827,
+    "newLengthMm": 56.252,
+    "seconds": 14.1
+  },
+  {
+    "net": "FIELD_TX",
+    "method": "keep-top-fanout",
+    "accepted": true,
+    "oldVias": 5,
+    "newVias": 4,
+    "oldLengthMm": 48.95,
+    "newLengthMm": 49.766,
+    "seconds": 9.6
+  },
+  {
+    "net": "LED_LTE_R_N",
+    "method": "keep-top-fanout",
+    "accepted": true,
+    "oldVias": 5,
+    "newVias": 3,
+    "oldLengthMm": 70.738,
+    "newLengthMm": 71.983,
+    "seconds": 6.4
+  },
+  {
+    "net": "SIM_RST",
+    "method": "keep-top-fanout",
+    "accepted": true,
+    "oldVias": 4,
+    "newVias": 3,
+    "oldLengthMm": 46.676,
+    "newLengthMm": 46.449,
+    "seconds": 6.6
+  },
+  {
+    "net": "RS485_B_EXT",
+    "method": "keep-top-reduce-trunk-transitions",
+    "accepted": true,
+    "oldVias": 14,
+    "newVias": 7,
+    "oldLengthMm": 60.486,
+    "newLengthMm": 61.704,
+    "seconds": 6.1
+  },
+  {
+    "net": "RS485_A",
+    "method": "keep-top-reduce-trunk-transitions",
+    "accepted": true,
+    "oldVias": 8,
+    "newVias": 2,
+    "oldLengthMm": 46.566,
+    "newLengthMm": 48.551,
+    "seconds": 2.0
+  },
+  {
+    "net": "RS485_B",
+    "method": "keep-top-reduce-trunk-transitions",
+    "accepted": true,
+    "oldVias": 5,
+    "newVias": 3,
+    "oldLengthMm": 52.596,
+    "newLengthMm": 44.261,
+    "seconds": 3.6
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "result": {
+    "changed": [
+      "U12:1",
+      "U7:1",
+      "U8:15"
+    ],
+    "missing": [],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

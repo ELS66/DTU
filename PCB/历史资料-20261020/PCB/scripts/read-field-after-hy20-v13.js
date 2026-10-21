@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='31c8ed08a1998d0d')throw Error('Wrong field');return {source:await eda.sys_FileManager.getDocumentSource()};

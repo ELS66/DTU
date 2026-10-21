@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "result": {
+    "MAX3485ESA": [
+      {
+        "uuid": "77d23898920f4aab81b1ecedfdc005d2",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MAX3485ESA",
+        "footprint": "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+        "supplierId": "C5279039",
+        "manufacturer": "TWGMC(迪嘉)"
+      },
+      {
+        "uuid": "d1337830828348db8628e07a765689b3",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MAX3485ESA-MS",
+        "footprint": "SO-8_L4.9-W3.9-P1.27-LS5.9-BL",
+        "supplierId": "C7434431",
+        "manufacturer": "MSKSEMI(美森科)"
+      },
+      {
+        "uuid": "435ef59db281449f9f7871b07047fbec",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "COSMAX3485ESA",
+        "footprint": "SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL",
+        "supplierId": "C51949446",
+        "manufacturer": "COSINE(科山芯创)"
+      },
+      {
+        "uuid": "2e859ea25de448d5bbf83d6c842083cc",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MAX3485ESA-HXY",
+        "footprint": "SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL",
+        "supplierId": "C7427358",
+        "manufacturer": "HXY MOSFET(华轩阳电子)"
+      },
+      {
+        "uuid": "92e94c6c12364f36970580043d5f88af",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MAX3485ESA+",
+        "footprint": "SO-8_L4.9-W3.9-P1.27-LS6.0-BL",
+        "supplierId": "C1545222",
+        "manufacturer": "ADI(亚德诺)/MAXIM(美信)"
+      }
+    ],
+    "BL13232ETS": [
+      {
+        "uuid": "785967b7477c477bb4c234dc88df5709",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "BL13232ETS",
+        "footprint": "TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL",
+        "supplierId": "C2999161",
+        "manufacturer": "BL(上海贝岭)"
+      },
+      {
+        "uuid": "99ef1a2fbe4449a39d2f4218701b15ae",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "BL13232ETS_C5128657",
+        "footprint": "TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL",
+        "supplierId": "C5128657",
+        "manufacturer": "BL(上海贝岭)"
+      }
+    ],
+    "BAT54WSX": [
+      {
+        "uuid": "8385939f174c45f0a14bd07d6182ad3e",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "BAT54WSX",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.6-RD",
+        "supplierId": "C5364063",
+        "manufacturer": "晶扬电子"
+      }
+    ]
+  },
+  "windowId": "b1faecb9-4fd3-42fc-a7ba-9730a347bfe6"
+}

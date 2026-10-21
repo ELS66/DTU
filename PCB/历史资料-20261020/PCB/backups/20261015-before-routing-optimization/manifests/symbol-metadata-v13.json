@@ -1,0 +1,126 @@
+{
+  "success": true,
+  "result": {
+    "CAY16-102J4LF": {
+      "name": "CAY16-102J4LF",
+      "libraryType": "2",
+      "uuid": "fa04f222e2184fe7ad4598e6d1f96bca",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "排阻"
+      ],
+      "type": 2,
+      "description": "",
+      "subPartNames": [
+        "CAY16-102J4LF.1"
+      ],
+      "otherProperty": {
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "PCB Layer": "Default"
+      }
+    },
+    "CAY16-103J4LF": {
+      "name": "CAY16-103J4LF",
+      "libraryType": "2",
+      "uuid": "8bc583df94514fa4a990f8b3d8046d10",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "排阻"
+      ],
+      "type": 2,
+      "description": "",
+      "subPartNames": [
+        "CAY16-103J4LF.1"
+      ],
+      "otherProperty": {
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "PCB Layer": "Default"
+      }
+    },
+    "CAY16-104J4LF": {
+      "name": "CAY16-104J4LF",
+      "libraryType": "2",
+      "uuid": "5c886904af8c4593a49417f9c8643be7",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "排阻"
+      ],
+      "type": 2,
+      "description": "",
+      "subPartNames": [
+        "CAY16-104J4LF.1"
+      ],
+      "otherProperty": {
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "PCB Layer": "Default"
+      }
+    },
+    "CAY16-220J4LF": {
+      "name": "CAY16-220J4LF",
+      "libraryType": "2",
+      "uuid": "50ccf53498c94ab4a54db3f8db441694",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电阻",
+        "排阻"
+      ],
+      "type": 2,
+      "description": "",
+      "subPartNames": [
+        "CAY16-220J4LF.1"
+      ],
+      "otherProperty": {
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "PCB Layer": "Default"
+      }
+    },
+    "TXU0202DCUR": {
+      "name": "TXU0202DCUR",
+      "libraryType": "2",
+      "uuid": "0f6c7acd020c4dd2b2df64b7ec5ce793",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "逻辑器件",
+        "转换器/电平移位器"
+      ],
+      "type": 2,
+      "description": "",
+      "subPartNames": [
+        "TXU0202DCUR.1"
+      ],
+      "otherProperty": {
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "PCB Layer": "Default"
+      }
+    },
+    "TPD2EUSB30DRTR": {
+      "name": "TPD2EUSB30DRTR",
+      "libraryType": "2",
+      "uuid": "671b57f959cc425f830140506e1d9832",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "三极管/MOS管/晶体管",
+        "静电和浪涌保护(TVS/ESD)"
+      ],
+      "type": 2,
+      "description": "2-Channel ESD Solution for SuperSpeed USB 3.0 Interface 3-SOT-9X3 -40 to 85",
+      "subPartNames": [
+        "TPD2EUSB30DRTR.1"
+      ],
+      "otherProperty": {
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "PCB Layer": "Default"
+      }
+    }
+  },
+  "windowId": "9b81981a-8b48-43e9-841b-e3d0abbe1ec4"
+}

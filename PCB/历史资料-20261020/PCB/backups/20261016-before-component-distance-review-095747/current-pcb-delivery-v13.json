@@ -1,0 +1,101 @@
+{
+  "revision": "V0.13 丝印避孔修正 2026-10-16",
+  "boardMm": [
+    60,
+    70
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 306,
+  "drilledHoles": 322,
+  "pcbDrcIssues": 0,
+  "schematicWarnings": 18,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261016-before-silk-hole-fix-093846",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-Silkholefix.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-Silkholefix-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-丝印避孔修正复查包.zip",
+  "actualCopperManifest": "exposure-fixed-actual-routing-v13.json",
+  "actualSourceSnapshot": "silkholefix-reopened-source-v13.json",
+  "connectors": {
+    "model": "ZX-HY2.0-4PLT",
+    "supplierPart": "C7429562",
+    "signalFixedRowSpacingMm": 3.0
+  },
+  "factoryDfmPassed": false,
+  "files": [
+    {
+      "file": "DTU-V0.13-60x70-Silkholefix.epro2",
+      "bytes": 1129104,
+      "sha256": "5dff9e254b01e5061a816061a4f40224dc507f6795bf1b03aad252e48d407ca0"
+    },
+    {
+      "file": "DTU-V0.13-60x70-Silkholefix-Gerber.zip",
+      "bytes": 143206,
+      "sha256": "2aa60884275926a17d175d69be6da640a7da4c566d37a9990cdfcd6a82d7a033"
+    },
+    {
+      "file": "DTU-V0.13-Silkholefix-BOM-99.csv",
+      "bytes": 3730,
+      "sha256": "bdcac2736e76d6ab56b4ed8c459dcbbcd6d84c36b71f2e1a858672466390ed48"
+    },
+    {
+      "file": "DTU-V0.13-Silkholefix-CPL-99-Top.csv",
+      "bytes": 2529,
+      "sha256": "e2e43b1c199efb60f438391cc81e3ada2d6bbbe1fd2ab71d0ee2863b941d5682"
+    },
+    {
+      "file": "V0.13-精简丝印版接口说明.md",
+      "bytes": 1462,
+      "sha256": "db524e63ed7f417b951728162de89d0208e2fc88534e62a40a8381eb8ae9d6c7"
+    },
+    {
+      "file": "V0.13-丝印避孔修正记录.md",
+      "bytes": 2217,
+      "sha256": "5a45b0be18134350bdcfd061e9a5777f2ac6a55b1ccd87b19560e07027b37910"
+    },
+    {
+      "file": "DTU-V0.13-Silkholefix-README.md",
+      "bytes": 652,
+      "sha256": "230ff7549e3aede1a3944a7825763841ccbe312dc1e457a924b1b628d2d631a6"
+    },
+    {
+      "file": "silkholefix-manufacturing-verification-v13.json",
+      "bytes": 2156,
+      "sha256": "d4d263cffb3789e42d6d951e3d2c05b7e73e1bfa4332f038a9db9ddd31cb522c"
+    },
+    {
+      "file": "DTU-V0.13-Silkholefix-terminal-detail.png",
+      "bytes": 18335,
+      "sha256": "7e15c163a909c0a8469fe6eb8b9d416ec46a50245e612f9123d64319247dfa45"
+    }
+  ],
+  "status": "RS485文字已避开盖油过孔，待厂家DFM重新检查丝印距孔及其他待确认项",
+  "openDfmItems": [
+    "其余PCB/SMT检查分类待取得",
+    "孔环检查：普通过孔0.125mm触发0.15mm阈值，需核对过孔/插件孔分类及重复统计",
+    "四角安装孔已去除残留铜环，待新Gerber重新运行DFM确认",
+    "阻焊桥：R36/R100 原0.060mm已增至0.180mm，待本版重新运行DFM确认。",
+    "开窗露线4项对应两处GND过孔已移位，实际开窗间距约0.274/0.470mm，待新资料重跑DFM。",
+    "原7项焊盘间距中D10及ESP32四项位置已移位修正；余下D9/C33/LTE_BOOT三项维持既有工艺待确认状态。",
+    "丝印：RS485整组文字已避孔；全部322孔检查，丝印距孔最小0.262mm、距开窗0.289mm，待厂家DFM重跑确认。",
+    "元件碰撞：9红全部为J1/J1、J2/J2、J3/J3同位号提示，工程/CPL无重复，模型原因待厂家确认。7黄已定位5组器件，本地本体未见重叠，实际3D装配余量仍待贴装厂确认。"
+  ],
+  "padSpacingReview": "D:\\DTU\\PCB\\docs\\V0.13-焊盘距焊盘提示复核记录.md",
+  "downloadHoleAssemblyReview": "D:\\DTU\\PCB\\docs\\V0.13-下载裸孔装配间距复核.md",
+  "dfmDispositionNotes": [
+    "插件焊盘距贴片焊盘21红22黄全部定位至J6/J7；默认裸孔不装不焊，按装配条件不适用；加装排针须重审。"
+  ],
+  "actualPadManifest": "silkclean-pcb-pads-v13.json",
+  "maskBridgeReview": "D:\\DTU\\PCB\\docs\\V0.13-阻焊桥修正记录.md",
+  "openingClearanceReview": "D:\\DTU\\PCB\\docs\\V0.13-开窗露线四项修正记录.md",
+  "projectUuid": "de280d363d1bdc6eb48b4e11624beec0d326c823aa88a60393f490d052ff1c05",
+  "pcbUuid": "4211128ecf040c100b33238447713203",
+  "nativeWorkspaceDirectory": "D:\\DTU\\PCB\\native-Silkclean",
+  "silkscreenReview": "D:\\DTU\\PCB\\docs\\V0.13-丝印避孔修正记录.md",
+  "interfaceGuide": "D:\\DTU\\PCB\\docs\\V0.13-精简丝印版接口说明.md",
+  "silkscreenVerification": "silkholefix-manufacturing-verification-v13.json",
+  "connectorCollisionReview": "D:\\DTU\\PCB\\docs\\V0.13-端子同位号碰撞复核记录.md",
+  "assemblyWarningReview": "D:\\DTU\\PCB\\docs\\V0.13-七项装配余量预警复核记录.md"
+}

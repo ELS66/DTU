@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-20",
+  "historicalFilesVerified": 5979,
+  "finalFilesVerified": 21,
+  "junctionsPreserved": 2,
+  "hashMismatches": 0,
+  "missingFiles": 0,
+  "pcbGeometryChanged": false,
+  "factoryDfmPassed": false,
+  "finalDirectory": "D:\\DTU\\PCB\\V0.14.4-最终资料",
+  "historyDirectory": "D:\\DTU\\PCB\\历史资料-20261020"
+}

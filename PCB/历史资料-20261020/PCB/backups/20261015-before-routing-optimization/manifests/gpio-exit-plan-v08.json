@@ -1,0 +1,31 @@
+{
+  "placements": [
+    {
+      "ref": "R11",
+      "x": 27.6,
+      "y": 38.5,
+      "rotation": 90
+    },
+    {
+      "ref": "R13",
+      "x": 26.4,
+      "y": 43.2,
+      "rotation": 90
+    }
+  ],
+  "deletePolys": [
+    "e4d0a8d13e27d32a",
+    "6accf4f929a47ae3",
+    "d077d25aace42d09",
+    "5101b2d06414b4b7",
+    "c679dffd22f3a80f",
+    "0267d5f207f97d2c",
+    "3c989a94fda08842",
+    "8fc530f37b3fe41b"
+  ],
+  "deleteVias": [
+    "5cafbec40e68edd6",
+    "5467f2895f70cfb8"
+  ],
+  "padCollisions": []
+}

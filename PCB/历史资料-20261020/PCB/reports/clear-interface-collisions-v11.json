@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "result": {
+    "removed": {
+      "lines": [],
+      "polys": [
+        "f32c7a65a488c6c7",
+        "3946a9ada329e362",
+        "0b990c113136070e",
+        "3c1695c87ca52ceb",
+        "270a68db19e18bd9"
+      ],
+      "vias": [
+        "88b831946a2f6ab7",
+        "08671b3106b2b7ac"
+      ]
+    },
+    "saved": true
+  },
+  "windowId": "b1faecb9-4fd3-42fc-a7ba-9730a347bfe6"
+}

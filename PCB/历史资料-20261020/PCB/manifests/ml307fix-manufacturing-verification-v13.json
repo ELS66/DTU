@@ -1,0 +1,233 @@
+{
+  "PCB_DRC": 0,
+  "factoryDfmPassed": false,
+  "nativeCopperMatchesPlan": true,
+  "schematicAndPinNetsUnchanged": true,
+  "changedPCBSourceTypes": {
+    "POLY": 95,
+    "VIA": 16,
+    "ATTR": 6,
+    "COMPONENT": 6,
+    "POURED": 3
+  },
+  "changedFootprintTypes": {
+    "PAD": 109,
+    "FILL": 109,
+    "META": 1,
+    "ATTR": 1
+  },
+  "normalizedImportMetadataCount": 1,
+  "footprintMaster": "6b69a40d60760f97",
+  "footprintName": "DTU_ML307R_DL_LCC48_LGA61_OFFICIAL_V1_0_1",
+  "outerPadCount": 48,
+  "outerPadMm": [
+    2.6,
+    0.6
+  ],
+  "outerRadiusMm": 0.3,
+  "innerPadCount": 61,
+  "physicalLeadModelsChecked": 109,
+  "modelExactlyMatchesReconstructedManufacturerNominalDimensions": true,
+  "componentCount": 104,
+  "defaultAssemblyCount": 99,
+  "movedComponents": [
+    "J5",
+    "R50",
+    "R60",
+    "R61",
+    "C50",
+    "C51"
+  ],
+  "movedPopulatedPlacements": [
+    "R60",
+    "R61",
+    "J5",
+    "R50"
+  ],
+  "movedVias": 14,
+  "newVias": 2,
+  "viaCount": 308,
+  "routeCount": 508,
+  "drills": 324,
+  "minimumDrillWallGapMm": 0.32737368156270225,
+  "silkToDrillWallMinimumGapMm": 0.2618840000000002,
+  "silkToMaskMinimumGapMm": 0.2890929999999994,
+  "exportedCapsulePadCountVerified": 48,
+  "exportedCopperPasteCapsuleRadiusMm": 0.3,
+  "exportedTopMaskExpansionMm": 0.0508,
+  "nativePadCornerRatio": 100,
+  "unchangedProductionFilesByBytes": [
+    "Gerber_TopSilkscreenLayer.GTO",
+    "Gerber_BottomSilkscreenLayer.GBO",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_BoardOutlineLayer.GKO",
+    "Drill_NPTH_Through.DRL"
+  ],
+  "movedViaOpeningClearances": [
+    {
+      "via": "078d67cc67266197",
+      "centerMm": [
+        9.9,
+        41.6
+      ],
+      "annulusToMaskGapMm": 0.19219583000000282,
+      "holeToMaskGapMm": 0.3171955800000034
+    },
+    {
+      "via": "c82ab33a1f65480a",
+      "centerMm": [
+        12.25,
+        61.9
+      ],
+      "annulusToMaskGapMm": 0.29219834999999966,
+      "holeToMaskGapMm": 0.4171980999999985
+    },
+    {
+      "via": "c9cfe2f76e16b555",
+      "centerMm": [
+        9.4,
+        65.1
+      ],
+      "annulusToMaskGapMm": 1.0741747899999865,
+      "holeToMaskGapMm": 1.1991745399999874
+    },
+    {
+      "via": "2662308277b0d568",
+      "centerMm": [
+        17.75,
+        64.4
+      ],
+      "annulusToMaskGapMm": 0.1742021899999884,
+      "holeToMaskGapMm": 0.29920193999998906
+    },
+    {
+      "via": "f2eb9cd5d27ee5dc",
+      "centerMm": [
+        24.5,
+        61.7
+      ],
+      "annulusToMaskGapMm": 0.3051008853815167,
+      "holeToMaskGapMm": 0.43001049954623666
+    },
+    {
+      "via": "2cdd2758287c7fb4",
+      "centerMm": [
+        21.0,
+        61.7
+      ],
+      "annulusToMaskGapMm": 0.24219526999999988,
+      "holeToMaskGapMm": 0.36719502000000054
+    },
+    {
+      "via": "d3b2388593d4b626",
+      "centerMm": [
+        7.05,
+        50.825
+      ],
+      "annulusToMaskGapMm": 0.3241993100076009,
+      "holeToMaskGapMm": 0.44919906000548554
+    },
+    {
+      "via": "c0299af4fcc5f953",
+      "centerMm": [
+        7.05,
+        51.925
+      ],
+      "annulusToMaskGapMm": 0.32419931000000063,
+      "holeToMaskGapMm": 0.4491990600000002
+    },
+    {
+      "via": "d34fbe859532576a",
+      "centerMm": [
+        7.05,
+        55.225
+      ],
+      "annulusToMaskGapMm": 0.32419931000166813,
+      "holeToMaskGapMm": 0.4491990600012037
+    },
+    {
+      "via": "fdd329252a28af53",
+      "centerMm": [
+        7.05,
+        56.325
+      ],
+      "annulusToMaskGapMm": 0.32419931000293706,
+      "holeToMaskGapMm": 0.44919906000211957
+    },
+    {
+      "via": "c5b5235b7ff31b5a",
+      "centerMm": [
+        12.075,
+        57.9
+      ],
+      "annulusToMaskGapMm": 0.19920248999999046,
+      "holeToMaskGapMm": 0.3242022399999911
+    },
+    {
+      "via": "31780437ea8d2598",
+      "centerMm": [
+        19.725,
+        57.85
+      ],
+      "annulusToMaskGapMm": 0.16722988867405789,
+      "holeToMaskGapMm": 0.2922116128367377
+    },
+    {
+      "via": "fd6c2fb7019faf50",
+      "centerMm": [
+        21.1,
+        42.1
+      ],
+      "annulusToMaskGapMm": 0.34919983000137855,
+      "holeToMaskGapMm": 0.4741995800010167
+    },
+    {
+      "via": "9ca3c30c2d0b93b8",
+      "centerMm": [
+        25.9,
+        45.3
+      ],
+      "annulusToMaskGapMm": 0.5491986100000048,
+      "holeToMaskGapMm": 0.6741983600000054
+    }
+  ],
+  "minimumMovedViaAnnulusMaskGapMm": 0.16722988867405789,
+  "manufacturerDfmPassed": false,
+  "engineeringLimitations": [
+    "Manufacturer DFM and solder process confirmation remain pending.",
+    "Rounded official-style lands and physical lead heel/castellation geometry may still trigger generic PIN boundary checks; no models deleted or shrunk merely to suppress warnings.",
+    "50ohmRF/90ohmUSB impedance requires actual production stackup verification; existing0.35mmRF width retained.",
+    "The manual recommends at least3mm between module and nearby parts; the compact layout has some1.125-2.442mm body gaps. Factory solder/rework process review remains required."
+  ],
+  "geometrySumTraceLengthsMm": {
+    "LTE_USB_DP": 6.358165218249452,
+    "LTE_USB_DM": 5.778940995766019,
+    "LTE_USB_DP_EXT": 5.410292438675878,
+    "LTE_USB_DM_EXT": 5.743607713260957,
+    "LTE_ANT": 3.9715365661838486,
+    "LTE_RF_FEED": 6.946907440355847
+  },
+  "USB_DP_DM_GeometrySumSkewMm": 0.2459089478983536,
+  "RFAllTop": true,
+  "newViaOpeningClearanceMm": [
+    {
+      "via": "393063f154125e13",
+      "annulusToMask": 0.2597950852,
+      "holeToMask": 0.3847682131
+    },
+    {
+      "via": "601c934e4578807b",
+      "annulusToMask": 0.1847526408,
+      "holeToMask": 0.309727117
+    }
+  ],
+  "nativeBOMSupplierFootprintMatched99": true,
+  "manufacturer3mmModuleNeighborClearanceFullyMet": false,
+  "moduleNeighborClearanceExamplesMm": {
+    "R64": 1.125,
+    "Q1": 1.443,
+    "C80": 1.725,
+    "C85": 1.725,
+    "R50_R60_R61": 2.075
+  }
+}

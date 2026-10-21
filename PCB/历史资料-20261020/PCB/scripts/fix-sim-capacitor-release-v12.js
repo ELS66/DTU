@@ -1,0 +1,6 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='da9775b4e341e163260ddd9bb097311369dc525f008e7fcc093462a87b61a989')throw Error('Wrong project');
+await eda.dmt_EditorControl.openDocument('8c8a42c355c95b77');
+const c=(await eda.sch_PrimitiveComponent.getAll()).find(c=>c.getState_Designator()==='C53');if(!c)throw Error('No C53');
+if(!await eda.sch_PrimitiveComponent.modify(c,{name:'1uF 16V',manufacturerId:'CL10A105KB8NNNC',supplierId:'C15849',otherProperty:{...c.getState_OtherProperty(),Value:'1uF'}}))throw Error('SCH modify failed');await eda.sch_Document.save();
+await eda.dmt_EditorControl.openDocument('4211128ecf040c100b33238447713203');const p=(await eda.pcb_PrimitiveComponent.getAll()).find(c=>c.getState_Designator()==='C53');if(!p)throw Error('No PCB C53');
+if(!await eda.pcb_PrimitiveComponent.modify(p,{name:'1uF 16V',manufacturerId:'CL10A105KB8NNNC',supplierId:'C15849',otherProperty:{...p.getState_OtherProperty(),Value:'1uF'}}))throw Error('PCB modify failed');return {saved:await eda.pcb_Document.save()};

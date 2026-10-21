@@ -1,0 +1,1 @@
+await eda.dmt_EditorControl.openDocument("8c8a42c355c95b77");const j=(await eda.sch_PrimitiveComponent.getAll("part")).find(c=>c.getState_Designator()==="J4");return {deleted:j?await eda.sch_PrimitiveComponent.delete(j.getState_PrimitiveId()):true,saved:await eda.sch_Document.save()};

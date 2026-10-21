@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9')throw Error('Wrong project');const out=[];for(const c of await eda.sch_PrimitiveComponent.getAll('part',true))out.push({ref:c.getState_Designator(),id:c.getState_PrimitiveId(),x:c.getState_X(),y:c.getState_Y(),rotation:c.getState_Rotation()});return out;

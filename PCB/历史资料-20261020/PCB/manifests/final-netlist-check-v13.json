@@ -1,0 +1,13 @@
+{
+  "parts": 104,
+  "assembly": 99,
+  "allTop": true,
+  "pinNetMismatches": [],
+  "defaultDnp": [
+    "C50",
+    "C51",
+    "J6",
+    "J7",
+    "R32"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "result": {
+    "leds": [
+      "D30",
+      "D31",
+      "D32",
+      "D33",
+      "D34",
+      "D35"
+    ],
+    "mergedVia": "fc6da35e1af5935a",
+    "routes": [
+      "99e3f49feb116706",
+      "80c109291e35605f"
+    ],
+    "saved": true
+  },
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

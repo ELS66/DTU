@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "result": {
+    "created": [
+      {
+        "id": "ecfaf261c1fd0da3",
+        "net": "RS485_A_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "1febef13bf20fccc",
+        "net": "RS485_A_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "6b689830900f667b",
+        "net": "RS485_A_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "bc301ab8f55e2539",
+        "net": "RS485_A_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "f351085b1a94044a",
+        "net": "RS485_A_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "d04c97a01cea328e",
+        "net": "RS485_A_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "6cb8f93d441d5075",
+        "net": "TTL_RX_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "ff1e8b0a846438d6",
+        "net": "TTL_RX_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "4a7455f6890f6bff",
+        "net": "SIM_RST_M",
+        "kind": "via"
+      },
+      {
+        "id": "52e99a34f267ee7d",
+        "net": "SIM_RST_M",
+        "kind": "via"
+      },
+      {
+        "id": "da3dcbdf9de54636",
+        "net": "TTL_TX_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "68131e255dbd8c90",
+        "net": "TTL_TX_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "a75a4dad82babd14",
+        "net": "TTL_TX_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "27b3f10d8e9022bc",
+        "net": "TTL_TX_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "3647796fbf5a9f37",
+        "net": "485_RX_RAW",
+        "kind": "via"
+      },
+      {
+        "id": "1df64a40da89e911",
+        "net": "485_RX_RAW",
+        "kind": "via"
+      },
+      {
+        "id": "602d5f7f80f47385",
+        "net": "485_RX_RAW",
+        "kind": "via"
+      },
+      {
+        "id": "d12317c993cd99cc",
+        "net": "LED_RX_N",
+        "kind": "via"
+      },
+      {
+        "id": "d66d9af663ee8fb4",
+        "net": "LED_RX_N",
+        "kind": "via"
+      },
+      {
+        "id": "fa6c9b424a6611ea",
+        "net": "RS232_RX_EXT",
+        "kind": "via"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "54d14f83-2b26-423e-baa3-d79d6c8a00d6"
+}

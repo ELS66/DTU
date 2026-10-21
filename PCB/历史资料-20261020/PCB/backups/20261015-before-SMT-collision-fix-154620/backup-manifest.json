@@ -1,0 +1,32 @@
+{
+  "files": [
+    {
+      "name": "current-pcb-delivery-v13.json",
+      "sha256": "dd08a95774910488bc80f489035ee32743501a52f755d6d30ff0e9564737eeb3"
+    },
+    {
+      "name": "hy20-final-pcb-source-v13.json",
+      "sha256": "426b3061b527c2b6af5008d9cc54f050de6016bbf87e45d9d843eb475ea622e7"
+    },
+    {
+      "name": "hy20-final-pcb-pads-v13.json",
+      "sha256": "eaa9d55717a7247083f4045435ae4f2ec3b0db88578abfba147bd8bcb2ba58c1"
+    },
+    {
+      "name": "DTU-V0.13-60x70-HY20.epro2",
+      "sha256": "f64a7ab18c2be27453ec0230e14b80e4256113112b5fe0ee8d946def3f79e4ef"
+    },
+    {
+      "name": "DTU-V0.13-60x70-HY20-Gerber.zip",
+      "sha256": "9e977b60b649e241d4bed8f8da01181edf3f5de5b826fe639c4730e927f6a185"
+    },
+    {
+      "name": "DTU-V0.13-HY20-BOM-99.csv",
+      "sha256": "bdcac2736e76d6ab56b4ed8c459dcbbcd6d84c36b71f2e1a858672466390ed48"
+    },
+    {
+      "name": "DTU-V0.13-HY20-CPL-99-Top.csv",
+      "sha256": "fbd0fc074dfc3abbe1007309170fa2b89d8c0ab06ae6015ef3560102f954efe6"
+    }
+  ]
+}

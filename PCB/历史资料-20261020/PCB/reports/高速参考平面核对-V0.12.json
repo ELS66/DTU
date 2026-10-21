@@ -1,0 +1,149 @@
+{
+  "method": "Centerline projection against actual GND fill; includes necessary via/pad antipads; gaps require review, not impedance simulation",
+  "gaps": [
+    {
+      "net": "ESP_USB_DP_EXT",
+      "traceLayer": 1,
+      "reference": 15,
+      "traceLengthMm": 1.983088678798693,
+      "missingTotalMm": 1.155860057068896,
+      "maxGapMm": 1.155860057068896,
+      "gapBounds": [
+        [
+          37.061139999999995,
+          64.56372480700755,
+          37.536274192992444,
+          65.50000108
+        ]
+      ]
+    },
+    {
+      "net": "ESP_USB_DP_EXT",
+      "traceLayer": 2,
+      "reference": 16,
+      "traceLengthMm": 1.943635603656284,
+      "missingTotalMm": 1.1174787362586558,
+      "maxGapMm": 1.1174787362586558,
+      "gapBounds": [
+        [
+          37.09999946,
+          64.50479910371227,
+          37.39520110232647,
+          65.50000108
+        ]
+      ]
+    },
+    {
+      "net": "ESP_USB_DM_EXT",
+      "traceLayer": 1,
+      "reference": 15,
+      "traceLengthMm": 1.9857464949330133,
+      "missingTotalMm": 1.135645958105425,
+      "maxGapMm": 1.135645958105425,
+      "gapBounds": [
+        [
+          39.151613478593006,
+          64.551613478593,
+          39.601139999999994,
+          65.50000108
+        ]
+      ]
+    },
+    {
+      "net": "ESP_USB_DM_EXT",
+      "traceLayer": 2,
+      "reference": 16,
+      "traceLengthMm": 1.8077573121302524,
+      "missingTotalMm": 1.0756964257883213,
+      "maxGapMm": 1.0756964257883213,
+      "gapBounds": [
+        [
+          39.59999954,
+          65.50000108,
+          40.289921240475756,
+          66.28992258047576
+        ]
+      ]
+    },
+    {
+      "net": "LTE_USB_DP_EXT",
+      "traceLayer": 1,
+      "reference": 15,
+      "traceLengthMm": 1.9854881987537718,
+      "missingTotalMm": 1.1571696130756415,
+      "maxGapMm": 1.1571696130756415,
+      "gapBounds": [
+        [
+          17.85874,
+          64.56449552790666,
+          18.335503772093332,
+          65.50000108
+        ]
+      ]
+    },
+    {
+      "net": "LTE_USB_DP_EXT",
+      "traceLayer": 2,
+      "reference": 16,
+      "traceLengthMm": 1.944699754696392,
+      "missingTotalMm": 1.1165837141631507,
+      "maxGapMm": 1.1165837141631507,
+      "gapBounds": [
+        [
+          17.899999759999996,
+          64.50543157688509,
+          18.194568123114898,
+          65.50000108
+        ]
+      ]
+    },
+    {
+      "net": "LTE_USB_DM_EXT",
+      "traceLayer": 1,
+      "reference": 15,
+      "traceLengthMm": 1.985837392226171,
+      "missingTotalMm": 1.136826819346908,
+      "maxGapMm": 1.136826819346908,
+      "gapBounds": [
+        [
+          19.950843057693895,
+          64.55084275769389,
+          20.39999984,
+          65.50000108
+        ]
+      ]
+    },
+    {
+      "net": "LTE_USB_DM_EXT",
+      "traceLayer": 2,
+      "reference": 16,
+      "traceLengthMm": 2.1211379445437712,
+      "missingTotalMm": 1.1275467225356928,
+      "maxGapMm": 1.1275467225356928,
+      "gapBounds": [
+        [
+          20.39999984,
+          64.58554734923077,
+          20.91445183076923,
+          65.50000108
+        ]
+      ]
+    },
+    {
+      "net": "LTE_USB_VBUS",
+      "traceLayer": 2,
+      "reference": 16,
+      "traceLengthMm": 16.498278041583948,
+      "missingTotalMm": 1.543582342435782,
+      "maxGapMm": 1.1175227424357799,
+      "gapBounds": [
+        [
+          22.60476756362579,
+          64.50476758362579,
+          22.89999992,
+          65.50000108
+        ]
+      ]
+    }
+  ]
+}

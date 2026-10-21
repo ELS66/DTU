@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-20",
+  "firmwareVersion": "0.6.0-dev",
+  "hardwareRevision": "V0.14.4",
+  "sdkVersion": "v5.5.1",
+  "scope": [
+    "Task progress supervision and TWDT panic reset",
+    "Field UART error/pressure recovery without control replay",
+    "Opaque variable N-byte RAM snapshots and read-only export",
+    "Bidirectional 9600 8N1 wire-time reply budgets"
+  ],
+  "defaults": {
+    "supervisorPeriodMs": 100,
+    "hardwareWatchdogMs": 5000,
+    "taskBudgetsMs": {
+      "field": 15000,
+      "store": 10000,
+      "indicators": 2000,
+      "network": 15000,
+      "modem": 45000
+    },
+    "uartEventQueue": 16,
+    "pressureSampleAt": 12,
+    "queryGuardMs": 500,
+    "variableReplyBudgetMs": 4776,
+    "cacheCapacityBytes": 4089,
+    "cacheStorage": "RAM",
+    "cacheFormatVersion": 1,
+    "rtcFaultFormatVersion": 1
+  },
+  "build": {
+    "image": "c5/build/iot_module.bin",
+    "bytes": 995488,
+    "sha256": "cbb5150ccdec430ec5d376fd83a339743b000fafa2a4cbed01ccf19abfb257fc",
+    "compilerDiagnosticMatches": 0,
+    "target": "esp32c5"
+  },
+  "softwareVerification": {
+    "productionCoreChecksPassed": 23380,
+    "taskProgressSimulationMs": 90000,
+    "normalModemProgressGapMs": 30000,
+    "allCacheLengthsFrom": 0,
+    "allCacheLengthsThrough": 4089,
+    "crc32KnownVector": "123456789 -> cbf43926",
+    "faultLatchAndDisabledComponents": true,
+    "damagedPartialNotReassembled": true,
+    "newPanelEventFencesOldQuery": true,
+    "recordFormatChanged": false,
+    "partitionsChanged": false
+  },
+  "sources": [
+    {
+      "path": "c5/components/module_core/module_supervision.c",
+      "sha256": "faeb065dc1f4a28c51614080e46b15e20a9a271dca07e38a9b63b0a4c488b5b2"
+    },
+    {
+      "path": "c5/components/module_core/include/module_supervision.h",
+      "sha256": "af7fc396d8dd9d177afc722dae2b606348732b3e50da24597efad8ddf67a69e3"
+    },
+    {
+      "path": "c5/components/module_core/module_blob.c",
+      "sha256": "e43a4514511cba6231a639fc054acab6a4c24ed75fa5cac0ee91b14f7bd7f8f4"
+    },
+    {
+      "path": "c5/components/module_core/include/module_blob.h",
+      "sha256": "6c4608cf498ec21660916327c6bd5afc993a1d996a1dce74580da1c8c9a84100"
+    },
+    {
+      "path": "c5/components/module_core/module_protocol.c",
+      "sha256": "4aab232ddd15124c0d6ddcf8dd970ac8f1902fed6ca6d8a165df4975a850d1f2"
+    },
+    {
+      "path": "c5/components/module_core/include/module_protocol.h",
+      "sha256": "4944375557a69e41fed792ca5d7122efc81649ffe802e415f49c89cdf929ea97"
+    },
+    {
+      "path": "c5/main/supervision.c",
+      "sha256": "c61584bcad4727ee1a096e6f33d677dbbeaf19d97ab7576866d343eb1f3f8727"
+    },
+    {
+      "path": "c5/main/supervision.h",
+      "sha256": "84a374a6312cdcb5f66cc02dded0b6ee7ec3fdbe2fbf6b2189a833810885f53d"
+    },
+    {
+      "path": "c5/main/board_cache.c",
+      "sha256": "a074cf050e480a4426cfd7434e4a4115ac965f5bf007e291d16500352db4ae1f"
+    },
+    {
+      "path": "c5/main/board_cache.h",
+      "sha256": "0244a33bf7e335678cc852e98a5f0e5fb23fbd2d11997ec7b54489b4325f77fe"
+    },
+    {
+      "path": "c5/main/field_bus.c",
+      "sha256": "96a2aef416a30bcd99c32985bbfe91457112f0ae52c63fe703bb4d835e1f932c"
+    },
+    {
+      "path": "c5/main/diagnostics.c",
+      "sha256": "731d1c92f5cdd027f7f796131dde45037b31b55467202b47f1c8bb5eae3c510e"
+    },
+    {
+      "path": "c5/main/modem.c",
+      "sha256": "a17973484fc464285828e98fe7e531fef2b64b2c85f4e31bfba0466a9dc2cd61"
+    },
+    {
+      "path": "c5/main/network.c",
+      "sha256": "a56de05002010507e9a914e4ae7203fbb7605bd0aff447f8bb33f4437c63b4d7"
+    },
+    {
+      "path": "c5/main/runtime_store.c",
+      "sha256": "1ef049bb9f0e920e575b77f4972d04bc3080a57293675d8da0960f3be440fc64"
+    },
+    {
+      "path": "c5/main/indicators.c",
+      "sha256": "be2611d1e32a05cda702157dc77ed020a7b867c7d892e6061d68527ebf163499"
+    },
+    {
+      "path": "c5/main/app_main.c",
+      "sha256": "f87ec78c6970da6ba486b65e2273e8893b261c99437c6e9056c4a295d5d53074"
+    },
+    {
+      "path": "c5/tests/test_core.c",
+      "sha256": "bd532155875433fc88acec63760b43645f8d719154d5d11d0b72e91c1fccc036"
+    }
+  ],
+  "hardwareFlashed": false,
+  "actualTaskWatchdogResetVerified": false,
+  "rtcRetentionVerified": false,
+  "uartDriverFaultInjectionVerified": false,
+  "concurrentCacheMutexStressVerified": false,
+  "actualNvsFaultInjectionVerified": false,
+  "cacheFlashPersistenceImplemented": false,
+  "mqttIntegration": "deferred pending user backend documents"
+}

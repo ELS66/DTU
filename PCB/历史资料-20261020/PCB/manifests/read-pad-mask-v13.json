@@ -1,0 +1,5506 @@
+{
+  "success": true,
+  "result": [
+    {
+      "ref": "C1",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C1",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C2",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C2",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D1",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D1",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D4",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D4",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "F1",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "F1",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C10",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C10",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C11",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C11",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C12",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C12",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "R12",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R12",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R15",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R15",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R16",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R16",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "9",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "10",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "11",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "12",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "13",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "14",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "15",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "16",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "17",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "18",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "19",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "20",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "21",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "22",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "23",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "24",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "25",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "26",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "27",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "28",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "29",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "29",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "29",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "29",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "29",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "29",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "29",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "29",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "29",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "30",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "31",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U1",
+      "number": "32",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C80",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C80",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C81",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C81",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C82",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C82",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C83",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C83",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C84",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C84",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "R60",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R60",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R61",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R61",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C50",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C50",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C51",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C51",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C52",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C52",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C53",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C53",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C55",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C55",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D11",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D11",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D12",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D12",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D13",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D13",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "C3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "C7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "C2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "C6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "C1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "C5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "CD",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "9",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "10",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J4",
+      "number": "11",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J5",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J5",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J5",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "R50",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R50",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R54",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R54",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C30",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C30",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C31",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C31",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C32",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C32",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C33",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C33",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C34",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C34",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C35",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C35",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C38",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C38",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D5",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D5",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D5",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D6",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D6",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D7",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D7",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D8",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D8",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D9",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D9",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J1",
+      "number": "2",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        3.937,
+        3.937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J1",
+      "number": "1",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        0.3937,
+        0.3937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J1",
+      "number": "3",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        3.937,
+        3.937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J1",
+      "number": "4",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        3.937,
+        3.937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J2",
+      "number": "2",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        3.937,
+        3.937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J2",
+      "number": "1",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        0.3937,
+        0.3937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J2",
+      "number": "3",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        3.937,
+        3.937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J2",
+      "number": "4",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        3.937,
+        3.937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J3",
+      "number": "2",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        3.937,
+        3.937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J3",
+      "number": "1",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        0.3937,
+        0.3937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J3",
+      "number": "3",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        3.937,
+        3.937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J3",
+      "number": "4",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        3.937,
+        3.937
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "R30",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R30",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R31",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R31",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R32",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R32",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R33",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R33",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R34",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R34",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R35",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R35",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R36",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R36",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R37",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R37",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R38",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R38",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R121",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R121",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C70",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C70",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C90",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C90",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C91",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C91",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C92",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C92",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C93",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C93",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C94",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C94",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C95",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C95",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C98",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C98",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R90",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R90",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R91",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R91",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "D30",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D30",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D31",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D31",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D32",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D32",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D33",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D33",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D34",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D34",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D35",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D35",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D36",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D36",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D37",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D37",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J6",
+      "number": "1",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        4.3308,
+        4.3308
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J6",
+      "number": "2",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        4.3308,
+        4.3308
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J6",
+      "number": "3",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        4.3308,
+        4.3308
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J6",
+      "number": "4",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        4.3308,
+        4.3308
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J6",
+      "number": "5",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        4.3308,
+        4.3308
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J7",
+      "number": "1",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        4.3308,
+        4.3308
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J7",
+      "number": "2",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        4.3308,
+        4.3308
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J7",
+      "number": "3",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        4.3308,
+        4.3308
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J7",
+      "number": "4",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        4.3308,
+        4.3308
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "J7",
+      "number": "5",
+      "layer": 12,
+      "hole": [
+        "ROUND",
+        4.3308,
+        4.3308
+      ],
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U6",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U6",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U6",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U6",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U6",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U6",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U6",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U6",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "16",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "15",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "14",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "13",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "12",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "11",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "10",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U7",
+      "number": "9",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U12",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U12",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U12",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U12",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U12",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U12",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "R100",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R100",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R101",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R101",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "109",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "108",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "107",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "106",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "105",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "104",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "103",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "102",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "101",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "100",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "99",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "98",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "97",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "96",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "95",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "94",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "93",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "92",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "91",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "90",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "89",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "88",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "87",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "86",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "85",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "84",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "83",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "82",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "81",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "80",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "79",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "78",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "77",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "76",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "75",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "74",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "73",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "72",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "71",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "70",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "69",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "68",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "67",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "66",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "65",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "64",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "63",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "62",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "61",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "60",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "59",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "58",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "57",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "56",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "55",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "54",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "53",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "52",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "51",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "50",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "49",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "48",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "47",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "46",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "45",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "44",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "43",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "42",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "41",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "40",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "39",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "38",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "37",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "36",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "35",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "34",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "33",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "32",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "31",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "30",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "29",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "28",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "27",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "26",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "25",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "24",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "23",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "22",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "21",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "20",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "19",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "18",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "17",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "16",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "15",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "14",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "13",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "12",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "11",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "10",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "9",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U2",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "R64",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R64",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "C56",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C56",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C57",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C57",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C71",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C71",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "R78",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R78",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "U4",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U4",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U4",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U4",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U4",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U4",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "L1",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "L1",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C85",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C85",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U10",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U10",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U10",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U10",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U10",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U10",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U10",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U10",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D18",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D18",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D18",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D20",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D20",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D20",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN1",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN1",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN1",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN1",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN1",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN1",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN1",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN1",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN2",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN2",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN2",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN2",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN2",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN2",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN2",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN2",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN3",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN3",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN3",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN3",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN3",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN3",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN3",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN3",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN4",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN4",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN4",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN4",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN4",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN4",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN4",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN4",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN5",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN5",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN5",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN5",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN5",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN5",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN5",
+      "number": "8",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "RN5",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "Q1",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "Q1",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "Q1",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "Q1",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "Q1",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "Q1",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U5",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U5",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U5",
+      "number": "3",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U5",
+      "number": "4",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U5",
+      "number": "5",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U5",
+      "number": "6",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "U5",
+      "number": "7",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C106",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "C106",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "R94",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R94",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R95",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "R95",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -3937,
+        "bottomPasteMask": -3937
+      }
+    },
+    {
+      "ref": "D10",
+      "number": "2",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    },
+    {
+      "ref": "D10",
+      "number": "1",
+      "layer": 1,
+      "hole": null,
+      "mask": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": 0,
+        "bottomPasteMask": 0
+      }
+    }
+  ],
+  "windowId": "c1955aa7-f8d1-4843-96ac-9fd9d300a6d3"
+}

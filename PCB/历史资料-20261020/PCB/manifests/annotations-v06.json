@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "result": {
+    "31c8ed08a1998d0d": [
+      {
+        "id": "02d2dd6fc55646ec",
+        "text": "05 Field Interfaces - DTU V0.4 SCHEMATIC DRAFT"
+      },
+      {
+        "id": "00e6969bfdc69d56",
+        "text": "Named nets connect across all eight schematic pages. Terminal power required for USB maintenance."
+      }
+    ],
+    "8902a3019bd8d84c": [
+      {
+        "id": "5d3e04ee6ca9db3f",
+        "text": "06 AUTO INTERFACE SELECT - TTL > RS232 > RS485"
+      },
+      {
+        "id": "4efe9e7cccd7cc80",
+        "text": "Detect powered VIN per connector, before OR diodes. Signal-only cable cannot be detected."
+      },
+      {
+        "id": "f53e72532b454fa5",
+        "text": "MCU GPIO2 enables interfaces after UART initialization. Change cables with power OFF."
+      },
+      {
+        "id": "608c3ee7b24c7547",
+        "text": "Global enable / reset-off: Q7. Disabled = all three transmitters and receivers off."
+      },
+      {
+        "id": "4c9c044b992c3681",
+        "text": "Q5 clamps unselected RS485 DE; Q6 shuts down unselected RS232 transmitter."
+      },
+      {
+        "id": "6a44a5f585929fdd",
+        "text": "U13 priority encoder -> U9 one-hot active-low enables"
+      },
+      {
+        "id": "05cf2682062d7069",
+        "text": "DRAFT: nominal VIN detection 4.42V rising / 3.92V falling. PCB and hardware tests pending."
+      }
+    ],
+    "2eb77bba50a14eab": [
+      {
+        "id": "e5f350d9711a13e5",
+        "text": "07 LTE Control - DTU V0.4 SCHEMATIC DRAFT"
+      },
+      {
+        "id": "f144ed863ab5436e",
+        "text": "Named nets connect across all eight schematic pages. Terminal power required for USB maintenance."
+      }
+    ],
+    "8ecd39430ee2c9d6": []
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

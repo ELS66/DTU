@@ -1,0 +1,1 @@
+const id='de280d363d1bdc6eb48b4e11624beec0d326c823aa88a60393f490d052ff1c05';if(!await eda.dmt_Project.openProject(id))throw Error('Open cleaned project failed');return {project:(await eda.dmt_Project.getCurrentProjectInfo())?.uuid,pcbs:await eda.dmt_Pcb.getAllPcbsInfo()};

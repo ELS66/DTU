@@ -1,0 +1,1 @@
+await eda.dmt_EditorControl.openDocument("a8fcac05b0a49c52");const c=await eda.sch_PrimitiveComponent.get("a51dc27f6b6e2a92");const a=c.toAsync();a.setState_X(220);a.setState_Y(220);await a.done();return {saved:await eda.sch_Document.save()};

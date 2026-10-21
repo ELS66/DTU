@@ -1,0 +1,61 @@
+{
+  "revision": "V0.14.1 安装孔禁铜错位修正 2026-10-16",
+  "boardMm": [
+    60,
+    75
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 310,
+  "drilledHoles": 326,
+  "pcbDrcIssues": 0,
+  "factoryDfmPassed": false,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261016-before-mount-keepout-fix-150319",
+  "projectUuid": "cae49cbee2e4e15477ee461f6b6e97e56688d2157f689bf6aaa50d57c2be2e8d",
+  "pcbUuid": "4211128ecf040c100b33238447713203",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.14.1-60x75-Mountfix.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.14.1-60x75-Mountfix-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.14.1-60x75-安装孔修正复查包.zip",
+  "actualCopperManifest": "clearancefix-actual-routing-v14.json",
+  "actualSourceSnapshot": "mountfix-source-v14_1.json",
+  "files": [
+    {
+      "file": "DTU-V0.14.1-60x75-Mountfix.epro2",
+      "bytes": 1253162,
+      "sha256": "999f0626bc7017dd61737b364b274836719644fca239f2076defa6f2c47ae34f"
+    },
+    {
+      "file": "DTU-V0.14.1-60x75-Mountfix-Gerber.zip",
+      "bytes": 267082,
+      "sha256": "203345f617b4fbb56764835a175f5a19e093df065520a16d80619a2ff58b6909"
+    },
+    {
+      "file": "DTU-V0.14.1-Mountfix-BOM-99.csv",
+      "bytes": 3735,
+      "sha256": "c4fd439494df391c8042dc4a40db50a27435549c28092bc80ec0177eaa85272a"
+    },
+    {
+      "file": "DTU-V0.14.1-Mountfix-CPL-99-Top.csv",
+      "bytes": 2343,
+      "sha256": "31574f15d74a1d1a54a2690feefde08f934454f7bfaf89d4672b1d470842205a"
+    },
+    {
+      "file": "DTU-V0.14.1-Mountfix-README.md",
+      "bytes": 1125,
+      "sha256": "8d4891fdaa91e296ca5ee1695e292c43692ab130ef102a48fefba081b9be9a7e"
+    },
+    {
+      "file": "V0.14.1-安装孔禁铜错位修正记录.md",
+      "bytes": 1961,
+      "sha256": "0f0bb863353af39d357a7d733805509b5f89c74ddcdc3540217ab76de577b25a"
+    },
+    {
+      "file": "DTU-V0.14.1-Mountfix-before-after.png",
+      "bytes": 31900,
+      "sha256": "c0a630ab0a5b02f5bb26aca07dd26f2d37144a4351dfb702b700b834f6092464"
+    }
+  ],
+  "mountKeepoutVerification": "mountfix-verification-v14_1.json"
+}

@@ -1,0 +1,2110 @@
+{
+  "success": true,
+  "result": {
+    "parts": [
+      {
+        "ref": "U2",
+        "sub": "AIR780EHT_A",
+        "id": "a51dc27f6b6e2a92",
+        "pins": [
+          {
+            "number": "1",
+            "name": "GND",
+            "x": 200,
+            "y": 520,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "NC",
+            "x": 200,
+            "y": 500,
+            "rotation": 180
+          },
+          {
+            "number": "3",
+            "name": "NC",
+            "x": 200,
+            "y": 480,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "NC",
+            "x": 200,
+            "y": 460,
+            "rotation": 180
+          },
+          {
+            "number": "5",
+            "name": "NC",
+            "x": 200,
+            "y": 440,
+            "rotation": 180
+          },
+          {
+            "number": "6",
+            "name": "NC",
+            "x": 200,
+            "y": 420,
+            "rotation": 180
+          },
+          {
+            "number": "7",
+            "name": "PWRKEY",
+            "x": 200,
+            "y": 400,
+            "rotation": 180
+          },
+          {
+            "number": "8",
+            "name": "NC",
+            "x": 200,
+            "y": 380,
+            "rotation": 180
+          },
+          {
+            "number": "9",
+            "name": "NC",
+            "x": 200,
+            "y": 360,
+            "rotation": 180
+          },
+          {
+            "number": "10",
+            "name": "GND",
+            "x": 200,
+            "y": 340,
+            "rotation": 180
+          },
+          {
+            "number": "11",
+            "name": "USIM_DAT",
+            "x": 200,
+            "y": 320,
+            "rotation": 180
+          },
+          {
+            "number": "12",
+            "name": "USIM_RST",
+            "x": 200,
+            "y": 300,
+            "rotation": 180
+          },
+          {
+            "number": "13",
+            "name": "USIM_CLK",
+            "x": 200,
+            "y": 280,
+            "rotation": 180
+          },
+          {
+            "number": "14",
+            "name": "USIM_VDD",
+            "x": 300,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "15",
+            "name": "RESET_N",
+            "x": 320,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "16",
+            "name": "NET_STATUS",
+            "x": 340,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "17",
+            "name": "UART_RXD",
+            "x": 360,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "18",
+            "name": "UART_TXD",
+            "x": 380,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "19",
+            "name": "UART_DTR",
+            "x": 400,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "20",
+            "name": "UART_RI",
+            "x": 420,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "21",
+            "name": "NC",
+            "x": 440,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "22",
+            "name": "UART_CTS",
+            "x": 460,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "23",
+            "name": "UART_RTS",
+            "x": 560,
+            "y": 280,
+            "rotation": 0
+          },
+          {
+            "number": "24",
+            "name": "VDD_EXT",
+            "x": 560,
+            "y": 300,
+            "rotation": 0
+          },
+          {
+            "number": "25",
+            "name": "STATUS",
+            "x": 560,
+            "y": 320,
+            "rotation": 0
+          },
+          {
+            "number": "26",
+            "name": "NC",
+            "x": 560,
+            "y": 340,
+            "rotation": 0
+          },
+          {
+            "number": "27",
+            "name": "GND",
+            "x": 560,
+            "y": 360,
+            "rotation": 0
+          },
+          {
+            "number": "28",
+            "name": "NC",
+            "x": 560,
+            "y": 380,
+            "rotation": 0
+          },
+          {
+            "number": "29",
+            "name": "NC",
+            "x": 560,
+            "y": 400,
+            "rotation": 0
+          },
+          {
+            "number": "30",
+            "name": "NC",
+            "x": 560,
+            "y": 420,
+            "rotation": 0
+          },
+          {
+            "number": "31",
+            "name": "NC",
+            "x": 560,
+            "y": 440,
+            "rotation": 0
+          },
+          {
+            "number": "32",
+            "name": "NC",
+            "x": 560,
+            "y": 460,
+            "rotation": 0
+          },
+          {
+            "number": "33",
+            "name": "NC",
+            "x": 560,
+            "y": 480,
+            "rotation": 0
+          },
+          {
+            "number": "34",
+            "name": "GND",
+            "x": 560,
+            "y": 500,
+            "rotation": 0
+          },
+          {
+            "number": "35",
+            "name": "LTE_ANT",
+            "x": 560,
+            "y": 520,
+            "rotation": 0
+          },
+          {
+            "number": "36",
+            "name": "GND",
+            "x": 460,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "37",
+            "name": "GND",
+            "x": 440,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "38",
+            "name": "DBG_RXD",
+            "x": 420,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "39",
+            "name": "DBG_TXD",
+            "x": 400,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "40",
+            "name": "GND",
+            "x": 380,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "41",
+            "name": "GND",
+            "x": 360,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "42",
+            "name": "VBAT",
+            "x": 340,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "43",
+            "name": "VBAT",
+            "x": 320,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "44",
+            "name": "NC",
+            "x": 300,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "98",
+            "name": "NC",
+            "x": 280,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "97",
+            "name": "NC",
+            "x": 480,
+            "y": 600,
+            "rotation": 90
+          },
+          {
+            "number": "95",
+            "name": "GND",
+            "x": 280,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "96",
+            "name": "NC",
+            "x": 480,
+            "y": 200,
+            "rotation": 270
+          }
+        ]
+      },
+      {
+        "ref": "U2",
+        "sub": "AIR780EHT_B",
+        "id": "f9693b91f52ecacd",
+        "pins": [
+          {
+            "number": "45",
+            "name": "GND",
+            "x": 710,
+            "y": 385,
+            "rotation": 180
+          },
+          {
+            "number": "46",
+            "name": "GND",
+            "x": 710,
+            "y": 365,
+            "rotation": 180
+          },
+          {
+            "number": "47",
+            "name": "GND",
+            "x": 710,
+            "y": 345,
+            "rotation": 180
+          },
+          {
+            "number": "48",
+            "name": "GND",
+            "x": 710,
+            "y": 325,
+            "rotation": 180
+          },
+          {
+            "number": "49",
+            "name": "NC",
+            "x": 710,
+            "y": 305,
+            "rotation": 180
+          },
+          {
+            "number": "50",
+            "name": "NC",
+            "x": 710,
+            "y": 285,
+            "rotation": 180
+          },
+          {
+            "number": "51",
+            "name": "NC",
+            "x": 710,
+            "y": 265,
+            "rotation": 180
+          },
+          {
+            "number": "52",
+            "name": "NC",
+            "x": 710,
+            "y": 245,
+            "rotation": 180
+          },
+          {
+            "number": "53",
+            "name": "NC",
+            "x": 710,
+            "y": 225,
+            "rotation": 180
+          },
+          {
+            "number": "54",
+            "name": "NC",
+            "x": 800,
+            "y": 160,
+            "rotation": 270
+          },
+          {
+            "number": "55",
+            "name": "NC",
+            "x": 820,
+            "y": 160,
+            "rotation": 270
+          },
+          {
+            "number": "56",
+            "name": "NC",
+            "x": 840,
+            "y": 160,
+            "rotation": 270
+          },
+          {
+            "number": "57",
+            "name": "NC",
+            "x": 860,
+            "y": 160,
+            "rotation": 270
+          },
+          {
+            "number": "58",
+            "name": "NC",
+            "x": 880,
+            "y": 160,
+            "rotation": 270
+          },
+          {
+            "number": "59",
+            "name": "USB_DP",
+            "x": 960,
+            "y": 230,
+            "rotation": 0
+          },
+          {
+            "number": "60",
+            "name": "USB_DN",
+            "x": 960,
+            "y": 250,
+            "rotation": 0
+          },
+          {
+            "number": "61",
+            "name": "VBUS",
+            "x": 960,
+            "y": 270,
+            "rotation": 0
+          },
+          {
+            "number": "62",
+            "name": "USIM2_CLK",
+            "x": 960,
+            "y": 290,
+            "rotation": 0
+          },
+          {
+            "number": "63",
+            "name": "USIM2_RST",
+            "x": 960,
+            "y": 305,
+            "rotation": 0
+          },
+          {
+            "number": "64",
+            "name": "USIM2_DAT",
+            "x": 960,
+            "y": 325,
+            "rotation": 0
+          },
+          {
+            "number": "65",
+            "name": "USIM2_VDD",
+            "x": 960,
+            "y": 345,
+            "rotation": 0
+          },
+          {
+            "number": "66",
+            "name": "NC",
+            "x": 960,
+            "y": 365,
+            "rotation": 0
+          },
+          {
+            "number": "67",
+            "name": "NC",
+            "x": 960,
+            "y": 385,
+            "rotation": 0
+          },
+          {
+            "number": "68",
+            "name": "NC",
+            "x": 880,
+            "y": 460,
+            "rotation": 90
+          },
+          {
+            "number": "69",
+            "name": "NC",
+            "x": 860,
+            "y": 460,
+            "rotation": 90
+          },
+          {
+            "number": "70",
+            "name": "GND",
+            "x": 840,
+            "y": 460,
+            "rotation": 90
+          },
+          {
+            "number": "71",
+            "name": "GND",
+            "x": 820,
+            "y": 460,
+            "rotation": 90
+          },
+          {
+            "number": "72",
+            "name": "GND",
+            "x": 800,
+            "y": 460,
+            "rotation": 90
+          },
+          {
+            "number": "99",
+            "name": "VREF",
+            "x": 710,
+            "y": 400,
+            "rotation": 180
+          },
+          {
+            "number": "100",
+            "name": "IO_VOLT_SET",
+            "x": 710,
+            "y": 210,
+            "rotation": 180
+          },
+          {
+            "number": "101",
+            "name": "NC",
+            "x": 780,
+            "y": 160,
+            "rotation": 270
+          },
+          {
+            "number": "102",
+            "name": "NC",
+            "x": 900,
+            "y": 160,
+            "rotation": 270
+          },
+          {
+            "number": "103",
+            "name": "GND",
+            "x": 960,
+            "y": 210,
+            "rotation": 0
+          },
+          {
+            "number": "104",
+            "name": "NC",
+            "x": 960,
+            "y": 400,
+            "rotation": 0
+          },
+          {
+            "number": "105",
+            "name": "NC",
+            "x": 900,
+            "y": 460,
+            "rotation": 90
+          },
+          {
+            "number": "106",
+            "name": "NC",
+            "x": 780,
+            "y": 460,
+            "rotation": 90
+          }
+        ]
+      },
+      {
+        "ref": "U2",
+        "sub": "AIR780EHT_C",
+        "id": "8b1d6da5ef7f6ad9",
+        "pins": [
+          {
+            "number": "73",
+            "name": "GND",
+            "x": 710,
+            "y": 690,
+            "rotation": 180
+          },
+          {
+            "number": "74",
+            "name": "NC",
+            "x": 710,
+            "y": 670,
+            "rotation": 180
+          },
+          {
+            "number": "75",
+            "name": "NC",
+            "x": 710,
+            "y": 650,
+            "rotation": 180
+          },
+          {
+            "number": "76",
+            "name": "NC",
+            "x": 710,
+            "y": 630,
+            "rotation": 180
+          },
+          {
+            "number": "77",
+            "name": "NC",
+            "x": 710,
+            "y": 610,
+            "rotation": 180
+          },
+          {
+            "number": "78",
+            "name": "NC",
+            "x": 710,
+            "y": 590,
+            "rotation": 180
+          },
+          {
+            "number": "79",
+            "name": "USIM_DET",
+            "x": 710,
+            "y": 570,
+            "rotation": 180
+          },
+          {
+            "number": "80",
+            "name": "NC",
+            "x": 710,
+            "y": 550,
+            "rotation": 180
+          },
+          {
+            "number": "81",
+            "name": "NC",
+            "x": 920,
+            "y": 550,
+            "rotation": 0
+          },
+          {
+            "number": "107",
+            "name": "NC",
+            "x": 780,
+            "y": 510,
+            "rotation": 270
+          },
+          {
+            "number": "108",
+            "name": "NC",
+            "x": 810,
+            "y": 510,
+            "rotation": 270
+          },
+          {
+            "number": "109",
+            "name": "NC",
+            "x": 840,
+            "y": 510,
+            "rotation": 270
+          },
+          {
+            "number": "89",
+            "name": "GND",
+            "x": 770,
+            "y": 730,
+            "rotation": 90
+          },
+          {
+            "number": "90",
+            "name": "GND",
+            "x": 790,
+            "y": 730,
+            "rotation": 90
+          },
+          {
+            "number": "91",
+            "name": "GND",
+            "x": 810,
+            "y": 730,
+            "rotation": 90
+          },
+          {
+            "number": "92",
+            "name": "GND",
+            "x": 830,
+            "y": 730,
+            "rotation": 90
+          },
+          {
+            "number": "93",
+            "name": "GND",
+            "x": 870,
+            "y": 730,
+            "rotation": 90
+          },
+          {
+            "number": "94",
+            "name": "GND",
+            "x": 850,
+            "y": 730,
+            "rotation": 90
+          },
+          {
+            "number": "82",
+            "name": "USB_BOOT",
+            "x": 920,
+            "y": 570,
+            "rotation": 0
+          },
+          {
+            "number": "83",
+            "name": "NC",
+            "x": 920,
+            "y": 590,
+            "rotation": 0
+          },
+          {
+            "number": "84",
+            "name": "NC",
+            "x": 920,
+            "y": 610,
+            "rotation": 0
+          },
+          {
+            "number": "85",
+            "name": "NC",
+            "x": 920,
+            "y": 630,
+            "rotation": 0
+          },
+          {
+            "number": "86",
+            "name": "NC",
+            "x": 920,
+            "y": 650,
+            "rotation": 0
+          },
+          {
+            "number": "87",
+            "name": "NC",
+            "x": 920,
+            "y": 670,
+            "rotation": 0
+          },
+          {
+            "number": "88",
+            "name": "GND",
+            "x": 920,
+            "y": 690,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C80",
+        "sub": "6SVPC220MV.1",
+        "id": "b3e29c632e43b981",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 135,
+            "y": 650,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 165,
+            "y": 650,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C81",
+        "sub": "GRM21BR61A226ME44L.1",
+        "id": "21c2071ff573a5ab",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 200,
+            "y": 900,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 240,
+            "y": 900,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C82",
+        "sub": "CC0603KRX7R9BB104.1",
+        "id": "7f5f40fde4d40841",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 520,
+            "y": 900,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 560,
+            "y": 900,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C83",
+        "sub": "CL10C101JB8NNNC.1",
+        "id": "97d060da97e9d930",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 845,
+            "y": 900,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 875,
+            "y": 900,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C84",
+        "sub": "CL10C330JB8NNNC.1",
+        "id": "2a4dba913281384f",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1165,
+            "y": 900,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1195,
+            "y": 900,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "R60",
+        "sub": "0603WAF0000T5E.1",
+        "id": "81aeef432be4ff7a",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1520,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1480,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R61",
+        "sub": "0603WAF0000T5E.1",
+        "id": "6701132c885dc811",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1840,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1800,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R62",
+        "sub": "0603WAF5101T5E.1",
+        "id": "9d4474fdcd9249fe",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 240,
+            "y": 1030,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 200,
+            "y": 1030,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R63",
+        "sub": "0603WAF5101T5E.1",
+        "id": "8102291c192b97b0",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 560,
+            "y": 1030,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 520,
+            "y": 1030,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R64",
+        "sub": "0603WAF1002T5E.1",
+        "id": "7b39c35a2e0467a1",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 880,
+            "y": 1030,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 840,
+            "y": 1030,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "SW4",
+        "sub": "SKRPACE010.1",
+        "id": "f02000ceff5d10e5",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1150,
+            "y": 1035,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1210,
+            "y": 1035,
+            "rotation": 0
+          },
+          {
+            "number": "3",
+            "name": "3",
+            "x": 1150,
+            "y": 1015,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "4",
+            "x": 1210,
+            "y": 1015,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "J7",
+        "sub": "TYPE-C-31-M-12.1",
+        "id": "fd2615145ca6eac7",
+        "pins": [
+          {
+            "number": "A1B12",
+            "name": "GND",
+            "x": 1465,
+            "y": 1085,
+            "rotation": 180
+          },
+          {
+            "number": "A4B9",
+            "name": "VBUS",
+            "x": 1465,
+            "y": 1075,
+            "rotation": 180
+          },
+          {
+            "number": "B8",
+            "name": "SBU2",
+            "x": 1465,
+            "y": 1065,
+            "rotation": 180
+          },
+          {
+            "number": "A5",
+            "name": "CC1",
+            "x": 1465,
+            "y": 1055,
+            "rotation": 180
+          },
+          {
+            "number": "B7",
+            "name": "DN2",
+            "x": 1465,
+            "y": 1045,
+            "rotation": 180
+          },
+          {
+            "number": "A6",
+            "name": "DP1",
+            "x": 1465,
+            "y": 1035,
+            "rotation": 180
+          },
+          {
+            "number": "A7",
+            "name": "DN1",
+            "x": 1465,
+            "y": 1025,
+            "rotation": 180
+          },
+          {
+            "number": "B6",
+            "name": "DP2",
+            "x": 1465,
+            "y": 1015,
+            "rotation": 180
+          },
+          {
+            "number": "A8",
+            "name": "SBU1",
+            "x": 1465,
+            "y": 1005,
+            "rotation": 180
+          },
+          {
+            "number": "B5",
+            "name": "CC2",
+            "x": 1465,
+            "y": 995,
+            "rotation": 180
+          },
+          {
+            "number": "B4A9",
+            "name": "VBUS",
+            "x": 1465,
+            "y": 985,
+            "rotation": 180
+          },
+          {
+            "number": "B1A12",
+            "name": "GND",
+            "x": 1465,
+            "y": 975,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "EH",
+            "x": 1535,
+            "y": 1005,
+            "rotation": 0
+          },
+          {
+            "number": "3",
+            "name": "EH",
+            "x": 1535,
+            "y": 995,
+            "rotation": 0
+          },
+          {
+            "number": "2",
+            "name": "EH",
+            "x": 1535,
+            "y": 985,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "EH",
+            "x": 1535,
+            "y": 975,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "D20",
+        "sub": "PESD5V0U1UL,315.1",
+        "id": "bdec11d6f1cd7fae",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1790,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1850,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "D21",
+        "sub": "PESD5V0U1UL,315.1",
+        "id": "d368724f57fd15d9",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 190,
+            "y": 1160,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 250,
+            "y": 1160,
+            "rotation": 0
+          }
+        ]
+      }
+    ],
+    "wires": [
+      {
+        "id": "f10e266d17ae58c0",
+        "net": "VDD_4G",
+        "line": [
+          115,
+          650,
+          135,
+          650
+        ]
+      },
+      {
+        "id": "1f8bc059526f73c6",
+        "net": "GND",
+        "line": [
+          185,
+          650,
+          165,
+          650
+        ]
+      },
+      {
+        "id": "21f4116c468117cd",
+        "net": "VDD_4G",
+        "line": [
+          180,
+          900,
+          200,
+          900
+        ]
+      },
+      {
+        "id": "67f69f820e847f96",
+        "net": "GND",
+        "line": [
+          260,
+          900,
+          240,
+          900
+        ]
+      },
+      {
+        "id": "cecc9a5933659b8b",
+        "net": "VDD_4G",
+        "line": [
+          500,
+          900,
+          520,
+          900
+        ]
+      },
+      {
+        "id": "a4439c0d44f91dea",
+        "net": "GND",
+        "line": [
+          580,
+          900,
+          560,
+          900
+        ]
+      },
+      {
+        "id": "383e0f4e199aa187",
+        "net": "VDD_4G",
+        "line": [
+          825,
+          900,
+          845,
+          900
+        ]
+      },
+      {
+        "id": "a896454f7742083c",
+        "net": "GND",
+        "line": [
+          895,
+          900,
+          875,
+          900
+        ]
+      },
+      {
+        "id": "cb462ddd9ac27c34",
+        "net": "VDD_4G",
+        "line": [
+          1145,
+          900,
+          1165,
+          900
+        ]
+      },
+      {
+        "id": "0de487f9927d4705",
+        "net": "GND",
+        "line": [
+          1215,
+          900,
+          1195,
+          900
+        ]
+      },
+      {
+        "id": "d565e00ebde8a7c7",
+        "net": "LTE_USB_DP_EXT",
+        "line": [
+          1540,
+          900,
+          1520,
+          900
+        ]
+      },
+      {
+        "id": "3eb186fa664eaca1",
+        "net": "LTE_USB_DP",
+        "line": [
+          1460,
+          900,
+          1480,
+          900
+        ]
+      },
+      {
+        "id": "0ebe631e4c8af684",
+        "net": "LTE_USB_DM_EXT",
+        "line": [
+          1860,
+          900,
+          1840,
+          900
+        ]
+      },
+      {
+        "id": "d3cfc45cf9d8c9ce",
+        "net": "LTE_USB_DM",
+        "line": [
+          1780,
+          900,
+          1800,
+          900
+        ]
+      },
+      {
+        "id": "0aeac0b54717faa5",
+        "net": "GND",
+        "line": [
+          260,
+          1030,
+          240,
+          1030
+        ]
+      },
+      {
+        "id": "c7b01a04db1e8ab4",
+        "net": "LTE_USB_CC1",
+        "line": [
+          180,
+          1030,
+          200,
+          1030
+        ]
+      },
+      {
+        "id": "3fcf7f1deb0edcd5",
+        "net": "GND",
+        "line": [
+          580,
+          1030,
+          560,
+          1030
+        ]
+      },
+      {
+        "id": "5b8bec38e88b3bfa",
+        "net": "LTE_USB_CC2",
+        "line": [
+          500,
+          1030,
+          520,
+          1030
+        ]
+      },
+      {
+        "id": "c79f258157d6576b",
+        "net": "LTE_BOOT_SOURCE",
+        "line": [
+          900,
+          1030,
+          880,
+          1030
+        ]
+      },
+      {
+        "id": "eb68580dfdf487e9",
+        "net": "LTE_VDD_EXT",
+        "line": [
+          820,
+          1030,
+          840,
+          1030
+        ]
+      },
+      {
+        "id": "21ada556ab6a2617",
+        "net": "GND",
+        "line": [
+          180,
+          520,
+          200,
+          520
+        ]
+      },
+      {
+        "id": "5d03de8246312cae",
+        "net": "LTE_PWRKEY",
+        "line": [
+          180,
+          400,
+          200,
+          400
+        ]
+      },
+      {
+        "id": "eb16794e1f4af1ed",
+        "net": "GND",
+        "line": [
+          180,
+          340,
+          200,
+          340
+        ]
+      },
+      {
+        "id": "4001ab5c9cadc1b0",
+        "net": "SIM_DATA_M",
+        "line": [
+          180,
+          320,
+          200,
+          320
+        ]
+      },
+      {
+        "id": "f972600612e1b5b6",
+        "net": "SIM_RST_M",
+        "line": [
+          180,
+          300,
+          200,
+          300
+        ]
+      },
+      {
+        "id": "3e5e1d0525c6920f",
+        "net": "SIM_CLK_M",
+        "line": [
+          180,
+          280,
+          200,
+          280
+        ]
+      },
+      {
+        "id": "85664332fd9d7292",
+        "net": "SIM_VDD",
+        "line": [
+          300,
+          180,
+          300,
+          200
+        ]
+      },
+      {
+        "id": "894680dc6c0a9300",
+        "net": "LTE_RESET",
+        "line": [
+          320,
+          180,
+          320,
+          200
+        ]
+      },
+      {
+        "id": "01325f009c02e217",
+        "net": "LTE_NETSTATUS",
+        "line": [
+          340,
+          180,
+          340,
+          200
+        ]
+      },
+      {
+        "id": "e14f306c459cdaa9",
+        "net": "LTE_RXD",
+        "line": [
+          360,
+          180,
+          360,
+          200
+        ]
+      },
+      {
+        "id": "dbaf6fb7899f2455",
+        "net": "LTE_TXD",
+        "line": [
+          380,
+          180,
+          380,
+          200
+        ]
+      },
+      {
+        "id": "658e3c12d3189810",
+        "net": "GND",
+        "line": [
+          400,
+          180,
+          400,
+          200
+        ]
+      },
+      {
+        "id": "05b5c55af1361781",
+        "net": "LTE_RTS_OUT",
+        "line": [
+          460,
+          180,
+          460,
+          200
+        ]
+      },
+      {
+        "id": "40e711b8fc8624c5",
+        "net": "LTE_CTS_IN",
+        "line": [
+          580,
+          280,
+          560,
+          280
+        ]
+      },
+      {
+        "id": "f1960f5df932032e",
+        "net": "LTE_VDD_EXT",
+        "line": [
+          580,
+          300,
+          560,
+          300
+        ]
+      },
+      {
+        "id": "ed7f5568cdbc41c9",
+        "net": "LTE_STATUS",
+        "line": [
+          580,
+          320,
+          560,
+          320
+        ]
+      },
+      {
+        "id": "ee9b9cd27f33a4c6",
+        "net": "GND",
+        "line": [
+          580,
+          360,
+          560,
+          360
+        ]
+      },
+      {
+        "id": "f1eb6eb7f4a41816",
+        "net": "GND",
+        "line": [
+          580,
+          500,
+          560,
+          500
+        ]
+      },
+      {
+        "id": "e8d9959bb85f9d16",
+        "net": "LTE_ANT",
+        "line": [
+          580,
+          520,
+          560,
+          520
+        ]
+      },
+      {
+        "id": "54ee3d813e772a12",
+        "net": "GND",
+        "line": [
+          460,
+          620,
+          460,
+          600
+        ]
+      },
+      {
+        "id": "1b4217d7dff6c5ab",
+        "net": "GND",
+        "line": [
+          440,
+          620,
+          440,
+          600
+        ]
+      },
+      {
+        "id": "f8bc90e1eb232ae2",
+        "net": "GND",
+        "line": [
+          380,
+          620,
+          380,
+          600
+        ]
+      },
+      {
+        "id": "66e9e82931cf07ff",
+        "net": "GND",
+        "line": [
+          360,
+          620,
+          360,
+          600
+        ]
+      },
+      {
+        "id": "934361d799686cbc",
+        "net": "VDD_4G",
+        "line": [
+          340,
+          620,
+          340,
+          600
+        ]
+      },
+      {
+        "id": "55db2febe74ccbbc",
+        "net": "VDD_4G",
+        "line": [
+          320,
+          620,
+          320,
+          600
+        ]
+      },
+      {
+        "id": "72df28b44e0268eb",
+        "net": "GND",
+        "line": [
+          280,
+          180,
+          280,
+          200
+        ]
+      },
+      {
+        "id": "42578d69621321a6",
+        "net": "GND",
+        "line": [
+          690,
+          385,
+          710,
+          385
+        ]
+      },
+      {
+        "id": "2915661a7ecd4bcc",
+        "net": "GND",
+        "line": [
+          690,
+          365,
+          710,
+          365
+        ]
+      },
+      {
+        "id": "93e11e724a90559f",
+        "net": "GND",
+        "line": [
+          690,
+          345,
+          710,
+          345
+        ]
+      },
+      {
+        "id": "c41b214975d85257",
+        "net": "GND",
+        "line": [
+          690,
+          325,
+          710,
+          325
+        ]
+      },
+      {
+        "id": "1c72f8efbdb2c18a",
+        "net": "LTE_USB_DP",
+        "line": [
+          980,
+          230,
+          960,
+          230
+        ]
+      },
+      {
+        "id": "305e6f809f376022",
+        "net": "LTE_USB_DM",
+        "line": [
+          980,
+          250,
+          960,
+          250
+        ]
+      },
+      {
+        "id": "8bacf81d3800dc5b",
+        "net": "LTE_USB_VBUS",
+        "line": [
+          980,
+          270,
+          960,
+          270
+        ]
+      },
+      {
+        "id": "3dd961a512a4914a",
+        "net": "GND",
+        "line": [
+          840,
+          480,
+          840,
+          460
+        ]
+      },
+      {
+        "id": "6c1fcb97b856f11f",
+        "net": "GND",
+        "line": [
+          820,
+          480,
+          820,
+          460
+        ]
+      },
+      {
+        "id": "697346c4bdb276f4",
+        "net": "GND",
+        "line": [
+          800,
+          480,
+          800,
+          460
+        ]
+      },
+      {
+        "id": "313cfa20a6e67b68",
+        "net": "LTE_VREF",
+        "line": [
+          690,
+          400,
+          710,
+          400
+        ]
+      },
+      {
+        "id": "a3d2c2d7fdc115df",
+        "net": "GND",
+        "line": [
+          690,
+          210,
+          710,
+          210
+        ]
+      },
+      {
+        "id": "23dce7241cff6807",
+        "net": "GND",
+        "line": [
+          980,
+          210,
+          960,
+          210
+        ]
+      },
+      {
+        "id": "4cbfb70049a1ac19",
+        "net": "GND",
+        "line": [
+          690,
+          690,
+          710,
+          690
+        ]
+      },
+      {
+        "id": "df9a855ea970e2b0",
+        "net": "SIM_DET",
+        "line": [
+          690,
+          570,
+          710,
+          570
+        ]
+      },
+      {
+        "id": "f8ea2a1f54b216c6",
+        "net": "GND",
+        "line": [
+          770,
+          750,
+          770,
+          730
+        ]
+      },
+      {
+        "id": "7d235d41428df619",
+        "net": "GND",
+        "line": [
+          790,
+          750,
+          790,
+          730
+        ]
+      },
+      {
+        "id": "32c2f59f936114d5",
+        "net": "GND",
+        "line": [
+          810,
+          750,
+          810,
+          730
+        ]
+      },
+      {
+        "id": "bf6c75a496f62cee",
+        "net": "GND",
+        "line": [
+          830,
+          750,
+          830,
+          730
+        ]
+      },
+      {
+        "id": "028614e05de28a7e",
+        "net": "GND",
+        "line": [
+          870,
+          750,
+          870,
+          730
+        ]
+      },
+      {
+        "id": "ad1d61d7cfcec7ce",
+        "net": "GND",
+        "line": [
+          850,
+          750,
+          850,
+          730
+        ]
+      },
+      {
+        "id": "3f6250e001b0b2f8",
+        "net": "LTE_BOOT",
+        "line": [
+          940,
+          570,
+          920,
+          570
+        ]
+      },
+      {
+        "id": "b794d5f8db25dfd1",
+        "net": "GND",
+        "line": [
+          940,
+          690,
+          920,
+          690
+        ]
+      },
+      {
+        "id": "a2d6d9eeaa352f84",
+        "net": "LTE_BOOT_SOURCE",
+        "line": [
+          1130,
+          1035,
+          1150,
+          1035
+        ]
+      },
+      {
+        "id": "e2541940111173cf",
+        "net": "LTE_BOOT_SOURCE",
+        "line": [
+          1230,
+          1035,
+          1210,
+          1035
+        ]
+      },
+      {
+        "id": "ccd03389c8e7f2a1",
+        "net": "LTE_BOOT",
+        "line": [
+          1130,
+          1015,
+          1150,
+          1015
+        ]
+      },
+      {
+        "id": "aef34fdcd0d32f9e",
+        "net": "LTE_BOOT",
+        "line": [
+          1230,
+          1015,
+          1210,
+          1015
+        ]
+      },
+      {
+        "id": "3578abdfe3f20ad1",
+        "net": "GND",
+        "line": [
+          1445,
+          1085,
+          1465,
+          1085
+        ]
+      },
+      {
+        "id": "dc35fd472679a318",
+        "net": "LTE_USB_VBUS",
+        "line": [
+          1445,
+          1075,
+          1465,
+          1075
+        ]
+      },
+      {
+        "id": "1c46da43f391c43c",
+        "net": "LTE_USB_CC1",
+        "line": [
+          1445,
+          1055,
+          1465,
+          1055
+        ]
+      },
+      {
+        "id": "be827a3e090237dc",
+        "net": "LTE_USB_DM_EXT",
+        "line": [
+          1445,
+          1045,
+          1465,
+          1045
+        ]
+      },
+      {
+        "id": "bc413f896374b172",
+        "net": "LTE_USB_DP_EXT",
+        "line": [
+          1445,
+          1035,
+          1465,
+          1035
+        ]
+      },
+      {
+        "id": "149f7d076748916c",
+        "net": "LTE_USB_DM_EXT",
+        "line": [
+          1445,
+          1025,
+          1465,
+          1025
+        ]
+      },
+      {
+        "id": "63b7343919527dc7",
+        "net": "LTE_USB_DP_EXT",
+        "line": [
+          1445,
+          1015,
+          1465,
+          1015
+        ]
+      },
+      {
+        "id": "a3b9e5921b206f9e",
+        "net": "LTE_USB_CC2",
+        "line": [
+          1445,
+          995,
+          1465,
+          995
+        ]
+      },
+      {
+        "id": "62313801787ef283",
+        "net": "LTE_USB_VBUS",
+        "line": [
+          1445,
+          985,
+          1465,
+          985
+        ]
+      },
+      {
+        "id": "b82d7d505d2f48eb",
+        "net": "GND",
+        "line": [
+          1445,
+          975,
+          1465,
+          975
+        ]
+      },
+      {
+        "id": "1ae7325cca357436",
+        "net": "GND",
+        "line": [
+          1555,
+          1005,
+          1535,
+          1005
+        ]
+      },
+      {
+        "id": "cd08c061a719fbbe",
+        "net": "GND",
+        "line": [
+          1555,
+          995,
+          1535,
+          995
+        ]
+      },
+      {
+        "id": "a275cc652b4c7e06",
+        "net": "GND",
+        "line": [
+          1555,
+          985,
+          1535,
+          985
+        ]
+      },
+      {
+        "id": "5415985b59cc20fb",
+        "net": "GND",
+        "line": [
+          1555,
+          975,
+          1535,
+          975
+        ]
+      },
+      {
+        "id": "7bcaf3803ed34ef1",
+        "net": "LTE_USB_DP_EXT",
+        "line": [
+          1770,
+          1030,
+          1790,
+          1030
+        ]
+      },
+      {
+        "id": "513cc62887823a76",
+        "net": "GND",
+        "line": [
+          1870,
+          1030,
+          1850,
+          1030
+        ]
+      },
+      {
+        "id": "1e7b80b0788b990d",
+        "net": "LTE_USB_DM_EXT",
+        "line": [
+          170,
+          1160,
+          190,
+          1160
+        ]
+      },
+      {
+        "id": "ccdc0976023d5497",
+        "net": "GND",
+        "line": [
+          270,
+          1160,
+          250,
+          1160
+        ]
+      }
+    ]
+  },
+  "windowId": "85b38436-b87a-4f79-b4e4-e135b424871d"
+}

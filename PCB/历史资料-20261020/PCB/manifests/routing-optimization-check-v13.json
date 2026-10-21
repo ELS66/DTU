@@ -1,0 +1,10 @@
+{
+  "beforeVias": 362,
+  "afterVias": 310,
+  "removedRedundantVias": 0,
+  "removedRedundantSignalTraces": 0,
+  "removedFloatingTraces": 0,
+  "connectivityRegressions": [],
+  "conflicts": [],
+  "minimumClearanceMm": 0.1555910278958209
+}

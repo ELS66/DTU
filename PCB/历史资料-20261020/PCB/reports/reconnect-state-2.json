@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "result": {
+    "uuid": "b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5",
+    "name": "DTU-C5-Air780EPT-HW-V0.1-library",
+    "doc": {
+      "documentType": 1,
+      "uuid": "a8fcac05b0a49c52",
+      "tabId": "a8fcac05b0a49c52@b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5",
+      "parentProjectUuid": "b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5"
+    },
+    "parts": [
+      {
+        "ref": "U2",
+        "id": "a51dc27f6b6e2a92"
+      },
+      {
+        "ref": "U2",
+        "id": "f9693b91f52ecacd"
+      },
+      {
+        "ref": "U2",
+        "id": "8b1d6da5ef7f6ad9"
+      },
+      {
+        "ref": "C80",
+        "id": "b3e29c632e43b981"
+      }
+    ]
+  },
+  "windowId": "526d775a-811f-4480-bfc4-0bcd5b1459a4"
+}

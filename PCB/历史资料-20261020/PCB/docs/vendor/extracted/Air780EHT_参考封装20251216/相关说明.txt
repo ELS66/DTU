@@ -1,0 +1,5 @@
+1，只有PADS版封装；
+2，PADS，即PowerLogic和PowerPCB；
+3，PADS工具的版本是VX，如果无法打开，请使用PowerLogic导入.txt文件和使用PowerPCB导入.asc文件尝试；
+4，没有其它版本的封装，比如AD；
+5，自己建封装请参考"Air780EHT封装尺寸推荐"；

@@ -1,0 +1,885 @@
+{
+  "success": true,
+  "result": {
+    "parts": [
+      {
+        "ref": "F1",
+        "sub": "MF-MSMF200-2.1",
+        "id": "4ca1aed44ae49695",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 180,
+            "y": 190,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 140,
+            "y": 190,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "D1",
+        "sub": "SS34_C8678.1",
+        "id": "e803435cd2b5901f",
+        "pins": [
+          {
+            "number": "2",
+            "name": "A",
+            "x": 350,
+            "y": 190,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "K",
+            "x": 310,
+            "y": 190,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "F2",
+        "sub": "MF-MSMF200-2.1",
+        "id": "2d6c1028f0680327",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 180,
+            "y": 320,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 140,
+            "y": 320,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "D2",
+        "sub": "SS34_C8678.1",
+        "id": "688a67c761cf025f",
+        "pins": [
+          {
+            "number": "2",
+            "name": "A",
+            "x": 350,
+            "y": 320,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "K",
+            "x": 310,
+            "y": 320,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "F3",
+        "sub": "MF-MSMF200-2.1",
+        "id": "49792b1f8ed26ea5",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 180,
+            "y": 450,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 140,
+            "y": 450,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "D3",
+        "sub": "SS34_C8678.1",
+        "id": "65c4a3efe29bec90",
+        "pins": [
+          {
+            "number": "2",
+            "name": "A",
+            "x": 350,
+            "y": 450,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "K",
+            "x": 310,
+            "y": 450,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "D4",
+        "sub": "SMBJ12A/54.1",
+        "id": "d8b33a4e04cc739f",
+        "pins": [
+          {
+            "number": "1",
+            "name": "K",
+            "x": 580,
+            "y": 620,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "A",
+            "x": 620,
+            "y": 620,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "U3",
+        "sub": "TPS259470ARPWR.1",
+        "id": "701bc35cb6483da4",
+        "pins": [
+          {
+            "number": "10",
+            "name": "ITIMER",
+            "x": 850,
+            "y": 360,
+            "rotation": 0
+          },
+          {
+            "number": "9",
+            "name": "ILM",
+            "x": 850,
+            "y": 350,
+            "rotation": 0
+          },
+          {
+            "number": "8",
+            "name": "GND",
+            "x": 850,
+            "y": 340,
+            "rotation": 0
+          },
+          {
+            "number": "7",
+            "name": "DVDT",
+            "x": 850,
+            "y": 330,
+            "rotation": 0
+          },
+          {
+            "number": "6",
+            "name": "OUT",
+            "x": 850,
+            "y": 320,
+            "rotation": 0
+          },
+          {
+            "number": "5",
+            "name": "IN",
+            "x": 700,
+            "y": 320,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "FLT#/PGTH",
+            "x": 700,
+            "y": 330,
+            "rotation": 180
+          },
+          {
+            "number": "3",
+            "name": "PG/AUXOFF",
+            "x": 700,
+            "y": 340,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "OVLO/OVCSEL",
+            "x": 700,
+            "y": 350,
+            "rotation": 180
+          },
+          {
+            "number": "1",
+            "name": "EN/UVLO",
+            "x": 700,
+            "y": 360,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R1",
+        "sub": "0603WAF2323T5E.1",
+        "id": "cab7d3d060ef65d1",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 240,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 200,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R2",
+        "sub": "0603WAF1003T5E.1",
+        "id": "bbd4b9c18a89ebb3",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 560,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 520,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R3",
+        "sub": "0603WAF1004T5E.1",
+        "id": "4557168513b7a594",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 880,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 840,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R4",
+        "sub": "0603WAF1003T5E.1",
+        "id": "88749d9ce1185e82",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1200,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1160,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R5",
+        "sub": "0603WAF1871T5E.1",
+        "id": "7be4444d1930afc5",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1520,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1480,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R6",
+        "sub": "0603WAF1002T5E.1",
+        "id": "0449d9f272d81e7d",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1840,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1800,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "C1",
+        "sub": "CL31B106KAHNNNE.1",
+        "id": "f9daddcc6780dad4",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 200,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 240,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C2",
+        "sub": "CC0603KRX7R9BB104.1",
+        "id": "d12e5dade9825ce0",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 520,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 560,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C3",
+        "sub": "CL31B106KAHNNNE.1",
+        "id": "5c4d0c1e7434e45f",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 840,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 880,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C4",
+        "sub": "CL10B222KB8NNNC.1",
+        "id": "271793f07228038e",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1165,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1195,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "R92",
+        "sub": "0603WAF1002T5E.1",
+        "id": "e1fab714ef98b393",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 880,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 840,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      }
+    ],
+    "wires": [
+      {
+        "id": "c8a1203d399bb4a4",
+        "net": "VIN_485_FUSED",
+        "line": [
+          200,
+          190,
+          180,
+          190
+        ]
+      },
+      {
+        "id": "5db8831beff71501",
+        "net": "VIN_485",
+        "line": [
+          120,
+          190,
+          140,
+          190
+        ]
+      },
+      {
+        "id": "eb901db256c962f4",
+        "net": "VIN_485_FUSED",
+        "line": [
+          370,
+          190,
+          350,
+          190
+        ]
+      },
+      {
+        "id": "5fe6a6d7e90c07fd",
+        "net": "VIN_OR",
+        "line": [
+          290,
+          190,
+          310,
+          190
+        ]
+      },
+      {
+        "id": "5ec89874b9435bc5",
+        "net": "VIN_232_FUSED",
+        "line": [
+          200,
+          320,
+          180,
+          320
+        ]
+      },
+      {
+        "id": "15759c07ea367433",
+        "net": "VIN_232",
+        "line": [
+          120,
+          320,
+          140,
+          320
+        ]
+      },
+      {
+        "id": "42f2ab414466d5ca",
+        "net": "VIN_232_FUSED",
+        "line": [
+          370,
+          320,
+          350,
+          320
+        ]
+      },
+      {
+        "id": "99ca40aed3d3f1ad",
+        "net": "VIN_OR",
+        "line": [
+          290,
+          320,
+          310,
+          320
+        ]
+      },
+      {
+        "id": "502f5440cca996b0",
+        "net": "VIN_TTL_FUSED",
+        "line": [
+          200,
+          450,
+          180,
+          450
+        ]
+      },
+      {
+        "id": "25a126c699bc8848",
+        "net": "VIN_TTL",
+        "line": [
+          120,
+          450,
+          140,
+          450
+        ]
+      },
+      {
+        "id": "a67e883c4b280eae",
+        "net": "VIN_TTL_FUSED",
+        "line": [
+          370,
+          450,
+          350,
+          450
+        ]
+      },
+      {
+        "id": "c55214b62cbb0db3",
+        "net": "VIN_OR",
+        "line": [
+          290,
+          450,
+          310,
+          450
+        ]
+      },
+      {
+        "id": "a19d301bd3591342",
+        "net": "VIN_OR",
+        "line": [
+          560,
+          620,
+          580,
+          620
+        ]
+      },
+      {
+        "id": "a2fa7ae381f97213",
+        "net": "GND",
+        "line": [
+          640,
+          620,
+          620,
+          620
+        ]
+      },
+      {
+        "id": "eef8909d32a2a649",
+        "net": "EFUSE_ILM",
+        "line": [
+          870,
+          350,
+          850,
+          350
+        ]
+      },
+      {
+        "id": "69d6cde118d13522",
+        "net": "GND",
+        "line": [
+          870,
+          340,
+          850,
+          340
+        ]
+      },
+      {
+        "id": "5461dbeac6c2a8f2",
+        "net": "EFUSE_DVDT",
+        "line": [
+          870,
+          330,
+          850,
+          330
+        ]
+      },
+      {
+        "id": "6c32fbcfd96be644",
+        "net": "VIN_PROT",
+        "line": [
+          870,
+          320,
+          850,
+          320
+        ]
+      },
+      {
+        "id": "42299b75f48deb38",
+        "net": "VIN_OR",
+        "line": [
+          680,
+          320,
+          700,
+          320
+        ]
+      },
+      {
+        "id": "7de646f3bcb02a8a",
+        "net": "POWER_FAULT_N",
+        "line": [
+          680,
+          330,
+          700,
+          330
+        ]
+      },
+      {
+        "id": "74df9e75c7988d53",
+        "net": "EFUSE_OVLO",
+        "line": [
+          680,
+          350,
+          700,
+          350
+        ]
+      },
+      {
+        "id": "17438e1b90510792",
+        "net": "EFUSE_UVLO",
+        "line": [
+          680,
+          360,
+          700,
+          360
+        ]
+      },
+      {
+        "id": "31443a508da5c97e",
+        "net": "EFUSE_UVLO",
+        "line": [
+          260,
+          900,
+          240,
+          900
+        ]
+      },
+      {
+        "id": "2b737137ca901595",
+        "net": "VIN_OR",
+        "line": [
+          180,
+          900,
+          200,
+          900
+        ]
+      },
+      {
+        "id": "41aa76eebf8ce887",
+        "net": "GND",
+        "line": [
+          580,
+          900,
+          560,
+          900
+        ]
+      },
+      {
+        "id": "f85cd618c90e2565",
+        "net": "EFUSE_UVLO",
+        "line": [
+          500,
+          900,
+          520,
+          900
+        ]
+      },
+      {
+        "id": "a0fc251b0eb337d4",
+        "net": "EFUSE_OVLO",
+        "line": [
+          900,
+          900,
+          880,
+          900
+        ]
+      },
+      {
+        "id": "fe85a6a360375da2",
+        "net": "VIN_OR",
+        "line": [
+          820,
+          900,
+          840,
+          900
+        ]
+      },
+      {
+        "id": "2bc3654bb61c3acb",
+        "net": "GND",
+        "line": [
+          1220,
+          900,
+          1200,
+          900
+        ]
+      },
+      {
+        "id": "9a64c640c4899f46",
+        "net": "EFUSE_OVLO",
+        "line": [
+          1140,
+          900,
+          1160,
+          900
+        ]
+      },
+      {
+        "id": "3c6502b35792b383",
+        "net": "GND",
+        "line": [
+          1540,
+          900,
+          1520,
+          900
+        ]
+      },
+      {
+        "id": "51dd663898f3406e",
+        "net": "EFUSE_ILM",
+        "line": [
+          1460,
+          900,
+          1480,
+          900
+        ]
+      },
+      {
+        "id": "9dcc1ac5d1670884",
+        "net": "POWER_FAULT_N",
+        "line": [
+          1860,
+          900,
+          1840,
+          900
+        ]
+      },
+      {
+        "id": "91e9dee8c8e52a7b",
+        "net": "VDD_3V3",
+        "line": [
+          1780,
+          900,
+          1800,
+          900
+        ]
+      },
+      {
+        "id": "5ad546871189d6ee",
+        "net": "VIN_OR",
+        "line": [
+          180,
+          1030,
+          200,
+          1030
+        ]
+      },
+      {
+        "id": "4e4937f2d27780cb",
+        "net": "GND",
+        "line": [
+          260,
+          1030,
+          240,
+          1030
+        ]
+      },
+      {
+        "id": "3c9b046800d5eeb1",
+        "net": "VIN_OR",
+        "line": [
+          500,
+          1030,
+          520,
+          1030
+        ]
+      },
+      {
+        "id": "aff8378066978062",
+        "net": "GND",
+        "line": [
+          580,
+          1030,
+          560,
+          1030
+        ]
+      },
+      {
+        "id": "1668a45aebb4d15e",
+        "net": "VIN_PROT",
+        "line": [
+          820,
+          1030,
+          840,
+          1030
+        ]
+      },
+      {
+        "id": "be80febb0cfd0974",
+        "net": "GND",
+        "line": [
+          900,
+          1030,
+          880,
+          1030
+        ]
+      },
+      {
+        "id": "176da4049fd6fb56",
+        "net": "EFUSE_DVDT",
+        "line": [
+          1145,
+          1030,
+          1165,
+          1030
+        ]
+      },
+      {
+        "id": "fa25c8e91591aaa3",
+        "net": "GND",
+        "line": [
+          1215,
+          1030,
+          1195,
+          1030
+        ]
+      }
+    ]
+  },
+  "windowId": "85b38436-b87a-4f79-b4e4-e135b424871d"
+}

@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "components": 196,
+  "pads": 705,
+  "pinNetAssertions": 610,
+  "nettedPads": 618,
+  "errors": []
+}

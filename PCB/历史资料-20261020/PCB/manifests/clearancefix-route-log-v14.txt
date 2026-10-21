@@ -1,0 +1,21 @@
+Initial transformed tracks 508 reroute 19 moved vias 90 branch shifts 4
+0 VDD_4G 3cde4b958025f755 False vias 0
+1 VDD_4G 1e3f4f7c0e9de32e False vias 0
+2 VDD_4G a6709b0f06e049fd True vias 0
+3 LED_LTE_R_N 7bf538902e37cffc True vias 0
+4 LED_RX_N 680e08df11aa13c2 True vias 0
+5 ESP_EN 369d4c0c47dd1768 True vias 0
+6 LTE_TXD eceb4fd402370f13 True vias 0
+7 LTE_BOOT_FIXTURE 0b39c693b43b1ea7 True vias 0
+8 LED_ESP_B_N 054030892e4505f0 True vias 0
+9 LED_LTE_B_N 20666eb4164f4db3 True vias 1
+10 MCU_LTE_RX 3377db954de4eb3c True vias 1
+11 LED_ESP_B_A 778948704866436c True vias 1
+12 LTE_TXD d17913218e9342fa True vias 1
+13 MCU_LTE_RX 23bd581d8c6b95e8 True vias 1
+14 LTE_BOOT 1e6a1f0d16537f08 True vias 1
+15 MCU_LTE_PWRKEY 3f50d0224078f7e2 True vias 1
+16 MCU_LTE_TX 67a104d2090364bd True vias 1
+17 LED_ESP_G_N 0c1f1c4cabd97a48 True vias 2
+18 LED_LTE_G_N cf54b9f8a2f26379 True vias 2
+RESULT 512 310 FAILED 2

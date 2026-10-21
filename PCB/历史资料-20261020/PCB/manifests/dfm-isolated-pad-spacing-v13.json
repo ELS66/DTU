@@ -1,0 +1,187 @@
+[
+  {
+    "a": {
+      "kind": "via",
+      "id": "74a721a974fa8d8f",
+      "ref": "74a721a974fa8d8f",
+      "net": "GND",
+      "layer": 12,
+      "x": 29.57500054,
+      "y": 13.45000104,
+      "diameter": 0.4499991,
+      "hole": 0.19999959999999997
+    },
+    "b": {
+      "kind": "pad",
+      "id": "d4a61923be0d68fce19",
+      "ref": "D9",
+      "number": "2",
+      "net": "GND",
+      "layer": 1,
+      "shape": [
+        "RECT",
+        31.5,
+        31.5,
+        0
+      ],
+      "x": 28.956,
+      "y": 14.000480000000001
+    },
+    "gapMm": 0.040744621409067726,
+    "sameNet": true,
+    "aCopperIslands": [
+      222
+    ],
+    "bCopperIslands": [
+      194
+    ]
+  },
+  {
+    "a": {
+      "kind": "via",
+      "id": "6085135c819a0a52",
+      "ref": "6085135c819a0a52",
+      "net": "GND",
+      "layer": 12,
+      "x": 17.79999996,
+      "y": 62.02499913999999,
+      "diameter": 0.4499991,
+      "hole": 0.19999959999999997
+    },
+    "b": {
+      "kind": "pad",
+      "id": "437ee3b0ea55cd34e15",
+      "ref": "D10",
+      "number": "2",
+      "net": "GND",
+      "layer": 1,
+      "shape": [
+        "RECT",
+        15.7,
+        27.6,
+        0
+      ],
+      "x": 17.35074,
+      "y": 62.49923999999999
+    },
+    "gapMm": 0.0540487241815498,
+    "sameNet": true,
+    "aCopperIslands": [
+      99
+    ],
+    "bCopperIslands": [
+      100
+    ]
+  },
+  {
+    "a": {
+      "kind": "via",
+      "id": "49228cec81f7eb66",
+      "ref": "49228cec81f7eb66",
+      "net": "GND",
+      "layer": 12,
+      "x": 39.899998939999996,
+      "y": 49.15000076,
+      "diameter": 0.4499991,
+      "hole": 0.19999959999999997
+    },
+    "b": {
+      "kind": "pad",
+      "id": "27e64738f6dde1f7e94",
+      "ref": "U1",
+      "number": "29",
+      "net": "GND",
+      "layer": 1,
+      "shape": [
+        "RECT",
+        51.2,
+        51.2,
+        0
+      ],
+      "x": 39.047419999999995,
+      "y": 49.99482
+    },
+    "gapMm": 0.055866168157247084,
+    "sameNet": true,
+    "aCopperIslands": [
+      334
+    ],
+    "bCopperIslands": [
+      320
+    ]
+  },
+  {
+    "a": {
+      "kind": "via",
+      "id": "49228cec81f7eb66",
+      "ref": "49228cec81f7eb66",
+      "net": "GND",
+      "layer": 12,
+      "x": 39.899998939999996,
+      "y": 49.15000076,
+      "diameter": 0.4499991,
+      "hole": 0.19999959999999997
+    },
+    "b": {
+      "kind": "pad",
+      "id": "27e64738f6dde1f7e89",
+      "ref": "U1",
+      "number": "29",
+      "net": "GND",
+      "layer": 1,
+      "shape": [
+        "RECT",
+        51.2,
+        51.2,
+        0
+      ],
+      "x": 40.74668,
+      "y": 48.29556
+    },
+    "gapMm": 0.05849600767476582,
+    "sameNet": true,
+    "aCopperIslands": [
+      334
+    ],
+    "bCopperIslands": [
+      333
+    ]
+  },
+  {
+    "a": {
+      "kind": "via",
+      "id": "49228cec81f7eb66",
+      "ref": "49228cec81f7eb66",
+      "net": "GND",
+      "layer": 12,
+      "x": 39.899998939999996,
+      "y": 49.15000076,
+      "diameter": 0.4499991,
+      "hole": 0.19999959999999997
+    },
+    "b": {
+      "kind": "pad",
+      "id": "27e64738f6dde1f7e95",
+      "ref": "U1",
+      "number": "29",
+      "net": "GND",
+      "layer": 1,
+      "shape": [
+        "RECT",
+        51.2,
+        51.2,
+        0
+      ],
+      "x": 39.047419999999995,
+      "y": 48.29556
+    },
+    "gapMm": 0.06248129987595402,
+    "sameNet": true,
+    "aCopperIslands": [
+      334
+    ],
+    "bCopperIslands": [
+      319
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "result": {
+    "project": "de280d363d1bdc6eb48b4e11624beec0d326c823aa88a60393f490d052ff1c05",
+    "pcbs": [
+      {
+        "itemType": "PCB",
+        "uuid": "4211128ecf040c100b33238447713203",
+        "name": "DTU_V0.13_正面贴片_60x70",
+        "parentProjectUuid": "de280d363d1bdc6eb48b4e11624beec0d326c823aa88a60393f490d052ff1c05",
+        "parentBoardName": "DTU_V0.13_正面贴片_60x70"
+      }
+    ]
+  },
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

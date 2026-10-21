@@ -1,0 +1,118 @@
+{
+  "success": true,
+  "result": [
+    {
+      "ref": "U4",
+      "id": "b77d7507276bdc0e",
+      "x": 300,
+      "y": 370,
+      "rotation": 0
+    },
+    {
+      "ref": "U5",
+      "id": "37343b663133a266",
+      "x": 660,
+      "y": 370,
+      "rotation": 0
+    },
+    {
+      "ref": "L1",
+      "id": "917a073a9faf6772",
+      "x": 1020,
+      "y": 370,
+      "rotation": 0
+    },
+    {
+      "ref": "R90",
+      "id": "e8d1b552ddd7be48",
+      "x": 1740,
+      "y": 370,
+      "rotation": 0
+    },
+    {
+      "ref": "R91",
+      "id": "08e3e28f7c7db516",
+      "x": 300,
+      "y": 605,
+      "rotation": 0
+    },
+    {
+      "ref": "C90",
+      "id": "b7604d971a444a20",
+      "x": 660,
+      "y": 605,
+      "rotation": 0
+    },
+    {
+      "ref": "C91",
+      "id": "2ed60cb6077a2dbd",
+      "x": 1020,
+      "y": 605,
+      "rotation": 0
+    },
+    {
+      "ref": "C92",
+      "id": "c1b9004d858f038d",
+      "x": 1380,
+      "y": 605,
+      "rotation": 0
+    },
+    {
+      "ref": "C93",
+      "id": "0e133e93e7dac97a",
+      "x": 1740,
+      "y": 605,
+      "rotation": 0
+    },
+    {
+      "ref": "C94",
+      "id": "78baa4f087ba7ab9",
+      "x": 300,
+      "y": 840,
+      "rotation": 0
+    },
+    {
+      "ref": "C95",
+      "id": "3852ac0e228ee711",
+      "x": 660,
+      "y": 840,
+      "rotation": 0
+    },
+    {
+      "ref": "C98",
+      "id": "7b88b35f34c7e6be",
+      "x": 1740,
+      "y": 840,
+      "rotation": 0
+    },
+    {
+      "ref": "C106",
+      "id": "15547f0cbccf0e46",
+      "x": 660,
+      "y": 1075,
+      "rotation": 0
+    },
+    {
+      "ref": "C85",
+      "id": "26fa9d49c7070001",
+      "x": 1020,
+      "y": 1075,
+      "rotation": 0
+    },
+    {
+      "ref": "R94",
+      "id": "3a162726b76bc818",
+      "x": 1740,
+      "y": 1075,
+      "rotation": 0
+    },
+    {
+      "ref": "R95",
+      "id": "dfbfdbc57f9b171f",
+      "x": 300,
+      "y": 1310,
+      "rotation": 0
+    }
+  ],
+  "windowId": "adb71a11-6db8-48c3-8859-f78c7ce85201"
+}

@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "result": {
+    "out": [
+      {
+        "name": "GND_L2",
+        "filled": true
+      },
+      {
+        "name": "GND_L3",
+        "filled": true
+      },
+      {
+        "name": "LDO_GND_TOP",
+        "filled": true
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

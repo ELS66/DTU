@@ -1,0 +1,62 @@
+{
+  "revision": "V0.14.2 引脚边界修正 2026-10-16",
+  "boardMm": [
+    60,
+    75
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 310,
+  "drilledHoles": 326,
+  "pcbDrcIssues": 0,
+  "factoryDfmPassed": false,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261016-before-pin-land-fix-153620",
+  "projectUuid": "2c279e5e44ab838a0da4374e7618123ceb24be898b3f9279a35d7ed197648b6b",
+  "pcbUuid": "4211128ecf040c100b33238447713203",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.14.2-60x75-Pinfix.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.14.2-60x75-Pinfix-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.14.2-60x75-引脚边界修正复查包.zip",
+  "actualCopperManifest": "pinfix-actual-routing-v14_2.json",
+  "actualSourceSnapshot": "pinfix-reopened-source-v14_2.json",
+  "files": [
+    {
+      "file": "DTU-V0.14.2-60x75-Pinfix.epro2",
+      "bytes": 1256114,
+      "sha256": "75b5e33a02887398077141744545c3071633f0d6491db3617b8b33f54a374130"
+    },
+    {
+      "file": "DTU-V0.14.2-60x75-Pinfix-Gerber.zip",
+      "bytes": 268087,
+      "sha256": "0c31c6e385c3574c94b29a8d83969133635c605bf6d312dfb3478b91252de418"
+    },
+    {
+      "file": "DTU-V0.14.2-Pinfix-BOM-99.csv",
+      "bytes": 3735,
+      "sha256": "c4fd439494df391c8042dc4a40db50a27435549c28092bc80ec0177eaa85272a"
+    },
+    {
+      "file": "DTU-V0.14.2-Pinfix-CPL-99-Top.csv",
+      "bytes": 2343,
+      "sha256": "31574f15d74a1d1a54a2690feefde08f934454f7bfaf89d4672b1d470842205a"
+    },
+    {
+      "file": "DTU-V0.14.2-Pinfix-README.md",
+      "bytes": 1066,
+      "sha256": "5ef2f91cba5efcf82fb6b6ff6762fc0c06b0a5a96358edb1595301a1f3e891d3"
+    },
+    {
+      "file": "V0.14.2-引脚边界修正记录.md",
+      "bytes": 2536,
+      "sha256": "beb3150a51b0316b90f3d0eb3c2ee99111c96b4d25cb7705e6b8868e69ce704c"
+    },
+    {
+      "file": "DTU-V0.14.2-Pinfix-before-after.png",
+      "bytes": 16719,
+      "sha256": "410c94564af189b30bfad8232471766458aaf03975a2a57114a4b777554305bc"
+    }
+  ],
+  "mountKeepoutVerification": "mountfix-verification-v14_1.json",
+  "pinLandVerification": "pinfix-verification-v14_2.json"
+}

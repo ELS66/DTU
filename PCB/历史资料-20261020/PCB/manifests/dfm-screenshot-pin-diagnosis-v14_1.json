@@ -1,0 +1,1031 @@
+{
+  "scope": "Exact native footprint RECT land dimensions against layer50 nominal model polygons; does not replace manufacturer metal/tolerance or factory DFM geometry definitions.",
+  "rows": [
+    {
+      "ref": "U1",
+      "model": "e3",
+      "pin": "32",
+      "nominalLeadBoundsLocalMm": [
+        1.0099294,
+        8.3750404,
+        1.9099529999999998,
+        9.225026
+      ],
+      "copperBoundsLocalMm": [
+        1.0099928999999999,
+        8.2249645,
+        1.9099911,
+        9.724961500000001
+      ],
+      "maximumOutsideMm": 6.349999999977207e-05,
+      "signedModelCopperMarginMm": -6.349999999977207e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e4",
+      "pin": "31",
+      "nominalLeadBoundsLocalMm": [
+        2.2799294,
+        8.3750404,
+        3.179953,
+        9.225026
+      ],
+      "copperBoundsLocalMm": [
+        2.2799929000000003,
+        8.2249645,
+        3.1799911,
+        9.724961500000001
+      ],
+      "maximumOutsideMm": 6.350000000043822e-05,
+      "signedModelCopperMarginMm": -6.350000000043822e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e5",
+      "pin": "30",
+      "nominalLeadBoundsLocalMm": [
+        3.5499294,
+        8.3750404,
+        4.449953,
+        9.225026
+      ],
+      "copperBoundsLocalMm": [
+        3.5499929,
+        8.2249645,
+        4.4499911,
+        9.724961500000001
+      ],
+      "maximumOutsideMm": 6.349999999999412e-05,
+      "signedModelCopperMarginMm": -6.349999999999412e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e6",
+      "pin": "28",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        7.1051166,
+        9.0000328,
+        8.0051148
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        7.1051039,
+        9.6270445,
+        8.0051021
+      ],
+      "maximumOutsideMm": 1.2699999999199464e-05,
+      "signedModelCopperMarginMm": -1.2699999999199464e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e7",
+      "pin": "27",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        5.8351166,
+        9.0000328,
+        6.735114799999999
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        5.835103899999999,
+        9.6270445,
+        6.7351021
+      ],
+      "maximumOutsideMm": 1.2699999999199464e-05,
+      "signedModelCopperMarginMm": -1.2699999999199464e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e8",
+      "pin": "26",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        4.5651166000000005,
+        9.0000328,
+        5.4651148
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        4.5651038999999995,
+        9.6270445,
+        5.4651021
+      ],
+      "maximumOutsideMm": 1.2700000000087643e-05,
+      "signedModelCopperMarginMm": -1.2700000000087643e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e9",
+      "pin": "25",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        3.2951166,
+        9.0000328,
+        4.1951148
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        3.2951039,
+        9.6270445,
+        4.1951021
+      ],
+      "maximumOutsideMm": 1.2700000000087643e-05,
+      "signedModelCopperMarginMm": -1.2700000000087643e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e10",
+      "pin": "24",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        2.0251166,
+        9.0000328,
+        2.9251148000000002
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        2.0251039,
+        9.6270445,
+        2.9251020999999997
+      ],
+      "maximumOutsideMm": 1.2700000000531732e-05,
+      "signedModelCopperMarginMm": -1.2700000000531732e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e11",
+      "pin": "23",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        0.7551165999999999,
+        9.0000328,
+        1.6551148
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        0.7551039,
+        9.6270445,
+        1.6551021000000001
+      ],
+      "maximumOutsideMm": 1.2699999999865598e-05,
+      "signedModelCopperMarginMm": -1.2699999999865598e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e12",
+      "pin": "17",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        -6.864857999999999,
+        9.0000328,
+        -5.964859799999999
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        -6.8648961,
+        9.6270445,
+        -5.9648978999999995
+      ],
+      "maximumOutsideMm": 3.810000000026293e-05,
+      "signedModelCopperMarginMm": -3.810000000026293e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e13",
+      "pin": "18",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        -5.594858,
+        9.0000328,
+        -4.6948598
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        -5.594896100000001,
+        9.6270445,
+        -4.6948979
+      ],
+      "maximumOutsideMm": 3.810000000026293e-05,
+      "signedModelCopperMarginMm": -3.810000000026293e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e14",
+      "pin": "19",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        -4.324858,
+        9.0000328,
+        -3.4248597999999997
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        -4.3248961,
+        9.6270445,
+        -3.4248979
+      ],
+      "maximumOutsideMm": 3.810000000026293e-05,
+      "signedModelCopperMarginMm": -3.810000000026293e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e15",
+      "pin": "20",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        -3.054858,
+        9.0000328,
+        -2.1548598
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        -3.0548961,
+        9.6270445,
+        -2.1548979000000004
+      ],
+      "maximumOutsideMm": 3.810000000026293e-05,
+      "signedModelCopperMarginMm": -3.810000000026293e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e16",
+      "pin": "21",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        -1.7848579999999998,
+        9.0000328,
+        -0.8848598000000001
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        -1.7848961,
+        9.6270445,
+        -0.8848979
+      ],
+      "maximumOutsideMm": 3.809999999992986e-05,
+      "signedModelCopperMarginMm": -3.809999999992986e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e17",
+      "pin": "22",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        -0.5148579999999999,
+        9.0000328,
+        0.3851402
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        -0.5148961,
+        9.6270445,
+        0.3851021
+      ],
+      "maximumOutsideMm": 3.809999999998537e-05,
+      "signedModelCopperMarginMm": -3.809999999998537e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e18",
+      "pin": "15",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        -9.404857999999999,
+        9.0000328,
+        -8.5048598
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        -9.404896099999998,
+        9.6270445,
+        -8.5048979
+      ],
+      "maximumOutsideMm": 3.8099999999374745e-05,
+      "signedModelCopperMarginMm": -3.8099999999374745e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e19",
+      "pin": "16",
+      "nominalLeadBoundsLocalMm": [
+        8.1500472,
+        -8.134858,
+        9.0000328,
+        -7.2348598
+      ],
+      "copperBoundsLocalMm": [
+        8.1270475,
+        -8.134896099999999,
+        9.6270445,
+        -7.234897899999999
+      ],
+      "maximumOutsideMm": 3.8099999999374745e-05,
+      "signedModelCopperMarginMm": -3.8099999999374745e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e20",
+      "pin": "2",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        5.8149998,
+        -8.1499202,
+        6.714998
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        5.815037899999999,
+        -8.1267935,
+        6.7150361
+      ],
+      "maximumOutsideMm": 3.8099999999374745e-05,
+      "signedModelCopperMarginMm": -3.8099999999374745e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e21",
+      "pin": "1",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        7.0849998,
+        -8.1499202,
+        7.984998
+      ],
+      "copperBoundsLocalMm": [
+        -9.6270445,
+        7.085037899999999,
+        -8.1270475,
+        7.985036099999999
+      ],
+      "maximumOutsideMm": 3.809999999848657e-05,
+      "signedModelCopperMarginMm": -3.809999999848657e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e22",
+      "pin": "8",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        -1.8050002,
+        -8.1499202,
+        -0.905002
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        -1.8049621,
+        -8.1267935,
+        -0.9049638999999999
+      ],
+      "maximumOutsideMm": 3.8100000000040886e-05,
+      "signedModelCopperMarginMm": -3.8100000000040886e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e23",
+      "pin": "7",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        -0.5350001999999999,
+        -8.1499202,
+        0.364998
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        -0.5349621,
+        -8.1267935,
+        0.3650361
+      ],
+      "maximumOutsideMm": 3.809999999992986e-05,
+      "signedModelCopperMarginMm": -3.809999999992986e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e24",
+      "pin": "6",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        0.7349998,
+        -8.1499202,
+        1.634998
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        0.7350378999999999,
+        -8.1267935,
+        1.6350360999999998
+      ],
+      "maximumOutsideMm": 3.809999999992986e-05,
+      "signedModelCopperMarginMm": -3.809999999992986e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e25",
+      "pin": "5",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        2.0049997999999998,
+        -8.1499202,
+        2.904998
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        2.0050379,
+        -8.1267935,
+        2.9050361
+      ],
+      "maximumOutsideMm": 3.810000000026293e-05,
+      "signedModelCopperMarginMm": -3.810000000026293e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e26",
+      "pin": "4",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        3.2749998000000002,
+        -8.1499202,
+        4.1749979999999995
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        3.2750379,
+        -8.1267935,
+        4.1750361
+      ],
+      "maximumOutsideMm": 3.8099999999818834e-05,
+      "signedModelCopperMarginMm": -3.8099999999818834e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e27",
+      "pin": "3",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        4.5449998,
+        -8.1499202,
+        5.444998
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        4.5450379,
+        -8.1267935,
+        5.4450361
+      ],
+      "maximumOutsideMm": 3.8099999999374745e-05,
+      "signedModelCopperMarginMm": -3.8099999999374745e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e28",
+      "pin": "9",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        -3.0749747999999997,
+        -8.1499202,
+        -2.1749766
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        -3.0749620999999996,
+        -8.1267935,
+        -2.1749639
+      ],
+      "maximumOutsideMm": 1.2700000000087643e-05,
+      "signedModelCopperMarginMm": -1.2700000000087643e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e29",
+      "pin": "10",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        -4.3449748,
+        -8.1499202,
+        -3.4449765999999995
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        -4.3449621,
+        -8.1267935,
+        -3.4449639
+      ],
+      "maximumOutsideMm": 1.2700000000087643e-05,
+      "signedModelCopperMarginMm": -1.2700000000087643e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e30",
+      "pin": "11",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        -5.6149748,
+        -8.1499202,
+        -4.7149766
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        -5.6149621000000005,
+        -8.1267935,
+        -4.7149639
+      ],
+      "maximumOutsideMm": 1.2699999999199464e-05,
+      "signedModelCopperMarginMm": -1.2699999999199464e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e31",
+      "pin": "12",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        -6.8849748,
+        -8.1499202,
+        -5.9849765999999995
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        -6.8849621,
+        -8.1267935,
+        -5.9849638999999994
+      ],
+      "maximumOutsideMm": 1.2700000000087643e-05,
+      "signedModelCopperMarginMm": -1.2700000000087643e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e32",
+      "pin": "13",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        -8.1549748,
+        -8.1499202,
+        -7.2549766
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        -8.1549621,
+        -8.1267935,
+        -7.2549639
+      ],
+      "maximumOutsideMm": 1.2699999999199464e-05,
+      "signedModelCopperMarginMm": -1.2699999999199464e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e33",
+      "pin": "14",
+      "nominalLeadBoundsLocalMm": [
+        -8.999905799999999,
+        -9.4249748,
+        -8.1499202,
+        -8.5249766
+      ],
+      "copperBoundsLocalMm": [
+        -9.6267905,
+        -9.4249621,
+        -8.1267935,
+        -8.524963900000001
+      ],
+      "maximumOutsideMm": 1.2699999999199464e-05,
+      "signedModelCopperMarginMm": -1.2699999999199464e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e34",
+      "pin": "29",
+      "nominalLeadBoundsLocalMm": [
+        1.8800826000000002,
+        -3.4029395999999994,
+        3.18008,
+        -2.1029422
+      ],
+      "copperBoundsLocalMm": [
+        1.8800953000000002,
+        -3.4029776999999997,
+        3.1800927,
+        -2.1029803
+      ],
+      "maximumOutsideMm": 4.0160926283994265e-05,
+      "signedModelCopperMarginMm": -4.0160926283994265e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e35",
+      "pin": "29",
+      "nominalLeadBoundsLocalMm": [
+        0.180086,
+        -3.4029395999999994,
+        1.4800834,
+        -2.1029422
+      ],
+      "copperBoundsLocalMm": [
+        0.1800733,
+        -3.4029776999999997,
+        1.4800706999999997,
+        -2.1029803
+      ],
+      "maximumOutsideMm": 4.016092628406448e-05,
+      "signedModelCopperMarginMm": -4.016092628406448e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e36",
+      "pin": "29",
+      "nominalLeadBoundsLocalMm": [
+        -1.5199106,
+        -3.4029395999999994,
+        -0.21991319999999998,
+        -2.1029422
+      ],
+      "copperBoundsLocalMm": [
+        -1.5199487,
+        -3.4029776999999997,
+        -0.21995130000000007,
+        -2.1029803
+      ],
+      "maximumOutsideMm": 5.388153672635497e-05,
+      "signedModelCopperMarginMm": -5.388153672635497e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e37",
+      "pin": "29",
+      "nominalLeadBoundsLocalMm": [
+        -1.5199106,
+        -1.7029429999999999,
+        -0.21991319999999998,
+        -0.4029456
+      ],
+      "copperBoundsLocalMm": [
+        -1.5199487,
+        -1.7029557,
+        -0.21995130000000007,
+        -0.4029583
+      ],
+      "maximumOutsideMm": 4.016092628422246e-05,
+      "signedModelCopperMarginMm": -4.016092628422246e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e38",
+      "pin": "29",
+      "nominalLeadBoundsLocalMm": [
+        0.180086,
+        -1.7029429999999999,
+        1.4800834,
+        -0.4029456
+      ],
+      "copperBoundsLocalMm": [
+        0.1800733,
+        -1.7029557,
+        1.4800706999999997,
+        -0.4029583
+      ],
+      "maximumOutsideMm": 1.7960512242340756e-05,
+      "signedModelCopperMarginMm": -1.7960512242340756e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e39",
+      "pin": "29",
+      "nominalLeadBoundsLocalMm": [
+        1.8800826000000002,
+        -0.0029464,
+        3.18008,
+        1.297051
+      ],
+      "copperBoundsLocalMm": [
+        1.8800953000000002,
+        -0.002933699999999928,
+        3.1800927,
+        1.2970636999999998
+      ],
+      "maximumOutsideMm": 1.796051224225121e-05,
+      "signedModelCopperMarginMm": -1.796051224225121e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e40",
+      "pin": "29",
+      "nominalLeadBoundsLocalMm": [
+        1.8800826000000002,
+        -1.7029429999999999,
+        3.18008,
+        -0.4029456
+      ],
+      "copperBoundsLocalMm": [
+        1.8800953000000002,
+        -1.7029557,
+        3.1800927,
+        -0.4029583
+      ],
+      "maximumOutsideMm": 1.7960512242183746e-05,
+      "signedModelCopperMarginMm": -1.7960512242183746e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e41",
+      "pin": "29",
+      "nominalLeadBoundsLocalMm": [
+        0.180086,
+        -0.0029464,
+        1.4800834,
+        1.297051
+      ],
+      "copperBoundsLocalMm": [
+        0.1800733,
+        -0.002933699999999928,
+        1.4800706999999997,
+        1.2970636999999998
+      ],
+      "maximumOutsideMm": 1.796051224240822e-05,
+      "signedModelCopperMarginMm": -1.796051224240822e-05
+    },
+    {
+      "ref": "U1",
+      "model": "e42",
+      "pin": "29",
+      "nominalLeadBoundsLocalMm": [
+        -1.5199106,
+        -0.0029464,
+        -0.21991319999999998,
+        1.297051
+      ],
+      "copperBoundsLocalMm": [
+        -1.5199487,
+        -0.002933699999999928,
+        -0.21995130000000007,
+        1.2970636999999998
+      ],
+      "maximumOutsideMm": 4.016092628425264e-05,
+      "signedModelCopperMarginMm": -4.016092628425264e-05
+    },
+    {
+      "ref": "J4",
+      "model": "e4",
+      "pin": "CD",
+      "nominalLeadBoundsLocalMm": [
+        2.2450552,
+        5.899988199999999,
+        2.6950415999999997,
+        7.1280019999999995
+      ],
+      "copperBoundsLocalMm": [
+        2.1450172999999997,
+        6.0220733,
+        2.7950287,
+        7.3220707
+      ],
+      "maximumOutsideMm": 0.12208510000000049,
+      "signedModelCopperMarginMm": -0.12208510000000049
+    },
+    {
+      "ref": "J4",
+      "model": "e5",
+      "pin": "C5",
+      "nominalLeadBoundsLocalMm": [
+        1.2950952,
+        5.899988199999999,
+        1.7450815999999998,
+        7.1280019999999995
+      ],
+      "copperBoundsLocalMm": [
+        1.1950573,
+        6.0220733,
+        1.8450687,
+        7.3220707
+      ],
+      "maximumOutsideMm": 0.1220851000000005,
+      "signedModelCopperMarginMm": -0.1220851000000005
+    },
+    {
+      "ref": "J4",
+      "model": "e6",
+      "pin": "C7",
+      "nominalLeadBoundsLocalMm": [
+        -3.7849048,
+        5.899988199999999,
+        -3.3349184,
+        7.1280019999999995
+      ],
+      "copperBoundsLocalMm": [
+        -3.9599361999999996,
+        6.0220733,
+        -3.1599378,
+        7.3220707
+      ],
+      "maximumOutsideMm": 0.12208510000000049,
+      "signedModelCopperMarginMm": -0.12208510000000049
+    },
+    {
+      "ref": "J4",
+      "model": "e7",
+      "pin": "C3",
+      "nominalLeadBoundsLocalMm": [
+        -5.0999898,
+        5.899988199999999,
+        -4.6500034,
+        7.128027399999999
+      ],
+      "copperBoundsLocalMm": [
+        -5.2299362,
+        6.0218193,
+        -4.4299378,
+        7.3218167
+      ],
+      "maximumOutsideMm": 0.12183110000000053,
+      "signedModelCopperMarginMm": -0.12183110000000053
+    },
+    {
+      "ref": "J4",
+      "model": "e8",
+      "pin": "8",
+      "nominalLeadBoundsLocalMm": [
+        -6.6999866,
+        4.5778928,
+        -6.1500004,
+        6.0779152
+      ],
+      "copperBoundsLocalMm": [
+        -6.999986,
+        4.277906099999999,
+        -5.999988,
+        6.3779018999999995
+      ],
+      "maximumOutsideMm": 0.0,
+      "signedModelCopperMarginMm": 0.1500123999999996
+    },
+    {
+      "ref": "J4",
+      "model": "e9",
+      "pin": "11",
+      "nominalLeadBoundsLocalMm": [
+        -6.6999866,
+        -7.4220832,
+        -6.1500004,
+        -5.9220608
+      ],
+      "copperBoundsLocalMm": [
+        -6.999986,
+        -7.7220699,
+        -5.999988,
+        -5.6220741
+      ],
+      "maximumOutsideMm": 0.0,
+      "signedModelCopperMarginMm": 0.1500123999999996
+    },
+    {
+      "ref": "J4",
+      "model": "e10",
+      "pin": "10",
+      "nominalLeadBoundsLocalMm": [
+        6.1500004,
+        -7.4220832,
+        6.6999866,
+        -5.9220608
+      ],
+      "copperBoundsLocalMm": [
+        5.999988,
+        -7.7220699,
+        6.999986,
+        -5.6220741
+      ],
+      "maximumOutsideMm": 0.0,
+      "signedModelCopperMarginMm": 0.1500123999999996
+    },
+    {
+      "ref": "J4",
+      "model": "e11",
+      "pin": "9",
+      "nominalLeadBoundsLocalMm": [
+        6.1500004,
+        4.5778928,
+        6.6999866,
+        6.0779152
+      ],
+      "copperBoundsLocalMm": [
+        5.999988,
+        4.277906099999999,
+        6.999986,
+        6.3779018999999995
+      ],
+      "maximumOutsideMm": 0.0,
+      "signedModelCopperMarginMm": 0.1500123999999996
+    },
+    {
+      "ref": "J4",
+      "model": "e12",
+      "pin": "C2",
+      "nominalLeadBoundsLocalMm": [
+        -2.5149048,
+        5.899988199999999,
+        -2.0649184000000003,
+        7.1280019999999995
+      ],
+      "copperBoundsLocalMm": [
+        -2.6899362,
+        6.0220733,
+        -1.8899378000000002,
+        7.3220707
+      ],
+      "maximumOutsideMm": 0.12208510000000049,
+      "signedModelCopperMarginMm": -0.12208510000000049
+    },
+    {
+      "ref": "J4",
+      "model": "e13",
+      "pin": "C6",
+      "nominalLeadBoundsLocalMm": [
+        -1.2449048,
+        5.899988199999999,
+        -0.7949183999999999,
+        7.1280019999999995
+      ],
+      "copperBoundsLocalMm": [
+        -1.4199362,
+        6.0220733,
+        -0.6199378000000002,
+        7.3220707
+      ],
+      "maximumOutsideMm": 0.12208510000000049,
+      "signedModelCopperMarginMm": -0.12208510000000049
+    },
+    {
+      "ref": "J4",
+      "model": "e14",
+      "pin": "C1",
+      "nominalLeadBoundsLocalMm": [
+        0.025095199999999998,
+        5.899988199999999,
+        0.4750816,
+        7.1280019999999995
+      ],
+      "copperBoundsLocalMm": [
+        -0.14993619999999996,
+        6.0220733,
+        0.6500621999999999,
+        7.3220707
+      ],
+      "maximumOutsideMm": 0.12208510000000047,
+      "signedModelCopperMarginMm": -0.12208510000000047
+    },
+    {
+      "ref": "J5",
+      "model": "e2",
+      "pin": "1",
+      "nominalLeadBoundsLocalMm": [
+        -1.4999716,
+        -1.5501112,
+        -1.0999724,
+        0.24988519999999997
+      ],
+      "copperBoundsLocalMm": [
+        -1.8000471999999998,
+        -1.7501107999999999,
+        -1.0000488,
+        0.4498848
+      ],
+      "maximumOutsideMm": 0.0,
+      "signedModelCopperMarginMm": 0.09992359999999989
+    },
+    {
+      "ref": "J5",
+      "model": "e3",
+      "pin": "3",
+      "nominalLeadBoundsLocalMm": [
+        1.1000231999999999,
+        -1.5501112,
+        1.5000224,
+        0.24988519999999997
+      ],
+      "copperBoundsLocalMm": [
+        1.0000488,
+        -1.7501107999999999,
+        1.8000471999999998,
+        0.4498848
+      ],
+      "maximumOutsideMm": 0.0,
+      "signedModelCopperMarginMm": 0.09997439999999981
+    },
+    {
+      "ref": "J5",
+      "model": "e4",
+      "pin": "2",
+      "nominalLeadBoundsLocalMm": [
+        -0.29999939999999997,
+        -0.6501129999999999,
+        0.29999939999999997,
+        0.8998966
+      ],
+      "copperBoundsLocalMm": [
+        -0.49999899999999997,
+        0.12510769999999993,
+        0.49999899999999997,
+        1.1751182999999998
+      ],
+      "maximumOutsideMm": 0.7752206999999999,
+      "signedModelCopperMarginMm": -0.7752206999999999
+    }
+  ]
+}

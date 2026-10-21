@@ -1,0 +1,1 @@
+const id='52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9';if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!==id)throw Error('Wrong project');await eda.pcb_Document.save();return {opened:await eda.dmt_Project.openProject(id)};

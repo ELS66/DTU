@@ -1,0 +1,105 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "created": [
+      {
+        "ref": "R126",
+        "pin": "2",
+        "net": "MODE232_N",
+        "id": "08f67f14569ea973"
+      },
+      {
+        "ref": "R126",
+        "pin": "1",
+        "net": "VDD_3V3",
+        "id": "294e0eaba2b7056f"
+      },
+      {
+        "ref": "R127",
+        "pin": "2",
+        "net": "MODE_TTL_N",
+        "id": "27a67cbfc11d624d"
+      },
+      {
+        "ref": "R127",
+        "pin": "1",
+        "net": "VDD_3V3",
+        "id": "9937f22c160ec155"
+      },
+      {
+        "ref": "R128",
+        "pin": "2",
+        "net": "Q7_BASE",
+        "id": "b2604ac97ea23da8"
+      },
+      {
+        "ref": "R128",
+        "pin": "1",
+        "net": "MCU_IF_ENABLE",
+        "id": "7896df5f4dfa3516"
+      },
+      {
+        "ref": "R129",
+        "pin": "2",
+        "net": "GND",
+        "id": "5d8542bc42bb56f1"
+      },
+      {
+        "ref": "R129",
+        "pin": "1",
+        "net": "Q7_BASE",
+        "id": "a26c3e5e0ff171f4"
+      },
+      {
+        "ref": "R130",
+        "pin": "2",
+        "net": "IF_DISABLE",
+        "id": "9b6db832dd7a812b"
+      },
+      {
+        "ref": "R130",
+        "pin": "1",
+        "net": "VDD_3V3",
+        "id": "eb42cf4aa5fb33d1"
+      },
+      {
+        "ref": "R131",
+        "pin": "2",
+        "net": "GND",
+        "id": "2a0d7c4d79a8c902"
+      },
+      {
+        "ref": "R131",
+        "pin": "1",
+        "net": "MCU_IF_ENABLE",
+        "id": "4561802d2105c17a"
+      },
+      {
+        "ref": "C103",
+        "pin": "1",
+        "net": "VDD_3V3",
+        "id": "e16010dca21fc881"
+      },
+      {
+        "ref": "C103",
+        "pin": "2",
+        "net": "GND",
+        "id": "b39cf2e943f9ab8b"
+      },
+      {
+        "ref": "C104",
+        "pin": "1",
+        "net": "VDD_3V3",
+        "id": "7744444a46feb740"
+      },
+      {
+        "ref": "C104",
+        "pin": "2",
+        "net": "GND",
+        "id": "f63e5d6f25427f90"
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

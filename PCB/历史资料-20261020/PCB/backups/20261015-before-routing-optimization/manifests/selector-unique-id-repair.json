@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "changed": [
+      {
+        "ref": "R112",
+        "uid": "dtu_r112",
+        "id": "1718af39fc842a47"
+      },
+      {
+        "ref": "R113",
+        "uid": "dtu_r113",
+        "id": "33aac31cd4e11284"
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

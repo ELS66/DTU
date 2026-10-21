@@ -1,0 +1,68 @@
+{
+  "revision": "V0.13 SMT碰撞局部修正 2026-10-15",
+  "boardMm": [
+    60,
+    70
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 306,
+  "drilledHoles": 322,
+  "pcbDrcIssues": 0,
+  "schematicWarnings": 18,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261015-before-SMT-collision-fix-154620",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-SMTfix.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-SMTfix-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-SMT碰撞修正复查包.zip",
+  "actualCopperManifest": "smt-fixed-actual-routing-v13.json",
+  "actualSourceSnapshot": "source-after-smt-fix-v13.json",
+  "connectors": {
+    "model": "ZX-HY2.0-4PLT",
+    "supplierPart": "C7429562",
+    "signalFixedRowSpacingMm": 3.0
+  },
+  "factoryDfmPassed": false,
+  "files": [
+    {
+      "file": "DTU-V0.13-60x70-SMTfix.epro2",
+      "bytes": 1142656
+    },
+    {
+      "file": "DTU-V0.13-60x70-SMTfix-Gerber.zip",
+      "bytes": 144382
+    },
+    {
+      "file": "DTU-V0.13-SMTfix-BOM-99.csv",
+      "bytes": 3730
+    },
+    {
+      "file": "DTU-V0.13-SMTfix-CPL-99-Top.csv",
+      "bytes": 2528
+    },
+    {
+      "file": "V0.13-SMT碰撞复核与修正记录.md",
+      "bytes": 3207
+    },
+    {
+      "file": "DTU-V0.13-SMTfix-README.md",
+      "bytes": 541
+    },
+    {
+      "file": "DTU-V0.13-SMTfix-Gerber-top.png",
+      "bytes": 68123
+    },
+    {
+      "file": "DTU-V0.13-SMTfix-Gerber-bottom.png",
+      "bytes": 60135
+    }
+  ],
+  "status": "DFM复查中，未完成厂家验收",
+  "openDfmItems": [
+    "同位号端子碰撞明细待核对",
+    "其余PCB/SMT检查分类待取得",
+    "孔环检查：普通过孔0.125mm触发0.15mm阈值，需核对过孔/插件孔分类及重复统计",
+    "4项孔环危险：待取得具体测量值和定位"
+  ]
+}

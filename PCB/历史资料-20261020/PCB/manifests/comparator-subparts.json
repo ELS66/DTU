@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "parts": [
+      {
+        "ref": "U14",
+        "sub": "LM339BIPWR.2",
+        "pins": [
+          {
+            "number": "2",
+            "name": "OUT2"
+          },
+          {
+            "number": "5",
+            "name": "IN2+"
+          },
+          {
+            "number": "4",
+            "name": "IN2-"
+          }
+        ]
+      },
+      {
+        "ref": "U14",
+        "sub": "LM339BIPWR.3",
+        "pins": [
+          {
+            "number": "14",
+            "name": "OUT3"
+          },
+          {
+            "number": "8",
+            "name": "IN3-"
+          },
+          {
+            "number": "9",
+            "name": "IN3+"
+          }
+        ]
+      },
+      {
+        "ref": "U14",
+        "sub": "LM339BIPWR.4",
+        "pins": [
+          {
+            "number": "11",
+            "name": "IN4+"
+          },
+          {
+            "number": "10",
+            "name": "IN4-"
+          },
+          {
+            "number": "13",
+            "name": "OUT4"
+          }
+        ]
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");const cs=await eda.pcb_PrimitiveComponent.getAll();return cs.map(c=>({ref:c.getState_Designator(),uid:c.getState_UniqueId(),other:c.getState_OtherProperty(),footprint:c.getState_Footprint()}));

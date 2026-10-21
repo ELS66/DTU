@@ -1,0 +1,1 @@
+const out={wires:(await eda.sch_PrimitiveWire.getAll()).map(w=>({id:w.getState_PrimitiveId(),net:w.getState_Net(),line:w.getState_Line()})),attrs:await eda.sch_PrimitiveAttribute.getAll()};out.source=await eda.sys_FileManager.getDocumentSource();return out;

@@ -1,0 +1,1 @@
+const out={};for(const key of ['UMH9NTN','PESD5V0F1BL','PESD5V0H1BSF']){try{out[key]=await eda.lib_Device.search(key,undefined,undefined,undefined,5,1);}catch(e){out[key]={error:String(e),detail:JSON.stringify(e)};}}return out;

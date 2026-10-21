@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "result": {
+    "title": "DTU-V0.12-ML307R-DL-60x70",
+    "cbbProject": false,
+    "editorVersion": "4.1.71",
+    "introduction": "",
+    "description": "ESP32-C5 + ML307R-DL，60×70mm，V0.12",
+    "custom_tags": ""
+  },
+  "windowId": "035201c2-5ac3-44f1-be5e-f3d4c319ac71"
+}

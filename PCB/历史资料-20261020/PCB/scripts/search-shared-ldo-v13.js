@@ -1,0 +1,1 @@
+const out={};for(const key of ['TLV75733PDRVR','TLV75733PDBVR','TLV75901PDRVR','0805W8F8002T5E'])out[key]=await eda.lib_Device.search(key,undefined,undefined,undefined,5,1);return out;

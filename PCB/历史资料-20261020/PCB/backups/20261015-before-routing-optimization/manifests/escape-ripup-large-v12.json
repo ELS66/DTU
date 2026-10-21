@@ -1,0 +1,159 @@
+{
+  "removed": {
+    "ccd2bbd7c8def461": "LED_LTE_G_N",
+    "8a9b83e75d2fb042": "LTE_BOOT",
+    "96709da4c47111ac": "MCU_LTE_RESET",
+    "c625ca175d961987": "VIN_485",
+    "0000c2e5f4656f9c": "VDD_3V3",
+    "ef4601086adfaa58": "VDD_3V3",
+    "5c613d0c88e45355": "LTE_RXD",
+    "3bb6cfb8f537d821": "SIM_RST",
+    "835ad9beba4b0f90": "TTL_TX_BUF",
+    "e3aa4f125be38116": "LTE_RESET",
+    "97b6c76ee0719a39": "LED_LTE_R_N",
+    "a5917a8ea405392b": "MCU_LTE_RX"
+  },
+  "escaped": [
+    {
+      "net": "SIM_DATA_M",
+      "ref": "U2",
+      "pin": "11",
+      "x": 21.650000000000002,
+      "y": 44.300000000000004,
+      "removed": [
+        "ccd2bbd7c8def461",
+        "8a9b83e75d2fb042"
+      ]
+    },
+    {
+      "net": "LTE_PWRKEY",
+      "ref": "Q1",
+      "pin": "3",
+      "x": 15.05,
+      "y": 36.050000000000004,
+      "removed": []
+    },
+    {
+      "net": "LTE_PWRKEY",
+      "ref": "U2",
+      "pin": "7",
+      "x": 17.2,
+      "y": 44.0,
+      "removed": []
+    },
+    {
+      "net": "LTE_RX_SER",
+      "ref": "R84",
+      "pin": "1",
+      "x": 18.0,
+      "y": 44.1,
+      "removed": []
+    },
+    {
+      "net": "LTE_RX_SER",
+      "ref": "U10",
+      "pin": "4",
+      "x": 37.7,
+      "y": 49.75,
+      "removed": [
+        "96709da4c47111ac"
+      ]
+    },
+    {
+      "net": "MCU_LTE_PWRKEY",
+      "ref": "R70",
+      "pin": "1",
+      "x": 38.6,
+      "y": 37.15,
+      "removed": []
+    },
+    {
+      "net": "232_RIN",
+      "ref": "R34",
+      "pin": "2",
+      "x": 48.45,
+      "y": 5.1000000000000005,
+      "removed": []
+    },
+    {
+      "net": "232_RIN",
+      "ref": "U7",
+      "pin": "13",
+      "x": 30.5,
+      "y": 9.15,
+      "removed": [
+        "c625ca175d961987",
+        "0000c2e5f4656f9c"
+      ]
+    },
+    {
+      "net": "MCU_485_DE",
+      "ref": "U6",
+      "pin": "3",
+      "x": 14.700000000000001,
+      "y": 11.950000000000001,
+      "removed": [
+        "ef4601086adfaa58"
+      ]
+    },
+    {
+      "net": "SIM_DET",
+      "ref": "R55",
+      "pin": "2",
+      "x": 20.85,
+      "y": 48.300000000000004,
+      "removed": [
+        "5c613d0c88e45355"
+      ]
+    },
+    {
+      "net": "SIM_DATA",
+      "ref": "R51",
+      "pin": "2",
+      "x": 24.450000000000003,
+      "y": 42.400000000000006,
+      "removed": [
+        "3bb6cfb8f537d821"
+      ]
+    },
+    {
+      "net": "FIELD_TX",
+      "ref": "U8",
+      "pin": "3",
+      "x": 49.2,
+      "y": 11.8,
+      "removed": [
+        "835ad9beba4b0f90"
+      ]
+    },
+    {
+      "net": "FIELD_TX",
+      "ref": "U7",
+      "pin": "11",
+      "x": 29.200000000000003,
+      "y": 9.15,
+      "removed": []
+    },
+    {
+      "net": "SIM_DATA_M",
+      "ref": "R51",
+      "pin": "1",
+      "x": 24.700000000000003,
+      "y": 40.0,
+      "removed": [
+        "e3aa4f125be38116"
+      ]
+    },
+    {
+      "net": "MCU_LTE_PWRKEY",
+      "ref": "U1",
+      "pin": "8",
+      "x": 31.400000000000002,
+      "y": 50.400000000000006,
+      "removed": [
+        "97b6c76ee0719a39",
+        "a5917a8ea405392b"
+      ]
+    }
+  ]
+}

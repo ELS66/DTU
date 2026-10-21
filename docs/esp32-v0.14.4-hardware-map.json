@@ -1,0 +1,1238 @@
+{
+  "date": "2026-10-20",
+  "hardwareRevision": "V0.14.4",
+  "status": "文件核对证据，未经实物验证",
+  "sourceFiles": [
+    {
+      "path": "PCB/V0.14.4-最终资料/04-验证资料/threefix-reopened-source-v14_4.json",
+      "sha256": "9da2ebee90667fc4a9591edd64dcd17ff112d06be71e97bd6ecf9b17f8495c20"
+    },
+    {
+      "path": "PCB/V0.14.4-最终资料/01-工程/DTU-V0.14.4-60x75-Threefix.epro2",
+      "sha256": "c7fd07146529cdc6437af6e476bad6b38e693a99d02bfccb43af3703d498230d"
+    }
+  ],
+  "modulePinReference": "https://documentation.espressif.com/esp32-c5-wroom-1_wroom-1u_datasheet_en.html",
+  "checks": {
+    "exportAndSnapshotU1PadNetsEqual": true,
+    "snapshotComponentCount": 104,
+    "switchDesignatorsInSnapshot": [],
+    "switchDesignatorsInExportPcb": []
+  },
+  "u1GpioNets": [
+    {
+      "gpio": 2,
+      "pad": "4",
+      "net": "LED_ESP_R_N"
+    },
+    {
+      "gpio": 3,
+      "pad": "5",
+      "net": "MCU_485_DE"
+    },
+    {
+      "gpio": 0,
+      "pad": "6",
+      "net": "MCU_LTE_TX"
+    },
+    {
+      "gpio": 1,
+      "pad": "7",
+      "net": "MCU_LTE_RX"
+    },
+    {
+      "gpio": 6,
+      "pad": "8",
+      "net": "MCU_LTE_PWRKEY"
+    },
+    {
+      "gpio": 7,
+      "pad": "9",
+      "net": "LED_LTE_R_N"
+    },
+    {
+      "gpio": 8,
+      "pad": "10",
+      "net": "MCU_LTE_RESET"
+    },
+    {
+      "gpio": 9,
+      "pad": "11",
+      "net": "LED_LTE_G_N"
+    },
+    {
+      "gpio": 10,
+      "pad": "12",
+      "net": ""
+    },
+    {
+      "gpio": 13,
+      "pad": "13",
+      "net": "ESP_USB_DM"
+    },
+    {
+      "gpio": 14,
+      "pad": "14",
+      "net": "ESP_USB_DP"
+    },
+    {
+      "gpio": 28,
+      "pad": "15",
+      "net": "ESP_BOOT"
+    },
+    {
+      "gpio": 5,
+      "pad": "16",
+      "net": "LED_ESP_B_N"
+    },
+    {
+      "gpio": 4,
+      "pad": "17",
+      "net": "LED_ESP_G_N"
+    },
+    {
+      "gpio": 27,
+      "pad": "18",
+      "net": "ESP_STRAP27"
+    },
+    {
+      "gpio": 15,
+      "pad": "19",
+      "net": ""
+    },
+    {
+      "gpio": 23,
+      "pad": "21",
+      "net": "FIELD_TX"
+    },
+    {
+      "gpio": 24,
+      "pad": "23",
+      "net": "FIELD_RX"
+    },
+    {
+      "gpio": 12,
+      "pad": "24",
+      "net": "LED_RX_N"
+    },
+    {
+      "gpio": 11,
+      "pad": "25",
+      "net": "LED_TX_N"
+    },
+    {
+      "gpio": 25,
+      "pad": "26",
+      "net": "LED_LTE_B_N"
+    },
+    {
+      "gpio": 26,
+      "pad": "27",
+      "net": "ESP_STRAP26"
+    }
+  ],
+  "componentPadNets": {
+    "U1": [
+      {
+        "pad": "1",
+        "net": "GND"
+      },
+      {
+        "pad": "2",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "3",
+        "net": "ESP_EN"
+      },
+      {
+        "pad": "4",
+        "net": "LED_ESP_R_N"
+      },
+      {
+        "pad": "5",
+        "net": "MCU_485_DE"
+      },
+      {
+        "pad": "6",
+        "net": "MCU_LTE_TX"
+      },
+      {
+        "pad": "7",
+        "net": "MCU_LTE_RX"
+      },
+      {
+        "pad": "8",
+        "net": "MCU_LTE_PWRKEY"
+      },
+      {
+        "pad": "9",
+        "net": "LED_LTE_R_N"
+      },
+      {
+        "pad": "10",
+        "net": "MCU_LTE_RESET"
+      },
+      {
+        "pad": "11",
+        "net": "LED_LTE_G_N"
+      },
+      {
+        "pad": "12",
+        "net": ""
+      },
+      {
+        "pad": "13",
+        "net": "ESP_USB_DM"
+      },
+      {
+        "pad": "14",
+        "net": "ESP_USB_DP"
+      },
+      {
+        "pad": "15",
+        "net": "ESP_BOOT"
+      },
+      {
+        "pad": "16",
+        "net": "LED_ESP_B_N"
+      },
+      {
+        "pad": "17",
+        "net": "LED_ESP_G_N"
+      },
+      {
+        "pad": "18",
+        "net": "ESP_STRAP27"
+      },
+      {
+        "pad": "19",
+        "net": ""
+      },
+      {
+        "pad": "20",
+        "net": ""
+      },
+      {
+        "pad": "21",
+        "net": "FIELD_TX"
+      },
+      {
+        "pad": "22",
+        "net": ""
+      },
+      {
+        "pad": "23",
+        "net": "FIELD_RX"
+      },
+      {
+        "pad": "24",
+        "net": "LED_RX_N"
+      },
+      {
+        "pad": "25",
+        "net": "LED_TX_N"
+      },
+      {
+        "pad": "26",
+        "net": "LED_LTE_B_N"
+      },
+      {
+        "pad": "27",
+        "net": "ESP_STRAP26"
+      },
+      {
+        "pad": "28",
+        "net": "GND"
+      },
+      {
+        "pad": "29",
+        "net": "GND"
+      },
+      {
+        "pad": "29",
+        "net": "GND"
+      },
+      {
+        "pad": "29",
+        "net": "GND"
+      },
+      {
+        "pad": "29",
+        "net": "GND"
+      },
+      {
+        "pad": "29",
+        "net": "GND"
+      },
+      {
+        "pad": "29",
+        "net": "GND"
+      },
+      {
+        "pad": "29",
+        "net": "GND"
+      },
+      {
+        "pad": "29",
+        "net": "GND"
+      },
+      {
+        "pad": "29",
+        "net": "GND"
+      },
+      {
+        "pad": "30",
+        "net": "GND"
+      },
+      {
+        "pad": "31",
+        "net": ""
+      },
+      {
+        "pad": "32",
+        "net": "GND"
+      }
+    ],
+    "U2": [
+      {
+        "pad": "1",
+        "net": "GND"
+      },
+      {
+        "pad": "2",
+        "net": ""
+      },
+      {
+        "pad": "3",
+        "net": ""
+      },
+      {
+        "pad": "4",
+        "net": ""
+      },
+      {
+        "pad": "5",
+        "net": ""
+      },
+      {
+        "pad": "6",
+        "net": ""
+      },
+      {
+        "pad": "7",
+        "net": "LTE_PWRKEY"
+      },
+      {
+        "pad": "8",
+        "net": ""
+      },
+      {
+        "pad": "9",
+        "net": ""
+      },
+      {
+        "pad": "10",
+        "net": "GND"
+      },
+      {
+        "pad": "11",
+        "net": "SIM_DATA_M"
+      },
+      {
+        "pad": "12",
+        "net": "SIM_RST_M"
+      },
+      {
+        "pad": "13",
+        "net": "SIM_CLK_M"
+      },
+      {
+        "pad": "14",
+        "net": "SIM_VDD"
+      },
+      {
+        "pad": "15",
+        "net": "LTE_RESET"
+      },
+      {
+        "pad": "16",
+        "net": ""
+      },
+      {
+        "pad": "17",
+        "net": "LTE_RXD"
+      },
+      {
+        "pad": "18",
+        "net": "LTE_TXD"
+      },
+      {
+        "pad": "19",
+        "net": ""
+      },
+      {
+        "pad": "20",
+        "net": ""
+      },
+      {
+        "pad": "21",
+        "net": ""
+      },
+      {
+        "pad": "22",
+        "net": ""
+      },
+      {
+        "pad": "23",
+        "net": ""
+      },
+      {
+        "pad": "24",
+        "net": "LTE_VDD_EXT"
+      },
+      {
+        "pad": "25",
+        "net": ""
+      },
+      {
+        "pad": "26",
+        "net": ""
+      },
+      {
+        "pad": "27",
+        "net": "GND"
+      },
+      {
+        "pad": "28",
+        "net": ""
+      },
+      {
+        "pad": "29",
+        "net": ""
+      },
+      {
+        "pad": "30",
+        "net": ""
+      },
+      {
+        "pad": "31",
+        "net": ""
+      },
+      {
+        "pad": "32",
+        "net": ""
+      },
+      {
+        "pad": "33",
+        "net": ""
+      },
+      {
+        "pad": "34",
+        "net": "GND"
+      },
+      {
+        "pad": "35",
+        "net": "LTE_ANT"
+      },
+      {
+        "pad": "36",
+        "net": "GND"
+      },
+      {
+        "pad": "37",
+        "net": "GND"
+      },
+      {
+        "pad": "38",
+        "net": ""
+      },
+      {
+        "pad": "39",
+        "net": ""
+      },
+      {
+        "pad": "40",
+        "net": "GND"
+      },
+      {
+        "pad": "41",
+        "net": "GND"
+      },
+      {
+        "pad": "42",
+        "net": "VDD_4G"
+      },
+      {
+        "pad": "43",
+        "net": "VDD_4G"
+      },
+      {
+        "pad": "44",
+        "net": ""
+      },
+      {
+        "pad": "45",
+        "net": "GND"
+      },
+      {
+        "pad": "46",
+        "net": "GND"
+      },
+      {
+        "pad": "47",
+        "net": "GND"
+      },
+      {
+        "pad": "48",
+        "net": "GND"
+      },
+      {
+        "pad": "49",
+        "net": ""
+      },
+      {
+        "pad": "50",
+        "net": ""
+      },
+      {
+        "pad": "51",
+        "net": ""
+      },
+      {
+        "pad": "52",
+        "net": ""
+      },
+      {
+        "pad": "53",
+        "net": ""
+      },
+      {
+        "pad": "54",
+        "net": ""
+      },
+      {
+        "pad": "55",
+        "net": ""
+      },
+      {
+        "pad": "56",
+        "net": ""
+      },
+      {
+        "pad": "57",
+        "net": ""
+      },
+      {
+        "pad": "58",
+        "net": ""
+      },
+      {
+        "pad": "59",
+        "net": "LTE_USB_DP"
+      },
+      {
+        "pad": "60",
+        "net": "LTE_USB_DM"
+      },
+      {
+        "pad": "61",
+        "net": "LTE_USB_VBUS"
+      },
+      {
+        "pad": "62",
+        "net": ""
+      },
+      {
+        "pad": "63",
+        "net": ""
+      },
+      {
+        "pad": "64",
+        "net": ""
+      },
+      {
+        "pad": "65",
+        "net": ""
+      },
+      {
+        "pad": "66",
+        "net": ""
+      },
+      {
+        "pad": "67",
+        "net": ""
+      },
+      {
+        "pad": "68",
+        "net": ""
+      },
+      {
+        "pad": "69",
+        "net": ""
+      },
+      {
+        "pad": "70",
+        "net": "GND"
+      },
+      {
+        "pad": "71",
+        "net": "GND"
+      },
+      {
+        "pad": "72",
+        "net": "GND"
+      },
+      {
+        "pad": "73",
+        "net": "GND"
+      },
+      {
+        "pad": "74",
+        "net": ""
+      },
+      {
+        "pad": "75",
+        "net": ""
+      },
+      {
+        "pad": "76",
+        "net": ""
+      },
+      {
+        "pad": "77",
+        "net": ""
+      },
+      {
+        "pad": "78",
+        "net": ""
+      },
+      {
+        "pad": "79",
+        "net": ""
+      },
+      {
+        "pad": "80",
+        "net": ""
+      },
+      {
+        "pad": "81",
+        "net": ""
+      },
+      {
+        "pad": "82",
+        "net": "LTE_BOOT"
+      },
+      {
+        "pad": "83",
+        "net": ""
+      },
+      {
+        "pad": "84",
+        "net": ""
+      },
+      {
+        "pad": "85",
+        "net": ""
+      },
+      {
+        "pad": "86",
+        "net": ""
+      },
+      {
+        "pad": "87",
+        "net": ""
+      },
+      {
+        "pad": "88",
+        "net": "GND"
+      },
+      {
+        "pad": "89",
+        "net": "GND"
+      },
+      {
+        "pad": "90",
+        "net": "GND"
+      },
+      {
+        "pad": "91",
+        "net": "GND"
+      },
+      {
+        "pad": "92",
+        "net": "GND"
+      },
+      {
+        "pad": "93",
+        "net": "GND"
+      },
+      {
+        "pad": "94",
+        "net": "GND"
+      },
+      {
+        "pad": "95",
+        "net": "GND"
+      },
+      {
+        "pad": "96",
+        "net": ""
+      },
+      {
+        "pad": "97",
+        "net": ""
+      },
+      {
+        "pad": "98",
+        "net": ""
+      },
+      {
+        "pad": "99",
+        "net": ""
+      },
+      {
+        "pad": "100",
+        "net": ""
+      },
+      {
+        "pad": "101",
+        "net": ""
+      },
+      {
+        "pad": "102",
+        "net": ""
+      },
+      {
+        "pad": "103",
+        "net": ""
+      },
+      {
+        "pad": "104",
+        "net": ""
+      },
+      {
+        "pad": "105",
+        "net": ""
+      },
+      {
+        "pad": "106",
+        "net": ""
+      },
+      {
+        "pad": "107",
+        "net": ""
+      },
+      {
+        "pad": "108",
+        "net": ""
+      },
+      {
+        "pad": "109",
+        "net": ""
+      }
+    ],
+    "U6": [
+      {
+        "pad": "1",
+        "net": "485_RX_RAW"
+      },
+      {
+        "pad": "2",
+        "net": "MCU_485_DE"
+      },
+      {
+        "pad": "3",
+        "net": "MCU_485_DE"
+      },
+      {
+        "pad": "4",
+        "net": "FIELD_TX"
+      },
+      {
+        "pad": "5",
+        "net": "GND"
+      },
+      {
+        "pad": "6",
+        "net": "RS485_A"
+      },
+      {
+        "pad": "7",
+        "net": "RS485_B"
+      },
+      {
+        "pad": "8",
+        "net": "VDD_3V3"
+      }
+    ],
+    "U7": [
+      {
+        "pad": "1",
+        "net": "232_C1P"
+      },
+      {
+        "pad": "2",
+        "net": "232_VPLUS"
+      },
+      {
+        "pad": "3",
+        "net": "232_C1N"
+      },
+      {
+        "pad": "4",
+        "net": "232_C2P"
+      },
+      {
+        "pad": "5",
+        "net": "232_C2N"
+      },
+      {
+        "pad": "6",
+        "net": "232_VMINUS"
+      },
+      {
+        "pad": "7",
+        "net": ""
+      },
+      {
+        "pad": "8",
+        "net": "GND"
+      },
+      {
+        "pad": "9",
+        "net": ""
+      },
+      {
+        "pad": "10",
+        "net": "GND"
+      },
+      {
+        "pad": "11",
+        "net": "FIELD_TX"
+      },
+      {
+        "pad": "12",
+        "net": "232_RX_RAW"
+      },
+      {
+        "pad": "13",
+        "net": "232_RIN"
+      },
+      {
+        "pad": "14",
+        "net": "232_TOUT"
+      },
+      {
+        "pad": "15",
+        "net": "GND"
+      },
+      {
+        "pad": "16",
+        "net": "VDD_3V3"
+      }
+    ],
+    "U10": [
+      {
+        "pad": "1",
+        "net": "LTE_TXD"
+      },
+      {
+        "pad": "2",
+        "net": "GND"
+      },
+      {
+        "pad": "3",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "4",
+        "net": "MCU_LTE_RX"
+      },
+      {
+        "pad": "5",
+        "net": "MCU_LTE_TX"
+      },
+      {
+        "pad": "6",
+        "net": "LTE_VDD_EXT"
+      },
+      {
+        "pad": "7",
+        "net": "LTE_VDD_EXT"
+      },
+      {
+        "pad": "8",
+        "net": "LTE_RXD"
+      }
+    ],
+    "U12": [
+      {
+        "pad": "1",
+        "net": "485_RX_RAW"
+      },
+      {
+        "pad": "2",
+        "net": "GND"
+      },
+      {
+        "pad": "3",
+        "net": "232_RX_RAW"
+      },
+      {
+        "pad": "4",
+        "net": "FIELD_RX"
+      },
+      {
+        "pad": "5",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "6",
+        "net": "TTL_RX_BUF"
+      }
+    ],
+    "Q1": [
+      {
+        "pad": "1",
+        "net": "GND"
+      },
+      {
+        "pad": "2",
+        "net": "MCU_LTE_PWRKEY"
+      },
+      {
+        "pad": "3",
+        "net": "LTE_RESET"
+      },
+      {
+        "pad": "4",
+        "net": "GND"
+      },
+      {
+        "pad": "5",
+        "net": "MCU_LTE_RESET"
+      },
+      {
+        "pad": "6",
+        "net": "LTE_PWRKEY"
+      }
+    ],
+    "R35": [
+      {
+        "pad": "1",
+        "net": "FIELD_TX"
+      },
+      {
+        "pad": "2",
+        "net": "TTL_TX_EXT"
+      }
+    ],
+    "R36": [
+      {
+        "pad": "1",
+        "net": "TTL_RX_EXT"
+      },
+      {
+        "pad": "2",
+        "net": "TTL_RX_BUF"
+      }
+    ],
+    "R37": [
+      {
+        "pad": "1",
+        "net": "TTL_RX_BUF"
+      },
+      {
+        "pad": "2",
+        "net": "VDD_3V3"
+      }
+    ],
+    "R38": [
+      {
+        "pad": "1",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "2",
+        "net": "485_RX_RAW"
+      }
+    ],
+    "R121": [
+      {
+        "pad": "1",
+        "net": "MCU_485_DE"
+      },
+      {
+        "pad": "2",
+        "net": "GND"
+      }
+    ],
+    "J1": [
+      {
+        "pad": "1",
+        "net": "VIN_IN"
+      },
+      {
+        "pad": "2",
+        "net": "RS485_A_EXT"
+      },
+      {
+        "pad": "3",
+        "net": "RS485_B_EXT"
+      },
+      {
+        "pad": "4",
+        "net": "GND"
+      },
+      {
+        "pad": "5",
+        "net": ""
+      },
+      {
+        "pad": "6",
+        "net": ""
+      }
+    ],
+    "J2": [
+      {
+        "pad": "1",
+        "net": "VIN_IN"
+      },
+      {
+        "pad": "2",
+        "net": "RS232_TX_EXT"
+      },
+      {
+        "pad": "3",
+        "net": "RS232_RX_EXT"
+      },
+      {
+        "pad": "4",
+        "net": "GND"
+      },
+      {
+        "pad": "5",
+        "net": ""
+      },
+      {
+        "pad": "6",
+        "net": ""
+      }
+    ],
+    "J3": [
+      {
+        "pad": "1",
+        "net": "VIN_IN"
+      },
+      {
+        "pad": "2",
+        "net": "TTL_TX_EXT"
+      },
+      {
+        "pad": "3",
+        "net": "TTL_RX_EXT"
+      },
+      {
+        "pad": "4",
+        "net": "GND"
+      },
+      {
+        "pad": "5",
+        "net": ""
+      },
+      {
+        "pad": "6",
+        "net": ""
+      }
+    ],
+    "J6": [
+      {
+        "pad": "1",
+        "net": "GND"
+      },
+      {
+        "pad": "2",
+        "net": "ESP_USB_DP_EXT"
+      },
+      {
+        "pad": "3",
+        "net": "ESP_USB_DM_EXT"
+      },
+      {
+        "pad": "4",
+        "net": "ESP_EN"
+      },
+      {
+        "pad": "5",
+        "net": "ESP_BOOT"
+      }
+    ],
+    "J7": [
+      {
+        "pad": "1",
+        "net": "GND"
+      },
+      {
+        "pad": "2",
+        "net": "LTE_USB_DP_EXT"
+      },
+      {
+        "pad": "3",
+        "net": "LTE_USB_DM_EXT"
+      },
+      {
+        "pad": "4",
+        "net": "LTE_USB_VBUS"
+      },
+      {
+        "pad": "5",
+        "net": "LTE_BOOT_FIXTURE"
+      }
+    ],
+    "RN1": [
+      {
+        "pad": "1",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "2",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "3",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "4",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "5",
+        "net": "LED_TX_A"
+      },
+      {
+        "pad": "6",
+        "net": "LED_ESP_B_A"
+      },
+      {
+        "pad": "7",
+        "net": "LED_ESP_G_A"
+      },
+      {
+        "pad": "8",
+        "net": "LED_ESP_R_A"
+      }
+    ],
+    "RN2": [
+      {
+        "pad": "1",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "2",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "3",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "4",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "5",
+        "net": "LED_RX_A"
+      },
+      {
+        "pad": "6",
+        "net": "LED_LTE_B_A"
+      },
+      {
+        "pad": "7",
+        "net": "LED_LTE_G_A"
+      },
+      {
+        "pad": "8",
+        "net": "LED_LTE_R_A"
+      }
+    ],
+    "RN3": [
+      {
+        "pad": "1",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "2",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "3",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "4",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "5",
+        "net": "LED_LTE_R_N"
+      },
+      {
+        "pad": "6",
+        "net": "ESP_STRAP27"
+      },
+      {
+        "pad": "7",
+        "net": "ESP_BOOT"
+      },
+      {
+        "pad": "8",
+        "net": "ESP_EN"
+      }
+    ],
+    "RN4": [
+      {
+        "pad": "1",
+        "net": ""
+      },
+      {
+        "pad": "2",
+        "net": ""
+      },
+      {
+        "pad": "3",
+        "net": "LTE_VDD_EXT"
+      },
+      {
+        "pad": "4",
+        "net": "VDD_3V3"
+      },
+      {
+        "pad": "5",
+        "net": "MCU_LTE_RX"
+      },
+      {
+        "pad": "6",
+        "net": "LTE_RXD"
+      },
+      {
+        "pad": "7",
+        "net": ""
+      },
+      {
+        "pad": "8",
+        "net": ""
+      }
+    ]
+  },
+  "inferences": [
+    "FIELD_TX共享、U12合并FIELD_RX：一次只连接一组现场接口，不能软件独立隔离三口。",
+    "TTL TX通过R35从ESP GPIO23送出，按3.3V信号分析；实际电平与对端门限须首板验证。",
+    "当前PCB无SW位号；J6提供EN/BOOT治具接口，不能假定有板载按键。",
+    "U2.16 NETLIGHT、U2.25 STATE未接至ESP；不按GPIO读取LTE运行或注册状态。",
+    "U2的VBAT与U5输入同属VDD_4G，未见ESP可控独立LTE断电开关。",
+    "Q1为双NPN反相驱动，MCU高电平触发模组端低有效控制；须首板测量。"
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "parts": [
+      {
+        "ref": "U13",
+        "id": "30fee15eb67e1dd3",
+        "sub": "SN74HC148DR.1",
+        "pins": [
+          {
+            "number": "1",
+            "name": "4",
+            "x": 440,
+            "y": 985,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "5",
+            "x": 440,
+            "y": 975,
+            "rotation": 180
+          },
+          {
+            "number": "3",
+            "name": "6",
+            "x": 440,
+            "y": 965,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "7",
+            "x": 440,
+            "y": 955,
+            "rotation": 180
+          },
+          {
+            "number": "5",
+            "name": "EI",
+            "x": 440,
+            "y": 945,
+            "rotation": 180
+          },
+          {
+            "number": "6",
+            "name": "A2",
+            "x": 440,
+            "y": 935,
+            "rotation": 180
+          },
+          {
+            "number": "7",
+            "name": "A1",
+            "x": 440,
+            "y": 925,
+            "rotation": 180
+          },
+          {
+            "number": "8",
+            "name": "GND",
+            "x": 440,
+            "y": 915,
+            "rotation": 180
+          },
+          {
+            "number": "9",
+            "name": "A0",
+            "x": 520,
+            "y": 915,
+            "rotation": 0
+          },
+          {
+            "number": "10",
+            "name": "0",
+            "x": 520,
+            "y": 925,
+            "rotation": 0
+          },
+          {
+            "number": "11",
+            "name": "1",
+            "x": 520,
+            "y": 935,
+            "rotation": 0
+          },
+          {
+            "number": "12",
+            "name": "2",
+            "x": 520,
+            "y": 945,
+            "rotation": 0
+          },
+          {
+            "number": "13",
+            "name": "3",
+            "x": 520,
+            "y": 955,
+            "rotation": 0
+          },
+          {
+            "number": "14",
+            "name": "GS",
+            "x": 520,
+            "y": 965,
+            "rotation": 0
+          },
+          {
+            "number": "15",
+            "name": "EO",
+            "x": 520,
+            "y": 975,
+            "rotation": 0
+          },
+          {
+            "number": "16",
+            "name": "VCC",
+            "x": 520,
+            "y": 985,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "U14",
+        "id": "ab93a7cc19f10913",
+        "sub": "LM339BIPWR.1",
+        "pins": [
+          {
+            "number": "6",
+            "name": "IN1-",
+            "x": 960,
+            "y": 390,
+            "rotation": 180
+          },
+          {
+            "number": "7",
+            "name": "IN1+",
+            "x": 960,
+            "y": 370,
+            "rotation": 180
+          },
+          {
+            "number": "12",
+            "name": "GND",
+            "x": 1000,
+            "y": 340,
+            "rotation": 270
+          },
+          {
+            "number": "1",
+            "name": "OUT1",
+            "x": 1040,
+            "y": 380,
+            "rotation": 0
+          },
+          {
+            "number": "3",
+            "name": "VCC",
+            "x": 1000,
+            "y": 420,
+            "rotation": 90
+          }
+        ]
+      },
+      {
+        "ref": "D15",
+        "id": "3ea0decae0e205da",
+        "sub": "BAT54WSX.1",
+        "pins": [
+          {
+            "number": "1",
+            "name": "C",
+            "x": 360,
+            "y": 270,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "A",
+            "x": 400,
+            "y": 270,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "D16",
+        "id": "2e0a2b9d9e44858c",
+        "sub": "BAT54WSX.1",
+        "pins": [
+          {
+            "number": "1",
+            "name": "C",
+            "x": 360,
+            "y": 510,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "A",
+            "x": 400,
+            "y": 510,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "D17",
+        "id": "7859239941b3bf65",
+        "sub": "BAT54WSX.1",
+        "pins": [
+          {
+            "number": "1",
+            "name": "C",
+            "x": 360,
+            "y": 750,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "A",
+            "x": 400,
+            "y": 750,
+            "rotation": 0
+          }
+        ]
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

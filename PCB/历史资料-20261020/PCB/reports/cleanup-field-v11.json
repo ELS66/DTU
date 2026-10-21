@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "result": {
+    "removed": [
+      "R7",
+      "R8"
+    ],
+    "saved": true,
+    "texts": [
+      {
+        "id": "02d2dd6fc55646ec",
+        "text": "05 Field Interfaces - DTU V0.4 SCHEMATIC DRAFT"
+      },
+      {
+        "id": "00e6969bfdc69d56",
+        "text": "Named nets connect across all eight schematic pages. Terminal power required for USB maintenance."
+      },
+      {
+        "id": "9504b22eed06be2f",
+        "text": "R100/R101：RS485空闲偏置，270R；R32为终端DNP。"
+      },
+      {
+        "id": "5d1e0c1d0ae5c66e",
+        "text": "R100/R101：RS485空闲偏置，270R；R32为终端DNP。"
+      }
+    ]
+  },
+  "windowId": "b1faecb9-4fd3-42fc-a7ba-9730a347bfe6"
+}

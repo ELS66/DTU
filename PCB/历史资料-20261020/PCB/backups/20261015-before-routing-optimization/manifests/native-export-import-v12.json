@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "result": {
+    "state": "finished",
+    "result": {
+      "itemType": "Project",
+      "uuid": "ada3a5da4f104acfab69e3291bbd1c189e8b886d4997f5202fd70f0e5ae6ccec",
+      "friendlyName": "DTU-C5-Air780EPT-HW-V0.1-library",
+      "teamUuid": "0c9678a4817f4bfdae4fc75bb046846a"
+    },
+    "name": "DTU-V0.12-ML307R-DL-60x70.epro2",
+    "type": "zip"
+  },
+  "windowId": "035201c2-5ac3-44f1-be5e-f3d4c319ac71"
+}

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "result": {
+    "doc": {
+      "documentType": 1,
+      "uuid": "8c8a42c355c95b77",
+      "tabId": "8c8a42c355c95b77@52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9",
+      "parentProjectUuid": "52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9"
+    },
+    "saved": true
+  },
+  "windowId": "adb71a11-6db8-48c3-8859-f78c7ce85201"
+}

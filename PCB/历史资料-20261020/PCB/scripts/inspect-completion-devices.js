@@ -1,0 +1,1 @@
+const refs=["U3","SW2","C80","D14","J4"];const out={};for(const k of refs){const d={U3:"676a12fadece41eb8224bb38360970ca",SW2:"0ad8dbc3a8644ba08fb62b8dc809ff93",C80:"eb87e022f92d4258af4aa28fa7b0b2eb",D14:"25e8e30d8a1d4bd1ac613bc3b045b169",J4:"c063e97519bd4d95bb1703161091689f"};out[k]=await eda.lib_Device.get(d[k],"0819f05c4eef4c71ace90d822a990e87");}return out;

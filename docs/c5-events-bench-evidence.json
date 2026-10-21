@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-20",
+  "firmwareVersion": "0.7.0-dev",
+  "hardwareRevision": "V0.14.4",
+  "sdkVersion": "v5.5.1",
+  "scope": [
+    "Bounded numeric RAM fault/state log",
+    "Read-only sequence pagination with overwrite gaps and boot tags",
+    "Mainboard simulator using explicit USB-to-TTL adapter port",
+    "VS Code bench tasks and first-board instructions"
+  ],
+  "defaults": {
+    "eventCapacity": 64,
+    "eventPageMax": 16,
+    "eventStorage": "RAM",
+    "eventPersistenceAcrossReset": false,
+    "ordinaryCountdownLogged": false,
+    "secretsAndRawPayloadLogged": false,
+    "simulatorBaud": 9600,
+    "simulatorEncoding": "8N1",
+    "simulatorPendingFrameMax": 128,
+    "simulatorCommandQueue": 16,
+    "fragmentBytes": 64,
+    "fragmentGapMs": 1,
+    "lateReplyMs": 1500
+  },
+  "build": {
+    "image": "c5/build/iot_module.bin",
+    "bytes": 998960,
+    "sha256": "8c09c0db53f150e091861f929cc474a2f4d53782216db94be0d0ce97c163424d",
+    "compilerDiagnosticMatches": 0,
+    "target": "esp32c5"
+  },
+  "softwareVerification": {
+    "productionCoreChecksPassed": 24491,
+    "mainboardSimulatorUnitTestsPassed": 25,
+    "goldenWorkbookFrames": 18,
+    "eventRingWriteSimulationCount": 1000,
+    "eventCapacityRetained": 64,
+    "memoryTransportsAndVirtualClocks": true,
+    "oldQueryRaceScenarioImplemented": true,
+    "pythonVersion": "3.11",
+    "pyserialVersion": "3.5",
+    "wrapperHelpEntryVerified": true,
+    "vscodeTaskJsonParsed": true,
+    "recordFormatChanged": false,
+    "partitionsChanged": false
+  },
+  "sources": [
+    {
+      "path": "c5/components/module_core/module_events.c",
+      "sha256": "2afc420ca062f5395e77c14cb5c872ceb522694fcbac67a394a439fa7ffad82c"
+    },
+    {
+      "path": "c5/components/module_core/include/module_events.h",
+      "sha256": "78b7643abb69b830e05c4080bc7f524c0deefe4b6650f4de8f7166eb6f7cdb54"
+    },
+    {
+      "path": "c5/main/event_log.c",
+      "sha256": "3f426d3f9e15dcc4a575be2aadfea871a9f02753c03eb7dbf7b21249e7adc45b"
+    },
+    {
+      "path": "c5/main/event_log.h",
+      "sha256": "f0e61c9c86a858ffe991ac3fadf9defe2f632cf49b8f4efaef1be5dfd580391d"
+    },
+    {
+      "path": "c5/main/diagnostics.c",
+      "sha256": "00f6f986450938e0dd6b93901afbe3a44421fef17b7f12a5ddf6fed9723e2760"
+    },
+    {
+      "path": "c5/main/field_bus.c",
+      "sha256": "61115e0102d88fc722ce56726a2611b9bf1ee6a5d4c5af04a41d8f73d3031c57"
+    },
+    {
+      "path": "c5/main/runtime_store.c",
+      "sha256": "a1acc7bdca56c52b6334bd6203d594dac19891086cb50465429303c6c9189f2a"
+    },
+    {
+      "path": "c5/main/network.c",
+      "sha256": "07f53faedb8b16973ab26c5d566c0c843de0c6782b3f7735e40c63d50e70afda"
+    },
+    {
+      "path": "c5/main/modem.c",
+      "sha256": "e7b1469449d3d19982263c24c870f847b24342f9ded0763bed4f84d941e9a402"
+    },
+    {
+      "path": "c5/main/supervision.c",
+      "sha256": "5dfc6ecb1bfc812aa97358959ad6cdba2275ce79d047bada305f03533194c906"
+    },
+    {
+      "path": "c5/main/app_main.c",
+      "sha256": "0202fb97af4841fb08eda03529ec97f0d2e84b2be04f734cd6036febac16887a"
+    },
+    {
+      "path": "c5/tests/test_core.c",
+      "sha256": "a28b411cd8429f97215fbd2b5fe59ccd32385f2ede2f48e222b3e7a25df9f483"
+    },
+    {
+      "path": "c5/tests/test_bench.py",
+      "sha256": "cbd0e5697c2c11a7b5dfd1bff05b4626cfde034f6d0feb5752644546a7558254"
+    },
+    {
+      "path": "c5/tools/board_simulator.py",
+      "sha256": "cda4243e799ee47adf1c33a9a67ae63639f36a99e280a3ec9717333f4cfa2d58"
+    },
+    {
+      "path": "c5/tools/bench.ps1",
+      "sha256": "f18941b50f6187df218927fb20e218853a500fb0322ebed4f1270db885ad564e"
+    },
+    {
+      "path": "c5/tools/test-host.ps1",
+      "sha256": "35fa0b8c4dd259e5c167008be629e1412e1a563f9f24562fcba927e3eb27079b"
+    },
+    {
+      "path": "c5/.vscode/tasks.json",
+      "sha256": "71c2b96739a480bdf5ca7da8aeb4f7211456a824ec9e8632cd0c7d4784565bc0"
+    },
+    {
+      "path": "c5/main/CMakeLists.txt",
+      "sha256": "cd23af9d71e1271fd8ee4fb8ffe846f962da9200598ea6b4fa9656e4d502e26e"
+    },
+    {
+      "path": "c5/components/module_core/CMakeLists.txt",
+      "sha256": "befbefc22d2662a51734a5564504e1ba67727321cd3f00301a456b1ad8a1eb7c"
+    },
+    {
+      "path": "c5/CMakeLists.txt",
+      "sha256": "40a219850b46629166229ca0f96fec521561a5b3009cdb3816ccbe564f02f776"
+    }
+  ],
+  "hardwareFlashed": false,
+  "realSerialPortOpened": false,
+  "realSerialDriverVerified": false,
+  "hardwareElectricalErrorsVerified": false,
+  "actualNvsFaultInjectionVerified": false,
+  "suddenPowerLossVerified": false,
+  "actualWatchdogResetVerified": false,
+  "mqttIntegration": "deferred pending user backend documents"
+}

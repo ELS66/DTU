@@ -1,0 +1,1 @@
+if(!await eda.dmt_Project.openProject('5fc8543aba3658e297ffe20e9b8c170ba97643e6c3426f1cead726a2df37c798'))throw Error('Open failed');return {tab:await eda.dmt_EditorControl.openDocument('4211128ecf040c100b33238447713203')};

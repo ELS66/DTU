@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-20",
+  "firmwareVersion": "0.3.0-dev",
+  "hardware": "V0.14.4 ESP32-C5 + ML307R-DL",
+  "sdk": "ESP-IDF 5.5.1",
+  "sources": [
+    {
+      "path": "ML307R/01_文档资料/ML307C（中移AT版本）AT命令手册/AT_Commands_Reference_Guide_4G_Series_V2.0.5.pdf",
+      "sha256": "b0e68e5f8601271edcc5367e28f3300fd308ce1579b94f3d78b33869c56840b5",
+      "pdfPages": 198,
+      "relevantSections": [
+        "3.15 CGMM",
+        "7.1 CGDCONT",
+        "7.3 CGATT",
+        "7.4 CGACT pp95-96",
+        "7.5 CGPADDR pp97-98",
+        "7.9 CEREG"
+      ]
+    },
+    {
+      "path": "ML307R/01_文档资料/ML307C（中移AT版本）AT命令手册/TCP_IP用户手册_V5.1.5.pdf",
+      "sha256": "788e68cfbc44d873f4039f039fcabfb8a9103e0bdb29d98767dce41d9a3f657e",
+      "pdfPages": 72,
+      "relevantSections": [
+        "Applicable models p8",
+        "MIPCFG pp14-19",
+        "MIPOPEN pp22-24",
+        "MIPCLOSE pp25-26",
+        "MIPSEND pp27-29",
+        "MIPRD pp30-31",
+        "MIPSTATE pp34-35",
+        "MIPURC p60"
+      ]
+    }
+  ],
+  "compatibility": {
+    "genericManualsIncludeML307R": true,
+    "ml307cFirmwareFlashed": false,
+    "uartPppValidated": false,
+    "actualModemFirmwareVerified": false
+  },
+  "build": {
+    "image": "c5/build/iot_module.bin",
+    "bytes": 980928,
+    "sha256": "0871e47b5321f38939ad76d4dd5dbfa1bf2c9d81c18e13a5e0e8c9b0d6237c9a",
+    "compilerDiagnosticMatches": 0,
+    "partitionBytes": 3145728
+  },
+  "softwareVerification": {
+    "productionCoreChecksPassed": 2693,
+    "workbookGoldenFrames": 18,
+    "benchEchoSmokeBytes": 2073,
+    "benchEchoSmokePassed": true,
+    "hardwareFlashed": false,
+    "realWifiOrLteTrafficVerified": false
+  },
+  "transport": {
+    "routeSelection": "application_new_connection_only",
+    "wifiRetryMs": 30000,
+    "lteSocket": 0,
+    "pdpCid": 1,
+    "lteChunkBytes": 256,
+    "lteEncoding": "HEX both directions",
+    "receiveMode": "TCP stream cache 2",
+    "automaticWriteReplay": false,
+    "tlsImplemented": false,
+    "cloudConfigured": false
+  },
+  "openItems": [
+    "Actual AT firmware and UART timing",
+    "PDP/APN/operator compatibility",
+    "Wi-Fi 2.4/5GHz and LTE end-to-end bench tests",
+    "Flow-control-free stress and EOF/late-URC behavior",
+    "Production TLS, identity and cloud protocols"
+  ]
+}

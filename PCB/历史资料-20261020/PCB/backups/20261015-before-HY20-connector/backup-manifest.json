@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "file": "DTU-V0.13-60x70-routing-optimized-Gerber.zip",
+      "bytes": 145824,
+      "sha256": "836e1593b6cd5a8df52c9448c756d86675620582f81250fa8a2f7a5ce928a53d"
+    },
+    {
+      "file": "DTU-V0.13-60x70-routing-optimized.epro2",
+      "bytes": 1139060,
+      "sha256": "e4146dc178231ed197ad6e1cf8e2ecef023b52d878eda1bda370d5f05ac48906"
+    },
+    {
+      "file": "DTU-V0.13-60x70-布线优化资料包.zip",
+      "bytes": 1511055,
+      "sha256": "abeafba7598e8d67d3be1d0ca42c36275f226e9c3ca1646187a4424b1de1a957"
+    },
+    {
+      "file": "DTU-V0.13-schematic-netlist",
+      "bytes": 365865,
+      "sha256": "f9ac6814143b1769870607724b795f72adf233c16a14d705d8545b8f6d6c5c95"
+    },
+    {
+      "file": "pads-after-routing-opt-v13.json",
+      "bytes": 206640,
+      "sha256": "ca8674064ec7fb94da167f128fe7115b61fe855e7c54738ced5dbf9e783c2536"
+    },
+    {
+      "file": "routing-optimized-source-v13.json",
+      "bytes": 405344,
+      "sha256": "d8db037998d2d7a0b48e683517ceb717f47c47c55a8634da564eb49b62e4fab7"
+    },
+    {
+      "file": "source-after-routing-opt-v13.json",
+      "bytes": 902595,
+      "sha256": "750382b0f34fa7f63fb643bfe4d84bf93f62a133cf799cd7bdfa5e71fd98dc8b"
+    },
+    {
+      "file": "V0.13-整体验收记录.md",
+      "bytes": 7866,
+      "sha256": "804a04a1a8cffd5903b1e89b06c7f798d6b6849d130740a5bcfd95c7197e2c89"
+    }
+  ]
+}

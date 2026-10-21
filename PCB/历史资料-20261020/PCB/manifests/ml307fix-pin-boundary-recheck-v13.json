@@ -1,0 +1,824 @@
+{
+  "scope": "Read-only re-audit of current native footprint nominal physical rectangles versus exported-verified capsule lands; not a new factory DFM result.",
+  "outerPadsChecked": 48,
+  "outerPadsWithNominalHeelCornersOutsideCopper": 48,
+  "maximumCornerOutsideMm": 0.12426406871192885,
+  "rows": [
+    {
+      "pin": "98",
+      "outsideAreaMm2": 0.03862921768348013,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -5.8,
+        7.549999999999999,
+        -5.2,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        -5.8,
+        7.549999999999998,
+        -5.2,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "97",
+      "outsideAreaMm2": 0.03862921768348013,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        5.2,
+        7.549999999999999,
+        5.8,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        5.2,
+        7.549999999999998,
+        5.8,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "96",
+      "outsideAreaMm2": 0.03862921768348014,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        5.2,
+        -8.85,
+        5.8,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        5.2,
+        -10.149999999999999,
+        5.8,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "95",
+      "outsideAreaMm2": 0.03862921768348014,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -5.8,
+        -8.85,
+        -5.2,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        -5.8,
+        -10.149999999999999,
+        -5.2,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "44",
+      "outsideAreaMm2": 0.03862921768348013,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -4.7,
+        7.549999999999999,
+        -4.1000000000000005,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        -4.7,
+        7.549999999999998,
+        -4.1000000000000005,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "43",
+      "outsideAreaMm2": 0.03862921768348058,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -3.5999999999999996,
+        7.549999999999999,
+        -3.0,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        -3.599999999999999,
+        7.549999999999998,
+        -2.9999999999999996,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "42",
+      "outsideAreaMm2": 0.03862921768348023,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        -2.5,
+        7.549999999999999,
+        -1.9000000000000001,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        -2.5,
+        7.549999999999998,
+        -1.9000000000000001,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "41",
+      "outsideAreaMm2": 0.03862921768348028,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        -1.4000000000000001,
+        7.549999999999999,
+        -0.8,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        -1.4000000000000001,
+        7.549999999999998,
+        -0.8,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "40",
+      "outsideAreaMm2": 0.03862921768348025,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        -0.3,
+        7.549999999999999,
+        0.3,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        -0.3,
+        7.549999999999998,
+        0.3,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "39",
+      "outsideAreaMm2": 0.03862921768348028,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        0.8,
+        7.549999999999999,
+        1.4000000000000001,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        0.8,
+        7.549999999999998,
+        1.4000000000000001,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "38",
+      "outsideAreaMm2": 0.03862921768348022,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        1.9000000000000001,
+        7.549999999999999,
+        2.5,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        1.9000000000000001,
+        7.549999999999998,
+        2.5,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "37",
+      "outsideAreaMm2": 0.038629217683480585,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        3.0,
+        7.549999999999999,
+        3.5999999999999996,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        2.9999999999999996,
+        7.549999999999998,
+        3.599999999999999,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "36",
+      "outsideAreaMm2": 0.03862921768348013,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        4.1000000000000005,
+        7.549999999999999,
+        4.7,
+        8.85
+      ],
+      "nominalCopperBoundsMm": [
+        4.1000000000000005,
+        7.549999999999998,
+        4.7,
+        10.149999999999999
+      ]
+    },
+    {
+      "pin": "35",
+      "outsideAreaMm2": 0.03862921768348158,
+      "maximumCornerOutsideMm": 0.12426406871192885,
+      "nominalMetalBoundsMm": [
+        6.6,
+        6.3,
+        7.9,
+        6.8999999999999995
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        6.299999999999999,
+        9.2,
+        6.899999999999999
+      ]
+    },
+    {
+      "pin": "34",
+      "outsideAreaMm2": 0.03862921768348068,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        6.6,
+        5.2,
+        7.9,
+        5.8
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        5.2,
+        9.2,
+        5.8
+      ]
+    },
+    {
+      "pin": "33",
+      "outsideAreaMm2": 0.03862921768348068,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        6.6,
+        4.1000000000000005,
+        7.9,
+        4.7
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        4.1000000000000005,
+        9.2,
+        4.7
+      ]
+    },
+    {
+      "pin": "32",
+      "outsideAreaMm2": 0.03862921768348114,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        6.6,
+        3.0,
+        7.9,
+        3.5999999999999996
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        2.9999999999999996,
+        9.2,
+        3.599999999999999
+      ]
+    },
+    {
+      "pin": "31",
+      "outsideAreaMm2": 0.03862921768348079,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        6.6,
+        1.9000000000000001,
+        7.9,
+        2.5
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        1.9000000000000001,
+        9.2,
+        2.5
+      ]
+    },
+    {
+      "pin": "30",
+      "outsideAreaMm2": 0.03862921768348085,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        6.6,
+        0.8,
+        7.9,
+        1.4000000000000001
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        0.8,
+        9.2,
+        1.4000000000000001
+      ]
+    },
+    {
+      "pin": "29",
+      "outsideAreaMm2": 0.03862921768348079,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        6.6,
+        -0.3,
+        7.9,
+        0.3
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        -0.3,
+        9.2,
+        0.3
+      ]
+    },
+    {
+      "pin": "28",
+      "outsideAreaMm2": 0.038629217683480835,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        6.6,
+        -1.4000000000000001,
+        7.9,
+        -0.8
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        -1.4000000000000001,
+        9.2,
+        -0.8
+      ]
+    },
+    {
+      "pin": "27",
+      "outsideAreaMm2": 0.03862921768348078,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        6.6,
+        -2.5,
+        7.9,
+        -1.9000000000000001
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        -2.5,
+        9.2,
+        -1.9000000000000001
+      ]
+    },
+    {
+      "pin": "26",
+      "outsideAreaMm2": 0.038629217683481126,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        6.6,
+        -3.5999999999999996,
+        7.9,
+        -3.0
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        -3.599999999999999,
+        9.2,
+        -2.9999999999999996
+      ]
+    },
+    {
+      "pin": "25",
+      "outsideAreaMm2": 0.03862921768348068,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        6.6,
+        -4.7,
+        7.9,
+        -4.1000000000000005
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        -4.7,
+        9.2,
+        -4.1000000000000005
+      ]
+    },
+    {
+      "pin": "24",
+      "outsideAreaMm2": 0.03862921768348068,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        6.6,
+        -5.8,
+        7.9,
+        -5.2
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        -5.8,
+        9.2,
+        -5.2
+      ]
+    },
+    {
+      "pin": "23",
+      "outsideAreaMm2": 0.0386292176834816,
+      "maximumCornerOutsideMm": 0.12426406871192885,
+      "nominalMetalBoundsMm": [
+        6.6,
+        -6.8999999999999995,
+        7.9,
+        -6.3
+      ],
+      "nominalCopperBoundsMm": [
+        6.6,
+        -6.899999999999999,
+        9.2,
+        -6.299999999999999
+      ]
+    },
+    {
+      "pin": "22",
+      "outsideAreaMm2": 0.03862921768348014,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        4.1000000000000005,
+        -8.85,
+        4.7,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        4.1000000000000005,
+        -10.149999999999999,
+        4.7,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "21",
+      "outsideAreaMm2": 0.038629217683480585,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        3.0,
+        -8.85,
+        3.5999999999999996,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        2.9999999999999996,
+        -10.149999999999999,
+        3.599999999999999,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "20",
+      "outsideAreaMm2": 0.038629217683480224,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        1.9000000000000001,
+        -8.85,
+        2.5,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        1.9000000000000001,
+        -10.149999999999999,
+        2.5,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "19",
+      "outsideAreaMm2": 0.03862921768348028,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        0.8,
+        -8.85,
+        1.4000000000000001,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        0.8,
+        -10.149999999999999,
+        1.4000000000000001,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "18",
+      "outsideAreaMm2": 0.03862921768348024,
+      "maximumCornerOutsideMm": 0.12426406871192805,
+      "nominalMetalBoundsMm": [
+        -0.3,
+        -8.85,
+        0.3,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        -0.3,
+        -10.149999999999999,
+        0.3,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "17",
+      "outsideAreaMm2": 0.03862921768348029,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        -1.4000000000000001,
+        -8.85,
+        -0.8,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        -1.4000000000000001,
+        -10.149999999999999,
+        -0.8,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "16",
+      "outsideAreaMm2": 0.03862921768348022,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        -2.5,
+        -8.85,
+        -1.9000000000000001,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        -2.5,
+        -10.149999999999999,
+        -1.9000000000000001,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "15",
+      "outsideAreaMm2": 0.03862921768348059,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -3.5999999999999996,
+        -8.85,
+        -3.0,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        -3.599999999999999,
+        -10.149999999999999,
+        -2.9999999999999996,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "14",
+      "outsideAreaMm2": 0.03862921768348014,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -4.7,
+        -8.85,
+        -4.1000000000000005,
+        -7.549999999999999
+      ],
+      "nominalCopperBoundsMm": [
+        -4.7,
+        -10.149999999999999,
+        -4.1000000000000005,
+        -7.549999999999998
+      ]
+    },
+    {
+      "pin": "13",
+      "outsideAreaMm2": 0.03862921768348157,
+      "maximumCornerOutsideMm": 0.12426406871192885,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        -6.8999999999999995,
+        -6.6,
+        -6.3
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        -6.899999999999999,
+        -6.6,
+        -6.299999999999999
+      ]
+    },
+    {
+      "pin": "12",
+      "outsideAreaMm2": 0.03862921768348069,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        -5.8,
+        -6.6,
+        -5.2
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        -5.8,
+        -6.6,
+        -5.2
+      ]
+    },
+    {
+      "pin": "11",
+      "outsideAreaMm2": 0.03862921768348069,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        -4.7,
+        -6.6,
+        -4.1000000000000005
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        -4.7,
+        -6.6,
+        -4.1000000000000005
+      ]
+    },
+    {
+      "pin": "10",
+      "outsideAreaMm2": 0.038629217683481154,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        -3.5999999999999996,
+        -6.6,
+        -3.0
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        -3.599999999999999,
+        -6.6,
+        -2.9999999999999996
+      ]
+    },
+    {
+      "pin": "9",
+      "outsideAreaMm2": 0.03862921768348081,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        -2.5,
+        -6.6,
+        -1.9000000000000001
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        -2.5,
+        -6.6,
+        -1.9000000000000001
+      ]
+    },
+    {
+      "pin": "8",
+      "outsideAreaMm2": 0.03862921768348086,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        -1.4000000000000001,
+        -6.6,
+        -0.8
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        -1.4000000000000001,
+        -6.6,
+        -0.8
+      ]
+    },
+    {
+      "pin": "7",
+      "outsideAreaMm2": 0.03862921768348081,
+      "maximumCornerOutsideMm": 0.12426406871192805,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        -0.3,
+        -6.6,
+        0.3
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        -0.3,
+        -6.6,
+        0.3
+      ]
+    },
+    {
+      "pin": "6",
+      "outsideAreaMm2": 0.03862921768348085,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        0.8,
+        -6.6,
+        1.4000000000000001
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        0.8,
+        -6.6,
+        1.4000000000000001
+      ]
+    },
+    {
+      "pin": "5",
+      "outsideAreaMm2": 0.03862921768348079,
+      "maximumCornerOutsideMm": 0.12426406871192806,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        1.9000000000000001,
+        -6.6,
+        2.5
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        1.9000000000000001,
+        -6.6,
+        2.5
+      ]
+    },
+    {
+      "pin": "4",
+      "outsideAreaMm2": 0.03862921768348106,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        3.0,
+        -6.6,
+        3.5999999999999996
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        2.9999999999999996,
+        -6.6,
+        3.599999999999999
+      ]
+    },
+    {
+      "pin": "3",
+      "outsideAreaMm2": 0.03862921768348069,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        4.1000000000000005,
+        -6.6,
+        4.7
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        4.1000000000000005,
+        -6.6,
+        4.7
+      ]
+    },
+    {
+      "pin": "2",
+      "outsideAreaMm2": 0.03862921768348069,
+      "maximumCornerOutsideMm": 0.12426406871192823,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        5.2,
+        -6.6,
+        5.8
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        5.2,
+        -6.6,
+        5.8
+      ]
+    },
+    {
+      "pin": "1",
+      "outsideAreaMm2": 0.038629217683481515,
+      "maximumCornerOutsideMm": 0.12426406871192885,
+      "nominalMetalBoundsMm": [
+        -7.9,
+        6.3,
+        -6.6,
+        6.8999999999999995
+      ],
+      "nominalCopperBoundsMm": [
+        -9.2,
+        6.299999999999999,
+        -6.6,
+        6.899999999999999
+      ]
+    }
+  ]
+}

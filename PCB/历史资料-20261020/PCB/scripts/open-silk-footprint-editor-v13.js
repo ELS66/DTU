@@ -1,0 +1,1 @@
+const id='7ee770cbd5586921',lib='52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9';const tab=await eda.lib_Footprint.openInEditor(id,lib);return {tab,document:await eda.dmt_SelectControl.getCurrentDocumentInfo()};

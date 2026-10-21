@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "result": [],
+  "windowId": "43e23193-d74d-4207-8c28-ea857cff742c",
+  "supersededBy": "maskbridge-layout-after-v13.json; mask-layout-pcb-drc-v13.json",
+  "note": "临时焊盘API开窗尝试，重开工程后不保留，已撤回；最终交付采用R36布局修正。"
+}

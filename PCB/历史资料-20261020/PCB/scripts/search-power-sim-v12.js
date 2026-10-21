@@ -1,0 +1,1 @@
+const out={};for(const key of ['220uF 6.3V polymer','6.8uH 4A','SWPA8040S6R8MT','SMN-303','0603WAF1001T5E','0603WAF1002T5E','CC0603JRNPO9BN330'])out[key]=await eda.lib_Device.search(key,undefined,undefined,undefined,3,1);return out;

@@ -1,0 +1,1 @@
+const out={};for(const key of ['TXU0202DCUR','TPD2EUSB30','TPD2EUSB30DRTR','TPD4E05U06'])out[key]=await eda.lib_Device.search(key,undefined,undefined,undefined,4,1);return out;

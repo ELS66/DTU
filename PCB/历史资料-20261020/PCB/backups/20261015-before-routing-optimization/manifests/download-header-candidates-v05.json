@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "result": {
+    "HDR-M-2.54_1x5": [
+      {
+        "name": "HDR-M_2.54_1x5P",
+        "uuid": "e999019a30fc45b6addfb63daf8ef2f8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C358687",
+        "footprint": "HDR-TH_5P-P2.54-V-M"
+      }
+    ],
+    "CONN-TH_5P-P2.54": [
+      {
+        "name": "B05B2-AHCMKS-A",
+        "uuid": "04a1b4a1b88540318164fc05d41159c9",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C264983",
+        "footprint": "CONN-TH_5P-P2.54_B05B2-AHCMKS-A"
+      },
+      {
+        "name": "XH2.54_5p_DIP端子座",
+        "uuid": "c5bb8068a79e4820b1f522a556006fdd",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C9900014194",
+        "footprint": "CONN-TH_5P-P2.54_XH2.54_5P_DIP"
+      },
+      {
+        "name": "FWF25401-S05S22W5B",
+        "uuid": "4ae177e4874244a4b69c6b972f607fc7",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C456566",
+        "footprint": "CONN-TH_5P-P2.54_FWF25401-S05S22W5B"
+      },
+      {
+        "name": "LCW-105-08-L-M-300",
+        "uuid": "11aff2921f9d434cb363feb70dde0481",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C20372170",
+        "footprint": "CONN-TH_5P-P2.54_LCW-105-XX-X-S"
+      },
+      {
+        "name": "LCW-105-15-T-M-230",
+        "uuid": "826925ac11d040669711aa09afbfd9d8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C20372222",
+        "footprint": "CONN-TH_5P-P2.54_LCW-105-XX-X-S"
+      }
+    ]
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

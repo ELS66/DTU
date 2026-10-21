@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=="b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5")throw Error("Wrong project");const f=await eda.sch_ManufactureData.getPngFile("DTU-V04-schematic",{width:4096});if(!f)throw Error("No PNG export");return {name:f.name,type:f.type,bytes:Array.from(new Uint8Array(await f.arrayBuffer()))};

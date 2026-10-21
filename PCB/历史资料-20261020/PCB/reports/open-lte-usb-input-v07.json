@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "result": {
+    "nets": [
+      "LED_LTE_G_N",
+      "LTE_VDD_EXT"
+    ],
+    "removed": 22,
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");return {deleted:await eda.pcb_PrimitivePolyline.delete(["3552377ffcfbde8e", "faf5b230fd29ebd6", "3f45091e5a9ee4d3", "c191e34f35c00f57", "44224408696ffa05"]),saved:await eda.pcb_Document.save()};

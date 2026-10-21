@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "result": {
+    "wire": {
+      "line": [
+        340,
+        270,
+        360,
+        270
+      ],
+      "net": "TTL_VSENSE"
+    },
+    "attrs": [
+      {
+        "id": "a1f1e3d4bff83147",
+        "key": "Name",
+        "parent": "9b252830c67ca6e0",
+        "x": 340,
+        "y": 270,
+        "value": "TTL_VSENSE"
+      },
+      {
+        "id": "db2ac374f45e7418",
+        "key": "Name",
+        "parent": "9b252830c67ca6e0",
+        "x": 340,
+        "y": 270,
+        "value": "TTL_VSENSE"
+      },
+      {
+        "id": "0d53dda5c3dfd78f",
+        "key": "Name",
+        "parent": "a4fd0514fed638d8",
+        "x": 190,
+        "y": 180,
+        "value": "TTL_VSENSE"
+      },
+      {
+        "id": "89523ef1bc38b71f",
+        "key": "Name",
+        "parent": "947a968792a50643",
+        "x": 380,
+        "y": 180,
+        "value": "TTL_VSENSE"
+      },
+      {
+        "id": "b003334e665303a6",
+        "key": "Name",
+        "parent": "bd3a5b1700f84a48",
+        "x": 110,
+        "y": 240,
+        "value": "TTL_VSENSE"
+      },
+      {
+        "id": "577d6652bc7aa479",
+        "key": "Name",
+        "parent": "a74d5d9afab14dee",
+        "x": 940,
+        "y": 240,
+        "value": "TTL_VSENSE"
+      }
+    ]
+  },
+  "windowId": "85b38436-b87a-4f79-b4e4-e135b424871d"
+}

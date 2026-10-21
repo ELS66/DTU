@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "name": "DTU-V0.13-60x70-SMTfix.epro2",
+      "sha256": "95e11d03eba184603ed25ff6f4cb405a3986c3a991bb2a7ffc9f65c341a8f647"
+    },
+    {
+      "name": "DTU-V0.13-60x70-SMTfix-Gerber.zip",
+      "sha256": "838cce8948892df5ce7b36ac13790325c1f507f0091b8efcf27b67ebb3ec1a67"
+    },
+    {
+      "name": "DTU-V0.13-60x70-SMT\u78b0\u649e\u4fee\u6b63\u590d\u67e5\u5305.zip",
+      "sha256": "167164fc6655ae6353f8eb8d15de0aae7a975b53c18a4f4c1fc30caf4cb125e8"
+    },
+    {
+      "name": "current-pcb-delivery-v13.json",
+      "sha256": "9e2652251936e8baf4ef9fc44f94ff75259639ea147aadaa132c062bb2fa4f1d"
+    },
+    {
+      "name": "source-after-smt-fix-v13.json",
+      "sha256": "28f0ec77bf09d22e59644b0bc438cc20007908c03975c52451c79fbfc83cc7fc"
+    }
+  ]
+}

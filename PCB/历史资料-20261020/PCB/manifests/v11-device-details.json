@@ -1,0 +1,301 @@
+{
+  "success": true,
+  "result": {
+    "92e94c6c12364f36970580043d5f88af": {
+      "libraryType": "3",
+      "uuid": "92e94c6c12364f36970580043d5f88af",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "MAX3485ESA+",
+      "classification": [
+        "通信接口芯片",
+        "RS-485/RS-422芯片"
+      ],
+      "association": {
+        "symbolType": 2,
+        "symbolUuid": "ea9ffadc4b234b61aed51fa490172b33",
+        "symbol": {
+          "type": 2,
+          "uuid": "ea9ffadc4b234b61aed51fa490172b33",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "footprintUuid": "8f20caaa2d364e7ea44792354afae0d5",
+        "footprint": {
+          "uuid": "8f20caaa2d364e7ea44792354afae0d5",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "images": [
+          "https://alimg.szlcsc.com/upload/public/product/middle/20230728/CCFFCF21E50486A75E53ACFBE55D42A3.jpg"
+        ]
+      },
+      "description": "类型:收发器;数据速率:10Mbps;",
+      "property": {
+        "name": "MAX3485ESA+",
+        "designator": "U?",
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+        "manufacturerId": "MAX3485ESA+",
+        "supplier": "LCSC",
+        "supplierId": "C1545222",
+        "otherProperty": {
+          "LCSC Part Name": "3.3V供电，10Mbps RS-485/RS-422收发器",
+          "Supplier Part": "C1545222",
+          "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+          "Manufacturer Part": "MAX3485ESA+",
+          "Supplier Footprint": "SO-8",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/MAX3485ESA%252B/1636028.html",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "ea9ffadc4b234b61aed51fa490172b33",
+          "Designator": "U?",
+          "Footprint": "8f20caaa2d364e7ea44792354afae0d5",
+          "3D Model": "50ce3402a2354e6c8e8bd1c9ad02453e",
+          "3D Model Title": "SO-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "3D Model Transform": "192.913,236.22,0,0,0,0,0,0,0",
+          "Type": "收发器",
+          "Number of Drivers": "1",
+          "Number of Receivers": "1",
+          "Voltage - Supply": "3V~3.6V",
+          "Data Rate": "10Mbps",
+          "Number of Nodes": "32",
+          "Operating Temperature": "-40℃~+85℃",
+          "Quiescent Supply Current": "1.1mA",
+          "Communication Mode": "半双工",
+          "Features": "热关断保护；使能关断；低功耗模式；过流保护",
+          "Name": "={Manufacturer Part}",
+          "Description": "类型:收发器;数据速率:10Mbps;"
+        }
+      },
+      "subPartNames": [
+        "MAX3485ESA+_C1545222.1"
+      ]
+    },
+    "785967b7477c477bb4c234dc88df5709": {
+      "libraryType": "3",
+      "uuid": "785967b7477c477bb4c234dc88df5709",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "BL13232ETS",
+      "classification": [
+        "通信接口芯片",
+        "RS232芯片"
+      ],
+      "association": {
+        "symbolType": 2,
+        "symbolUuid": "5704761e9f424ab493572be35870c73d",
+        "symbol": {
+          "type": 2,
+          "uuid": "5704761e9f424ab493572be35870c73d",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "footprintUuid": "38556d29f2a8404da2362afdf44ca719",
+        "footprint": {
+          "uuid": "38556d29f2a8404da2362afdf44ca719",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "images": [
+          "https://alimg.szlcsc.com/upload/public/product/middle/20230105/758BFC5CB3668347DD3ECDB0E673845A.jpg"
+        ]
+      },
+      "description": "类型:收发器;数据速率:250Kbps;",
+      "property": {
+        "name": "BL13232ETS",
+        "designator": "U?",
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "manufacturer": "BL(上海贝岭)",
+        "manufacturerId": "BL13232ETS",
+        "supplier": "LCSC",
+        "supplierId": "C2999161",
+        "otherProperty": {
+          "LCSC Part Name": "3V至5.5V, 250kbps RS-232收发器",
+          "Supplier Part": "C2999161",
+          "Manufacturer": "BL(上海贝岭)",
+          "Manufacturer Part": "BL13232ETS",
+          "Supplier Footprint": "TSSOP-16",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/BL13232ETS/3475667.html",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "5704761e9f424ab493572be35870c73d",
+          "Designator": "U?",
+          "Footprint": "38556d29f2a8404da2362afdf44ca719",
+          "3D Model": "e184b9ae7def452b81228c95a013214c",
+          "3D Model Title": "TSSOP-16_L5.0-W4.4-H1.0-LS6.4-P0.65",
+          "3D Model Transform": "252.188,196.85,0,90,0,0,0,0.005,0",
+          "Type": "收发器",
+          "Number of Drivers": "2",
+          "Number of Receivers": "2",
+          "Data Rate": "250Kbps",
+          "Voltage - Supply": "3V~5.5V",
+          "ESD Protect": "±15kV",
+          "charge pump": "有",
+          "Operating Temperature": "-40℃~+125℃",
+          "Quiescent Supply Current": "1.5mA",
+          "Features": "-",
+          "Name": "={Manufacturer Part}",
+          "Description": "类型:收发器;数据速率:250Kbps;"
+        }
+      },
+      "subPartNames": [
+        "BL13232ETS.1"
+      ]
+    },
+    "gates": [
+      {
+        "uuid": "27376aeb8ef24d0493ee69f282c2787f",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "classification": [
+          "逻辑器件",
+          "逻辑门"
+        ],
+        "ordinal": 0,
+        "name": "SN74LVC1G11DCKR",
+        "symbolName": "SN74LVC1G11DCKR",
+        "symbolUuid": "680e6e65287c42dd9e2d21b084cd4d03",
+        "footprintName": "SC-70-6_L2.2-W1.3-P0.65-LS2.1-BL",
+        "footprintUuid": "40d544f497914caaa6cbea3bc4eaae91",
+        "model3DName": "SC-70-6_L2.0-W1.3-H1.0-P0.65",
+        "model3DUuid": "7779600a2eb94c6fae04993c10cd58cb",
+        "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20230104/68820AD0E2282C91B1A0F3ED984B59B4.jpg",
+        "description": "逻辑类型:与门;门电路数量:1;工作电压:1.65V~5.5V;静态电流(Iq):10uA;传播延迟(tpd):3.5ns@5V,50pF;",
+        "manufacturer": "TI(德州仪器)",
+        "manufacturerId": "SN74LVC1G11DCKR",
+        "supplier": "LCSC",
+        "supplierId": "C529281",
+        "otherProperty": {
+          "LCSC Part Name": "单路三输入正与门",
+          "Supplier Part": "C529281",
+          "Manufacturer": "TI(德州仪器)",
+          "Manufacturer Part": "SN74LVC1G11DCKR",
+          "Supplier Footprint": "SC-70-6",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://www.ti.com/cn/lit/ds/symlink/sn74lvc1g11.pdf",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "680e6e65287c42dd9e2d21b084cd4d03",
+          "Designator": "U?",
+          "Footprint": "40d544f497914caaa6cbea3bc4eaae91",
+          "3D Model": "7779600a2eb94c6fae04993c10cd58cb",
+          "3D Model Title": "SC-70-6_L2.0-W1.3-H1.0-P0.65",
+          "3D Model Transform": "82.677,78.74,0,90,0,0,0,0.0005,0",
+          "Logic Type": "与门",
+          "Number of Gates": "1",
+          "Voltage - Supply": "1.65V~5.5V",
+          "Quiescent Current": "10uA",
+          "Current - Output Low(IOL)": "32mA",
+          "Current - Output High(IOH)": "32mA",
+          "Input Logic Level - High": "1.7V~2V",
+          "Input Logic Level - Low": "700mV~800mV",
+          "Output Logic Level - High": "3.8V",
+          "Output Logic Level - Low": "550mV",
+          "Series": "74LVC系列",
+          "Propagation Delay": "3.5ns@5V,50pF",
+          "Operating Temperature": "-40℃~+125℃",
+          "Inputs per Gates": "3",
+          "Features": "局部关断模式；过压容忍输入",
+          "Name": "={Manufacturer Part}",
+          "Description": "逻辑类型:与门;门电路数量:1;工作电压:1.65V~5.5V;静态电流(Iq):10uA;传播延迟(tpd):3.5ns@5V,50pF;"
+        }
+      },
+      {
+        "uuid": "0f55a2f6d7cf4d5aa2dfc0693e542686",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "classification": [
+          "逻辑器件",
+          "逻辑门"
+        ],
+        "ordinal": 1,
+        "name": "SN74LVC1G11DCKR(AT)",
+        "symbolName": "SN74LVC1G11DCKR(AT)",
+        "symbolUuid": "47dab25a064148faa05acb76408fec8d",
+        "footprintName": "SC-70-6_L2.2-W1.3-P0.65-LS2.1-BL",
+        "footprintUuid": "40d544f497914caaa6cbea3bc4eaae91",
+        "model3DName": "SC-70-6_L2.0-W1.3-H1.0-P0.65",
+        "model3DUuid": "7779600a2eb94c6fae04993c10cd58cb",
+        "imageUuid": "https://alimg.szlcsc.com/upload/public/product/middle/20260612/BCC0EDE3CC04D345E5AD62A27E55D912.jpg",
+        "description": "SN74LVC1G11是一款单通道3输入正与门，其可以在1.65V到5.5V 的供电电压范围内工作。",
+        "manufacturer": "AOTE(奥特)",
+        "manufacturerId": "SN74LVC1G11DCKR(AT)",
+        "supplier": "LCSC",
+        "supplierId": "C55089947",
+        "otherProperty": {
+          "LCSC Part Name": "SN74LVC1G11DCKR(AT)",
+          "Supplier Part": "C55089947",
+          "Manufacturer": "AOTE(奥特)",
+          "Manufacturer Part": "SN74LVC1G11DCKR(AT)",
+          "Supplier Footprint": "SC-70-6",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/SN74LVC1G11DCKR(AT)/58753306.html",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "47dab25a064148faa05acb76408fec8d",
+          "Designator": "U?",
+          "Footprint": "40d544f497914caaa6cbea3bc4eaae91",
+          "3D Model": "7779600a2eb94c6fae04993c10cd58cb",
+          "3D Model Title": "SC-70-6_L2.0-W1.3-H1.0-P0.65",
+          "3D Model Transform": "82.677,78.74,0,90,0,0,0,0.0005,0",
+          "Name": "={Manufacturer Part}",
+          "Description": "SN74LVC1G11是一款单通道3输入正与门，其可以在1.65V到5.5V 的供电电压范围内工作。"
+        }
+      },
+      {
+        "uuid": "f1e5ecc5d9014498b7d1e45a2a89f763",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "classification": [
+          "逻辑器件",
+          "逻辑门"
+        ],
+        "ordinal": 2,
+        "name": "SN74LVC1G11DCKRG4",
+        "symbolName": "SN74LVC1G11DCKRG4",
+        "symbolUuid": "583f0eb4792442b4a5a7591c6bee3abd",
+        "footprintName": "SC-70-6_L2.0-W1.3-P0.65-LS2.1-BR",
+        "footprintUuid": "9a330370d13e4956a1ce320df2046066",
+        "model3DName": "SC-70-6_L2.0-W1.3-H1.0-P0.65",
+        "model3DUuid": "7779600a2eb94c6fae04993c10cd58cb",
+        "description": "逻辑类型:与门;通道数:1;电源电压:1.65V~5.5V;静态电流(最大值):10uA;最大传播延迟:3.5ns@5V,50pF;",
+        "manufacturer": "TI(德州仪器)",
+        "manufacturerId": "SN74LVC1G11DCKRG4",
+        "supplier": "LCSC",
+        "supplierId": "C2878854",
+        "otherProperty": {
+          "LCSC Part Name": "SN74LVC1G11DCKRG4",
+          "Supplier Part": "C2878854",
+          "Manufacturer": "TI(德州仪器)",
+          "Manufacturer Part": "SN74LVC1G11DCKRG4",
+          "Supplier Footprint": "SC-70-6",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://www.ti.com/cn/lit/gpn/sn74lvc1g11",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "583f0eb4792442b4a5a7591c6bee3abd",
+          "Designator": "U?",
+          "Footprint": "9a330370d13e4956a1ce320df2046066",
+          "3D Model": "7779600a2eb94c6fae04993c10cd58cb",
+          "3D Model Title": "SC-70-6_L2.0-W1.3-H1.0-P0.65",
+          "3D Model Transform": "82.677,78.74,0,0,0,0,0,0,0",
+          "Logic Gate Type": "与门",
+          "Number of Channels": "1",
+          "Supply Voltage": "1.65V~5.5V",
+          "Quiescent Current (Max)": "10uA",
+          "Sink Current": "32mA",
+          "Source Current": "32mA",
+          "High Level Range (VIH)": "1.7V~2V",
+          "Low Level Range (VIL)": "700mV~800mV",
+          "Series": "74LVC系列",
+          "Propagation Delay Time": "3.5ns@5V,50pF",
+          "Operating Temperature": "-40℃~+125℃",
+          "Name": "={Manufacturer Part}",
+          "Description": "逻辑类型:与门;通道数:1;电源电压:1.65V~5.5V;静态电流(最大值):10uA;最大传播延迟:3.5ns@5V,50pF;"
+        }
+      }
+    ]
+  },
+  "windowId": "b1faecb9-4fd3-42fc-a7ba-9730a347bfe6"
+}

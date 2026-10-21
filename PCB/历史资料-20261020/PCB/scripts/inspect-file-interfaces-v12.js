@@ -1,0 +1,3 @@
+const f=await eda.sys_FileManager.getProjectFile('native-file-inspection',undefined,'epro2');const disk=await eda.sys_FileSystem.readFileFromFileSystem('D:/DTU/PCB/eda/DTU-V0.12-ML307R-DL-60x70.epro2');const browser=globalThis.dtuV12FinalFile;
+function meta(x){return {name:x?.name,type:x?.type,constructor:x?.constructor?.name,isFile:x instanceof File,keys:Object.keys(x),properties:Object.entries(Object.getOwnPropertyDescriptors(x)).map(([k,v])=>({key:k,type:typeof v.value,writable:v.writable,getter:!!v.get})),prototypeKeys:Object.getOwnPropertyNames(Object.getPrototypeOf(x))};}
+return {native:meta(f),disk:meta(disk),browser:meta(browser)};

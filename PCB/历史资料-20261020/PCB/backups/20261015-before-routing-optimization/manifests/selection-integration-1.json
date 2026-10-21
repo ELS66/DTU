@@ -1,0 +1,81 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "created": [
+      {
+        "ref": "F1",
+        "pin": "2",
+        "net": "VIN_485_FUSED",
+        "id": "c8a1203d399bb4a4"
+      },
+      {
+        "ref": "F1",
+        "pin": "1",
+        "net": "VIN_485",
+        "id": "5db8831beff71501"
+      },
+      {
+        "ref": "D1",
+        "pin": "2",
+        "net": "VIN_485_FUSED",
+        "id": "eb901db256c962f4"
+      },
+      {
+        "ref": "D1",
+        "pin": "1",
+        "net": "VIN_OR",
+        "id": "5fe6a6d7e90c07fd"
+      },
+      {
+        "ref": "F2",
+        "pin": "2",
+        "net": "VIN_232_FUSED",
+        "id": "5ec89874b9435bc5"
+      },
+      {
+        "ref": "F2",
+        "pin": "1",
+        "net": "VIN_232",
+        "id": "15759c07ea367433"
+      },
+      {
+        "ref": "D2",
+        "pin": "2",
+        "net": "VIN_232_FUSED",
+        "id": "42f2ab414466d5ca"
+      },
+      {
+        "ref": "D2",
+        "pin": "1",
+        "net": "VIN_OR",
+        "id": "99ca40aed3d3f1ad"
+      },
+      {
+        "ref": "F3",
+        "pin": "2",
+        "net": "VIN_TTL_FUSED",
+        "id": "502f5440cca996b0"
+      },
+      {
+        "ref": "F3",
+        "pin": "1",
+        "net": "VIN_TTL",
+        "id": "25a126c699bc8848"
+      },
+      {
+        "ref": "D3",
+        "pin": "2",
+        "net": "VIN_TTL_FUSED",
+        "id": "a67e883c4b280eae"
+      },
+      {
+        "ref": "D3",
+        "pin": "1",
+        "net": "VIN_OR",
+        "id": "c55214b62cbb0db3"
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

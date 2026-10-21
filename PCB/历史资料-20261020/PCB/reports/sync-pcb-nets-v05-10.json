@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "result": {
+    "changed": [
+      "U10:1",
+      "U10:2",
+      "U10:3",
+      "U10:4",
+      "U10:5",
+      "U10:6",
+      "U10:7",
+      "U10:8"
+    ],
+    "missing": [],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

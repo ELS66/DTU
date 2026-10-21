@@ -1,0 +1,1 @@
+const cs=await eda.sch_PrimitiveComponent.getAll("part");const seen=new Set();let removed=0;for(const c of cs){const key=c.getState_Designator();if(seen.has(key)){await eda.sch_PrimitiveComponent.delete(c.getState_PrimitiveId());removed++;}else seen.add(key);}return {removed,saved:await eda.sch_Document.save()};

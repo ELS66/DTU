@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "result": {
+    "moves": [
+      {
+        "ref": "C52",
+        "x": 16.8,
+        "y": 28.95204,
+        "rotation": 0
+      },
+      {
+        "ref": "C53",
+        "x": 16.8,
+        "y": 30.15204,
+        "rotation": 0
+      },
+      {
+        "ref": "C54",
+        "x": 16.8,
+        "y": 25.53208,
+        "rotation": 0
+      },
+      {
+        "ref": "D12",
+        "x": 16.2,
+        "y": 31.29204,
+        "rotation": 0
+      },
+      {
+        "ref": "D11",
+        "x": 16.2,
+        "y": 32.16204,
+        "rotation": 0
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

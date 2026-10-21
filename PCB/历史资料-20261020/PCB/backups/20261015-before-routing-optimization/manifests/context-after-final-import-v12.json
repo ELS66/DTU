@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "result": {
+    "project": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc",
+    "name": "DTU-C5-Air780EPT-HW-V0.1-library",
+    "document": "4211128ecf040c100b33238447713203",
+    "import": {
+      "state": "failed",
+      "error": "Error: No imported project"
+    }
+  },
+  "windowId": "035201c2-5ac3-44f1-be5e-f3d4c319ac71"
+}

@@ -1,0 +1,1 @@
+const out={};for(const key of ["HDR-M-2.54_1x5","CONN-TH_5P-P2.54"]){out[key]=(await eda.lib_Device.search(key,undefined,undefined,undefined,5,1)).map(x=>({name:x.name,uuid:x.uuid,libraryUuid:x.libraryUuid,supplierId:x.supplierId,footprint:x.footprintName}));}return out;

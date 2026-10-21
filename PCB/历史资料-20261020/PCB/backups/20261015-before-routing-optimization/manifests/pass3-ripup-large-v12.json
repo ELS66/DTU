@@ -1,0 +1,64 @@
+{
+  "removed": {
+    "93d574b9ab1af5a0": "SIM_RST_M",
+    "ec0a50ec278999d1": "SIM_DATA_M",
+    "0b99a0c7d53db73a": "LED_LTE_G_N",
+    "5f45544d1f8571f2": "Q2_BASE",
+    "97488c98cab51e79": "VDD_3V3",
+    "70395a646c23b42a": "LED_LTE_R_N",
+    "ecf41524ad57615c": "LTE_TX_SER",
+    "81df558b97fd674a": "VDD_3V3",
+    "3cc3c2a4046f066b": "VDD_3V3",
+    "7e65077f15590d62": "LED_LTE_B_N",
+    "c8b8a927604be8f4": "MCU_LTE_RESET"
+  },
+  "escaped": [
+    {
+      "net": "SIM_RST",
+      "ref": "R52",
+      "pin": "2",
+      "x": 23.35,
+      "y": 44.400000000000006,
+      "removed": [
+        "93d574b9ab1af5a0",
+        "ec0a50ec278999d1",
+        "0b99a0c7d53db73a"
+      ]
+    },
+    {
+      "net": "LTE_RESET",
+      "ref": "Q2",
+      "pin": "3",
+      "x": 24.6,
+      "y": 39.0,
+      "removed": [
+        "5f45544d1f8571f2"
+      ]
+    },
+    {
+      "net": "MCU_LTE_RX",
+      "ref": "U13",
+      "pin": "3",
+      "x": 30.35,
+      "y": 49.25,
+      "removed": [
+        "97488c98cab51e79",
+        "70395a646c23b42a",
+        "ecf41524ad57615c"
+      ]
+    },
+    {
+      "net": "LED_LTE_R_N",
+      "ref": "U1",
+      "pin": "9",
+      "x": 36.2,
+      "y": 46.1,
+      "removed": [
+        "81df558b97fd674a",
+        "3cc3c2a4046f066b",
+        "7e65077f15590d62",
+        "c8b8a927604be8f4"
+      ]
+    }
+  ]
+}

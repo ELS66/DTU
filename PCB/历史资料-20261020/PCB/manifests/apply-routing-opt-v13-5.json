@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "result": {
+    "created": [
+      {
+        "id": "6cc4b0b4ce0e81f1",
+        "net": "LTE_TXD",
+        "kind": "route"
+      },
+      {
+        "id": "eceb4fd402370f13",
+        "net": "LTE_TXD",
+        "kind": "route"
+      },
+      {
+        "id": "381af9f5b504739d",
+        "net": "LTE_TXD",
+        "kind": "route"
+      },
+      {
+        "id": "1f835faf63f8d32c",
+        "net": "SIM_CLK_M",
+        "kind": "route"
+      },
+      {
+        "id": "cc08acbad963dbd4",
+        "net": "SIM_CLK_M",
+        "kind": "route"
+      },
+      {
+        "id": "ed3cb56f812d4e3e",
+        "net": "SIM_CLK_M",
+        "kind": "route"
+      },
+      {
+        "id": "c6a09fa56e63c060",
+        "net": "LED_LTE_G_N",
+        "kind": "route"
+      },
+      {
+        "id": "df75768324ffd35d",
+        "net": "LTE_BOOT_FIXTURE",
+        "kind": "route"
+      },
+      {
+        "id": "0b39c693b43b1ea7",
+        "net": "LTE_BOOT_FIXTURE",
+        "kind": "route"
+      },
+      {
+        "id": "6e27070a053a3578",
+        "net": "SIM_DATA",
+        "kind": "route"
+      },
+      {
+        "id": "5d8cf9c7a8ca9355",
+        "net": "SIM_DATA",
+        "kind": "route"
+      },
+      {
+        "id": "af93e377da2eb860",
+        "net": "SIM_DATA",
+        "kind": "route"
+      },
+      {
+        "id": "cfbf6e6a400e785d",
+        "net": "SIM_DATA",
+        "kind": "route"
+      },
+      {
+        "id": "e24ab754a2313c59",
+        "net": "FIELD_TX",
+        "kind": "route"
+      },
+      {
+        "id": "bd7b75ed5a005f83",
+        "net": "FIELD_TX",
+        "kind": "route"
+      },
+      {
+        "id": "cdc3305061afae7a",
+        "net": "FIELD_TX",
+        "kind": "route"
+      },
+      {
+        "id": "41b3e93e21abe5bc",
+        "net": "LED_LTE_R_N",
+        "kind": "route"
+      },
+      {
+        "id": "5cd57319920ba9c2",
+        "net": "LED_LTE_R_N",
+        "kind": "route"
+      },
+      {
+        "id": "9c11ace72ab6e501",
+        "net": "SIM_RST",
+        "kind": "route"
+      },
+      {
+        "id": "29b7c2a981fb931e",
+        "net": "SIM_RST",
+        "kind": "route"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "54d14f83-2b26-423e-baa3-d79d6c8a00d6"
+}

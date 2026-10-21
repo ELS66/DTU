@@ -1,0 +1,1 @@
+if(!await eda.dmt_Project.openProject('52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9'))throw Error('Open V13 failed');return await eda.dmt_Project.getCurrentProjectInfo();

@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "result": {
+    "out": [
+      {
+        "ref": "J1",
+        "fp": {
+          "uuid": "00972aaf978d8a12|52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9"
+        }
+      },
+      {
+        "ref": "J2",
+        "fp": {
+          "uuid": "00972aaf978d8a12|52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9"
+        }
+      },
+      {
+        "ref": "J3",
+        "fp": {
+          "uuid": "00972aaf978d8a12|52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9"
+        }
+      }
+    ],
+    "saved": false
+  },
+  "windowId": "490674b5-0a0c-4091-99f8-25ad4dc56709"
+}

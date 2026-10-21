@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "result": {
+    "specs": {
+      "lines": [],
+      "polys": [
+        "2c201aacc80cc3e5",
+        "6c77e88f055d34aa",
+        "cd6f165d7e011eab",
+        "222fb8c48d3f374c",
+        "ec47199a9ec9a6ff",
+        "9fcb212ef6d50d0d",
+        "1a83d8ede962a2e4",
+        "7fe7a0e1e0f6184d",
+        "bb14785092694c42",
+        "e7d306aa8afcf2d8",
+        "c4890411afc97c8b",
+        "94a347cb42c370fb",
+        "cd7ead9da9f6405b",
+        "08f7a76e97e0f16f",
+        "c571c6378b34cd81",
+        "0a2c6573c0b0648d",
+        "feed90cb478c95d7",
+        "a425efbcdeb2c42a",
+        "10eec4f1f980b99c",
+        "8c89dd522aecd6bd",
+        "cf71635c2b8ee862",
+        "af8e39ace2542eec",
+        "6d4066910af7fd1c",
+        "51c3f3fc55ca2cd0"
+      ],
+      "vias": [
+        "22a33c929cfaa7a8",
+        "a63b9fffd1c6d2b7",
+        "4155f7a3b3e046fd",
+        "e24dfd9f8e3baa51",
+        "89a0422ee1c72156",
+        "f5c65ac41d897f04",
+        "94cb38a15174169c",
+        "a93fdfeb49dabc40",
+        "3e4e735bc6b39055",
+        "d058d3732c8920b6",
+        "248e6ad966fbdb11",
+        "ef6659e41a1c9bae",
+        "3d52a6851b73ab6a",
+        "797ec1b0d4927156",
+        "ea2c749e8ccc84da",
+        "c31f4e63864f6f9e",
+        "0b7f5891af04af12",
+        "6cc8b273b76e5133"
+      ]
+    },
+    "saved": true
+  },
+  "windowId": "b1faecb9-4fd3-42fc-a7ba-9730a347bfe6"
+}

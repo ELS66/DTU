@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");const lines=await eda.pcb_PrimitiveLine.getAll();const vias=await eda.pcb_PrimitiveVia.getAll();const polys=await eda.pcb_PrimitivePolyline.getAll();return {lines:lines.length,vias:vias.length,polylines:polys.length};

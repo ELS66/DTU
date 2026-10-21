@@ -1,0 +1,68 @@
+{
+  "projectTitle": "DTU-V0.12-ML307R-DL-60x70",
+  "counts": {
+    "DOCHEAD": 1,
+    "CANVAS": 1,
+    "LAYER": 62,
+    "LAYER_PHYS": 13,
+    "ACTIVE_LAYER": 1,
+    "NET": 103,
+    "RULE_TEMPLATE": 1,
+    "RULE": 16,
+    "RULE_SELECTOR": 103,
+    "PRIMITIVE": 50,
+    "SILK_OPTS": 2,
+    "D3_ATTRIBUTE": 1,
+    "PREFERENCE": 1,
+    "PANELIZE": 1,
+    "VIA": 433,
+    "PAD": 4,
+    "POLY": 811,
+    "FILL": 1794,
+    "REGION": 4,
+    "STRING": 38,
+    "COMPONENT": 159,
+    "ATTR": 488,
+    "PAD_NET": 549
+  },
+  "gerberCopper": {
+    "Gerber_TopLayer.GTL": {
+      "bytes": 88677,
+      "regions": 35
+    },
+    "Gerber_BottomLayer.GBL": {
+      "bytes": 69963,
+      "regions": 0
+    },
+    "Gerber_InnerLayer1.G1": {
+      "bytes": 639447,
+      "regions": 537
+    },
+    "Gerber_InnerLayer2.G2": {
+      "bytes": 925040,
+      "regions": 1222
+    }
+  },
+  "boardSizeMm": [
+    60,
+    70
+  ],
+  "mountingHoleDiameterMm": 3.2,
+  "mountingHoleSpacingMm": [
+    52,
+    62
+  ],
+  "fileSha256": {
+    "DTU-V0.12-ML307R-DL-60x70.epro2": "5d320aab928e448b8bf678eb2f1359320c6fafcaf96c6661801d17da507ffe6f",
+    "DTU-V0.12-ML307R-DL-60x70-Gerber.zip": "ed07d38b843e540c657e141a8e002b4f92c1cee74ebaf27ed1d29390b0b21c4e",
+    "DTU-V0.12-BOM.csv": "594d2182504d4449e36f7f06c6dd7222a8f8b0a08914cdd0ca6bf04aafeb0c89",
+    "DTU-V0.12-positions-assembly.csv": "0a448ed9258c63132876dd6e3ef1605e3b1f030d9b1e2fb4e34709b2608a43b2"
+  },
+  "status": "PASS",
+  "scope": "File consistency only; not engineering acceptance",
+  "engineeringAcceptance": "NOT_RELEASED",
+  "openMandatoryFixes": [
+    "LTE switching supply layout",
+    "USB differential routing"
+  ]
+}

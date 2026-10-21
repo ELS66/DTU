@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "result": {
+    "placed": [
+      "C80",
+      "U5",
+      "L2",
+      "U11",
+      "L3",
+      "D14",
+      "U6",
+      "U7",
+      "U8",
+      "U12",
+      "U13",
+      "U9"
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

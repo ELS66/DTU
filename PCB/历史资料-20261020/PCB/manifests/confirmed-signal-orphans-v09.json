@@ -1,0 +1,37 @@
+[
+  {
+    "net": "232_TOUT",
+    "kind": "poly",
+    "id": "4e858ceb76aeb0f5"
+  },
+  {
+    "net": "232_TOUT",
+    "kind": "via",
+    "id": "f08cbd344e19156d"
+  },
+  {
+    "net": "232_TOUT",
+    "kind": "via",
+    "id": "0c56149501393548"
+  },
+  {
+    "net": "232_RIN",
+    "kind": "poly",
+    "id": "4bb8df81fbff99b4"
+  },
+  {
+    "net": "232_RIN",
+    "kind": "via",
+    "id": "94556864c62a05a1"
+  },
+  {
+    "net": "232_RIN",
+    "kind": "via",
+    "id": "5602bbd4aa3f2806"
+  },
+  {
+    "net": "RS232_PRESENT_N",
+    "kind": "via",
+    "id": "a7d590a2d5fd756f"
+  }
+]

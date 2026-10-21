@@ -1,0 +1,1 @@
+await eda.dmt_Project.openProject("b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5");return {project:await eda.dmt_Project.getCurrentProjectInfo(),pages:await eda.dmt_Schematic.getAllSchematicDocumentsInfo(),device:await eda.lib_Device.get("ddb51bd096984dd1a12012c6cdf6aeda","project")};

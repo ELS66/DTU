@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='7ee770cbd5586921')throw Error('Wrong footprint');const ids=["e9", "e10", "e11", "e12", "e13", "e14"];if(!await eda.pcb_PrimitivePolyline.delete(ids))throw Error('Delete failed');return {saved:await eda.pcb_Document.save(),source:await eda.sys_FileManager.getDocumentSource()};

@@ -1,0 +1,36 @@
+{
+  "success": true,
+  "result": {
+    "parts": [
+      {
+        "ref": "J1",
+        "uid": "gge22",
+        "name": "ZX-HY2.0-4PLT",
+        "footprint": {
+          "uuid": "00972aaf978d8a12"
+        },
+        "supplier": "C7429562"
+      },
+      {
+        "ref": "J2",
+        "uid": "gge23",
+        "name": "ZX-HY2.0-4PLT",
+        "footprint": {
+          "uuid": "00972aaf978d8a12"
+        },
+        "supplier": "C7429562"
+      },
+      {
+        "ref": "J3",
+        "uid": "gge24",
+        "name": "ZX-HY2.0-4PLT",
+        "footprint": {
+          "uuid": "00972aaf978d8a12"
+        },
+        "supplier": "C7429562"
+      }
+    ],
+    "saved": false
+  },
+  "windowId": "490674b5-0a0c-4091-99f8-25ad4dc56709"
+}

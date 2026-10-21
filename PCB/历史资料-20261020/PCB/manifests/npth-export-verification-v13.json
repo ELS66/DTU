@@ -1,0 +1,239 @@
+{
+  "changedPrimitiveCount": 4,
+  "electricalCopperPrimitivesUnchanged": true,
+  "componentPlacementsUnchanged": true,
+  "NPTH": 6,
+  "PTH": 316,
+  "totalDrillHoles": 322,
+  "mounts": [
+    [
+      4.0,
+      4.0,
+      3.200001
+    ],
+    [
+      56.0,
+      4.0,
+      3.200001
+    ],
+    [
+      4.0,
+      66.0,
+      3.200001
+    ],
+    [
+      56.0,
+      66.0,
+      3.200001
+    ]
+  ],
+  "mountDiameterNominalMm": 3.2,
+  "maskOpeningNominalMm": 3.4,
+  "removedExporterZeroPadPlaceholderFlashes": {
+    "Gerber_TopLayer.GTL": [
+      {
+        "x": 4.0,
+        "y": 4.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 56.0,
+        "y": 4.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 4.0,
+        "y": 66.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 56.0,
+        "y": 66.0,
+        "diameter": 0.001
+      }
+    ],
+    "Gerber_BottomLayer.GBL": [
+      {
+        "x": 4.0,
+        "y": 4.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 56.0,
+        "y": 4.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 4.0,
+        "y": 66.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 56.0,
+        "y": 66.0,
+        "diameter": 0.001
+      }
+    ],
+    "Gerber_InnerLayer1.G1": [
+      {
+        "x": 4.0,
+        "y": 4.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 56.0,
+        "y": 4.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 4.0,
+        "y": 66.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 56.0,
+        "y": 66.0,
+        "diameter": 0.001
+      }
+    ],
+    "Gerber_InnerLayer2.G2": [
+      {
+        "x": 4.0,
+        "y": 4.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 56.0,
+        "y": 4.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 4.0,
+        "y": 66.0,
+        "diameter": 0.001
+      },
+      {
+        "x": 56.0,
+        "y": 66.0,
+        "diameter": 0.001
+      }
+    ]
+  },
+  "copperAroundMounts": [
+    {
+      "layer": "Gerber_TopLayer.GTL",
+      "x": 4.0,
+      "y": 4.0,
+      "copperClearanceFromHoleEdgeMm": 0.8999995000000001,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_TopLayer.GTL",
+      "x": 56.0,
+      "y": 4.0,
+      "copperClearanceFromHoleEdgeMm": 0.8999995000000001,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_TopLayer.GTL",
+      "x": 4.0,
+      "y": 66.0,
+      "copperClearanceFromHoleEdgeMm": 0.8999995000000001,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_TopLayer.GTL",
+      "x": 56.0,
+      "y": 66.0,
+      "copperClearanceFromHoleEdgeMm": 0.8999995000000001,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_BottomLayer.GBL",
+      "x": 4.0,
+      "y": 4.0,
+      "copperClearanceFromHoleEdgeMm": 0.8999995000000001,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_BottomLayer.GBL",
+      "x": 56.0,
+      "y": 4.0,
+      "copperClearanceFromHoleEdgeMm": 0.8999995000000001,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_BottomLayer.GBL",
+      "x": 4.0,
+      "y": 66.0,
+      "copperClearanceFromHoleEdgeMm": 0.8999995000000001,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_BottomLayer.GBL",
+      "x": 56.0,
+      "y": 66.0,
+      "copperClearanceFromHoleEdgeMm": 0.8999995000000001,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_InnerLayer1.G1",
+      "x": 4.0,
+      "y": 4.0,
+      "copperClearanceFromHoleEdgeMm": 1.798550764816082,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_InnerLayer1.G1",
+      "x": 56.0,
+      "y": 4.0,
+      "copperClearanceFromHoleEdgeMm": 1.7985502880043935,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_InnerLayer1.G1",
+      "x": 4.0,
+      "y": 66.0,
+      "copperClearanceFromHoleEdgeMm": 1.7985502880043913,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_InnerLayer1.G1",
+      "x": 56.0,
+      "y": 66.0,
+      "copperClearanceFromHoleEdgeMm": 1.7985502880043949,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_InnerLayer2.G2",
+      "x": 4.0,
+      "y": 4.0,
+      "copperClearanceFromHoleEdgeMm": 1.798550764816082,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_InnerLayer2.G2",
+      "x": 56.0,
+      "y": 4.0,
+      "copperClearanceFromHoleEdgeMm": 1.7985502880043935,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_InnerLayer2.G2",
+      "x": 4.0,
+      "y": 66.0,
+      "copperClearanceFromHoleEdgeMm": 1.7985502880043913,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    },
+    {
+      "layer": "Gerber_InnerLayer2.G2",
+      "x": 56.0,
+      "y": 66.0,
+      "copperClearanceFromHoleEdgeMm": 1.7985502880043949,
+      "copperAreaWithinHolePlus0_15mm": 0.0
+    }
+  ],
+  "pcbDrcIssues": 0,
+  "factoryDfmRerun": "Pending",
+  "warningThresholdsUnchanged": true
+}

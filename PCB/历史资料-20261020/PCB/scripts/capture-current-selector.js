@@ -1,0 +1,1 @@
+const d=await eda.dmt_SelectControl.getCurrentDocumentInfo();if(d?.uuid!=="8902a3019bd8d84c")throw Error("Wrong page");const image=await eda.dmt_EditorControl.getCurrentRenderedAreaImage(d.tabId);if(!image)throw Error("No render");return {type:image.type,bytes:Array.from(new Uint8Array(await image.arrayBuffer()))};

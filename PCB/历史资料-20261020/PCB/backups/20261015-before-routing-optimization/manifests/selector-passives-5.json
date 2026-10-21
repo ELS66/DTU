@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "parts": [
+      {
+        "ref": "R129",
+        "id": "db1cbcd9d1a35f57"
+      },
+      {
+        "ref": "R130",
+        "id": "94a95f02d7ec9f2a"
+      },
+      {
+        "ref": "R131",
+        "id": "5f2a09b0f980b4d6"
+      },
+      {
+        "ref": "C103",
+        "id": "7e2ad1d92109fabf"
+      },
+      {
+        "ref": "C104",
+        "id": "28b05e9818259ffb"
+      },
+      {
+        "ref": "C105",
+        "id": "cc99fe320e9da9e2"
+      },
+      {
+        "ref": "Q7",
+        "id": "3eb156e3c71e6dbd"
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

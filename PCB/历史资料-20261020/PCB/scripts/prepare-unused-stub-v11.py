@@ -1,0 +1,3 @@
+import json,math
+from pathlib import Path
+p=Path('PCB');d=json.loads((p/'manifests/routing-interface-v11.json').read_text(encoding='utf-8-sig'))['result'];ids=[v['id'] for v in d['vias'] if v['net']=='VDD_3V3' and math.dist((v['x']*.0254,v['y']*.0254),(27.2,11.7))<.02];print(ids);code='if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");if(!await eda.pcb_PrimitivePolyline.delete(["c46229c896e4db22"]))throw Error("Stub removal failed");const ids='+json.dumps(ids)+';if(ids.length&&!await eda.pcb_PrimitiveVia.delete(ids))throw Error("Via removal failed");return {ids,saved:await eda.pcb_Document.save()};';(p/'scripts/remove-unused-power-stub-v11.js').write_text(code)

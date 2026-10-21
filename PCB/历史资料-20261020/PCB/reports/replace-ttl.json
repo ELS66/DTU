@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "result": {
+    "targets": [
+      {
+        "id": "447d44229ed13e38",
+        "ref": "U8",
+        "name": "SN74LV4T125PWR"
+      },
+      {
+        "id": "b90a8ce0346ded25",
+        "ref": "U12",
+        "name": "SN74LVC1G125DBVR"
+      }
+    ],
+    "deleted": true,
+    "saved": true
+  },
+  "windowId": "8b5d94cc-0e2a-429a-8b5f-a64207bef6f6"
+}

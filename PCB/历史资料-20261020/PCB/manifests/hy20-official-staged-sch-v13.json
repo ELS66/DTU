@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "result": {
+    "id": "f8608e58f59865fc",
+    "footprint": {
+      "uuid": "0190edb3deceabcd",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "CONN-SMD_4P-P2.00_HY2.0-4P"
+    },
+    "symbol": {
+      "uuid": "028113da89c15a68",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "ZX-HY2.0-4PLT"
+    },
+    "supplier": "C7429562"
+  },
+  "windowId": "490674b5-0a0c-4091-99f8-25ad4dc56709"
+}

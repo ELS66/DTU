@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9')throw Error('Wrong project');const f=await eda.sys_FileManager.getProjectFile('DTU-V0.13-60x70-design-stage',undefined,'epro2');if(!f)throw Error('Export failed');return {name:f.name,bytes:Array.from(new Uint8Array(await f.arrayBuffer()))};

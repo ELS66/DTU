@@ -1,0 +1,135 @@
+{
+  "success": true,
+  "result": {
+    "SN74LV1T125DBVR": [
+      {
+        "uuid": "243b11f9cb8745f284dce9de4687aed6",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SN74LV1T125DBVR",
+        "footprint": "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL",
+        "supplierId": "C473338",
+        "manufacturer": "TI(德州仪器)"
+      },
+      {
+        "uuid": "9f387cda9aa04c92ad40370f51ce0e43",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SN74LV1T125DBVRG4",
+        "footprint": "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-TL",
+        "supplierId": "C2675706",
+        "manufacturer": "TI(德州仪器)"
+      },
+      {
+        "uuid": "893f3c3a46164d25ac0f8455a13b3e23",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SN74LV1T125DBVR-TP",
+        "footprint": "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL_TPG1066S5",
+        "supplierId": "C51886115",
+        "manufacturer": "TECH PUBLIC(台舟)"
+      }
+    ],
+    "GRM21BR61A226ME44L": [
+      {
+        "uuid": "fd86deb12afd4f84b2aa16c379f9750a",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "GRM21BR61A226ME44L",
+        "footprint": "C0805",
+        "supplierId": "C441864",
+        "manufacturer": "muRata(村田)"
+      }
+    ],
+    "CL31A226KAHNNNE": [
+      {
+        "uuid": "0de9d28bbcd34ca3bf2a4d78faaa50bb",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CL31A226KAHNNNE",
+        "footprint": "C1206",
+        "supplierId": "C12891",
+        "manufacturer": "SAMSUNG(三星)"
+      },
+      {
+        "uuid": "ab61f4a9c21a45d089c261ff170931eb",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CL31A226KAHNNNE-YJLTY",
+        "footprint": "C1206",
+        "supplierId": "C5156951",
+        "manufacturer": ""
+      }
+    ],
+    "CL21A106KAYNNNE": [
+      {
+        "uuid": "f0c7df795bfa440791f22a6df319d993",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CL21A106KAYNNNE",
+        "footprint": "C0805",
+        "supplierId": "C2980800",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "1703bdc68c184fcdbe7ee60d8bac4c14",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CL21A106KAYNNNE_C9900069401",
+        "footprint": "C0805",
+        "supplierId": "C9900069401",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "36fc341bf49f4886935800d2913327f8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CL21A106KAYNNNE_C2922480",
+        "footprint": "C0805",
+        "supplierId": "C2922480",
+        "manufacturer": "SAMSUNG(三星)"
+      },
+      {
+        "uuid": "8c1f4a9e9d204b148b36ce719c891bd1",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CL21A106KAYNNNE_C15850",
+        "footprint": "C0805",
+        "supplierId": "C15850",
+        "manufacturer": "SAMSUNG(三星)"
+      }
+    ],
+    "SWPA6045S6R8MT": [
+      {
+        "uuid": "3d5531b88250426dbd9055326e202789",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SWPA6045S6R8MT",
+        "footprint": "IND-SMD_L6.0-W6.0_SWPA6045S",
+        "supplierId": "C57254",
+        "manufacturer": "Sunlord(顺络)"
+      }
+    ],
+    "NR5040T4R7N": [
+      {
+        "uuid": "da421e7fb7a54e4590883803c5efc59b",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "NR5040T4R7N",
+        "footprint": "IND-SMD_L4.9-W4.9_NR5040T4R7N",
+        "supplierId": "C223064",
+        "manufacturer": "TAIYO YUDEN(太诱)"
+      }
+    ],
+    "2R5SVPE330M": [
+      {
+        "uuid": "5c2b34c5560041a98833d862277d2fbc",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "2R5SVPE330MY",
+        "footprint": "CAP-SMD_BD5.0-L5.3-W5.3-LS6.3-FD",
+        "supplierId": "C347567",
+        "manufacturer": "PANASONIC(松下)"
+      }
+    ],
+    "16SVPC100M": [
+      {
+        "uuid": "9ffde3ba96fc4f78b3f9e871f4f25c36",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "16SVPC100M",
+        "footprint": "CAP-SMD_BD6.3-L6.6-W6.6-FD",
+        "supplierId": "C136275",
+        "manufacturer": "PANASONIC(松下)"
+      }
+    ],
+    "TP-1mm": []
+  },
+  "windowId": "7f59f6fe-cee0-4116-a908-2223d15abdac"
+}

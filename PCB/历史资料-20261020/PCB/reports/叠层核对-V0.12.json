@@ -1,0 +1,119 @@
+[
+  {
+    "layer": 3,
+    "material": "",
+    "thickness": 0,
+    "permittivity": 0,
+    "lossTangent": 0,
+    "isKeepIsland": true,
+    "zIndex": 1
+  },
+  {
+    "layer": 7,
+    "material": "",
+    "thickness": 0,
+    "permittivity": 0,
+    "lossTangent": 0,
+    "isKeepIsland": true,
+    "zIndex": 2
+  },
+  {
+    "layer": 5,
+    "material": "",
+    "thickness": 0.394,
+    "permittivity": 3.3,
+    "lossTangent": 0.02,
+    "isKeepIsland": true,
+    "zIndex": 3
+  },
+  {
+    "layer": 1,
+    "material": "",
+    "thickness": 1.378,
+    "permittivity": 0,
+    "lossTangent": 0,
+    "isKeepIsland": true,
+    "zIndex": 4
+  },
+  {
+    "layer": 361,
+    "material": "PP",
+    "thickness": 8.283,
+    "permittivity": 4.4,
+    "lossTangent": 0,
+    "isKeepIsland": true,
+    "zIndex": 5
+  },
+  {
+    "layer": 15,
+    "material": "",
+    "thickness": 0.689,
+    "permittivity": 0,
+    "lossTangent": 0,
+    "isKeepIsland": true,
+    "zIndex": 6
+  },
+  {
+    "layer": 362,
+    "material": "FR4",
+    "thickness": 42.291,
+    "permittivity": 4.4,
+    "lossTangent": 0,
+    "isKeepIsland": true,
+    "zIndex": 7
+  },
+  {
+    "layer": 16,
+    "material": "",
+    "thickness": 0.689,
+    "permittivity": 0,
+    "lossTangent": 0,
+    "isKeepIsland": true,
+    "zIndex": 8
+  },
+  {
+    "layer": 363,
+    "material": "PP",
+    "thickness": 8.283,
+    "permittivity": 4.4,
+    "lossTangent": 0.02,
+    "isKeepIsland": true,
+    "zIndex": 9
+  },
+  {
+    "layer": 2,
+    "material": "",
+    "thickness": 1.378,
+    "permittivity": 0,
+    "lossTangent": 0,
+    "isKeepIsland": true,
+    "zIndex": 10
+  },
+  {
+    "layer": 6,
+    "material": "",
+    "thickness": 0.394,
+    "permittivity": 3.3,
+    "lossTangent": 0.02,
+    "isKeepIsland": true,
+    "zIndex": 11
+  },
+  {
+    "layer": 8,
+    "material": "",
+    "thickness": 0,
+    "permittivity": 0,
+    "lossTangent": 0,
+    "isKeepIsland": true,
+    "zIndex": 12
+  },
+  {
+    "layer": 4,
+    "material": "",
+    "thickness": 0,
+    "permittivity": 0,
+    "lossTangent": 0,
+    "isKeepIsland": true,
+    "zIndex": 13
+  }
+]

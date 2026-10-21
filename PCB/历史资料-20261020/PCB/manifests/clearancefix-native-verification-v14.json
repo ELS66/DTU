@@ -1,0 +1,152 @@
+{
+  "boardMm": [
+    60,
+    75
+  ],
+  "components": 104,
+  "defaultAssembly": 99,
+  "defaultDnp": [
+    "C50",
+    "C51",
+    "R32",
+    "J6",
+    "J7"
+  ],
+  "copperLayers": 4,
+  "assemblySide": "Top",
+  "nativeReopenedDrcIssues": 0,
+  "routes": 515,
+  "vias": 310,
+  "schematicAndPinNetBindingsUnchanged": true,
+  "physicalModelsUnchanged": true,
+  "nativeCopperExactlyMatchesPlan": true,
+  "movedComponents": {
+    "C10": [
+      0,
+      3.2
+    ],
+    "C11": [
+      0,
+      3.2
+    ],
+    "R15": [
+      0,
+      3.2
+    ],
+    "R16": [
+      0,
+      3.2
+    ],
+    "R60": [
+      0,
+      3.2
+    ],
+    "R61": [
+      0,
+      3.2
+    ],
+    "C50": [
+      0,
+      3.2
+    ],
+    "C51": [
+      0,
+      3.2
+    ],
+    "J5": [
+      0,
+      3.2
+    ],
+    "R50": [
+      0,
+      3.2
+    ],
+    "J6": [
+      0,
+      3.2
+    ],
+    "J7": [
+      0,
+      3.2
+    ],
+    "D18": [
+      0,
+      3.2
+    ],
+    "D20": [
+      0,
+      3.2
+    ],
+    "D10": [
+      0,
+      3.2
+    ],
+    "U1": [
+      0,
+      2.0
+    ],
+    "U2": [
+      0,
+      2.0
+    ],
+    "D30": [
+      0,
+      2
+    ],
+    "D31": [
+      0,
+      2
+    ],
+    "D32": [
+      0,
+      2
+    ],
+    "D33": [
+      0,
+      2
+    ],
+    "D34": [
+      0,
+      2
+    ],
+    "D35": [
+      0,
+      2
+    ]
+  },
+  "U2MinimumNominalBodyGapMm": 3.124991399999999,
+  "defaultBodyGapsBelow0_3mm": 0,
+  "USBGeometricSegmentLengthSumsMm": {
+    "LTE_USB_DP": 7.455300876652785,
+    "LTE_USB_DM": 6.972647992782761,
+    "LTE_USB_DP_EXT": 5.4083495033923645,
+    "LTE_USB_DM_EXT": 5.744534993487533
+  },
+  "factoryDfmPassed": false,
+  "normalizationRecords": [
+    [
+      "PANEL",
+      "4c25731b94244a33",
+      "META",
+      "META"
+    ]
+  ],
+  "nativeRemovedCoincidentEndpointRoutes": [
+    {
+      "id": "132932a26b13c7ad",
+      "net": "LTE_USB_DM_EXT",
+      "layer": 1,
+      "widthMm": 0.24999949999999999,
+      "pointsMm": [
+        [
+          21.60016,
+          68.69937999999999
+        ],
+        [
+          21.60016,
+          68.69937999999999
+        ]
+      ]
+    }
+  ]
+}

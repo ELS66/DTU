@@ -1,0 +1,78 @@
+{
+  "success": true,
+  "result": {
+    "wire": "9b252830c67ca6e0",
+    "attrs": [
+      {
+        "async": true,
+        "primitiveType": "Attribute",
+        "x": null,
+        "y": 0,
+        "rotation": null,
+        "color": null,
+        "fontName": null,
+        "fontSize": null,
+        "bold": null,
+        "italic": null,
+        "underLine": null,
+        "alignMode": null,
+        "fillColor": null,
+        "key": "Relevance",
+        "value": "[]",
+        "keyVisible": null,
+        "valueVisible": null,
+        "parentPrimitiveId": "9b252830c67ca6e0",
+        "primitiveId": "38a9600867f0cb5d"
+      },
+      {
+        "async": true,
+        "primitiveType": "Attribute",
+        "x": 350,
+        "y": 270,
+        "rotation": null,
+        "color": null,
+        "fontName": null,
+        "fontSize": null,
+        "bold": null,
+        "italic": null,
+        "underLine": null,
+        "alignMode": null,
+        "fillColor": null,
+        "key": "Name",
+        "value": "TTL_VSENSE",
+        "keyVisible": false,
+        "valueVisible": true,
+        "parentPrimitiveId": "9b252830c67ca6e0",
+        "primitiveId": "a1f1e3d4bff83147"
+      },
+      {
+        "async": true,
+        "primitiveType": "Attribute",
+        "x": 340,
+        "y": 270,
+        "rotation": null,
+        "color": null,
+        "fontName": null,
+        "fontSize": null,
+        "bold": null,
+        "italic": null,
+        "underLine": null,
+        "alignMode": null,
+        "fillColor": null,
+        "key": "Name",
+        "value": "TTL_VSENSE",
+        "keyVisible": false,
+        "valueVisible": true,
+        "parentPrimitiveId": "9b252830c67ca6e0",
+        "primitiveId": "db2ac374f45e7418"
+      }
+    ],
+    "keys": [
+      "Relevance",
+      "Name",
+      "Name"
+    ],
+    "allWire": []
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

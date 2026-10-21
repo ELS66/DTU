@@ -1,0 +1,82 @@
+{
+  "pairs": [
+    {
+      "refs": [
+        "C53",
+        "J4"
+      ],
+      "libraryBodyOutlineGapMm": 1.7720081400000005,
+      "nearestLandPatternGapMm": 0.48005999999999815,
+      "nearestPads": [
+        "1",
+        "C3"
+      ],
+      "factoryModelExpansionValue": 0.09,
+      "actualOverlapInLocalBodyOutline": false
+    },
+    {
+      "refs": [
+        "C57",
+        "J4"
+      ],
+      "libraryBodyOutlineGapMm": 1.7720081400000005,
+      "nearestLandPatternGapMm": 0.48005999999999815,
+      "nearestPads": [
+        "1",
+        "C6"
+      ],
+      "factoryModelExpansionValue": 0.09,
+      "actualOverlapInLocalBodyOutline": false
+    },
+    {
+      "refs": [
+        "Q1",
+        "C85"
+      ],
+      "libraryBodyOutlineGapMm": 0.40000936000000203,
+      "nearestLandPatternGapMm": 1.0223499999999888,
+      "nearestPads": [
+        "1",
+        "2"
+      ],
+      "factoryModelExpansionValue": 0.09,
+      "actualOverlapInLocalBodyOutline": false
+    },
+    {
+      "refs": [
+        "Q1",
+        "U1"
+      ],
+      "libraryBodyOutlineGapMm": 0.8250707399999939,
+      "nearestLandPatternGapMm": 3.5686999999999953,
+      "nearestPads": [
+        "3",
+        "15"
+      ],
+      "factoryModelExpansionValue": 0.09,
+      "actualOverlapInLocalBodyOutline": false
+    },
+    {
+      "refs": [
+        "J4",
+        "C94"
+      ],
+      "libraryBodyOutlineGapMm": 1.7970169799999987,
+      "nearestLandPatternGapMm": 0.5041900000000012,
+      "nearestPads": [
+        "C5",
+        "2"
+      ],
+      "factoryModelExpansionValue": 0.09,
+      "actualOverlapInLocalBodyOutline": false
+    }
+  ],
+  "warningRows": 7,
+  "uniquePairs": 5,
+  "layer48BodyAudit": "silkholefix-body-audit-v13.json",
+  "localCandidateSearch": "smt-warning-location-options-v13.json",
+  "searchScope": "12% local body/selected full-envelope expansion plus 0.158mm clearance to fixed other-net copper, small translation only; no reroute attempted",
+  "searchIsNotProofNoPossibleLayout": true,
+  "nativePCBNotChanged": true,
+  "factoryDfmPassed": false
+}

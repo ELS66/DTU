@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=="1d7fb27b7ad9306bc25c90ee476429c9e681ffecce79136ba05149eca7bba1b0")throw Error('Wrong project');await eda.dmt_EditorControl.openDocument("8902a3019bd8d84c");const f=await eda.sch_ManufactureData.getNetlistFile('full-schematic-v11','EasyEDA');if(!f)throw Error('Missing netlist');return {name:f.name,content:await f.text()};

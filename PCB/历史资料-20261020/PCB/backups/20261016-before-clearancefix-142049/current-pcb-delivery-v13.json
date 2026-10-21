@@ -1,0 +1,135 @@
+{
+  "revision": "V0.13 ML307R专用封装修正 2026-10-16",
+  "boardMm": [
+    60,
+    70
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 308,
+  "drilledHoles": 324,
+  "pcbDrcIssues": 0,
+  "schematicWarnings": 18,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261016-before-ML307-footprint-fix-104402",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-ML307fix.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-ML307fix-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-ML307R专用封装修正复查包.zip",
+  "actualCopperManifest": "ml307fix-actual-routing-v13.json",
+  "actualSourceSnapshot": "ml307fix-reopened-source-v13.json",
+  "connectors": {
+    "model": "ZX-HY2.0-4PLT",
+    "supplierPart": "C7429562",
+    "signalFixedRowSpacingMm": 3.0
+  },
+  "factoryDfmPassed": false,
+  "files": [
+    {
+      "file": "DTU-V0.13-60x70-ML307fix.epro2",
+      "bytes": 1133416,
+      "sha256": "33e40ee87441edb8dae00a355fb0383c9e9cf0c127dfe10f0e80368226b57bdc"
+    },
+    {
+      "file": "DTU-V0.13-60x70-ML307fix-Gerber.zip",
+      "bytes": 147555,
+      "sha256": "b563bb1cfba9b5c04124912d32f1e79d9750f8225ea1ac6cf5f64c01502a81a2"
+    },
+    {
+      "file": "DTU-V0.13-ML307fix-BOM-99.csv",
+      "bytes": 3736,
+      "sha256": "d0924d143541a8cc5635a952def73ec23c2f93b04e7de8c8b9f08845afb8d620"
+    },
+    {
+      "file": "DTU-V0.13-ML307fix-CPL-99-Top.csv",
+      "bytes": 2337,
+      "sha256": "f36a5679a1aff7f4fbf38a82185cf3896dea452dd1625f499e6bad9647b83581"
+    },
+    {
+      "file": "DTU-V0.13-ML307fix-README.md",
+      "bytes": 1139,
+      "sha256": "465c4ef01bb85ef99b16aff771ac2444d4d24a548210788e9d7b270a31bbdf14"
+    },
+    {
+      "file": "V0.13-ML307R专用封装修正记录.md",
+      "bytes": 6242,
+      "sha256": "e95c31c84f6847b22e3b5e8513799451ef5443061b11b02793ea607459a2e896"
+    },
+    {
+      "file": "V0.13-精简丝印版接口说明.md",
+      "bytes": 1462,
+      "sha256": "db524e63ed7f417b951728162de89d0208e2fc88534e62a40a8381eb8ae9d6c7"
+    },
+    {
+      "file": "ml307fix-manufacturing-verification-v13.json",
+      "bytes": 6092,
+      "sha256": "102dc73121046e7b33dc4bbe2307e5ed7ff26e3b3d56f36eae3361f67707725a"
+    },
+    {
+      "file": "ml307fix-exported-pad-check-v13.json",
+      "bytes": 15405,
+      "sha256": "e91989cab33b3fef10c7dc0e7dc8fe610a4f4a477623e8ec30f00273c04c911a"
+    },
+    {
+      "file": "DTU-V0.13-ML307fix-Gerber-preview.png",
+      "bytes": 64698,
+      "sha256": "7ed395280cd51135ea7185acda46430ff1b6203a0a48868cf71b4b6bd1f40dd0"
+    },
+    {
+      "file": "DTU-V0.13-ML307fix-RF-USB-detail.png",
+      "bytes": 17706,
+      "sha256": "d7cf1bcc4d0273cc2b996f667e33d268329f9a192707c4fe58f6e4a65f9b4462"
+    },
+    {
+      "file": "ML307R-Hardware-AT-V1.0.1.pdf",
+      "bytes": 4445938,
+      "sha256": "535828e9c7df1bccf7643c1ffa4445f8c0d1a64cd8612506f45f9b88aa28d6ec"
+    },
+    {
+      "file": "ML307R-hardware-page-55.png",
+      "bytes": 198905,
+      "sha256": "40451ad02d0b4ae13c5fe7ae1d0b75d0c0d9ae20d95daa3d92a4f489fed376bc"
+    },
+    {
+      "file": "ML307R-hardware-page-56.png",
+      "bytes": 205778,
+      "sha256": "e30b037b9703bed832df7fe6b89f1d47b4962d5cb4afa837028019056255844d"
+    }
+  ],
+  "status": "专用封装及RF/USB适配完成，原生DRC0；待厂家DFM/工艺评审",
+  "openDfmItems": [
+    "其余PCB/SMT检查分类待取得",
+    "孔环检查：普通过孔0.125mm触发0.15mm阈值，需核对过孔/插件孔分类及重复统计",
+    "四角安装孔已去除残留铜环，待新Gerber重新运行DFM确认",
+    "阻焊桥：R36/R100 原0.060mm已增至0.180mm，待本版重新运行DFM确认。",
+    "开窗露线4项对应两处GND过孔已移位，实际开窗间距约0.274/0.470mm，待新资料重跑DFM。",
+    "原7项焊盘间距中D10及ESP32四项位置已移位修正；余下D9/C33/LTE_BOOT三项维持既有工艺待确认状态。",
+    "丝印：RS485整组文字已避孔；全部322孔检查，丝印距孔最小0.262mm、距开窗0.289mm，待厂家DFM重跑确认。",
+    "元件碰撞：9红全部为J1/J1、J2/J2、J3/J3同位号提示，工程/CPL无重复，模型原因待厂家确认。7黄已定位5组器件，本地本体未见重叠，实际3D装配余量仍待贴装厂确认。",
+    "元件距元件：显示的9条0mm红项全部为J1/J1、J2/J2、J3/J3同位号比较；工程/CPL无重复、端子本体无重叠，DFM模型原因仍待确认。页面共469项仅显示50项，未据此判定全项通过。",
+    "焊脚距孔：Q1接地孔与J4/SIM供电孔已移位，相关库焊脚到孔边约0.426/0.325mm；4条提示须新Gerber复查。另有J4地脚库轮廓至既有盖油孔约0.125mm，未匹配此次0.02项，待定位/工艺确认。",
+    "U2引脚边界：专用109脚模型及48个推荐圆端焊盘已按手册修复并导出核对，需使用新Gerber+BOM+CPL重跑厂家DFM；通用半孔/圆端边界提示不能预先判定消除。",
+    "模组周边净空：手册建议至少3mm，当前紧凑布局部分1.125～2.442mm，待贴装/返修工艺评审。",
+    "RF/USB：布局已适配，0.35mm射频线宽保留、USB几何长度和差约0.246mm，最终阻抗须按生产叠层核定。"
+  ],
+  "padSpacingReview": "D:\\DTU\\PCB\\docs\\V0.13-焊盘距焊盘提示复核记录.md",
+  "downloadHoleAssemblyReview": "D:\\DTU\\PCB\\docs\\V0.13-下载裸孔装配间距复核.md",
+  "dfmDispositionNotes": [
+    "插件焊盘距贴片焊盘21红22黄全部定位至J6/J7；默认裸孔不装不焊，按装配条件不适用；加装排针须重审。"
+  ],
+  "actualPadManifest": "ml307fix-final-pads-v13.json",
+  "maskBridgeReview": "D:\\DTU\\PCB\\docs\\V0.13-阻焊桥修正记录.md",
+  "openingClearanceReview": "D:\\DTU\\PCB\\docs\\V0.13-开窗露线四项修正记录.md",
+  "projectUuid": "c2bff6216166854806fb0135bb156a18c0ae8c03a227bd251e55df64cd0baefb",
+  "pcbUuid": "4211128ecf040c100b33238447713203",
+  "nativeWorkspaceDirectory": "D:\\DTU\\PCB\\native-ML307fix-final",
+  "silkscreenReview": "D:\\DTU\\PCB\\docs\\V0.13-丝印避孔修正记录.md",
+  "interfaceGuide": "D:\\DTU\\PCB\\docs\\V0.13-精简丝印版接口说明.md",
+  "silkscreenVerification": "silkholefix-manufacturing-verification-v13.json",
+  "connectorCollisionReview": "D:\\DTU\\PCB\\docs\\V0.13-端子同位号碰撞复核记录.md",
+  "assemblyWarningReview": "D:\\DTU\\PCB\\docs\\V0.13-七项装配余量预警复核记录.md",
+  "componentDistanceReview": "D:\\DTU\\PCB\\docs\\V0.13-元件距元件九项复核记录.md",
+  "leadHoleReview": "D:\\DTU\\PCB\\docs\\V0.13-焊脚距孔修正记录.md",
+  "manufacturingVerification": "ml307fix-manufacturing-verification-v13.json",
+  "u2FootprintBoundaryReview": "D:\\DTU\\PCB\\docs\\V0.13-ML307R专用封装修正记录.md"
+}

@@ -1,0 +1,158 @@
+{
+  "success": true,
+  "result": {
+    "0603WAF1871T5E": [
+      {
+        "name": "0603WAF1871T5E",
+        "uuid": "847482db89d44a3abb97ba16022c6039",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C22850",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF2323T5E": [
+      {
+        "name": "0603WAF2323T5E",
+        "uuid": "b5e1bab3e62c4b9eb46e56c9f09032d9",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C22913",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF1004T5E": [
+      {
+        "name": "0603WAF1004T5E",
+        "uuid": "b37ebeb11cd54bebb515f79f1ed51ef5",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C22935",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF330JT5E": [
+      {
+        "name": "0603WAF330JT5E",
+        "uuid": "c1b17fa23f304726bc91c5924d9b7c0f",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C23140",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF3300T5E": [
+      {
+        "name": "0603WAF3300T5E",
+        "uuid": "7c80abced0d649bab9903f9c239fa540",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C23138",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF1000T5E": [
+      {
+        "name": "0603WAF1000T5E",
+        "uuid": "5303080f43d74b41ae76fc5142aa97e5",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C22775",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF1200T5E": [
+      {
+        "name": "0603WAF1200T5E",
+        "uuid": "70ad7c7d259c46308522db94f14f808c",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C22787",
+        "footprint": "R0603"
+      }
+    ],
+    "NR5040T3R9N": [
+      {
+        "name": "ZENR5040T3R9N-3.9uH",
+        "uuid": "aea88cdd5600473b9ff530ea7926619a",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C42428060",
+        "footprint": "IND-SMD_L5.0-W5.0"
+      }
+    ],
+    "SWPA5040S3R9MT": [],
+    "测试点 1mm": [
+      {
+        "name": "MKS4G042206B00KD00",
+        "uuid": "2f355139473f462690efc18dd9557ee8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C40256878",
+        "footprint": "CAP-TH_L31.5-W11.0-P27.50-D0.8-1"
+      },
+      {
+        "name": "AW86874CSR",
+        "uuid": "1d3d0f732df74ed4b4cfe48aa8b1a640",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C9900320209",
+        "footprint": "WLCSP-16_L1.4-W1.4-R4-C4-P0.35-TL"
+      },
+      {
+        "name": "BL-M8852BS2",
+        "uuid": "559c4fb4769d4e16a620aa0f37a1f198",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C20616028",
+        "footprint": "WIRELM-SMD_BL-M8852BS2"
+      },
+      {
+        "name": "PI5C16211A",
+        "uuid": "9ca482c3d3274fb9a44495a76a91bfe5",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C7445",
+        "footprint": "TSSOP-56_L14.0-W6.1-P0.50-LS8.1-BL"
+      }
+    ],
+    "HDR-M-2.0_1x6": [],
+    "TYPE-C-31-M-12": [
+      {
+        "name": "TYPE-C-31-M-12",
+        "uuid": "74d31c19993b4b9581f3175a7da4b280",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C165948",
+        "footprint": "USB-C_SMD-TYPE-C-31-M-12_1"
+      },
+      {
+        "name": "TYPE-C-31-M-12A",
+        "uuid": "1d1bc0c5db3f439b9aa6905f9826706d",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C5337088",
+        "footprint": "USB-C-SMD_TYPE-C-31-M-12A"
+      },
+      {
+        "name": "USB_C_Receptacle_HRO_TYPE-C-31-M-12",
+        "uuid": "0a2735b307dc41b78f7ce2686deb6e32",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C9900015525",
+        "footprint": "USB-SMD_TYPE-C16PIN-1"
+      },
+      {
+        "name": "USB-TYPE-C-018",
+        "uuid": "468039249c054f008682bba24aa9694f",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C2927038",
+        "footprint": "USB-C_SMD-TYPE-C-31-M-12"
+      }
+    ],
+    "CL10B222KB8NNNC": [
+      {
+        "name": "CL10B222KB8NNNC",
+        "uuid": "db32de0695f549deaf4fbd0fe4731ba7",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C16033",
+        "footprint": "C0603"
+      }
+    ],
+    "CL10C101JB8NNNC": [
+      {
+        "name": "CL10C101JB8NNNC",
+        "uuid": "c52f6dce9a2242039357ababc1e5f2aa",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C14858",
+        "footprint": "C0603"
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

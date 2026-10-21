@@ -1,0 +1,206 @@
+{
+  "success": true,
+  "result": [
+    {
+      "ref": "J5",
+      "page": 4,
+      "id": "fd7edfe08b2ba821",
+      "sub": "U.FL-R-SMT(10).1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "GND",
+          "x": 850,
+          "y": 570,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "SIG",
+          "x": 900,
+          "y": 620,
+          "rotation": 90
+        },
+        {
+          "number": "3",
+          "name": "GND",
+          "x": 950,
+          "y": 570,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "D10",
+      "page": 4,
+      "id": "3d581f78aa5d29ef",
+      "sub": "PESD5V0U1UL,315.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 870,
+          "y": 700,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 930,
+          "y": 700,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "D11",
+      "page": 4,
+      "id": "57225d3c6148a230",
+      "sub": "PESD5V0U1UL,315.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 150,
+          "y": 420,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 210,
+          "y": 420,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "D12",
+      "page": 4,
+      "id": "0c0544356574fb68",
+      "sub": "PESD5V0U1UL,315.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 360,
+          "y": 420,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 420,
+          "y": 420,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "D13",
+      "page": 4,
+      "id": "5964313b7fd41b4d",
+      "sub": "PESD5V0U1UL,315.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 570,
+          "y": 420,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 630,
+          "y": 420,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "J4",
+      "page": 4,
+      "id": "ea1adccbacfa6709",
+      "pins": [
+        {
+          "number": "C1",
+          "name": "VCC",
+          "x": 410,
+          "y": 260,
+          "rotation": 180
+        },
+        {
+          "number": "C2",
+          "name": "RST",
+          "x": 410,
+          "y": 250,
+          "rotation": 180
+        },
+        {
+          "number": "C3",
+          "name": "CLK",
+          "x": 410,
+          "y": 240,
+          "rotation": 180
+        },
+        {
+          "number": "C7",
+          "name": "I/O",
+          "x": 530,
+          "y": 240,
+          "rotation": 0
+        },
+        {
+          "number": "C6",
+          "name": "VPP",
+          "x": 530,
+          "y": 250,
+          "rotation": 0
+        },
+        {
+          "number": "C5",
+          "name": "GND",
+          "x": 530,
+          "y": 260,
+          "rotation": 0
+        },
+        {
+          "number": "CD",
+          "name": "CD",
+          "x": 530,
+          "y": 230,
+          "rotation": 0
+        },
+        {
+          "number": "8",
+          "name": "EP",
+          "x": 450,
+          "y": 200,
+          "rotation": 270
+        },
+        {
+          "number": "9",
+          "name": "EP",
+          "x": 460,
+          "y": 200,
+          "rotation": 270
+        },
+        {
+          "number": "10",
+          "name": "EP",
+          "x": 480,
+          "y": 200,
+          "rotation": 270
+        },
+        {
+          "number": "11",
+          "name": "EP",
+          "x": 490,
+          "y": 200,
+          "rotation": 270
+        }
+      ]
+    }
+  ]
+}

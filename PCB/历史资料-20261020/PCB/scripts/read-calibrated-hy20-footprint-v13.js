@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='80c4e7847cda6643')throw Error('Wrong footprint');return {source:await eda.sys_FileManager.getDocumentSource(),pads:(await eda.pcb_PrimitivePad.getAll()).map(p=>({number:p.getState_PadNumber(),x:p.getState_X(),y:p.getState_Y(),pad:p.getState_Pad()}))};

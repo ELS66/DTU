@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "result": {
+    "UMH9NTN": {
+      "name": "UMH9NTN",
+      "libraryType": "2",
+      "uuid": "b896d8708a724758a324f83b921cc62b",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "三极管/MOS管/晶体管",
+        "数字晶体管"
+      ],
+      "type": 2,
+      "description": "",
+      "subPartNames": [
+        "UMH9NTN.1"
+      ],
+      "otherProperty": {
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "PCB Layer": "Default"
+      }
+    },
+    "TLV75901PDRVR": {
+      "name": "TLV75901PDRVR",
+      "libraryType": "2",
+      "uuid": "be5a6b6cfed34554b9826255564ce048",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [
+        "电源管理",
+        "线性稳压器(LDO)"
+      ],
+      "type": 2,
+      "description": "",
+      "subPartNames": [
+        "TLV75901PDRVR.1"
+      ],
+      "otherProperty": {
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "PCB Layer": "Default"
+      }
+    }
+  },
+  "windowId": "17c69e5c-92bf-46ac-8313-d4c2513d5b0d"
+}

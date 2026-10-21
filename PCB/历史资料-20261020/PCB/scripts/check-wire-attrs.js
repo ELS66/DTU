@@ -1,0 +1,1 @@
+const wires=await eda.sch_PrimitiveWire.getAll();const w=wires.find(z=>z.getState_Net()==="TTL_VSENSE");const attrs=await eda.sch_PrimitiveAttribute.getAll(w.getState_PrimitiveId());const all=await eda.sch_PrimitiveAttribute.getAll();return {wire:w.getState_PrimitiveId(),attrs,keys:attrs.map(t=>t.getState_Key()),allWire:all.filter(t=>t.getState_Key()==="NET").slice(0,4)};

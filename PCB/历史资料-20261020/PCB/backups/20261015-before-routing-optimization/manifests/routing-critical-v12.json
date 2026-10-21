@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "result": {
+    "lines": [],
+    "vias": [],
+    "polys": [
+      {
+        "id": "58542e4f9fbfca20",
+        "net": null,
+        "layer": 11,
+        "polygon": [
+          0,
+          0,
+          "L",
+          0,
+          2362.2047,
+          1968.5039,
+          2362.2047,
+          1968.5039,
+          0,
+          0,
+          0
+        ],
+        "width": 3.937
+      }
+    ],
+    "pours": []
+  },
+  "windowId": "07345b6b-1ea4-41eb-bd64-8fd4d32e593a"
+}

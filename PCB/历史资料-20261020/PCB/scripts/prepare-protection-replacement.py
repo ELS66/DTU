@@ -1,0 +1,13 @@
+from pathlib import Path
+import json
+P=Path('PCB');m=json.loads((P/'manifests/design.json').read_text(encoding='utf-8'));cats=json.loads((P/'manifests/protection-candidates-v04.json').read_text(encoding='utf-8-sig'))['result'];changes={'F1':next(z for z in cats['1812L200/16']if z['supplierId']=='C439873'),'U6':next(z for z in cats['THVD2410DR']if z['name']=='THVD2410DR'),'D6':next(z for z in cats['SMF7.0CA']if z['supplierId']=='C712347')}
+for ref,z in changes.items():
+ a=next(x for x in m['parts']if x['ref']==ref);page=next(x for x in m['pages']if x['index']==a['page']);print(ref,a)
+ guard='if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='+json.dumps(page['uuid'])+')throw Error("Wrong page");'
+ code=guard+'const old=(await eda.sch_PrimitiveComponent.getAll("part")).find(c=>c.getState_Designator()==='+json.dumps(ref)+');if(!old)throw Error("Missing old part");if(old.getState_SupplierId()==='+json.dumps(z['supplierId'])+')return {alreadyReplaced:true};const c=await eda.sch_PrimitiveComponent.create('+json.dumps({'libraryUuid':z['libraryUuid'],'uuid':z['uuid']})+',old.getState_X(),old.getState_Y(),undefined,old.getState_Rotation(),old.getState_Mirror(),true,true);if(!c)throw Error("Create failed; old retained");const a=c.toAsync();a.setState_Designator('+json.dumps(ref)+');a.setState_UniqueId(old.getState_UniqueId());await a.done();const wires=await eda.sch_PrimitiveWire.getAll();for(const p of await old.getAllPins()){const x=p.getState_X(),y=p.getState_Y();for(const w of wires){const l=w.getState_Line();const paths=Array.isArray(l[0])?l:[l];if(paths.some(l=>{for(let i=0;i<l.length;i+=2)if(Math.abs(l[i]-x)<.001&&Math.abs(l[i+1]-y)<.001)return true;return false;}))await eda.sch_PrimitiveWire.delete(w.getState_PrimitiveId());}}await eda.sch_PrimitiveComponent.delete(old.getState_PrimitiveId());return {ref:'+json.dumps(ref)+',component:c.getState_Component(),pins:(await c.getAllPins()).map(p=>({number:p.getState_PinNumber(),name:p.getState_PinName(),x:p.getState_X(),y:p.getState_Y(),rotation:p.getState_Rotation()})),saved:await eda.sch_Document.save()};'
+ (P/f'scripts/replace-protection-{ref}.js').write_text(code,encoding='utf-8')
+ a.update({'deviceUuid':z['uuid'],'supplierId':z['supplierId'],'manufacturerId':z['manufacturerId'],'manufacturer':z['manufacturer'],'footprint':z['footprintName'],'name':z['manufacturerId']})
+ if ref=='F1':
+  for r in ['F2','F3']:
+   b=next(x for x in m['parts']if x['ref']==r);b.update({k:a[k]for k in ['deviceUuid','supplierId','manufacturerId','manufacturer','footprint','name']})
+(P/'manifests/design.json').write_text(json.dumps(m,ensure_ascii=False,indent=2),encoding='utf-8')

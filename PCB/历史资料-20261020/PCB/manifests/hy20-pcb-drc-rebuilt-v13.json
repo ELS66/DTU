@@ -1,0 +1,475 @@
+{
+  "success": true,
+  "result": [
+    {
+      "name": "Clearance Error",
+      "list": [
+        {
+          "name": "Line to TH Pad",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Line to TH Pad",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(VIN_DIODE): e4845"
+              },
+              "obj2": {
+                "typeName": "TH Pad",
+                "suffix": "(VIN_IN): J2_1"
+              },
+              "layer": "Inner2",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 6mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err417",
+                  "position": {
+                    "x": 109.251975,
+                    "y": 32.525360000000006
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "482fe1c5de1345ce",
+                  "obj1Type": "Line",
+                  "obj2": "d49fff5602022d37e17",
+                  "obj2Type": "TH Pad",
+                  "minDistance": 0,
+                  "clearance": 0.6,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    16
+                  ],
+                  "obj1Suffix": "(VIN_DIODE): e4845",
+                  "obj2Suffix": "(VIN_IN): J2_1"
+                }
+              },
+              "objs": [
+                "482fe1c5de1345ce",
+                "d49fff5602022d37e17"
+              ],
+              "globalIndex": "err417",
+              "pos": {
+                "x": 109.251975,
+                "y": 32.525360000000006
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Line to TH Pad"
+            },
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Line to TH Pad",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(VIN_DIODE): e4845"
+              },
+              "obj2": {
+                "typeName": "TH Pad",
+                "suffix": "(RS232_TX_EXT): J2_2"
+              },
+              "layer": "Inner2",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 6mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err418",
+                  "position": {
+                    "x": 117.125985,
+                    "y": 32.722210000000004
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "482fe1c5de1345ce",
+                  "obj1Type": "Line",
+                  "obj2": "d49fff5602022d37e18",
+                  "obj2Type": "TH Pad",
+                  "minDistance": 0,
+                  "clearance": 0.6,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    16
+                  ],
+                  "obj1Suffix": "(VIN_DIODE): e4845",
+                  "obj2Suffix": "(RS232_TX_EXT): J2_2"
+                }
+              },
+              "objs": [
+                "482fe1c5de1345ce",
+                "d49fff5602022d37e18"
+              ],
+              "globalIndex": "err418",
+              "pos": {
+                "x": 117.125985,
+                "y": 32.722210000000004
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Line to TH Pad"
+            },
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Line to TH Pad",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(VIN_DIODE): e4845"
+              },
+              "obj2": {
+                "typeName": "TH Pad",
+                "suffix": "(GND): J2_4"
+              },
+              "layer": "Inner2",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 6mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err419",
+                  "position": {
+                    "x": 132.874015,
+                    "y": 32.525360000000006
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "482fe1c5de1345ce",
+                  "obj1Type": "Line",
+                  "obj2": "d49fff5602022d37e19",
+                  "obj2Type": "TH Pad",
+                  "minDistance": 0,
+                  "clearance": 0.6,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    16
+                  ],
+                  "obj1Suffix": "(VIN_DIODE): e4845",
+                  "obj2Suffix": "(GND): J2_4"
+                }
+              },
+              "objs": [
+                "482fe1c5de1345ce",
+                "d49fff5602022d37e19"
+              ],
+              "globalIndex": "err419",
+              "pos": {
+                "x": 132.874015,
+                "y": 32.525360000000006
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Line to TH Pad"
+            },
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Line to TH Pad",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(VIN_DIODE): e4845"
+              },
+              "obj2": {
+                "typeName": "TH Pad",
+                "suffix": "(RS232_RX_EXT): J2_3"
+              },
+              "layer": "Inner2",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 6mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err420",
+                  "position": {
+                    "x": 119.09449500000001,
+                    "y": 32.722210000000004
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "482fe1c5de1345ce",
+                  "obj1Type": "Line",
+                  "obj2": "d49fff5602022d37e20",
+                  "obj2Type": "TH Pad",
+                  "minDistance": 0,
+                  "clearance": 0.6,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    16
+                  ],
+                  "obj1Suffix": "(VIN_DIODE): e4845",
+                  "obj2Suffix": "(RS232_RX_EXT): J2_3"
+                }
+              },
+              "objs": [
+                "482fe1c5de1345ce",
+                "d49fff5602022d37e20"
+              ],
+              "globalIndex": "err420",
+              "pos": {
+                "x": 119.09449500000001,
+                "y": 32.722210000000004
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Line to TH Pad"
+            },
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Line to TH Pad",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(RS485_B): e5176"
+              },
+              "obj2": {
+                "typeName": "TH Pad",
+                "suffix": "(VIN_IN): J2_1"
+              },
+              "layer": "Bottom Layer",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 6mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err421",
+                  "position": {
+                    "x": 103.34646500000001,
+                    "y": 31.47534170360288
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "ea6544c44240eca1",
+                  "obj1Type": "Line",
+                  "obj2": "d49fff5602022d37e17",
+                  "obj2Type": "TH Pad",
+                  "minDistance": 0,
+                  "clearance": 0.6,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    2
+                  ],
+                  "obj1Suffix": "(RS485_B): e5176",
+                  "obj2Suffix": "(VIN_IN): J2_1"
+                }
+              },
+              "objs": [
+                "ea6544c44240eca1",
+                "d49fff5602022d37e17"
+              ],
+              "globalIndex": "err421",
+              "pos": {
+                "x": 103.34646500000001,
+                "y": 31.47534170360288
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Line to TH Pad"
+            },
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Line to TH Pad",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(RS485_B): e5176"
+              },
+              "obj2": {
+                "typeName": "TH Pad",
+                "suffix": "(RS232_TX_EXT): J2_2"
+              },
+              "layer": "Bottom Layer",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 6mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err422",
+                  "position": {
+                    "x": 111.22047500000001,
+                    "y": 32.02790633271824
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "ea6544c44240eca1",
+                  "obj1Type": "Line",
+                  "obj2": "d49fff5602022d37e18",
+                  "obj2Type": "TH Pad",
+                  "minDistance": 0,
+                  "clearance": 0.6,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    2
+                  ],
+                  "obj1Suffix": "(RS485_B): e5176",
+                  "obj2Suffix": "(RS232_TX_EXT): J2_2"
+                }
+              },
+              "objs": [
+                "ea6544c44240eca1",
+                "d49fff5602022d37e18"
+              ],
+              "globalIndex": "err422",
+              "pos": {
+                "x": 111.22047500000001,
+                "y": 32.02790633271824
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Line to TH Pad"
+            },
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Line to TH Pad",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(RS485_B): e5176"
+              },
+              "obj2": {
+                "typeName": "TH Pad",
+                "suffix": "(RS232_RX_EXT): J2_3"
+              },
+              "layer": "Bottom Layer",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 6mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err423",
+                  "position": {
+                    "x": 119.08727013741577,
+                    "y": 32.476503821579165
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "ea6544c44240eca1",
+                  "obj1Type": "Line",
+                  "obj2": "d49fff5602022d37e20",
+                  "obj2Type": "TH Pad",
+                  "minDistance": 0,
+                  "clearance": 0.6,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    2
+                  ],
+                  "obj1Suffix": "(RS485_B): e5176",
+                  "obj2Suffix": "(RS232_RX_EXT): J2_3"
+                }
+              },
+              "objs": [
+                "ea6544c44240eca1",
+                "d49fff5602022d37e20"
+              ],
+              "globalIndex": "err423",
+              "pos": {
+                "x": 119.08727013741577,
+                "y": 32.476503821579165
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Line to TH Pad"
+            }
+          ],
+          "count": 7,
+          "title": [
+            "Line",
+            "to",
+            "TH Pad",
+            "(7)"
+          ],
+          "visible": true
+        }
+      ],
+      "visible": true,
+      "count": 7,
+      "title": [
+        "Clearance Error",
+        "(7)"
+      ]
+    },
+    {
+      "name": "Netlist Error",
+      "list": [
+        {
+          "name": "Netlist Error",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Netlist Error",
+              "errorObjType": "Netlist Error",
+              "ruleName": "Import Changes",
+              "ruleTypeName": "Import Changes",
+              "obj1": {
+                "typeName": "Schematic Netlist",
+                "suffix": ""
+              },
+              "obj2": {
+                "typeName": "PCB Netlist",
+                "suffix": ""
+              },
+              "objs": [
+                "err424"
+              ],
+              "explanation": {
+                "str": "PCB and schematic netlist does not match. You can click on the rule name \"Import Changes\" to view the difference.",
+                "param": {}
+              },
+              "globalIndex": "err424",
+              "parentId": "DRCTab|_|Errors|_|Netlist Error|_|Netlist Error"
+            }
+          ],
+          "count": 1,
+          "title": [
+            "Netlist Error",
+            "(1)"
+          ],
+          "visible": true
+        }
+      ],
+      "visible": true,
+      "count": 1,
+      "title": [
+        "Netlist Error",
+        "(1)"
+      ]
+    }
+  ],
+  "windowId": "490674b5-0a0c-4091-99f8-25ad4dc56709"
+}

@@ -1,0 +1,1243 @@
+{
+  "revision": "V0.14.4",
+  "nativeDrcIssues": 0,
+  "physicalModelsUnchanged": true,
+  "componentPlacementsAndNetBindingsUnchanged": true,
+  "changedMasterPadCount": 5,
+  "expandedPadInstanceCount": 9,
+  "changedRouteCount": 1,
+  "viaCount": 310,
+  "drillCount": 326,
+  "preservedProductionGeometries": [
+    "Gerber_BottomLayer.GBL",
+    "Gerber_InnerLayer1.G1",
+    "Gerber_InnerLayer2.G2",
+    "Gerber_TopSilkscreenLayer.GTO",
+    "Gerber_BottomSilkscreenLayer.GBO",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_BoardOutlineLayer.GKO",
+    "Drill_PTH_Through.DRL",
+    "Drill_NPTH_Through.DRL"
+  ],
+  "pasteAreasUnchangedOnlyJ5PositionShifted": true,
+  "targetModelCount": 186,
+  "minimumNominalModelMarginMm": 0.00791517999999769,
+  "minimumMarginByComponent": {
+    "RN3": 0.019987039999996625,
+    "D31": 0.016595839999993697,
+    "D34": 0.016595939999999976,
+    "RN4": 0.019986840000001393,
+    "D33": 0.016595939999999976,
+    "J4": 0.00791517999999769,
+    "D36": 0.016596419999999057,
+    "U1": 0.019936180000001972,
+    "D30": 0.016595839999993697,
+    "U2": 0.049939728099583226
+  },
+  "mountKeepoutChecks": [
+    {
+      "holeMm": [
+        3.9999996199999996,
+        3.9999996199999996
+      ],
+      "layer": 15,
+      "region": "3b4612da1bf6e5a6",
+      "radiusMm": 3.40000082
+    },
+    {
+      "holeMm": [
+        3.9999996199999996,
+        3.9999996199999996
+      ],
+      "layer": 16,
+      "region": "fef06c45565d3870",
+      "radiusMm": 3.40000082
+    },
+    {
+      "holeMm": [
+        55.99999976,
+        3.9999996199999996
+      ],
+      "layer": 15,
+      "region": "68762fd5a7842cae",
+      "radiusMm": 3.4000008199999954
+    },
+    {
+      "holeMm": [
+        55.99999976,
+        3.9999996199999996
+      ],
+      "layer": 16,
+      "region": "73cd9ce2b83126af",
+      "radiusMm": 3.4000008199999954
+    },
+    {
+      "holeMm": [
+        3.9999996199999996,
+        71.00000023999999
+      ],
+      "layer": 15,
+      "region": "c8e96d7ee68279cd",
+      "radiusMm": 3.40000082
+    },
+    {
+      "holeMm": [
+        3.9999996199999996,
+        71.00000023999999
+      ],
+      "layer": 16,
+      "region": "62575408d463395f",
+      "radiusMm": 3.40000082
+    },
+    {
+      "holeMm": [
+        55.99999976,
+        71.00000023999999
+      ],
+      "layer": 15,
+      "region": "72758fef2315647e",
+      "radiusMm": 3.4000008199999954
+    },
+    {
+      "holeMm": [
+        55.99999976,
+        71.00000023999999
+      ],
+      "layer": 16,
+      "region": "8d71063b2e05d83c",
+      "radiusMm": 3.4000008199999954
+    }
+  ],
+  "silkToMaskGapMm": 0.2890929999999994,
+  "nativeChangesByType": {
+    "FOOTPRINT/FILL": 5,
+    "FOOTPRINT/PAD": 5,
+    "PCB/REGION": 1,
+    "PCB/POLY": 1,
+    "PCB/POURED": 3
+  },
+  "factoryDfmPassed": false,
+  "pending": "Factory DFM recheck required. J5 whole-model overlap can remain flagged because internal insulation-covered metal is included; U2 remains populated in production and its previously documented model difference is retained.",
+  "models": [
+    {
+      "ref": "U1",
+      "pin": "32",
+      "modelId": "e3",
+      "actualCopperMarginMm": 0.019936180000009074
+    },
+    {
+      "ref": "U1",
+      "pin": "31",
+      "modelId": "e4",
+      "actualCopperMarginMm": 0.019936180000001972
+    },
+    {
+      "ref": "U1",
+      "pin": "30",
+      "modelId": "e5",
+      "actualCopperMarginMm": 0.019936180000009074
+    },
+    {
+      "ref": "U1",
+      "pin": "28",
+      "modelId": "e6",
+      "actualCopperMarginMm": 0.01998698000000587
+    },
+    {
+      "ref": "U1",
+      "pin": "27",
+      "modelId": "e7",
+      "actualCopperMarginMm": 0.01998697999999877
+    },
+    {
+      "ref": "U1",
+      "pin": "26",
+      "modelId": "e8",
+      "actualCopperMarginMm": 0.01998698000000587
+    },
+    {
+      "ref": "U1",
+      "pin": "25",
+      "modelId": "e9",
+      "actualCopperMarginMm": 0.01998697999999877
+    },
+    {
+      "ref": "U1",
+      "pin": "24",
+      "modelId": "e10",
+      "actualCopperMarginMm": 0.01998698000000587
+    },
+    {
+      "ref": "U1",
+      "pin": "23",
+      "modelId": "e11",
+      "actualCopperMarginMm": 0.01998697999999877
+    },
+    {
+      "ref": "U1",
+      "pin": "17",
+      "modelId": "e12",
+      "actualCopperMarginMm": 0.01996158000000037
+    },
+    {
+      "ref": "U1",
+      "pin": "18",
+      "modelId": "e13",
+      "actualCopperMarginMm": 0.01996158000000037
+    },
+    {
+      "ref": "U1",
+      "pin": "19",
+      "modelId": "e14",
+      "actualCopperMarginMm": 0.01996158000000037
+    },
+    {
+      "ref": "U1",
+      "pin": "20",
+      "modelId": "e15",
+      "actualCopperMarginMm": 0.019961580000007473
+    },
+    {
+      "ref": "U1",
+      "pin": "21",
+      "modelId": "e16",
+      "actualCopperMarginMm": 0.01996158000000037
+    },
+    {
+      "ref": "U1",
+      "pin": "22",
+      "modelId": "e17",
+      "actualCopperMarginMm": 0.019961580000007473
+    },
+    {
+      "ref": "U1",
+      "pin": "15",
+      "modelId": "e18",
+      "actualCopperMarginMm": 0.019961580000007473
+    },
+    {
+      "ref": "U1",
+      "pin": "16",
+      "modelId": "e19",
+      "actualCopperMarginMm": 0.01996158000000037
+    },
+    {
+      "ref": "U1",
+      "pin": "2",
+      "modelId": "e20",
+      "actualCopperMarginMm": 0.01996202000000835
+    },
+    {
+      "ref": "U1",
+      "pin": "1",
+      "modelId": "e21",
+      "actualCopperMarginMm": 0.01996202000000835
+    },
+    {
+      "ref": "U1",
+      "pin": "8",
+      "modelId": "e22",
+      "actualCopperMarginMm": 0.01996202000000835
+    },
+    {
+      "ref": "U1",
+      "pin": "7",
+      "modelId": "e23",
+      "actualCopperMarginMm": 0.019962020000001246
+    },
+    {
+      "ref": "U1",
+      "pin": "6",
+      "modelId": "e24",
+      "actualCopperMarginMm": 0.01996202000000835
+    },
+    {
+      "ref": "U1",
+      "pin": "5",
+      "modelId": "e25",
+      "actualCopperMarginMm": 0.019962020000001246
+    },
+    {
+      "ref": "U1",
+      "pin": "4",
+      "modelId": "e26",
+      "actualCopperMarginMm": 0.01996202000000835
+    },
+    {
+      "ref": "U1",
+      "pin": "3",
+      "modelId": "e27",
+      "actualCopperMarginMm": 0.01996202000000835
+    },
+    {
+      "ref": "U1",
+      "pin": "9",
+      "modelId": "e28",
+      "actualCopperMarginMm": 0.01998741999999965
+    },
+    {
+      "ref": "U1",
+      "pin": "10",
+      "modelId": "e29",
+      "actualCopperMarginMm": 0.01998742000000675
+    },
+    {
+      "ref": "U1",
+      "pin": "11",
+      "modelId": "e30",
+      "actualCopperMarginMm": 0.01998742000000675
+    },
+    {
+      "ref": "U1",
+      "pin": "12",
+      "modelId": "e31",
+      "actualCopperMarginMm": 0.01998742000000675
+    },
+    {
+      "ref": "U1",
+      "pin": "13",
+      "modelId": "e32",
+      "actualCopperMarginMm": 0.01998742000000675
+    },
+    {
+      "ref": "U1",
+      "pin": "14",
+      "modelId": "e33",
+      "actualCopperMarginMm": 0.01998742000000675
+    },
+    {
+      "ref": "U1",
+      "pin": "29",
+      "modelId": "e34",
+      "actualCopperMarginMm": 0.0199614799999992
+    },
+    {
+      "ref": "U1",
+      "pin": "29",
+      "modelId": "e35",
+      "actualCopperMarginMm": 0.0199614799999992
+    },
+    {
+      "ref": "U1",
+      "pin": "29",
+      "modelId": "e36",
+      "actualCopperMarginMm": 0.0199614799999992
+    },
+    {
+      "ref": "U1",
+      "pin": "29",
+      "modelId": "e37",
+      "actualCopperMarginMm": 0.019961919999992972
+    },
+    {
+      "ref": "U1",
+      "pin": "29",
+      "modelId": "e38",
+      "actualCopperMarginMm": 0.019986879999997598
+    },
+    {
+      "ref": "U1",
+      "pin": "29",
+      "modelId": "e39",
+      "actualCopperMarginMm": 0.019986880000004703
+    },
+    {
+      "ref": "U1",
+      "pin": "29",
+      "modelId": "e40",
+      "actualCopperMarginMm": 0.019986879999997598
+    },
+    {
+      "ref": "U1",
+      "pin": "29",
+      "modelId": "e41",
+      "actualCopperMarginMm": 0.019987319999998476
+    },
+    {
+      "ref": "U1",
+      "pin": "29",
+      "modelId": "e42",
+      "actualCopperMarginMm": 0.019961919999992972
+    },
+    {
+      "ref": "U2",
+      "pin": "23",
+      "modelId": "e4",
+      "actualCopperMarginMm": 0.04993973383980192
+    },
+    {
+      "ref": "U2",
+      "pin": "24",
+      "modelId": "e5",
+      "actualCopperMarginMm": 0.04993973383979838
+    },
+    {
+      "ref": "U2",
+      "pin": "25",
+      "modelId": "e6",
+      "actualCopperMarginMm": 0.04993973383980192
+    },
+    {
+      "ref": "U2",
+      "pin": "26",
+      "modelId": "e7",
+      "actualCopperMarginMm": 0.04993973383979838
+    },
+    {
+      "ref": "U2",
+      "pin": "27",
+      "modelId": "e8",
+      "actualCopperMarginMm": 0.0499397947488732
+    },
+    {
+      "ref": "U2",
+      "pin": "28",
+      "modelId": "e9",
+      "actualCopperMarginMm": 0.04993973383980192
+    },
+    {
+      "ref": "U2",
+      "pin": "29",
+      "modelId": "e10",
+      "actualCopperMarginMm": 0.04993973383979838
+    },
+    {
+      "ref": "U2",
+      "pin": "30",
+      "modelId": "e11",
+      "actualCopperMarginMm": 0.04993973383980192
+    },
+    {
+      "ref": "U2",
+      "pin": "31",
+      "modelId": "e12",
+      "actualCopperMarginMm": 0.04993973383980015
+    },
+    {
+      "ref": "U2",
+      "pin": "32",
+      "modelId": "e13",
+      "actualCopperMarginMm": 0.04993973383980015
+    },
+    {
+      "ref": "U2",
+      "pin": "33",
+      "modelId": "e14",
+      "actualCopperMarginMm": 0.04993973383980015
+    },
+    {
+      "ref": "U2",
+      "pin": "34",
+      "modelId": "e15",
+      "actualCopperMarginMm": 0.04993973383979838
+    },
+    {
+      "ref": "U2",
+      "pin": "35",
+      "modelId": "e16",
+      "actualCopperMarginMm": 0.04993973383980192
+    },
+    {
+      "ref": "U2",
+      "pin": "13",
+      "modelId": "e17",
+      "actualCopperMarginMm": 0.04993972809958947
+    },
+    {
+      "ref": "U2",
+      "pin": "12",
+      "modelId": "e18",
+      "actualCopperMarginMm": 0.04993972809958626
+    },
+    {
+      "ref": "U2",
+      "pin": "11",
+      "modelId": "e19",
+      "actualCopperMarginMm": 0.04993972809958947
+    },
+    {
+      "ref": "U2",
+      "pin": "10",
+      "modelId": "e20",
+      "actualCopperMarginMm": 0.04993972809958626
+    },
+    {
+      "ref": "U2",
+      "pin": "9",
+      "modelId": "e21",
+      "actualCopperMarginMm": 0.04993972809958626
+    },
+    {
+      "ref": "U2",
+      "pin": "8",
+      "modelId": "e22",
+      "actualCopperMarginMm": 0.04993972809958947
+    },
+    {
+      "ref": "U2",
+      "pin": "7",
+      "modelId": "e23",
+      "actualCopperMarginMm": 0.04993972809958626
+    },
+    {
+      "ref": "U2",
+      "pin": "6",
+      "modelId": "e24",
+      "actualCopperMarginMm": 0.04993972809958947
+    },
+    {
+      "ref": "U2",
+      "pin": "5",
+      "modelId": "e25",
+      "actualCopperMarginMm": 0.04993972809958947
+    },
+    {
+      "ref": "U2",
+      "pin": "4",
+      "modelId": "e26",
+      "actualCopperMarginMm": 0.04993972809958947
+    },
+    {
+      "ref": "U2",
+      "pin": "3",
+      "modelId": "e27",
+      "actualCopperMarginMm": 0.04993972809958947
+    },
+    {
+      "ref": "U2",
+      "pin": "2",
+      "modelId": "e28",
+      "actualCopperMarginMm": 0.04993972809958786
+    },
+    {
+      "ref": "U2",
+      "pin": "1",
+      "modelId": "e29",
+      "actualCopperMarginMm": 0.04993972809959108
+    },
+    {
+      "ref": "U2",
+      "pin": "98",
+      "modelId": "e30",
+      "actualCopperMarginMm": 0.04993975479705151
+    },
+    {
+      "ref": "U2",
+      "pin": "44",
+      "modelId": "e31",
+      "actualCopperMarginMm": 0.04993975479705151
+    },
+    {
+      "ref": "U2",
+      "pin": "43",
+      "modelId": "e32",
+      "actualCopperMarginMm": 0.04993975479705151
+    },
+    {
+      "ref": "U2",
+      "pin": "42",
+      "modelId": "e33",
+      "actualCopperMarginMm": 0.049939754797044426
+    },
+    {
+      "ref": "U2",
+      "pin": "41",
+      "modelId": "e34",
+      "actualCopperMarginMm": 0.049939754797044426
+    },
+    {
+      "ref": "U2",
+      "pin": "40",
+      "modelId": "e35",
+      "actualCopperMarginMm": 0.04993975479705151
+    },
+    {
+      "ref": "U2",
+      "pin": "39",
+      "modelId": "e36",
+      "actualCopperMarginMm": 0.04993975479705151
+    },
+    {
+      "ref": "U2",
+      "pin": "38",
+      "modelId": "e37",
+      "actualCopperMarginMm": 0.04993975479705151
+    },
+    {
+      "ref": "U2",
+      "pin": "37",
+      "modelId": "e38",
+      "actualCopperMarginMm": 0.049939754797044426
+    },
+    {
+      "ref": "U2",
+      "pin": "36",
+      "modelId": "e39",
+      "actualCopperMarginMm": 0.049939754797044426
+    },
+    {
+      "ref": "U2",
+      "pin": "97",
+      "modelId": "e40",
+      "actualCopperMarginMm": 0.04993975479705151
+    },
+    {
+      "ref": "U2",
+      "pin": "96",
+      "modelId": "e41",
+      "actualCopperMarginMm": 0.04993972809958626
+    },
+    {
+      "ref": "U2",
+      "pin": "22",
+      "modelId": "e42",
+      "actualCopperMarginMm": 0.049939728099583226
+    },
+    {
+      "ref": "U2",
+      "pin": "21",
+      "modelId": "e43",
+      "actualCopperMarginMm": 0.049939728099583226
+    },
+    {
+      "ref": "U2",
+      "pin": "20",
+      "modelId": "e44",
+      "actualCopperMarginMm": 0.04993972809958626
+    },
+    {
+      "ref": "U2",
+      "pin": "19",
+      "modelId": "e45",
+      "actualCopperMarginMm": 0.04993972809958626
+    },
+    {
+      "ref": "U2",
+      "pin": "18",
+      "modelId": "e46",
+      "actualCopperMarginMm": 0.04993972809958626
+    },
+    {
+      "ref": "U2",
+      "pin": "17",
+      "modelId": "e47",
+      "actualCopperMarginMm": 0.049939728099583226
+    },
+    {
+      "ref": "U2",
+      "pin": "16",
+      "modelId": "e48",
+      "actualCopperMarginMm": 0.049939728099583226
+    },
+    {
+      "ref": "U2",
+      "pin": "15",
+      "modelId": "e49",
+      "actualCopperMarginMm": 0.04993972809958626
+    },
+    {
+      "ref": "U2",
+      "pin": "14",
+      "modelId": "e50",
+      "actualCopperMarginMm": 0.04993973291813653
+    },
+    {
+      "ref": "U2",
+      "pin": "95",
+      "modelId": "e51",
+      "actualCopperMarginMm": 0.04993972809958626
+    },
+    {
+      "ref": "U2",
+      "pin": "45",
+      "modelId": "e52",
+      "actualCopperMarginMm": 0.04999996000000628
+    },
+    {
+      "ref": "U2",
+      "pin": "46",
+      "modelId": "e53",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "47",
+      "modelId": "e54",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "48",
+      "modelId": "e55",
+      "actualCopperMarginMm": 0.049999960000000954
+    },
+    {
+      "ref": "U2",
+      "pin": "49",
+      "modelId": "e56",
+      "actualCopperMarginMm": 0.049999960000000954
+    },
+    {
+      "ref": "U2",
+      "pin": "50",
+      "modelId": "e57",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "51",
+      "modelId": "e58",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "52",
+      "modelId": "e59",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "53",
+      "modelId": "e60",
+      "actualCopperMarginMm": 0.049999960000000954
+    },
+    {
+      "ref": "U2",
+      "pin": "54",
+      "modelId": "e61",
+      "actualCopperMarginMm": 0.04999996000000451
+    },
+    {
+      "ref": "U2",
+      "pin": "55",
+      "modelId": "e62",
+      "actualCopperMarginMm": 0.04999996000000451
+    },
+    {
+      "ref": "U2",
+      "pin": "56",
+      "modelId": "e63",
+      "actualCopperMarginMm": 0.04999996000000451
+    },
+    {
+      "ref": "U2",
+      "pin": "57",
+      "modelId": "e64",
+      "actualCopperMarginMm": 0.04999996000000451
+    },
+    {
+      "ref": "U2",
+      "pin": "58",
+      "modelId": "e65",
+      "actualCopperMarginMm": 0.04999996000000451
+    },
+    {
+      "ref": "U2",
+      "pin": "59",
+      "modelId": "e66",
+      "actualCopperMarginMm": 0.049999960000000954
+    },
+    {
+      "ref": "U2",
+      "pin": "60",
+      "modelId": "e67",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "61",
+      "modelId": "e68",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "62",
+      "modelId": "e69",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "63",
+      "modelId": "e70",
+      "actualCopperMarginMm": 0.049999960000000954
+    },
+    {
+      "ref": "U2",
+      "pin": "64",
+      "modelId": "e71",
+      "actualCopperMarginMm": 0.049999960000000954
+    },
+    {
+      "ref": "U2",
+      "pin": "65",
+      "modelId": "e72",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "66",
+      "modelId": "e73",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "67",
+      "modelId": "e74",
+      "actualCopperMarginMm": 0.04999996000000628
+    },
+    {
+      "ref": "U2",
+      "pin": "68",
+      "modelId": "e75",
+      "actualCopperMarginMm": 0.049999960000006276
+    },
+    {
+      "ref": "U2",
+      "pin": "69",
+      "modelId": "e76",
+      "actualCopperMarginMm": 0.049999960000006276
+    },
+    {
+      "ref": "U2",
+      "pin": "70",
+      "modelId": "e77",
+      "actualCopperMarginMm": 0.049999960000006276
+    },
+    {
+      "ref": "U2",
+      "pin": "71",
+      "modelId": "e78",
+      "actualCopperMarginMm": 0.04999996000000628
+    },
+    {
+      "ref": "U2",
+      "pin": "72",
+      "modelId": "e79",
+      "actualCopperMarginMm": 0.04999996000000628
+    },
+    {
+      "ref": "U2",
+      "pin": "73",
+      "modelId": "e80",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "74",
+      "modelId": "e81",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "75",
+      "modelId": "e82",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "76",
+      "modelId": "e83",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "77",
+      "modelId": "e84",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "78",
+      "modelId": "e85",
+      "actualCopperMarginMm": 0.049999960000000954
+    },
+    {
+      "ref": "U2",
+      "pin": "79",
+      "modelId": "e86",
+      "actualCopperMarginMm": 0.049999960000000954
+    },
+    {
+      "ref": "U2",
+      "pin": "80",
+      "modelId": "e87",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "81",
+      "modelId": "e88",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "82",
+      "modelId": "e89",
+      "actualCopperMarginMm": 0.049999960000000954
+    },
+    {
+      "ref": "U2",
+      "pin": "83",
+      "modelId": "e90",
+      "actualCopperMarginMm": 0.049999960000000954
+    },
+    {
+      "ref": "U2",
+      "pin": "84",
+      "modelId": "e91",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "85",
+      "modelId": "e92",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "86",
+      "modelId": "e93",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "87",
+      "modelId": "e94",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "88",
+      "modelId": "e95",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "99",
+      "modelId": "e96",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "100",
+      "modelId": "e97",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "101",
+      "modelId": "e98",
+      "actualCopperMarginMm": 0.04999996000000451
+    },
+    {
+      "ref": "U2",
+      "pin": "102",
+      "modelId": "e99",
+      "actualCopperMarginMm": 0.04999996000000451
+    },
+    {
+      "ref": "U2",
+      "pin": "103",
+      "modelId": "e100",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "104",
+      "modelId": "e101",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "105",
+      "modelId": "e102",
+      "actualCopperMarginMm": 0.049999960000006276
+    },
+    {
+      "ref": "U2",
+      "pin": "106",
+      "modelId": "e103",
+      "actualCopperMarginMm": 0.049999960000006276
+    },
+    {
+      "ref": "U2",
+      "pin": "107",
+      "modelId": "e104",
+      "actualCopperMarginMm": 0.04999996000000806
+    },
+    {
+      "ref": "U2",
+      "pin": "108",
+      "modelId": "e105",
+      "actualCopperMarginMm": 0.04999996000000806
+    },
+    {
+      "ref": "U2",
+      "pin": "109",
+      "modelId": "e106",
+      "actualCopperMarginMm": 0.04999996000000806
+    },
+    {
+      "ref": "U2",
+      "pin": "89",
+      "modelId": "e107",
+      "actualCopperMarginMm": 0.0499999600000045
+    },
+    {
+      "ref": "U2",
+      "pin": "90",
+      "modelId": "e108",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "91",
+      "modelId": "e109",
+      "actualCopperMarginMm": 0.04999996000000095
+    },
+    {
+      "ref": "U2",
+      "pin": "92",
+      "modelId": "e110",
+      "actualCopperMarginMm": 0.04999996000000095
+    },
+    {
+      "ref": "U2",
+      "pin": "93",
+      "modelId": "e111",
+      "actualCopperMarginMm": 0.049999960000004506
+    },
+    {
+      "ref": "U2",
+      "pin": "94",
+      "modelId": "e112",
+      "actualCopperMarginMm": 0.0499999600000045
+    },
+    {
+      "ref": "J4",
+      "pin": "CD",
+      "modelId": "e4",
+      "actualCopperMarginMm": 0.00791517999999769
+    },
+    {
+      "ref": "J4",
+      "pin": "C5",
+      "modelId": "e5",
+      "actualCopperMarginMm": 0.00791517999999769
+    },
+    {
+      "ref": "J4",
+      "pin": "C7",
+      "modelId": "e6",
+      "actualCopperMarginMm": 0.007915180000001243
+    },
+    {
+      "ref": "J4",
+      "pin": "C3",
+      "modelId": "e7",
+      "actualCopperMarginMm": 0.008169179999999445
+    },
+    {
+      "ref": "J4",
+      "pin": "8",
+      "modelId": "e8",
+      "actualCopperMarginMm": 0.1500127400000011
+    },
+    {
+      "ref": "J4",
+      "pin": "11",
+      "modelId": "e9",
+      "actualCopperMarginMm": 0.1500127400000082
+    },
+    {
+      "ref": "J4",
+      "pin": "10",
+      "modelId": "e10",
+      "actualCopperMarginMm": 0.15001205999999453
+    },
+    {
+      "ref": "J4",
+      "pin": "9",
+      "modelId": "e11",
+      "actualCopperMarginMm": 0.15001206000000167
+    },
+    {
+      "ref": "J4",
+      "pin": "C2",
+      "modelId": "e12",
+      "actualCopperMarginMm": 0.007915180000001243
+    },
+    {
+      "ref": "J4",
+      "pin": "C6",
+      "modelId": "e13",
+      "actualCopperMarginMm": 0.007915180000001243
+    },
+    {
+      "ref": "J4",
+      "pin": "C1",
+      "modelId": "e14",
+      "actualCopperMarginMm": 0.007915180000001241
+    },
+    {
+      "ref": "D30",
+      "pin": "1",
+      "modelId": "e2",
+      "actualCopperMarginMm": 0.016647360000000333
+    },
+    {
+      "ref": "D30",
+      "pin": "2",
+      "modelId": "e3",
+      "actualCopperMarginMm": 0.016595839999993697
+    },
+    {
+      "ref": "D31",
+      "pin": "1",
+      "modelId": "e2",
+      "actualCopperMarginMm": 0.016647360000000333
+    },
+    {
+      "ref": "D31",
+      "pin": "2",
+      "modelId": "e3",
+      "actualCopperMarginMm": 0.016595839999993697
+    },
+    {
+      "ref": "D33",
+      "pin": "1",
+      "modelId": "e2",
+      "actualCopperMarginMm": 0.016647260000000053
+    },
+    {
+      "ref": "D33",
+      "pin": "2",
+      "modelId": "e3",
+      "actualCopperMarginMm": 0.016595939999999976
+    },
+    {
+      "ref": "D34",
+      "pin": "1",
+      "modelId": "e2",
+      "actualCopperMarginMm": 0.016647260000000053
+    },
+    {
+      "ref": "D34",
+      "pin": "2",
+      "modelId": "e3",
+      "actualCopperMarginMm": 0.016595939999999976
+    },
+    {
+      "ref": "D36",
+      "pin": "1",
+      "modelId": "e2",
+      "actualCopperMarginMm": 0.01664678000000208
+    },
+    {
+      "ref": "D36",
+      "pin": "2",
+      "modelId": "e3",
+      "actualCopperMarginMm": 0.016596419999999057
+    },
+    {
+      "ref": "RN3",
+      "pin": "1",
+      "modelId": "e2",
+      "actualCopperMarginMm": 0.07499303999999539
+    },
+    {
+      "ref": "RN3",
+      "pin": "8",
+      "modelId": "e3",
+      "actualCopperMarginMm": 0.0749930399999954
+    },
+    {
+      "ref": "RN3",
+      "pin": "2",
+      "modelId": "e4",
+      "actualCopperMarginMm": 0.019987039999996625
+    },
+    {
+      "ref": "RN3",
+      "pin": "3",
+      "modelId": "e5",
+      "actualCopperMarginMm": 0.019987039999996625
+    },
+    {
+      "ref": "RN3",
+      "pin": "6",
+      "modelId": "e6",
+      "actualCopperMarginMm": 0.01998703999999663
+    },
+    {
+      "ref": "RN3",
+      "pin": "4",
+      "modelId": "e7",
+      "actualCopperMarginMm": 0.07499304000000251
+    },
+    {
+      "ref": "RN3",
+      "pin": "7",
+      "modelId": "e8",
+      "actualCopperMarginMm": 0.01998703999999663
+    },
+    {
+      "ref": "RN3",
+      "pin": "5",
+      "modelId": "e9",
+      "actualCopperMarginMm": 0.07489144000000181
+    },
+    {
+      "ref": "RN4",
+      "pin": "1",
+      "modelId": "e2",
+      "actualCopperMarginMm": 0.07499284000000372
+    },
+    {
+      "ref": "RN4",
+      "pin": "8",
+      "modelId": "e3",
+      "actualCopperMarginMm": 0.07499284000000372
+    },
+    {
+      "ref": "RN4",
+      "pin": "2",
+      "modelId": "e4",
+      "actualCopperMarginMm": 0.019986840000001393
+    },
+    {
+      "ref": "RN4",
+      "pin": "3",
+      "modelId": "e5",
+      "actualCopperMarginMm": 0.019986840000001393
+    },
+    {
+      "ref": "RN4",
+      "pin": "6",
+      "modelId": "e6",
+      "actualCopperMarginMm": 0.019986840000001393
+    },
+    {
+      "ref": "RN4",
+      "pin": "4",
+      "modelId": "e7",
+      "actualCopperMarginMm": 0.07499284000000728
+    },
+    {
+      "ref": "RN4",
+      "pin": "7",
+      "modelId": "e8",
+      "actualCopperMarginMm": 0.019986840000001393
+    },
+    {
+      "ref": "RN4",
+      "pin": "5",
+      "modelId": "e9",
+      "actualCopperMarginMm": 0.07489124000000658
+    }
+  ],
+  "reopenedSourceVerified": true,
+  "maximumReopenSerializationDeltaMil": 5.968558980384842e-13,
+  "U2PcbAndAssemblyUnchanged": true,
+  "oneJ5PasteApertureTranslationVerified": true
+}

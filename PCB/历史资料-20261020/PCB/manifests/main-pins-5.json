@@ -1,0 +1,577 @@
+{
+  "success": true,
+  "result": [
+    {
+      "ref": "U6",
+      "page": 5,
+      "id": "2df181fa40e60aac",
+      "sub": "THVD1410DR.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "R",
+          "x": 305,
+          "y": 215,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "RE#",
+          "x": 305,
+          "y": 205,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "DE",
+          "x": 305,
+          "y": 195,
+          "rotation": 180
+        },
+        {
+          "number": "4",
+          "name": "D",
+          "x": 305,
+          "y": 185,
+          "rotation": 180
+        },
+        {
+          "number": "5",
+          "name": "GND",
+          "x": 375,
+          "y": 185,
+          "rotation": 0
+        },
+        {
+          "number": "6",
+          "name": "A",
+          "x": 375,
+          "y": 195,
+          "rotation": 0
+        },
+        {
+          "number": "7",
+          "name": "B",
+          "x": 375,
+          "y": 205,
+          "rotation": 0
+        },
+        {
+          "number": "8",
+          "name": "VCC",
+          "x": 375,
+          "y": 215,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "U7",
+      "page": 5,
+      "id": "f054fbdd376eceb5",
+      "sub": "MAX3221IPWR.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "EN#",
+          "x": 725,
+          "y": 275,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "C1+",
+          "x": 725,
+          "y": 265,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "V+",
+          "x": 725,
+          "y": 255,
+          "rotation": 180
+        },
+        {
+          "number": "4",
+          "name": "C1-",
+          "x": 725,
+          "y": 245,
+          "rotation": 180
+        },
+        {
+          "number": "5",
+          "name": "C2+",
+          "x": 725,
+          "y": 235,
+          "rotation": 180
+        },
+        {
+          "number": "6",
+          "name": "C2-",
+          "x": 725,
+          "y": 225,
+          "rotation": 180
+        },
+        {
+          "number": "7",
+          "name": "V-",
+          "x": 725,
+          "y": 215,
+          "rotation": 180
+        },
+        {
+          "number": "8",
+          "name": "RIN",
+          "x": 725,
+          "y": 205,
+          "rotation": 180
+        },
+        {
+          "number": "9",
+          "name": "ROUT",
+          "x": 835,
+          "y": 205,
+          "rotation": 0
+        },
+        {
+          "number": "10",
+          "name": "INVALID#",
+          "x": 835,
+          "y": 215,
+          "rotation": 0
+        },
+        {
+          "number": "11",
+          "name": "DIN",
+          "x": 835,
+          "y": 225,
+          "rotation": 0
+        },
+        {
+          "number": "12",
+          "name": "FORCEON",
+          "x": 835,
+          "y": 235,
+          "rotation": 0
+        },
+        {
+          "number": "13",
+          "name": "DOUT",
+          "x": 835,
+          "y": 245,
+          "rotation": 0
+        },
+        {
+          "number": "14",
+          "name": "GND",
+          "x": 835,
+          "y": 255,
+          "rotation": 0
+        },
+        {
+          "number": "15",
+          "name": "VCC",
+          "x": 835,
+          "y": 265,
+          "rotation": 0
+        },
+        {
+          "number": "16",
+          "name": "FORCEOFF#",
+          "x": 835,
+          "y": 275,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "J1",
+      "page": 5,
+      "id": "f3404d40a4a66231",
+      "sub": "B4B-PH-K-S(LF)(SN).1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 135,
+          "y": 250,
+          "rotation": 0
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 135,
+          "y": 230,
+          "rotation": 0
+        },
+        {
+          "number": "3",
+          "name": "3",
+          "x": 135,
+          "y": 210,
+          "rotation": 0
+        },
+        {
+          "number": "4",
+          "name": "4",
+          "x": 135,
+          "y": 190,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "J2",
+      "page": 5,
+      "id": "9b419ab2cc69785d",
+      "sub": "B4B-PH-K-S(LF)(SN).1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 585,
+          "y": 270,
+          "rotation": 0
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 585,
+          "y": 250,
+          "rotation": 0
+        },
+        {
+          "number": "3",
+          "name": "3",
+          "x": 585,
+          "y": 230,
+          "rotation": 0
+        },
+        {
+          "number": "4",
+          "name": "4",
+          "x": 585,
+          "y": 210,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "J3",
+      "page": 5,
+      "id": "8c72a675552d9b88",
+      "sub": "B4B-PH-K-S(LF)(SN).1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 135,
+          "y": 610,
+          "rotation": 0
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 135,
+          "y": 590,
+          "rotation": 0
+        },
+        {
+          "number": "3",
+          "name": "3",
+          "x": 135,
+          "y": 570,
+          "rotation": 0
+        },
+        {
+          "number": "4",
+          "name": "4",
+          "x": 135,
+          "y": 550,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "D5",
+      "page": 5,
+      "id": "65c7129c388dc4f2",
+      "sub": "SM712.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "C",
+          "x": 320,
+          "y": 285,
+          "rotation": 270
+        },
+        {
+          "number": "2",
+          "name": "C",
+          "x": 360,
+          "y": 285,
+          "rotation": 270
+        },
+        {
+          "number": "3",
+          "name": "A",
+          "x": 340,
+          "y": 375,
+          "rotation": 90
+        }
+      ]
+    },
+    {
+      "ref": "D6",
+      "page": 5,
+      "id": "ca0e565c97d1f01e",
+      "sub": "SMF12CA_C399256.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "2",
+          "x": 890,
+          "y": 470,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "1",
+          "x": 850,
+          "y": 470,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "D7",
+      "page": 5,
+      "id": "23e2b844a5fe60d1",
+      "sub": "SMF12CA_C399256.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "2",
+          "x": 1020,
+          "y": 470,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "1",
+          "x": 980,
+          "y": 470,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "D8",
+      "page": 5,
+      "id": "b9ad70cdfc4278c1",
+      "sub": "PESD5V0S1BA_C2827694.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "2",
+          "x": 240,
+          "y": 700,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "1",
+          "x": 200,
+          "y": 700,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "D9",
+      "page": 5,
+      "id": "59512248b681a3f1",
+      "sub": "PESD5V0S1BA_C2827694.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "2",
+          "x": 470,
+          "y": 700,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "1",
+          "x": 430,
+          "y": 700,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "U8",
+      "page": 5,
+      "id": "b5d97389463976b4",
+      "sub": "74AXP4T245PWJ.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "VCC(A)",
+          "x": 265,
+          "y": 565,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "1DIR",
+          "x": 265,
+          "y": 555,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "2DIR",
+          "x": 265,
+          "y": 545,
+          "rotation": 180
+        },
+        {
+          "number": "4",
+          "name": "1A1",
+          "x": 265,
+          "y": 535,
+          "rotation": 180
+        },
+        {
+          "number": "5",
+          "name": "1A2",
+          "x": 265,
+          "y": 525,
+          "rotation": 180
+        },
+        {
+          "number": "6",
+          "name": "2A1",
+          "x": 265,
+          "y": 515,
+          "rotation": 180
+        },
+        {
+          "number": "7",
+          "name": "2A2",
+          "x": 265,
+          "y": 505,
+          "rotation": 180
+        },
+        {
+          "number": "8",
+          "name": "GND",
+          "x": 265,
+          "y": 495,
+          "rotation": 180
+        },
+        {
+          "number": "9",
+          "name": "GND",
+          "x": 375,
+          "y": 495,
+          "rotation": 0
+        },
+        {
+          "number": "10",
+          "name": "2B2",
+          "x": 375,
+          "y": 505,
+          "rotation": 0
+        },
+        {
+          "number": "11",
+          "name": "2B1",
+          "x": 375,
+          "y": 515,
+          "rotation": 0
+        },
+        {
+          "number": "12",
+          "name": "1B2",
+          "x": 375,
+          "y": 525,
+          "rotation": 0
+        },
+        {
+          "number": "13",
+          "name": "1B1",
+          "x": 375,
+          "y": 535,
+          "rotation": 0
+        },
+        {
+          "number": "14",
+          "name": "2OE#",
+          "x": 375,
+          "y": 545,
+          "rotation": 0
+        },
+        {
+          "number": "15",
+          "name": "1OE#",
+          "x": 375,
+          "y": 555,
+          "rotation": 0
+        },
+        {
+          "number": "16",
+          "name": "VCC(B)",
+          "x": 375,
+          "y": 565,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "U12",
+      "id": "bb8c554e572259ad",
+      "sub": "SN74LVC1G125DCKR.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "OE#",
+          "x": 740,
+          "y": 620,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "A",
+          "x": 740,
+          "y": 610,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "GND",
+          "x": 740,
+          "y": 600,
+          "rotation": 180
+        },
+        {
+          "number": "4",
+          "name": "Y",
+          "x": 740,
+          "y": 590,
+          "rotation": 180
+        },
+        {
+          "number": "5",
+          "name": "VCC",
+          "x": 740,
+          "y": 580,
+          "rotation": 180
+        }
+      ],
+      "page": 5
+    }
+  ]
+}

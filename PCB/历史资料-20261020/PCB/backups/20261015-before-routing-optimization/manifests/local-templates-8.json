@@ -1,0 +1,174 @@
+{
+  "success": true,
+  "result": [
+    {
+      "ref": "U4",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "10b95e4530d11da4",
+        "name": "AP63200WU-7"
+      },
+      "x": 270,
+      "y": 200,
+      "manufacturer": "AP63200WU-7",
+      "supplier": "C2071868"
+    },
+    {
+      "ref": "U5",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "7484dd7e98ed8bb9",
+        "name": "AP63203WU-7"
+      },
+      "x": 730,
+      "y": 200,
+      "manufacturer": "AP63203WU-7",
+      "supplier": "C780769"
+    },
+    {
+      "ref": "U11",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "81b8eca1d61fe28e",
+        "name": "TPS61040DBVR"
+      },
+      "x": 320,
+      "y": 520,
+      "manufacturer": "TPS61040DBVR",
+      "supplier": "C7722"
+    },
+    {
+      "ref": "D14",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "9168f3de04757ecb",
+        "name": "MBR0530"
+      },
+      "x": 530,
+      "y": 490,
+      "manufacturer": "MBR0530",
+      "supplier": "C2983233"
+    },
+    {
+      "ref": "L1",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "7441ace7ada1fd76",
+        "name": "SWPA6045S6R8MT"
+      },
+      "x": 430,
+      "y": 180,
+      "manufacturer": "SWPA6045S6R8MT",
+      "supplier": "C57254"
+    },
+    {
+      "ref": "L2",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "51dc82cbe1773027",
+        "name": "NR5040T4R7N"
+      },
+      "x": 900,
+      "y": 180,
+      "manufacturer": "NR5040T4R7N",
+      "supplier": "C223064"
+    },
+    {
+      "ref": "L3",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "230b9d3253264fc0",
+        "name": "SWPA4020S3R3MT"
+      },
+      "x": 160,
+      "y": 490,
+      "manufacturer": "SWPA4020S3R3MT",
+      "supplier": "C83424"
+    },
+    {
+      "ref": "R90",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "bf1ff3412a01b873",
+        "name": "0603WAF7502T5E"
+      },
+      "x": 220,
+      "y": 900,
+      "manufacturer": "0603WAF7502T5E",
+      "supplier": "C23242"
+    },
+    {
+      "ref": "R91",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "58fd2ddebe2a956b",
+        "name": "0603WAF2002T5E"
+      },
+      "x": 540,
+      "y": 900,
+      "manufacturer": "0603WAF2002T5E",
+      "supplier": "C4184"
+    },
+    {
+      "ref": "R91",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "2b915b3af31d3e0d",
+        "name": "0603WAF2002T5E"
+      },
+      "x": 540,
+      "y": 900,
+      "manufacturer": "0603WAF2002T5E",
+      "supplier": "C4184"
+    },
+    {
+      "ref": "R91",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "ca747dc21a7ad3c3",
+        "name": "0603WAF2002T5E"
+      },
+      "x": 540,
+      "y": 900,
+      "manufacturer": "0603WAF2002T5E",
+      "supplier": "C4184"
+    },
+    {
+      "ref": "R?",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e49cdda9eb79bc39",
+        "name": "0603WAF2002T5E"
+      },
+      "x": 540,
+      "y": 650,
+      "manufacturer": "0603WAF2002T5E",
+      "supplier": "C4184"
+    },
+    {
+      "ref": "R?",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "1c6150d7d60cd893",
+        "name": "0603WAF2002T5E"
+      },
+      "x": 540,
+      "y": 900,
+      "manufacturer": "0603WAF2002T5E",
+      "supplier": "C4184"
+    },
+    {
+      "ref": "R91",
+      "component": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "799b43d8e35108e5",
+        "name": "0603WAF2002T5E"
+      },
+      "x": 540,
+      "y": 900,
+      "manufacturer": "0603WAF2002T5E",
+      "supplier": "C4184"
+    }
+  ],
+  "windowId": "85b38436-b87a-4f79-b4e4-e135b424871d"
+}

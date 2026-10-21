@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "result": {
+    "state": "finished",
+    "result": {
+      "success": true,
+      "totalNetsCount": 5,
+      "successNetsCount": 5,
+      "failedNets": [],
+      "duration": 36408
+    }
+  },
+  "windowId": "bff860cc-b4f1-49a6-999b-aa757014f786"
+}

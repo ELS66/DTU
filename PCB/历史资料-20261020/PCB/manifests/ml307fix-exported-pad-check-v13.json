@@ -1,0 +1,578 @@
+[
+  {
+    "pin": "98",
+    "copperBoundsMm": [
+      7.649999960000002,
+      46.124999020000004,
+      10.249999960000004,
+      46.72499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261497e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478605,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261497e-08
+  },
+  {
+    "pin": "97",
+    "copperBoundsMm": [
+      7.649999960000002,
+      57.124999020000004,
+      10.249999960000004,
+      57.72499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261497e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478605,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261497e-08
+  },
+  {
+    "pin": "96",
+    "copperBoundsMm": [
+      25.349999959999998,
+      57.124999020000004,
+      27.94999996,
+      57.72499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136642790184e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478919,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136642790184e-08
+  },
+  {
+    "pin": "95",
+    "copperBoundsMm": [
+      25.349999959999998,
+      46.124999020000004,
+      27.94999996,
+      46.72499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136642790184e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478919,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136642790184e-08
+  },
+  {
+    "pin": "44",
+    "copperBoundsMm": [
+      7.649999960000002,
+      47.22499902,
+      10.249999960000004,
+      47.82499902
+    ],
+    "Gerber_TopLayer.GTL": 4.4721356894970355e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.4721356894970355e-08
+  },
+  {
+    "pin": "43",
+    "copperBoundsMm": [
+      7.649999960000002,
+      48.32499902,
+      10.249999960000004,
+      48.92499902
+    ],
+    "Gerber_TopLayer.GTL": 4.4721356894970355e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.4721356894970355e-08
+  },
+  {
+    "pin": "42",
+    "copperBoundsMm": [
+      7.649999960000002,
+      49.42499902,
+      10.249999960000004,
+      50.02499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261497e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478605,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261497e-08
+  },
+  {
+    "pin": "41",
+    "copperBoundsMm": [
+      7.649999960000002,
+      50.52499902,
+      10.249999960000004,
+      51.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261497e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478605,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261497e-08
+  },
+  {
+    "pin": "40",
+    "copperBoundsMm": [
+      7.649999960000002,
+      51.624999020000004,
+      10.249999960000004,
+      52.22499902
+    ],
+    "Gerber_TopLayer.GTL": 4.4721356894970355e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.4721356894970355e-08
+  },
+  {
+    "pin": "39",
+    "copperBoundsMm": [
+      7.649999960000002,
+      52.72499902,
+      10.249999960000004,
+      53.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.4721356894970355e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.4721356894970355e-08
+  },
+  {
+    "pin": "38",
+    "copperBoundsMm": [
+      7.649999960000002,
+      53.82499902,
+      10.249999960000004,
+      54.42499902
+    ],
+    "Gerber_TopLayer.GTL": 4.4721356894970355e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.4721356894970355e-08
+  },
+  {
+    "pin": "37",
+    "copperBoundsMm": [
+      7.649999960000002,
+      54.92499902,
+      10.249999960000004,
+      55.52499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261497e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478605,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261497e-08
+  },
+  {
+    "pin": "36",
+    "copperBoundsMm": [
+      7.649999960000002,
+      56.02499902,
+      10.249999960000004,
+      56.624999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261497e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478605,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261497e-08
+  },
+  {
+    "pin": "35",
+    "copperBoundsMm": [
+      10.899999960000002,
+      58.52499902,
+      11.499999960000002,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472135848379216e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472135848379216e-08
+  },
+  {
+    "pin": "34",
+    "copperBoundsMm": [
+      11.99999996,
+      58.52499902,
+      12.599999960000002,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.4721361661435826e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704784275,
+    "Gerber_TopPasteMaskLayer.GTP": 4.4721361661435826e-08
+  },
+  {
+    "pin": "33",
+    "copperBoundsMm": [
+      13.099999960000002,
+      58.52499902,
+      13.69999996,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704785836,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "32",
+    "copperBoundsMm": [
+      14.199999960000001,
+      58.52499902,
+      14.799999960000001,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472135848379216e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704784275,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472135848379216e-08
+  },
+  {
+    "pin": "31",
+    "copperBoundsMm": [
+      15.299999960000001,
+      58.52499902,
+      15.89999996,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704784275,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "30",
+    "copperBoundsMm": [
+      16.399999960000002,
+      58.52499902,
+      16.99999996,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "29",
+    "copperBoundsMm": [
+      17.49999996,
+      58.52499902,
+      18.09999996,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "28",
+    "copperBoundsMm": [
+      18.59999996,
+      58.52499902,
+      19.19999996,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "27",
+    "copperBoundsMm": [
+      19.69999996,
+      58.52499902,
+      20.29999996,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "26",
+    "copperBoundsMm": [
+      20.79999996,
+      58.52499902,
+      21.39999996,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136325025767e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704785836,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136325025767e-08
+  },
+  {
+    "pin": "25",
+    "copperBoundsMm": [
+      21.899999960000002,
+      58.52499902,
+      22.49999996,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "24",
+    "copperBoundsMm": [
+      22.99999996,
+      58.52499902,
+      23.59999996,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "23",
+    "copperBoundsMm": [
+      24.099999959999998,
+      58.52499902,
+      24.69999996,
+      61.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "22",
+    "copperBoundsMm": [
+      25.349999959999998,
+      56.02499902,
+      27.94999996,
+      56.624999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136642790184e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478919,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136642790184e-08
+  },
+  {
+    "pin": "21",
+    "copperBoundsMm": [
+      25.349999959999998,
+      54.92499902,
+      27.94999996,
+      55.52499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136642790184e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478919,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136642790184e-08
+  },
+  {
+    "pin": "20",
+    "copperBoundsMm": [
+      25.349999959999998,
+      53.82499902,
+      27.94999996,
+      54.42499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136325025767e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704785836,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136325025767e-08
+  },
+  {
+    "pin": "19",
+    "copperBoundsMm": [
+      25.349999959999998,
+      52.72499902,
+      27.94999996,
+      53.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136325025767e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704785836,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136325025767e-08
+  },
+  {
+    "pin": "18",
+    "copperBoundsMm": [
+      25.349999959999998,
+      51.624999020000004,
+      27.94999996,
+      52.22499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136325025767e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704785836,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136325025767e-08
+  },
+  {
+    "pin": "17",
+    "copperBoundsMm": [
+      25.349999959999998,
+      50.52499902,
+      27.94999996,
+      51.124999020000004
+    ],
+    "Gerber_TopLayer.GTL": 4.472136642790184e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478919,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136642790184e-08
+  },
+  {
+    "pin": "16",
+    "copperBoundsMm": [
+      25.349999959999998,
+      49.42499902,
+      27.94999996,
+      50.02499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136642790184e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.05080004470478919,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136642790184e-08
+  },
+  {
+    "pin": "15",
+    "copperBoundsMm": [
+      25.349999959999998,
+      48.32499902,
+      27.94999996,
+      48.92499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136325025767e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704785836,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136325025767e-08
+  },
+  {
+    "pin": "14",
+    "copperBoundsMm": [
+      25.349999959999998,
+      47.22499902,
+      27.94999996,
+      47.82499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136325025767e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704785836,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136325025767e-08
+  },
+  {
+    "pin": "13",
+    "copperBoundsMm": [
+      24.099999959999998,
+      42.72499902,
+      24.69999996,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "12",
+    "copperBoundsMm": [
+      22.99999996,
+      42.72499902,
+      23.59999996,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "11",
+    "copperBoundsMm": [
+      21.899999960000002,
+      42.72499902,
+      22.49999996,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "10",
+    "copperBoundsMm": [
+      20.79999996,
+      42.72499902,
+      21.39999996,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136325025767e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704785836,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136325025767e-08
+  },
+  {
+    "pin": "9",
+    "copperBoundsMm": [
+      19.69999996,
+      42.72499902,
+      20.29999996,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "8",
+    "copperBoundsMm": [
+      18.59999996,
+      42.72499902,
+      19.19999996,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "7",
+    "copperBoundsMm": [
+      17.49999996,
+      42.72499902,
+      18.09999996,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "6",
+    "copperBoundsMm": [
+      16.399999960000002,
+      42.72499902,
+      16.99999996,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "5",
+    "copperBoundsMm": [
+      15.299999960000001,
+      42.72499902,
+      15.89999996,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472135848379216e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704784275,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472135848379216e-08
+  },
+  {
+    "pin": "4",
+    "copperBoundsMm": [
+      14.199999960000001,
+      42.72499902,
+      14.799999960000001,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472135848379216e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704784275,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472135848379216e-08
+  },
+  {
+    "pin": "3",
+    "copperBoundsMm": [
+      13.099999960000002,
+      42.72499902,
+      13.69999996,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.472136007261399e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704785836,
+    "Gerber_TopPasteMaskLayer.GTP": 4.472136007261399e-08
+  },
+  {
+    "pin": "2",
+    "copperBoundsMm": [
+      11.99999996,
+      42.72499902,
+      12.599999960000002,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.4721358483792445e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.050800044704784275,
+    "Gerber_TopPasteMaskLayer.GTP": 4.4721358483792445e-08
+  },
+  {
+    "pin": "1",
+    "copperBoundsMm": [
+      10.899999960000002,
+      42.72499902,
+      11.499999960000002,
+      45.32499902
+    ],
+    "Gerber_TopLayer.GTL": 4.4721356894970355e-08,
+    "Gerber_TopSolderMaskLayer.GTS": 0.0508000447047827,
+    "Gerber_TopPasteMaskLayer.GTP": 4.4721356894970355e-08
+  }
+]

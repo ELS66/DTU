@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");const ids=["92011495ee17ccf4", "37f1be06582db114", "a582c095a9c5562c"];if(ids.length&&!await eda.pcb_PrimitivePolyline.delete(ids))throw Error("Local reroute failed");return {ids,saved:await eda.pcb_Document.save()};

@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "result": {
+    "replaced": [
+      {
+        "ref": "J1",
+        "id": "9de9b06f03850a19"
+      },
+      {
+        "ref": "J2",
+        "id": "b39a35b34f06a320"
+      },
+      {
+        "ref": "J3",
+        "id": "4fcae8979ae9a240"
+      }
+    ],
+    "saved": false
+  },
+  "windowId": "490674b5-0a0c-4091-99f8-25ad4dc56709"
+}

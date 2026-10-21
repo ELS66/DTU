@@ -1,0 +1,1 @@
+idf_component_register(SRCS "module_protocol.c" "module_record.c" "network_policy.c" "module_at.c" "module_lte.c" "module_indicator.c" "module_runtime_policy.c" "module_supervision.c" "module_blob.c" "module_events.c" INCLUDE_DIRS "include")

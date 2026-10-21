@@ -1,0 +1,314 @@
+{
+  "success": true,
+  "result": [
+    {
+      "ref": "U3",
+      "page": 1,
+      "id": "bea1cfa0e7a5b766",
+      "sub": "TPS25940ARVCR.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "DEVSLP",
+          "x": 550,
+          "y": 320,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "PGOOD",
+          "x": 550,
+          "y": 310,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "PGTH",
+          "x": 550,
+          "y": 300,
+          "rotation": 180
+        },
+        {
+          "number": "4",
+          "name": "OUT",
+          "x": 550,
+          "y": 290,
+          "rotation": 180
+        },
+        {
+          "number": "5",
+          "name": "OUT",
+          "x": 550,
+          "y": 280,
+          "rotation": 180
+        },
+        {
+          "number": "6",
+          "name": "OUT",
+          "x": 550,
+          "y": 270,
+          "rotation": 180
+        },
+        {
+          "number": "7",
+          "name": "OUT",
+          "x": 550,
+          "y": 260,
+          "rotation": 180
+        },
+        {
+          "number": "8",
+          "name": "OUT",
+          "x": 550,
+          "y": 250,
+          "rotation": 180
+        },
+        {
+          "number": "9",
+          "name": "IN",
+          "x": 550,
+          "y": 240,
+          "rotation": 180
+        },
+        {
+          "number": "10",
+          "name": "IN",
+          "x": 550,
+          "y": 230,
+          "rotation": 180
+        },
+        {
+          "number": "11",
+          "name": "IN",
+          "x": 650,
+          "y": 230,
+          "rotation": 0
+        },
+        {
+          "number": "12",
+          "name": "IN",
+          "x": 650,
+          "y": 240,
+          "rotation": 0
+        },
+        {
+          "number": "13",
+          "name": "IN",
+          "x": 650,
+          "y": 250,
+          "rotation": 0
+        },
+        {
+          "number": "14",
+          "name": "EN",
+          "x": 650,
+          "y": 260,
+          "rotation": 0
+        },
+        {
+          "number": "15",
+          "name": "OVP",
+          "x": 650,
+          "y": 270,
+          "rotation": 0
+        },
+        {
+          "number": "16",
+          "name": "GND",
+          "x": 650,
+          "y": 280,
+          "rotation": 0
+        },
+        {
+          "number": "17",
+          "name": "ILIM",
+          "x": 650,
+          "y": 290,
+          "rotation": 0
+        },
+        {
+          "number": "18",
+          "name": "dVdT",
+          "x": 650,
+          "y": 300,
+          "rotation": 0
+        },
+        {
+          "number": "19",
+          "name": "IMON",
+          "x": 650,
+          "y": 310,
+          "rotation": 0
+        },
+        {
+          "number": "20",
+          "name": "FLT#",
+          "x": 650,
+          "y": 320,
+          "rotation": 0
+        },
+        {
+          "number": "21",
+          "name": "EP",
+          "x": 650,
+          "y": 330,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "F1",
+      "page": 1,
+      "id": "4ca1aed44ae49695",
+      "sub": "MF-MSMF200-2.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "2",
+          "x": 180,
+          "y": 190,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "1",
+          "x": 140,
+          "y": 190,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "D1",
+      "page": 1,
+      "id": "e803435cd2b5901f",
+      "sub": "SS34_C8678.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "A",
+          "x": 350,
+          "y": 190,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "K",
+          "x": 310,
+          "y": 190,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "F2",
+      "page": 1,
+      "id": "2d6c1028f0680327",
+      "sub": "MF-MSMF200-2.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "2",
+          "x": 180,
+          "y": 320,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "1",
+          "x": 140,
+          "y": 320,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "D2",
+      "page": 1,
+      "id": "688a67c761cf025f",
+      "sub": "SS34_C8678.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "A",
+          "x": 350,
+          "y": 320,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "K",
+          "x": 310,
+          "y": 320,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "F3",
+      "page": 1,
+      "id": "49792b1f8ed26ea5",
+      "sub": "MF-MSMF200-2.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "2",
+          "x": 180,
+          "y": 450,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "1",
+          "x": 140,
+          "y": 450,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "D3",
+      "page": 1,
+      "id": "65c4a3efe29bec90",
+      "sub": "SS34_C8678.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "A",
+          "x": 350,
+          "y": 450,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "K",
+          "x": 310,
+          "y": 450,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "D4",
+      "page": 1,
+      "id": "d8b33a4e04cc739f",
+      "sub": "SMBJ12A/54.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "K",
+          "x": 580,
+          "y": 620,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "A",
+          "x": 620,
+          "y": 620,
+          "rotation": 0
+        }
+      ]
+    }
+  ]
+}

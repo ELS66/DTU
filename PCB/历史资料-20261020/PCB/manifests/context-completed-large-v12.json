@@ -1,0 +1,1298 @@
+{
+  "success": true,
+  "result": {
+    "project": {
+      "itemType": "Project",
+      "uuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc",
+      "friendlyName": "DTU-C5-Air780EPT-HW-V0.1-library",
+      "name": "/DTU-C5-Air780EPT-HW-V0.1-library",
+      "teamUuid": "0c9678a4817f4bfdae4fc75bb046846a",
+      "description": "",
+      "data": [
+        {
+          "itemType": "Board",
+          "name": "Board1",
+          "schematic": {
+            "itemType": "Schematic",
+            "uuid": "5a91bce448072d09",
+            "name": "Schematic1",
+            "page": [
+              {
+                "itemType": "Schematic Page",
+                "uuid": "ac9947f0c683b3f5",
+                "name": "01_Power_Protection",
+                "parentSchematicUuid": "5a91bce448072d09",
+                "showTitleBlock": true,
+                "titleBlockData": {
+                  "Company": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "嘉立创EDA"
+                  },
+                  "Drawed": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "Reviewed": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "Version": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "V0.4"
+                  },
+                  "Page Size": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "A2"
+                  },
+                  "@Project Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "DTU-C5-Air780EPT-HW-V0.1-library"
+                  },
+                  "@Update Date": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "2026-10-10"
+                  },
+                  "@Create Date": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "2026-10-10"
+                  },
+                  "Part Number": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "@Board Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Board1"
+                  },
+                  "@Page Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "01_Power_Protection"
+                  },
+                  "@Create Time": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "09:08:10"
+                  },
+                  "@Page Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 9
+                  },
+                  "@Page No": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 1
+                  },
+                  "@Schematic Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Schematic1"
+                  },
+                  "@Update Time": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "09:08:10"
+                  },
+                  "@Assembly Variant": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Basic"
+                  },
+                  "Border": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "Title Block Position": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "3"
+                  },
+                  "Size": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "A2"
+                  },
+                  "Width": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 2338
+                  },
+                  "Height": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 1654
+                  },
+                  "Region Start": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "X Region Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 6
+                  },
+                  "Y Region Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 4
+                  },
+                  "Blade Width": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 10
+                  },
+                  "Color": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Title Block": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Description": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Symbol": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Drawing-Symbol_A4"
+                  },
+                  "Device": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Drawing-Symbol_A4"
+                  },
+                  "Convert to PCB": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "yes"
+                  },
+                  "Designator": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Unique ID": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Manufacturer": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Manufacturer Part": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Supplier": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Supplier Part": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Footprint": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Add into BOM": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "yes"
+                  },
+                  "ID": {}
+                }
+              },
+              {
+                "itemType": "Schematic Page",
+                "uuid": "905678d5aaed7ed3",
+                "name": "02_ESP32_C5",
+                "parentSchematicUuid": "5a91bce448072d09",
+                "showTitleBlock": true,
+                "titleBlockData": {
+                  "Company": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "嘉立创EDA"
+                  },
+                  "Drawed": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "Reviewed": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "Version": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "V0.4"
+                  },
+                  "Page Size": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "A2"
+                  },
+                  "@Project Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "DTU-C5-Air780EPT-HW-V0.1-library"
+                  },
+                  "@Update Date": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "2026-10-10"
+                  },
+                  "@Create Date": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "2026-10-10"
+                  },
+                  "Part Number": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "@Board Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Board1"
+                  },
+                  "@Page Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "02_ESP32_C5"
+                  },
+                  "@Create Time": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "10:20:15"
+                  },
+                  "@Page Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 9
+                  },
+                  "@Page No": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 2
+                  },
+                  "@Schematic Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Schematic1"
+                  },
+                  "@Update Time": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "10:20:15"
+                  },
+                  "@Assembly Variant": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Basic"
+                  },
+                  "Border": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "Title Block Position": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "3"
+                  },
+                  "Size": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "A2"
+                  },
+                  "Width": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 2338
+                  },
+                  "Height": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 1654
+                  },
+                  "Region Start": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "X Region Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 6
+                  },
+                  "Y Region Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 4
+                  },
+                  "Blade Width": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 10
+                  },
+                  "Color": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Title Block": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Description": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Symbol": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Drawing-Symbol_A4"
+                  },
+                  "Device": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Drawing-Symbol_A4"
+                  },
+                  "Convert to PCB": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "yes"
+                  },
+                  "Designator": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Unique ID": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Manufacturer": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Manufacturer Part": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Supplier": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Supplier Part": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Footprint": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Add into BOM": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "yes"
+                  },
+                  "ID": {}
+                }
+              },
+              {
+                "itemType": "Schematic Page",
+                "uuid": "a8fcac05b0a49c52",
+                "name": "03_ML307R_DL",
+                "parentSchematicUuid": "5a91bce448072d09",
+                "showTitleBlock": true,
+                "titleBlockData": {}
+              },
+              {
+                "itemType": "Schematic Page",
+                "uuid": "8c8a42c355c95b77",
+                "name": "04_SIM_RF",
+                "parentSchematicUuid": "5a91bce448072d09",
+                "showTitleBlock": true,
+                "titleBlockData": {}
+              },
+              {
+                "itemType": "Schematic Page",
+                "uuid": "31c8ed08a1998d0d",
+                "name": "05_Field_Interfaces",
+                "parentSchematicUuid": "5a91bce448072d09",
+                "showTitleBlock": true,
+                "titleBlockData": {
+                  "Company": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "嘉立创EDA"
+                  },
+                  "Drawed": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "Reviewed": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "Version": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "V0.4"
+                  },
+                  "Page Size": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "A2"
+                  },
+                  "@Project Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "DTU-C5-Air780EPT-HW-V0.1-library"
+                  },
+                  "@Update Date": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "2026-10-13"
+                  },
+                  "@Create Date": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "2026-10-12"
+                  },
+                  "Part Number": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "@Board Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Board1"
+                  },
+                  "@Page Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "05_Field_Interfaces"
+                  },
+                  "@Create Time": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "17:59:14"
+                  },
+                  "@Page Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 9
+                  },
+                  "@Page No": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 5
+                  },
+                  "@Schematic Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Schematic1"
+                  },
+                  "@Update Time": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "10:10:29"
+                  },
+                  "@Assembly Variant": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Basic"
+                  },
+                  "Border": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "Title Block Position": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "3"
+                  },
+                  "Size": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "A2"
+                  },
+                  "Width": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 2338
+                  },
+                  "Height": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 1654
+                  },
+                  "Region Start": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "X Region Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 6
+                  },
+                  "Y Region Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 4
+                  },
+                  "Blade Width": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 10
+                  },
+                  "Color": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Title Block": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Description": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Symbol": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Drawing-Symbol_A4"
+                  },
+                  "Device": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Drawing-Symbol_A4"
+                  },
+                  "Convert to PCB": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "yes"
+                  },
+                  "Designator": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Unique ID": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Manufacturer": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Manufacturer Part": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Supplier": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Supplier Part": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Footprint": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Add into BOM": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "yes"
+                  },
+                  "ID": {}
+                }
+              },
+              {
+                "itemType": "Schematic Page",
+                "uuid": "8902a3019bd8d84c",
+                "name": "06_Receive_Merge",
+                "parentSchematicUuid": "5a91bce448072d09",
+                "showTitleBlock": true,
+                "titleBlockData": {
+                  "Company": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "嘉立创EDA"
+                  },
+                  "Drawed": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "Reviewed": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "Version": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "V0.3"
+                  },
+                  "Page Size": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "A2"
+                  },
+                  "@Project Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "DTU-C5-Air780EPT-HW-V0.1-library"
+                  },
+                  "@Update Date": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "2026-10-12"
+                  },
+                  "@Create Date": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "2026-10-12"
+                  },
+                  "Part Number": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "@Board Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Board1"
+                  },
+                  "@Page Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "06_Receive_Merge"
+                  },
+                  "@Create Time": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "17:56:46"
+                  },
+                  "@Page Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 9
+                  },
+                  "@Page No": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 6
+                  },
+                  "@Schematic Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Schematic1"
+                  },
+                  "@Update Time": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "17:56:46"
+                  },
+                  "@Assembly Variant": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Basic"
+                  },
+                  "Border": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "Title Block Position": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "3"
+                  },
+                  "Size": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "A2"
+                  },
+                  "Width": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 2338
+                  },
+                  "Height": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 1654
+                  },
+                  "Region Start": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "X Region Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 6
+                  },
+                  "Y Region Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 4
+                  },
+                  "Blade Width": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 10
+                  },
+                  "Color": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Title Block": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Description": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Symbol": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "Drawing-Symbol_A4"
+                  },
+                  "Device": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "Drawing-Symbol_A4"
+                  },
+                  "Add into BOM": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "yes"
+                  },
+                  "Convert to PCB": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "yes"
+                  },
+                  "Designator": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Unique ID": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Manufacturer": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Manufacturer Part": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Supplier": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "Supplier Part": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": ""
+                  },
+                  "ID": {}
+                }
+              },
+              {
+                "itemType": "Schematic Page",
+                "uuid": "2eb77bba50a14eab",
+                "name": "07_LTE_Control",
+                "parentSchematicUuid": "5a91bce448072d09",
+                "showTitleBlock": true,
+                "titleBlockData": {}
+              },
+              {
+                "itemType": "Schematic Page",
+                "uuid": "61de9aff546f5073",
+                "name": "08_Power_Rails",
+                "parentSchematicUuid": "5a91bce448072d09",
+                "showTitleBlock": true,
+                "titleBlockData": {}
+              },
+              {
+                "itemType": "Schematic Page",
+                "uuid": "8ecd39430ee2c9d6",
+                "name": "09_LED_Indicators",
+                "parentSchematicUuid": "5a91bce448072d09",
+                "showTitleBlock": true,
+                "titleBlockData": {
+                  "Company": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "嘉立创EDA"
+                  },
+                  "Drawed": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "Reviewed": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "Version": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "V1.0"
+                  },
+                  "Page Size": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "A4"
+                  },
+                  "@Project Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "DTU-C5-Air780EPT-HW-V0.1-library"
+                  },
+                  "@Update Date": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "2026-10-10"
+                  },
+                  "@Create Date": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "2026-10-10"
+                  },
+                  "Part Number": {
+                    "showTitle": false,
+                    "showValue": true,
+                    "value": ""
+                  },
+                  "@Board Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Board1"
+                  },
+                  "@Page Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "09_LED_Indicators"
+                  },
+                  "@Create Time": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "10:48:17"
+                  },
+                  "@Page Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 9
+                  },
+                  "@Page No": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 9
+                  },
+                  "@Schematic Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Schematic1"
+                  },
+                  "@Update Time": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "10:48:17"
+                  },
+                  "@Assembly Variant": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "Basic"
+                  },
+                  "Border": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "Title Block Position": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "3"
+                  },
+                  "Size": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "A4"
+                  },
+                  "Width": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 1170
+                  },
+                  "Height": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 825
+                  },
+                  "Region Start": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "X Region Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 6
+                  },
+                  "Y Region Count": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 4
+                  },
+                  "Blade Width": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": 10
+                  },
+                  "Color": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Title Block": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": "1"
+                  },
+                  "Name": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Description": {
+                    "showTitle": false,
+                    "showValue": false,
+                    "value": ""
+                  },
+                  "Symbol": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "Drawing-Symbol_A4"
+                  },
+                  "Device": {
+                    "showTitle": null,
+                    "showValue": null,
+                    "value": "Drawing-Symbol_A4"
+                  },
+                  "ID": {}
+                }
+              }
+            ],
+            "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc",
+            "parentBoardName": "Board1"
+          },
+          "pcb": {
+            "itemType": "PCB",
+            "name": "PCB1",
+            "uuid": "4211128ecf040c100b33238447713203",
+            "parentBoardName": "Board1",
+            "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc"
+          },
+          "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc"
+        },
+        {
+          "itemType": "Panel",
+          "uuid": "4c25731b94244a33",
+          "name": "Panel1",
+          "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc"
+        }
+      ]
+    },
+    "board": {
+      "pcb": {
+        "itemType": "PCB",
+        "uuid": "4211128ecf040c100b33238447713203",
+        "name": "PCB1",
+        "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc",
+        "parentBoardName": "Board1"
+      },
+      "uuid": "e7a0217c7788eb0d",
+      "name": "Board1",
+      "zIndex": 1,
+      "schematic": {
+        "itemType": "Schematic",
+        "uuid": "5a91bce448072d09",
+        "page": [
+          {
+            "itemType": "Schematic Page",
+            "uuid": "ac9947f0c683b3f5",
+            "name": "01_Power_Protection",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "905678d5aaed7ed3",
+            "name": "02_ESP32_C5",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "a8fcac05b0a49c52",
+            "name": "03_ML307R_DL",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "8c8a42c355c95b77",
+            "name": "04_SIM_RF",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "31c8ed08a1998d0d",
+            "name": "05_Field_Interfaces",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "8902a3019bd8d84c",
+            "name": "06_Receive_Merge",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "2eb77bba50a14eab",
+            "name": "07_LTE_Control",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "61de9aff546f5073",
+            "name": "08_Power_Rails",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "8ecd39430ee2c9d6",
+            "name": "09_LED_Indicators",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          }
+        ],
+        "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc",
+        "parentBoardName": "Board1",
+        "name": "Schematic1"
+      },
+      "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc",
+      "itemType": "Board"
+    },
+    "boards": [
+      {
+        "pcb": {
+          "itemType": "PCB",
+          "uuid": "4211128ecf040c100b33238447713203",
+          "name": "PCB1",
+          "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc",
+          "parentBoardName": "Board1"
+        },
+        "uuid": "e7a0217c7788eb0d",
+        "name": "Board1",
+        "zIndex": 1,
+        "schematic": {
+          "itemType": "Schematic",
+          "uuid": "5a91bce448072d09",
+          "page": [
+            {
+              "itemType": "Schematic Page",
+              "uuid": "ac9947f0c683b3f5",
+              "name": "01_Power_Protection",
+              "parentSchematicUuid": "5a91bce448072d09",
+              "showTitleBlock": true,
+              "titleBlockData": {}
+            },
+            {
+              "itemType": "Schematic Page",
+              "uuid": "905678d5aaed7ed3",
+              "name": "02_ESP32_C5",
+              "parentSchematicUuid": "5a91bce448072d09",
+              "showTitleBlock": true,
+              "titleBlockData": {}
+            },
+            {
+              "itemType": "Schematic Page",
+              "uuid": "a8fcac05b0a49c52",
+              "name": "03_ML307R_DL",
+              "parentSchematicUuid": "5a91bce448072d09",
+              "showTitleBlock": true,
+              "titleBlockData": {}
+            },
+            {
+              "itemType": "Schematic Page",
+              "uuid": "8c8a42c355c95b77",
+              "name": "04_SIM_RF",
+              "parentSchematicUuid": "5a91bce448072d09",
+              "showTitleBlock": true,
+              "titleBlockData": {}
+            },
+            {
+              "itemType": "Schematic Page",
+              "uuid": "31c8ed08a1998d0d",
+              "name": "05_Field_Interfaces",
+              "parentSchematicUuid": "5a91bce448072d09",
+              "showTitleBlock": true,
+              "titleBlockData": {}
+            },
+            {
+              "itemType": "Schematic Page",
+              "uuid": "8902a3019bd8d84c",
+              "name": "06_Receive_Merge",
+              "parentSchematicUuid": "5a91bce448072d09",
+              "showTitleBlock": true,
+              "titleBlockData": {}
+            },
+            {
+              "itemType": "Schematic Page",
+              "uuid": "2eb77bba50a14eab",
+              "name": "07_LTE_Control",
+              "parentSchematicUuid": "5a91bce448072d09",
+              "showTitleBlock": true,
+              "titleBlockData": {}
+            },
+            {
+              "itemType": "Schematic Page",
+              "uuid": "61de9aff546f5073",
+              "name": "08_Power_Rails",
+              "parentSchematicUuid": "5a91bce448072d09",
+              "showTitleBlock": true,
+              "titleBlockData": {}
+            },
+            {
+              "itemType": "Schematic Page",
+              "uuid": "8ecd39430ee2c9d6",
+              "name": "09_LED_Indicators",
+              "parentSchematicUuid": "5a91bce448072d09",
+              "showTitleBlock": true,
+              "titleBlockData": {}
+            }
+          ],
+          "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc",
+          "parentBoardName": "Board1",
+          "name": "Schematic1"
+        },
+        "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc",
+        "itemType": "Board"
+      }
+    ],
+    "document": {
+      "documentType": 3,
+      "uuid": "4211128ecf040c100b33238447713203",
+      "tabId": "4211128ecf040c100b33238447713203@be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc",
+      "parentProjectUuid": "be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc"
+    }
+  },
+  "windowId": "035201c2-5ac3-44f1-be5e-f3d4c319ac71"
+}

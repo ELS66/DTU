@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "reconnected": [
+      "U6",
+      "U7",
+      "U8",
+      "U12"
+    ]
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

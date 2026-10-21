@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "result": {
+    "ids": [
+      {
+        "kind": "via",
+        "id": "ec434142ad3f08e4"
+      },
+      {
+        "kind": "route",
+        "id": "31f7332fd5408eaa"
+      },
+      {
+        "kind": "route",
+        "id": "99f561b39ceda103"
+      },
+      {
+        "kind": "route",
+        "id": "216599423d269dc5"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

@@ -1,0 +1,1 @@
+return {doc:await eda.dmt_SelectControl.getCurrentDocumentInfo(),parts:(await eda.sch_PrimitiveComponent.getAll("part")).map(c=>({ref:c.getState_Designator(),device:c.getState_Component()?.uuid})),wireCount:(await eda.sch_PrimitiveWire.getAll()).length};

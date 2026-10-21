@@ -1,0 +1,2 @@
+from pathlib import Path
+s=Path('PCB/scripts/plan-interface-routing-v11.py').read_text();exec(s[:s.rindex('d=json.loads')]);pt=Point(46.1,18.65);print('gate closest', sorted([(round(pt.distance(t['geom']),3),t['net'],t['layer']) for t in tracks if t['layer'] in [1,2,16]])[:9]);print('LED', sorted([(round(Point(23.9,51.745).distance(t['geom']),3),t['net'],t['layer']) for t in tracks if t['layer']==1])[:6])

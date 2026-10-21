@@ -1,0 +1,1 @@
+return (await eda.sch_PrimitiveComponent.getAll("part")).map(c=>({ref:c.getState_Designator(),component:c.getState_Component(),x:c.getState_X(),y:c.getState_Y(),manufacturer:c.getState_ManufacturerId(),supplier:c.getState_SupplierId()}));

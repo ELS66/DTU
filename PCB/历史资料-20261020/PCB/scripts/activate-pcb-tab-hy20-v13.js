@@ -1,0 +1,1 @@
+return {activated:await eda.dmt_EditorControl.activateDocument('4211128ecf040c100b33238447713203@52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9'),current:await eda.dmt_SelectControl.getCurrentDocumentInfo()};

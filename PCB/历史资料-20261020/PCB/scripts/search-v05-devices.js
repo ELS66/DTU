@@ -1,0 +1,1 @@
+const out={};for(const key of ["SN74LVC2G125DCUR","19-217/R6C-AL1M2VY/3T","19-217/GHC-YR1S2/3T","19-217/BHC-ZL1M2RY/3T"]){out[key]=(await eda.lib_Device.search(key,undefined,undefined,undefined,3,1)).map(x=>({name:x.name,uuid:x.uuid,libraryUuid:x.libraryUuid,supplierId:x.supplierId,footprint:x.footprintName}));}return out;

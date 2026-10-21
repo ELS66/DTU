@@ -1,0 +1,1 @@
+return (await eda.lib_Device.search("0603WAF1502T5E",undefined,undefined,undefined,3,1)).map(z=>({name:z.name,uuid:z.uuid,libraryUuid:z.libraryUuid,supplierId:z.supplierId,footprint:z.footprintName}));

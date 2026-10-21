@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "result": {
+    "state": {
+      "state": "finished"
+    },
+    "lines": 4,
+    "polys": 520,
+    "vias": 231
+  },
+  "windowId": "bff860cc-b4f1-49a6-999b-aa757014f786"
+}

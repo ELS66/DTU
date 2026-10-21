@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "result": {
+    "target": [
+      20.525,
+      24.975
+    ],
+    "routes": [
+      "908a96da759ff361",
+      "7e8c0df6cbcbf349"
+    ],
+    "saved": true
+  },
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

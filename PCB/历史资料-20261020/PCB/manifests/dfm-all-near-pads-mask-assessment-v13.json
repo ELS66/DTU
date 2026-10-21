@@ -1,0 +1,638 @@
+{
+  "scope": "Current NPTHfix actual Gerber, all SDK pad/via pairs with positive copper gaps <0.10mm; not a one-to-one mapping of all seven DFM rows",
+  "nearPairCount": 82,
+  "allNearPairsSameNet": true,
+  "viaCount": 78,
+  "allViaHolesCovered": true,
+  "minimumHoleToMaskOpeningMm": 0.0962726400000001,
+  "vias": [
+    {
+      "via": "bd31757caf9c21db",
+      "net": "SIM_VDD",
+      "x": 20.77500036,
+      "y": 26.274999519999998,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.0962726400000001
+    },
+    {
+      "via": "d8f9caa9fb18f54d",
+      "net": "GND",
+      "x": 48.29999992,
+      "y": 65.85000038,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.11411338000000057
+    },
+    {
+      "via": "74a721a974fa8d8f",
+      "net": "GND",
+      "x": 29.57500054,
+      "y": 13.45000104,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.11549434292844374
+    },
+    {
+      "via": "f458542bc3611304",
+      "net": "LTE_BOOT",
+      "x": 8.35000108,
+      "y": 43.19999996,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.11719795999999288
+    },
+    {
+      "via": "b4dc676947c86711",
+      "net": "GND",
+      "x": 30.97500028,
+      "y": 35.050001019999996,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.11920027999999905
+    },
+    {
+      "via": "f0a81e928a99f001",
+      "net": "GND",
+      "x": 42.07500094,
+      "y": 47.3750005,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.119907500000005
+    },
+    {
+      "via": "43c859396b766b5f",
+      "net": "GND",
+      "x": 40.37499926,
+      "y": 47.3750005,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.119907500000005
+    },
+    {
+      "via": "5a60860386c9a4a1",
+      "net": "GND",
+      "x": 34.74999908,
+      "y": 20.49999964,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1192173600000018
+    },
+    {
+      "via": "a053eda934d00356",
+      "net": "GND",
+      "x": 9.475000099999999,
+      "y": 40.79999968,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.11920009999999834
+    },
+    {
+      "via": "f46478f25cd4abcc",
+      "net": "LED_LTE_R_N",
+      "x": 39.42500116,
+      "y": 60.7249992,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12320719999999738
+    },
+    {
+      "via": "c0ce0e8ad069fb6c",
+      "net": "GND",
+      "x": 16.45000012,
+      "y": 46.14999914,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12418585999999862
+    },
+    {
+      "via": "7279f8bfdf1ba240",
+      "net": "GND",
+      "x": 15.249999979999998,
+      "y": 46.14999914,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12418585999999862
+    },
+    {
+      "via": "da3bacfb17ca2fd0",
+      "net": "GND",
+      "x": 14.049999839999998,
+      "y": 46.14999914,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12418585999999862
+    },
+    {
+      "via": "898ca265f17c52fa",
+      "net": "GND",
+      "x": 12.8499997,
+      "y": 46.14999914,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12418585999999862
+    },
+    {
+      "via": "fd6c2fb7019faf50",
+      "net": "GND",
+      "x": 20.87500016,
+      "y": 43.24999986,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12406413999999585
+    },
+    {
+      "via": "306529af706bc5c3",
+      "net": "GND",
+      "x": 20.174999019999998,
+      "y": 32.22500032,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12418767999999286
+    },
+    {
+      "via": "ba6eb1194b792ca7",
+      "net": "GND",
+      "x": 8.17500016,
+      "y": 32.22500032,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12418767999999289
+    },
+    {
+      "via": "046678d6d116a946",
+      "net": "GND",
+      "x": 30.050000859999997,
+      "y": 40.875000799999995,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12417780000003625
+    },
+    {
+      "via": "3a3289e05ad060d7",
+      "net": "GND",
+      "x": 8.17500016,
+      "y": 19.22500092,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12421308000000195
+    },
+    {
+      "via": "1b5108dd7378941f",
+      "net": "RS485_B_EXT",
+      "x": 37.37500018,
+      "y": 17.12500004,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12418504000000183
+    },
+    {
+      "via": "fa46963b80859e44",
+      "net": "GND",
+      "x": 20.174999019999998,
+      "y": 20.77500036,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12418836000000294
+    },
+    {
+      "via": "fb331bdbbf3ebd23",
+      "net": "GND",
+      "x": 17.82500118,
+      "y": 62.69999906,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12408818000000249
+    },
+    {
+      "via": "a9b9ba87672a2edf",
+      "net": "GND",
+      "x": 29.074999,
+      "y": 23.75000076,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12417600001699017
+    },
+    {
+      "via": "ff492964edf36a17",
+      "net": "GND",
+      "x": 17.42499944,
+      "y": 53.74999918,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12430417999999721
+    },
+    {
+      "via": "39c1a2852aea74a7",
+      "net": "GND",
+      "x": 19.22500092,
+      "y": 53.74999918,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12430417999999721
+    },
+    {
+      "via": "c5b5235b7ff31b5a",
+      "net": "GND",
+      "x": 12.07499998,
+      "y": 58.25000034,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12428766000000166
+    },
+    {
+      "via": "31780437ea8d2598",
+      "net": "GND",
+      "x": 19.77499982,
+      "y": 58.25000034,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12428766000000166
+    },
+    {
+      "via": "9ca3c30c2d0b93b8",
+      "net": "GND",
+      "x": 25.899998999999998,
+      "y": 45.79999984,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12405916000000305
+    },
+    {
+      "via": "c93eb56e5e80efec",
+      "net": "GND",
+      "x": 19.22500092,
+      "y": 50.09999886,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12425413999999932
+    },
+    {
+      "via": "17d4b2ba02bc077b",
+      "net": "GND",
+      "x": 17.42499944,
+      "y": 50.09999886,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12425413999999932
+    },
+    {
+      "via": "49af5a167a1c5462",
+      "net": "GND",
+      "x": 52.80000108,
+      "y": 37.12500068,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12417767999999685
+    },
+    {
+      "via": "49228cec81f7eb66",
+      "net": "GND",
+      "x": 39.899998939999996,
+      "y": 49.15000076,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12717261216813844
+    },
+    {
+      "via": "7f61a3ff2dbee01b",
+      "net": "GND",
+      "x": 43.37500088,
+      "y": 49.62500108,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12793688000000142
+    },
+    {
+      "via": "6085135c819a0a52",
+      "net": "GND",
+      "x": 17.79999996,
+      "y": 62.02499913999999,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12863048060935514
+    },
+    {
+      "via": "16b29bef50314ece",
+      "net": "LTE_USB_VBUS",
+      "x": 20.599999439999998,
+      "y": 57.6999989,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.12873101582887844
+    },
+    {
+      "via": "ae612ad432eb6332",
+      "net": "GND",
+      "x": 42.07500094,
+      "y": 52.62500015999999,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.13005015999999045
+    },
+    {
+      "via": "c8876beeb4e233ac",
+      "net": "GND",
+      "x": 40.37499926,
+      "y": 52.62500015999999,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.13005015999999045
+    },
+    {
+      "via": "591f03eba42af829",
+      "net": "GND",
+      "x": 34.69999918,
+      "y": 31.5000005,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1332375000000013
+    },
+    {
+      "via": "f6e9c43708c21769",
+      "net": "RS485_B",
+      "x": 13.35000124,
+      "y": 16.64999972,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.13498821999999822
+    },
+    {
+      "via": "012e6eca0b6aa2b4",
+      "net": "GND",
+      "x": 50.47499938,
+      "y": 50.09999886,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.13499086000000346
+    },
+    {
+      "via": "3b941d012a229e69",
+      "net": "GND",
+      "x": 50.075000179999996,
+      "y": 59.40000058,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.13996418000000116
+    },
+    {
+      "via": "b4203b25c2e281b8",
+      "net": "LTE_BOOT",
+      "x": 21.25000068,
+      "y": 55.89999996,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14197884856158766
+    },
+    {
+      "via": "c67f4fe96146c1c4",
+      "net": "GND",
+      "x": 46.27500016,
+      "y": 26.37499932,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14836366662423361
+    },
+    {
+      "via": "d0d6d6b8ffb92363",
+      "net": "SIM_VDD",
+      "x": 24.900001,
+      "y": 25.449999899999998,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14259789999999975
+    },
+    {
+      "via": "d38f297a4dec083c",
+      "net": "GND",
+      "x": 12.999999399999998,
+      "y": 19.1999997,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14498819999999812
+    },
+    {
+      "via": "e7f2e9e72f0942da",
+      "net": "FIELD_TX",
+      "x": 18.199999159999997,
+      "y": 19.1999997,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14498819999999812
+    },
+    {
+      "via": "1ad71257f7f70b14",
+      "net": "GND",
+      "x": 50.09999886,
+      "y": 41.65000052,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14489686000000435
+    },
+    {
+      "via": "4c09f9e41cf2a28b",
+      "net": "ESP_STRAP27",
+      "x": 36.800000059999995,
+      "y": 40.89999948,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14795752000000703
+    },
+    {
+      "via": "aaac5bd1b6fbbf4a",
+      "net": "RS485_B",
+      "x": 25.9499989,
+      "y": 15.499999480000001,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14932590000000234
+    },
+    {
+      "via": "5f53d4c41ce544c9",
+      "net": "GND",
+      "x": 12.949999499999999,
+      "y": 54.99999922,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14938750000000098
+    },
+    {
+      "via": "536b4f5e81f6de30",
+      "net": "GND",
+      "x": 12.949999499999999,
+      "y": 48.59999932,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14938750000000098
+    },
+    {
+      "via": "d562ca35ae459883",
+      "net": "GND",
+      "x": 11.05000076,
+      "y": 49.52499874,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14932623999999847
+    },
+    {
+      "via": "d9db561d0c8487e0",
+      "net": "GND",
+      "x": 11.05000076,
+      "y": 50.724998879999994,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14932623999999847
+    },
+    {
+      "via": "f7dcb8349079a6dc",
+      "net": "GND",
+      "x": 11.05000076,
+      "y": 51.92499902,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14932623999999847
+    },
+    {
+      "via": "12531cbad715701e",
+      "net": "VIN_DIODE",
+      "x": 47.199999580000004,
+      "y": 16.549999919999998,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14929791999999653
+    },
+    {
+      "via": "d3b2388593d4b626",
+      "net": "GND",
+      "x": 8.14999894,
+      "y": 50.82500122,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1492070599999998
+    },
+    {
+      "via": "c0299af4fcc5f953",
+      "net": "GND",
+      "x": 8.14999894,
+      "y": 51.92499902,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1492070599999998
+    },
+    {
+      "via": "d34fbe859532576a",
+      "net": "GND",
+      "x": 8.14999894,
+      "y": 55.22500003999999,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1492070599999998
+    },
+    {
+      "via": "fdd329252a28af53",
+      "net": "GND",
+      "x": 8.14999894,
+      "y": 56.32500037999999,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1492070599999998
+    },
+    {
+      "via": "72d09e8995ecd704",
+      "net": "GND",
+      "x": 44.1500006,
+      "y": 19.3499994,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1492016000000028
+    },
+    {
+      "via": "c2e8d37358c542a9",
+      "net": "GND",
+      "x": 22.14999888,
+      "y": 21.150000879999997,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1490871200000022
+    },
+    {
+      "via": "4bf89dbd2cb2b406",
+      "net": "VDD_3V3",
+      "x": 33.80000097999999,
+      "y": 35.500000119999996,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1492018800000011
+    },
+    {
+      "via": "38334f63cac5d625",
+      "net": "GND",
+      "x": 33.00000004,
+      "y": 24.14999996,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14920204000000367
+    },
+    {
+      "via": "ba6ada48dfa2731d",
+      "net": "GND",
+      "x": 35.15000082,
+      "y": 24.000000259999997,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14920174000000727
+    },
+    {
+      "via": "fd302ef1e665d731",
+      "net": "GND",
+      "x": 50.47499938,
+      "y": 46.07500056,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.15000944000000657
+    },
+    {
+      "via": "5e011d935cf9a7a8",
+      "net": "LED_LTE_R_N",
+      "x": 2.10000088,
+      "y": 52.24999964,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14907488000000024
+    },
+    {
+      "via": "16506acbbefc56e8",
+      "net": "GND",
+      "x": 47.04999988,
+      "y": 26.40000054,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14920246000000287
+    },
+    {
+      "via": "25c169ac6ab7e5dd",
+      "net": "GND",
+      "x": 38.1499999,
+      "y": 31.600000299999998,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1492021000000051
+    },
+    {
+      "via": "896a020a9cdc53f4",
+      "net": "GND",
+      "x": 6.6499994,
+      "y": 43.24999986,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14920185999999944
+    },
+    {
+      "via": "3d1c6edadfce6953",
+      "net": "GND",
+      "x": 47.800000919999995,
+      "y": 30.02499964,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1491943600000006
+    },
+    {
+      "via": "62300cd6de97c40e",
+      "net": "GND",
+      "x": 39.25000024,
+      "y": 39.899998939999996,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.14920223999999535
+    },
+    {
+      "via": "b704426fa578cfc7",
+      "net": "GND",
+      "x": 34.6250006,
+      "y": 35.59999992,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.1602053999999967
+    },
+    {
+      "via": "9cbcb8aba783a981",
+      "net": "GND",
+      "x": 39.25000024,
+      "y": 25.549999699999997,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.167198300000004
+    },
+    {
+      "via": "89874552aef43aae",
+      "net": "GND",
+      "x": 44.6499996,
+      "y": 26.350000639999998,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.16719536000000232
+    },
+    {
+      "via": "362c5ee7007d430e",
+      "net": "FIELD_RX",
+      "x": 42.57499994,
+      "y": 40.875000799999995,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.17295620000001008
+    },
+    {
+      "via": "209317caee097b98",
+      "net": "GND",
+      "x": 28.149999580000003,
+      "y": 14.700001079999998,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.21708216868828215
+    },
+    {
+      "via": "ec57077f3dd26cfd",
+      "net": "GND",
+      "x": 31.400000699999996,
+      "y": 14.700001079999998,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.21716035996377195
+    },
+    {
+      "via": "ade7fae35a7f5fcb",
+      "net": "GND",
+      "x": 25.57500092,
+      "y": 38.074998779999994,
+      "holeExposedInTopMask": false,
+      "holeToMaskOpeningMm": 0.17420322000000396
+    }
+  ],
+  "PCBModified": false,
+  "DFMStatus": "工程几何/网络/阻焊核对完成；七项精确定位及厂家接受条件仍待确认",
+  "supersededBy": "dfm-pad-spacing-final-assessment-v13.json; dfm-seven-pad-spacing-locations-v13.json",
+  "DFMExactSevenNotConfirmed": false
+}

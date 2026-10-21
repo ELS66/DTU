@@ -1,0 +1,89 @@
+{
+  "success": true,
+  "result": {
+    "moves": [
+      {
+        "ref": "R51",
+        "x": 29.6,
+        "y": 35,
+        "rotation": 180
+      },
+      {
+        "ref": "R52",
+        "x": 29.6,
+        "y": 33.8,
+        "rotation": 180
+      },
+      {
+        "ref": "R53",
+        "x": 29.8,
+        "y": 32.4,
+        "rotation": 180
+      }
+    ],
+    "ids": [
+      {
+        "kind": "via",
+        "id": "2bb8578a75eb7cd5"
+      },
+      {
+        "kind": "via",
+        "id": "23ea5db6105f7105"
+      },
+      {
+        "kind": "via",
+        "id": "21c5216bf0950626"
+      },
+      {
+        "kind": "via",
+        "id": "fb4940de088ec30b"
+      },
+      {
+        "kind": "via",
+        "id": "2d2eec4ab07c33cb"
+      },
+      {
+        "kind": "route",
+        "id": "af40969d82b40a83"
+      },
+      {
+        "kind": "route",
+        "id": "219e9fa450cf0137"
+      },
+      {
+        "kind": "route",
+        "id": "3ea7512290aa3aed"
+      },
+      {
+        "kind": "route",
+        "id": "51664e3e3f5d2efb"
+      },
+      {
+        "kind": "route",
+        "id": "530316749bb293c9"
+      },
+      {
+        "kind": "route",
+        "id": "bb7d3fa5fb8ec9be"
+      },
+      {
+        "kind": "route",
+        "id": "f735166f62fbd324"
+      },
+      {
+        "kind": "route",
+        "id": "8444bc9ceebc18e9"
+      },
+      {
+        "kind": "route",
+        "id": "105545cdac740388"
+      },
+      {
+        "kind": "route",
+        "id": "94810a8594f2b693"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

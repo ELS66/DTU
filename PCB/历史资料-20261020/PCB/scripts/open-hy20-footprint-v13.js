@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9')throw Error('Wrong project');return await eda.lib_Footprint.openInEditor('80c4e7847cda6643','52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9');

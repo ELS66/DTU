@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "parts": [
+      {
+        "ref": "R121",
+        "id": "c0b6ad24cbc3d5df"
+      },
+      {
+        "ref": "R122",
+        "id": "6fa8648d7e74e321"
+      },
+      {
+        "ref": "R123",
+        "id": "50f08b5b901e774a"
+      },
+      {
+        "ref": "R124",
+        "id": "0d40bbca31710893"
+      },
+      {
+        "ref": "R125",
+        "id": "a84e11b87dcdeb63"
+      },
+      {
+        "ref": "R126",
+        "id": "c48bf01c8c9b52ed"
+      },
+      {
+        "ref": "R127",
+        "id": "4dcd553f072a2fd8"
+      },
+      {
+        "ref": "R128",
+        "id": "ddb4bb99e8db1d87"
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

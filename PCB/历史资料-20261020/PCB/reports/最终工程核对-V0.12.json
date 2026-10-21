@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "projectUuid": "da9775b4e341e163260ddd9bb097311369dc525f008e7fcc093462a87b61a989",
+  "pcbComponents": 159,
+  "pcbPads": 549,
+  "schematicComponents": 159,
+  "schematicPinAssertions": 541,
+  "pcbDrcErrorGroups": 0,
+  "schematicErrorGroups": 0,
+  "schematicAttributeWarnings": 89,
+  "errors": []
+}

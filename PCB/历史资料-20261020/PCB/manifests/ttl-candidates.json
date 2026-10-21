@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "result": [
+    {
+      "uuid": "95961818459b45828ccb2f6dee637e98",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LVC2T45DCTR",
+      "footprint": "SM8_L3.2-W2.9-P0.65-LS4.3-BR",
+      "supplierId": "C22672"
+    },
+    {
+      "uuid": "5c75c471d44a42c18b81c95575085e21",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LVC2T45DCUR",
+      "footprint": "VSSOP-8_L2.4-W2.1-P0.50-LS3.2-BR",
+      "supplierId": "C15741"
+    },
+    {
+      "uuid": "326ac0fb9f7248f2a40eb8f97d41e4ed",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LVC2T45DCURG4",
+      "footprint": "VSSOP-8_L2.3-W2.0-P0.50-LS3.1-BR",
+      "supplierId": "C139382"
+    },
+    {
+      "uuid": "04787fcba47c4a839ab9723003f61807",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LVC2T45DCTTG4",
+      "footprint": "SM8_L3.0-W2.8-P0.65-LS4.0-BL",
+      "supplierId": "C2677512"
+    },
+    {
+      "uuid": "7330c77dfb8d4738a4284e0e187a3d20",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LVC2T45MDCTTEP",
+      "footprint": "SSOP-8_L2.9-W2.8-P0.65-LS4.0-BL",
+      "supplierId": "C465978"
+    },
+    {
+      "uuid": "99504af7f72943d499f737a8900a99c0",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LVC2T45DCUT",
+      "footprint": "VSSOP-8_L2.3-W2.0-P0.50-LS3.1-BL",
+      "supplierId": "C2652942"
+    },
+    {
+      "uuid": "8724092070e84d44afd620365f8282ad",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LVC2T45YZPR",
+      "footprint": "DSBGA-8_L1.9-W0.9-R2-C4-P0.50-BL",
+      "supplierId": "C913828"
+    },
+    {
+      "uuid": "290b2ba20c35482d8520808a4a1d42dc",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LVC2T45DCURE4",
+      "footprint": "VSSOP-8_L2.4-W2.1-P0.50-LS3.2-BL",
+      "supplierId": "C4364196"
+    },
+    {
+      "uuid": "2cc87517dd3b4cc1804f9896b5686343",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LVC2T45DCT(LX)",
+      "footprint": "TSSOP-8_L3.0-W3.0-P0.65-LS4.0-BL",
+      "supplierId": "C45384874"
+    },
+    {
+      "uuid": "9c3d7585110c41269befb381a6499428",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LVC2T45DCTRE4",
+      "footprint": "SM8_L3.0-W2.8-P0.65-LS4.0-BL",
+      "supplierId": "C2677368"
+    }
+  ],
+  "windowId": "7f59f6fe-cee0-4116-a908-2223d15abdac"
+}

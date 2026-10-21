@@ -1,0 +1,65 @@
+{
+  "revision": "V0.14 封装边界与模组净空修正 2026-10-16",
+  "boardMm": [
+    60,
+    75
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 310,
+  "drilledHoles": 326,
+  "pcbDrcIssues": 0,
+  "factoryDfmPassed": false,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261016-before-clearancefix-142049",
+  "projectUuid": "cae49cbee2e4e15477ee461f6b6e97e56688d2157f689bf6aaa50d57c2be2e8d",
+  "pcbUuid": "4211128ecf040c100b33238447713203",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.14-60x75-Clearancefix.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.14-60x75-Clearancefix-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.14-60x75-DFM复查包.zip",
+  "actualCopperManifest": "clearancefix-actual-routing-v14.json",
+  "actualSourceSnapshot": "clearancefix-final-source-v14.json",
+  "files": [
+    {
+      "file": "DTU-V0.14-60x75-Clearancefix.epro2",
+      "bytes": 1253623,
+      "sha256": "8ec84543703988c245a16a6016fb539481995beab98d8792a61f4220435105d5"
+    },
+    {
+      "file": "DTU-V0.14-60x75-Clearancefix-Gerber.zip",
+      "bytes": 268588,
+      "sha256": "dfc1b2c07f1e16c1dc362aea39198897e724d26bc6c08854340939c2c10ecbb4"
+    },
+    {
+      "file": "DTU-V0.14-Clearancefix-BOM-99.csv",
+      "bytes": 3735,
+      "sha256": "c4fd439494df391c8042dc4a40db50a27435549c28092bc80ec0177eaa85272a"
+    },
+    {
+      "file": "DTU-V0.14-Clearancefix-CPL-99-Top.csv",
+      "bytes": 2343,
+      "sha256": "31574f15d74a1d1a54a2690feefde08f934454f7bfaf89d4672b1d470842205a"
+    },
+    {
+      "file": "DTU-V0.14-Clearancefix-README.md",
+      "bytes": 1718,
+      "sha256": "764144a3c9ece463e96ab4c98bceaf4de136e51380ecadc803e596a3f3f7069b"
+    },
+    {
+      "file": "V0.14-封装边界与模组净空修正记录.md",
+      "bytes": 4111,
+      "sha256": "8a7c6885b61bbc9e8715162b450dcff06cc45360851e723eaba3bc0cf44e9fbc"
+    },
+    {
+      "file": "DTU-V0.14-Clearancefix-preview.png",
+      "bytes": 73158,
+      "sha256": "72554e27b7a869af4ab3a428c030a24395d3964b13df088b169d3c0db3166215"
+    },
+    {
+      "file": "DTU-V0.14-Clearancefix-ML307-detail.png",
+      "bytes": 36841,
+      "sha256": "599afae0e46b3ab74ba7bf804ad0a17580d7210077623a8ea81bd9d1dcfe178f"
+    }
+  ]
+}

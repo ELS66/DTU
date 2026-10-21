@@ -1,0 +1,1 @@
+return {project:await eda.dmt_Project.getCurrentProjectInfo(),board:await eda.dmt_Board.getCurrentBoardInfo(),boards:await eda.dmt_Board.getAllBoardsInfo(),document:await eda.dmt_SelectControl.getCurrentDocumentInfo()};

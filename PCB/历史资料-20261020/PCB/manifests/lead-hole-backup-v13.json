@@ -1,0 +1,25 @@
+{
+  "directory": "D:\\DTU\\PCB\\backups\\20261016-before-lead-hole-fix-100627",
+  "files": [
+    {
+      "name": "DTU-V0.13-60x70-Silkholefix.epro2",
+      "sha256": "5dff9e254b01e5061a816061a4f40224dc507f6795bf1b03aad252e48d407ca0"
+    },
+    {
+      "name": "DTU-V0.13-60x70-Silkholefix-Gerber.zip",
+      "sha256": "2aa60884275926a17d175d69be6da640a7da4c566d37a9990cdfcd6a82d7a033"
+    },
+    {
+      "name": "DTU-V0.13-60x70-\u4e1d\u5370\u907f\u5b54\u4fee\u6b63\u590d\u67e5\u5305.zip",
+      "sha256": "4d2ad0a2ce5e4f0d595ff451bf331cd78a1349b33e01571463e35f395ce1b5b9"
+    },
+    {
+      "name": "current-pcb-delivery-v13.json",
+      "sha256": "e395e0d651586ffa8806c110aee208a8601028ed7b192fd62eba504238ecdd65"
+    },
+    {
+      "name": "lead-hole-before-source-v13.json",
+      "sha256": "88d2b2db75cc9f70c40da683ebd9b30472787e13ad9b3dcff5179cc0e962f0db"
+    }
+  ]
+}

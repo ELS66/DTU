@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "result": {
+    "jobs": [
+      {
+        "key": "DTU_V04_ROUTING_JOB_20261010",
+        "data": {
+          "status": "done",
+          "saved": true,
+          "finishedAt": 1791597366552
+        }
+      },
+      {
+        "key": "DTU_V04_SMALL_ROUTING_20261010_01",
+        "data": {
+          "status": "returned",
+          "nets": [
+            "232_C1N",
+            "232_C1P",
+            "232_C2N",
+            "232_C2P"
+          ],
+          "result": {
+            "success": true,
+            "totalNetsCount": 4,
+            "successNetsCount": 4,
+            "failedNets": [],
+            "duration": 32639
+          },
+          "saved": true,
+          "before": {
+            "lines": 53,
+            "vias": 4
+          },
+          "after": {
+            "lines": 97,
+            "vias": 8
+          },
+          "finishedAt": 1791597641174
+        }
+      }
+    ],
+    "pours": 0
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

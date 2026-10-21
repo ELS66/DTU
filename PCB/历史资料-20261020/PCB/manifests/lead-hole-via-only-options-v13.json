@@ -1,0 +1,55 @@
+{
+  "bd31757caf9c21db": {
+    "ref": "J4",
+    "old": {
+      "id": "bd31757caf9c21db",
+      "net": "SIM_VDD",
+      "x": 20.77500036,
+      "y": 26.274999519999998,
+      "diameter": 0.4499991,
+      "hole": 0.19999959999999997
+    },
+    "candidates": [
+      {
+        "x": 19.475,
+        "y": 26.575,
+        "distance": 1.334166865126082,
+        "leadHoleGapMm": 1.3284998141849924,
+        "annulusMaskGapMm": 1.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.475,
+        "y": 26.675,
+        "distance": 1.3601475361152402,
+        "leadHoleGapMm": 1.338968620619143,
+        "annulusMaskGapMm": 1.2715200527813129,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 26.575,
+        "distance": 1.4317825589105213,
+        "leadHoleGapMm": 1.428270085791959,
+        "annulusMaskGapMm": 1.3712729999999989,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 26.675,
+        "distance": 1.456022455870912,
+        "leadHoleGapMm": 1.4380599556345528,
+        "annulusMaskGapMm": 1.371502039599284,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 26.775,
+        "distance": 1.4866073752004463,
+        "leadHoleGapMm": 1.4542353100887144,
+        "annulusMaskGapMm": 1.3760972716370345,
+        "routes": []
+      }
+    ]
+  }
+}

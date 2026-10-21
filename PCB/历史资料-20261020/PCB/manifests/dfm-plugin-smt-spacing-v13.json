@@ -1,0 +1,444 @@
+{
+  "PCBModified": false,
+  "factoryDfmPassed": false,
+  "source": "smt-fixed-pcb-pads-v13.json; NPTHfix BOM/CPL; 用户截图及 DFM 界面说明",
+  "dangerCount": 21,
+  "warningCount": 22,
+  "minimumCopperPadGapMm": 0.7137037132590309,
+  "allPluginPadsAreJ6J7": true,
+  "J6J7AbsentFromDefaultBOMandCPL": true,
+  "decision": "默认裸孔、不装排针、不安排插件焊接，此项焊接治具间距规则不适用；保留记录。",
+  "fixtureAccess": "下载探针及定位治具未定型，仍需按实际针头和定位结构验证，不能以本项判定治具已通过。",
+  "pairs": [
+    {
+      "download": "J7",
+      "pin": "2",
+      "smt": "D20",
+      "smtPin": "2",
+      "gapMm": 0.7137037132590309,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee14",
+      "smtPadId": "8d11093f0f9b4ba7e7"
+    },
+    {
+      "download": "J6",
+      "pin": "2",
+      "smt": "D18",
+      "smtPin": "2",
+      "gapMm": 0.7150095342292806,
+      "severity": "危险",
+      "downloadPadId": "26da766d1d68cdf7e14",
+      "smtPadId": "b004cb7b8e510104e7"
+    },
+    {
+      "download": "J6",
+      "pin": "3",
+      "smt": "D18",
+      "smtPin": "1",
+      "gapMm": 0.7450434165450416,
+      "severity": "危险",
+      "downloadPadId": "26da766d1d68cdf7e15",
+      "smtPadId": "b004cb7b8e510104e6"
+    },
+    {
+      "download": "J7",
+      "pin": "3",
+      "smt": "D20",
+      "smtPin": "1",
+      "gapMm": 0.745043416545045,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee15",
+      "smtPadId": "8d11093f0f9b4ba7e6"
+    },
+    {
+      "download": "J7",
+      "pin": "1",
+      "smt": "J5",
+      "smtPin": "1",
+      "gapMm": 0.9004299999999857,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee13",
+      "smtPadId": "1faae971bef4c421e8"
+    },
+    {
+      "download": "J6",
+      "pin": "5",
+      "smt": "C11",
+      "smtPin": "2",
+      "gapMm": 0.9080499999999957,
+      "severity": "危险",
+      "downloadPadId": "26da766d1d68cdf7e17",
+      "smtPadId": "d0cb07fce59c6246e7"
+    },
+    {
+      "download": "J7",
+      "pin": "2",
+      "smt": "D20",
+      "smtPin": "1",
+      "gapMm": 1.1609541422572949,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee14",
+      "smtPadId": "8d11093f0f9b4ba7e6"
+    },
+    {
+      "download": "J6",
+      "pin": "2",
+      "smt": "D18",
+      "smtPin": "1",
+      "gapMm": 1.1609541422572975,
+      "severity": "危险",
+      "downloadPadId": "26da766d1d68cdf7e14",
+      "smtPadId": "b004cb7b8e510104e6"
+    },
+    {
+      "download": "J6",
+      "pin": "3",
+      "smt": "D18",
+      "smtPin": "2",
+      "gapMm": 1.2042405070005342,
+      "severity": "危险",
+      "downloadPadId": "26da766d1d68cdf7e15",
+      "smtPadId": "b004cb7b8e510104e7"
+    },
+    {
+      "download": "J7",
+      "pin": "3",
+      "smt": "D20",
+      "smtPin": "2",
+      "gapMm": 1.2061225670606934,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee15",
+      "smtPadId": "8d11093f0f9b4ba7e7"
+    },
+    {
+      "download": "J7",
+      "pin": "3",
+      "smt": "R61",
+      "smtPin": "2",
+      "gapMm": 1.4922499999999843,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee15",
+      "smtPadId": "7636ef9605cc8c9de7"
+    },
+    {
+      "download": "J6",
+      "pin": "1",
+      "smt": "R16",
+      "smtPin": "2",
+      "gapMm": 1.4988937932355155,
+      "severity": "危险",
+      "downloadPadId": "26da766d1d68cdf7e13",
+      "smtPadId": "ea7b8a199ce9bf51e7"
+    },
+    {
+      "download": "J7",
+      "pin": "4",
+      "smt": "R60",
+      "smtPin": "2",
+      "gapMm": 1.5133949411249383,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee16",
+      "smtPadId": "9289d95602590998e7"
+    },
+    {
+      "download": "J6",
+      "pin": "5",
+      "smt": "C10",
+      "smtPin": "2",
+      "gapMm": 1.5493999999999841,
+      "severity": "危险",
+      "downloadPadId": "26da766d1d68cdf7e17",
+      "smtPadId": "ecb9ec8cb3c3e406e14"
+    },
+    {
+      "download": "J6",
+      "pin": "2",
+      "smt": "D18",
+      "smtPin": "3",
+      "gapMm": 1.7623827476227698,
+      "severity": "危险",
+      "downloadPadId": "26da766d1d68cdf7e14",
+      "smtPadId": "b004cb7b8e510104e8"
+    },
+    {
+      "download": "J7",
+      "pin": "2",
+      "smt": "D20",
+      "smtPin": "3",
+      "gapMm": 1.7623827476227698,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee14",
+      "smtPadId": "8d11093f0f9b4ba7e8"
+    },
+    {
+      "download": "J6",
+      "pin": "3",
+      "smt": "D18",
+      "smtPin": "3",
+      "gapMm": 1.7888650115381153,
+      "severity": "危险",
+      "downloadPadId": "26da766d1d68cdf7e15",
+      "smtPadId": "b004cb7b8e510104e8"
+    },
+    {
+      "download": "J7",
+      "pin": "3",
+      "smt": "D20",
+      "smtPin": "3",
+      "gapMm": 1.7888650115381153,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee15",
+      "smtPadId": "8d11093f0f9b4ba7e8"
+    },
+    {
+      "download": "J7",
+      "pin": "1",
+      "smt": "D10",
+      "smtPin": "2",
+      "gapMm": 1.7995899999999878,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee13",
+      "smtPadId": "437ee3b0ea55cd34e15"
+    },
+    {
+      "download": "J7",
+      "pin": "1",
+      "smt": "D10",
+      "smtPin": "1",
+      "gapMm": 1.7995899999999878,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee13",
+      "smtPadId": "437ee3b0ea55cd34e16"
+    },
+    {
+      "download": "J7",
+      "pin": "3",
+      "smt": "R60",
+      "smtPin": "2",
+      "gapMm": 1.8626225757267536,
+      "severity": "危险",
+      "downloadPadId": "5e4753f0146b59fee15",
+      "smtPadId": "9289d95602590998e7"
+    },
+    {
+      "download": "J6",
+      "pin": "1",
+      "smt": "R15",
+      "smtPin": "2",
+      "gapMm": 2.0536909220717585,
+      "severity": "警告",
+      "downloadPadId": "26da766d1d68cdf7e13",
+      "smtPadId": "2f926ebc32a94228e7"
+    },
+    {
+      "download": "J7",
+      "pin": "4",
+      "smt": "R61",
+      "smtPin": "2",
+      "gapMm": 2.079457823888538,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee16",
+      "smtPadId": "7636ef9605cc8c9de7"
+    },
+    {
+      "download": "J7",
+      "pin": "2",
+      "smt": "D10",
+      "smtPin": "2",
+      "gapMm": 2.2001587899454984,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee14",
+      "smtPadId": "437ee3b0ea55cd34e15"
+    },
+    {
+      "download": "J7",
+      "pin": "1",
+      "smt": "D20",
+      "smtPin": "2",
+      "gapMm": 2.5287843153776466,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee13",
+      "smtPadId": "8d11093f0f9b4ba7e7"
+    },
+    {
+      "download": "J6",
+      "pin": "1",
+      "smt": "D18",
+      "smtPin": "2",
+      "gapMm": 2.5312744000799268,
+      "severity": "警告",
+      "downloadPadId": "26da766d1d68cdf7e13",
+      "smtPadId": "b004cb7b8e510104e7"
+    },
+    {
+      "download": "J7",
+      "pin": "2",
+      "smt": "R61",
+      "smtPin": "2",
+      "gapMm": 2.546247529904173,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee14",
+      "smtPadId": "7636ef9605cc8c9de7"
+    },
+    {
+      "download": "J7",
+      "pin": "2",
+      "smt": "D10",
+      "smtPin": "1",
+      "gapMm": 2.601089213403147,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee14",
+      "smtPadId": "437ee3b0ea55cd34e16"
+    },
+    {
+      "download": "J6",
+      "pin": "4",
+      "smt": "C10",
+      "smtPin": "2",
+      "gapMm": 2.6242524120406894,
+      "severity": "警告",
+      "downloadPadId": "26da766d1d68cdf7e16",
+      "smtPadId": "ecb9ec8cb3c3e406e14"
+    },
+    {
+      "download": "J6",
+      "pin": "5",
+      "smt": "C11",
+      "smtPin": "1",
+      "gapMm": 2.7122048502723115,
+      "severity": "警告",
+      "downloadPadId": "26da766d1d68cdf7e17",
+      "smtPadId": "d0cb07fce59c6246e8"
+    },
+    {
+      "download": "J7",
+      "pin": "4",
+      "smt": "D20",
+      "smtPin": "1",
+      "gapMm": 2.7985864649085963,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee16",
+      "smtPadId": "8d11093f0f9b4ba7e6"
+    },
+    {
+      "download": "J6",
+      "pin": "4",
+      "smt": "D18",
+      "smtPin": "1",
+      "gapMm": 2.7985864649085994,
+      "severity": "警告",
+      "downloadPadId": "26da766d1d68cdf7e16",
+      "smtPadId": "b004cb7b8e510104e6"
+    },
+    {
+      "download": "J7",
+      "pin": "1",
+      "smt": "J5",
+      "smtPin": "3",
+      "gapMm": 2.817306869423344,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee13",
+      "smtPadId": "1faae971bef4c421e6"
+    },
+    {
+      "download": "J7",
+      "pin": "5",
+      "smt": "R60",
+      "smtPin": "2",
+      "gapMm": 2.839030950224466,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee17",
+      "smtPadId": "9289d95602590998e7"
+    },
+    {
+      "download": "J7",
+      "pin": "2",
+      "smt": "J5",
+      "smtPin": "1",
+      "gapMm": 2.8504929535786805,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee14",
+      "smtPadId": "1faae971bef4c421e8"
+    },
+    {
+      "download": "J6",
+      "pin": "5",
+      "smt": "C10",
+      "smtPin": "1",
+      "gapMm": 2.9489399999999866,
+      "severity": "警告",
+      "downloadPadId": "26da766d1d68cdf7e17",
+      "smtPadId": "ecb9ec8cb3c3e406e15"
+    },
+    {
+      "download": "J7",
+      "pin": "1",
+      "smt": "C51",
+      "smtPin": "1",
+      "gapMm": 2.9502099999999842,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee13",
+      "smtPadId": "6f8707af6723ff10e15"
+    },
+    {
+      "download": "J7",
+      "pin": "1",
+      "smt": "C51",
+      "smtPin": "2",
+      "gapMm": 2.9557167590450724,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee13",
+      "smtPadId": "6f8707af6723ff10e14"
+    },
+    {
+      "download": "J7",
+      "pin": "3",
+      "smt": "R61",
+      "smtPin": "1",
+      "gapMm": 2.9984699999999833,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee15",
+      "smtPadId": "7636ef9605cc8c9de8"
+    },
+    {
+      "download": "J6",
+      "pin": "1",
+      "smt": "R16",
+      "smtPin": "1",
+      "gapMm": 3.001781951075044,
+      "severity": "警告",
+      "downloadPadId": "26da766d1d68cdf7e13",
+      "smtPadId": "ea7b8a199ce9bf51e8"
+    },
+    {
+      "download": "J7",
+      "pin": "4",
+      "smt": "R60",
+      "smtPin": "1",
+      "gapMm": 3.0110998145071743,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee16",
+      "smtPadId": "9289d95602590998e8"
+    },
+    {
+      "download": "J7",
+      "pin": "1",
+      "smt": "J5",
+      "smtPin": "2",
+      "gapMm": 3.0125612686383465,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee13",
+      "smtPadId": "1faae971bef4c421e7"
+    },
+    {
+      "download": "J7",
+      "pin": "2",
+      "smt": "C51",
+      "smtPin": "2",
+      "gapMm": 3.016033681691772,
+      "severity": "警告",
+      "downloadPadId": "5e4753f0146b59fee14",
+      "smtPadId": "6f8707af6723ff10e14"
+    }
+  ]
+}

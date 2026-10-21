@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=="de280d363d1bdc6eb48b4e11624beec0d326c823aa88a60393f490d052ff1c05")throw Error('Wrong V13 project');if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='4211128ecf040c100b33238447713203')throw Error('Wrong PCB');return {source:await eda.sys_FileManager.getDocumentSource()};

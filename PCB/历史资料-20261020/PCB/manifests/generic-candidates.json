@@ -1,0 +1,448 @@
+{
+  "success": true,
+  "result": {
+    "R0603": [
+      {
+        "uuid": "83dd08d617b848c48ab33d8485d6f27e",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "R0603",
+        "footprint": "SOD-523_L1.2-W0.8-LS1.6-BI",
+        "supplierId": "C9900026936",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "b2dbcdc452c5435aab29dc245604069c",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "RM1608KB270FT",
+        "footprint": "R0603",
+        "supplierId": "C9900083346",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "febaa6c9057c4aa7a6366f1ce80004e5",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "RM1608KB602FT",
+        "footprint": "R0603",
+        "supplierId": "C9900083343",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "43fa2004d7374c68a33c84bc2b24ae70",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "RM1608KB403FT",
+        "footprint": "R0603",
+        "supplierId": "C9900083351",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "3132d7838e6146adaebc7ad331918adc",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "232R 1%",
+        "footprint": "R0603",
+        "supplierId": "C9900014604",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "8d355cc13c9d4942af76dc3e11293171",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "8K1%-R0603",
+        "footprint": "R0603",
+        "supplierId": "C9900012436",
+        "manufacturer": ""
+      }
+    ],
+    "C0603": [
+      {
+        "uuid": "47dd7442d18647de85713773c85bfe56",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "C0603",
+        "footprint": "C0603",
+        "supplierId": "C9900029884",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "42ac654600154c4590ba399a5854c2de",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CC41-0603-CG-50V-68pF-J(N)",
+        "footprint": "C0603",
+        "supplierId": "C9900007286",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "8ca94746fe1f46fab373cf39042581f4",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CT41G-0603-2X1-25V-1uF-K(N)",
+        "footprint": "C0603",
+        "supplierId": "C9900007299",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "ee37afb461f6427ba21e3dde08e3ef8c",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "1300pF",
+        "footprint": "C0603",
+        "supplierId": "C9900013393",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "588b36e86f5c4bf0a4c2d34de161d622",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CC0603KRX7R9BB226",
+        "footprint": "C0603",
+        "supplierId": "C9900009789",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "356a0a96e6dc4819a173229d47ea20df",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "1608[0603]_C9900009737",
+        "footprint": "C0603",
+        "supplierId": "C9900009737",
+        "manufacturer": ""
+      }
+    ],
+    "C0805": [
+      {
+        "uuid": "88df566d9d3f4b588757482887bd6ac8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "DLC10P-C0805",
+        "footprint": "C0805",
+        "supplierId": "C9900002367",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "1703bdc68c184fcdbe7ee60d8bac4c14",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CL21A106KAYNNNE_C9900069401",
+        "footprint": "C0805",
+        "supplierId": "C9900069401",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "4f9e0f4450f944879787eb8431887b3e",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "0.5pF-C0805",
+        "footprint": "C0805",
+        "supplierId": "C9900009443",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "5ea12632d1ad4823b30cf8320c7f4589",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "0.1uF/100V_C9900010259",
+        "footprint": "C0805",
+        "supplierId": "C9900010259",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "2524d10d4a96438891b61f1b208d385f",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "D22031000018-0805C",
+        "footprint": "C0805",
+        "supplierId": "C9900010724",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "f119925573da4a728e6bf6d65ba5dbe7",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "10uF_C9900008594",
+        "footprint": "C0805",
+        "supplierId": "C9900008594",
+        "manufacturer": ""
+      }
+    ],
+    "C1206": [
+      {
+        "uuid": "fbd2246bbf844aa6a3d7cd681555feae",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "C1206",
+        "footprint": "C1206",
+        "supplierId": "C9900018280",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "ae265e612c5940b1aa66041d28a9a293",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "1206 47uF 50V 20%",
+        "footprint": "C1206",
+        "supplierId": "C9900002958",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "644b2251e8654fe6b0152f054be58bb8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "220UF-1206",
+        "footprint": "C1206",
+        "supplierId": "C9900012040",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "f6b28390943f497296db13bbd754bdf5",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "24PF50V10%",
+        "footprint": "C1206",
+        "supplierId": "C9900013256",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "0b5efde906b944cc948cdef56e155e50",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "47uF/10V_C9900008467",
+        "footprint": "C1206",
+        "supplierId": "C9900008467",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "bb3916a2b6214d309ed96b741ecd245e",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "47uF/50V/20%-1206",
+        "footprint": "C1206",
+        "supplierId": "C9900004410",
+        "manufacturer": ""
+      }
+    ],
+    "L0805": [
+      {
+        "uuid": "5dff5eca596a469ea050df96b6c2ff1f",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "L0805",
+        "footprint": "L0805",
+        "supplierId": "C2908142",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "709676cfb39441a3b446ee9f2040cfe9",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "HH-1M1608-121JT",
+        "footprint": "L0805",
+        "supplierId": "C9900005313",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "a7e5c70388ae455a942c90db0255de53",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MGLB2012_220T_LF",
+        "footprint": "L0805",
+        "supplierId": "C9900002715",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "80fbec1bbd93467da2976cb79ea397ac",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "贴片电感300R/100M",
+        "footprint": "L0805",
+        "supplierId": "C9900009342",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "a192f335b2d649519288127b05d6afff",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "120ohm@100MHz/4A",
+        "footprint": "L0805",
+        "supplierId": "C9900011161",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "0afcd4e61aff41eface63dfd5fb3118f",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "220R/100MHZ",
+        "footprint": "L0805",
+        "supplierId": "C9900023870",
+        "manufacturer": ""
+      }
+    ],
+    "NR5040T6R8M": [
+      {
+        "uuid": "b4aa835b0ecf493e9b2e18a657801511",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "NR5040T6R8M",
+        "footprint": "IND-SMD_L4.9-W4.9_NRS50XX",
+        "supplierId": "C223065",
+        "manufacturer": "TAIYO YUDEN(太诱)"
+      }
+    ],
+    "NR5040T3R3N": [],
+    "SWPA4020S3R3MT": [
+      {
+        "uuid": "7bb3ec9dc0d84756b908526662a240b3",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SWPA4020S3R3MT",
+        "footprint": "IND-SMD_L4.0-W4.0_SLW4010S",
+        "supplierId": "C83424",
+        "manufacturer": "Sunlord(顺络)"
+      },
+      {
+        "uuid": "af95f376ea02467fbb1fc2ff366fbb0e",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "APSWPA4020S3R3MTF",
+        "footprint": "IND-SMD_L4.0-W4.0_APSWPA4020",
+        "supplierId": "C5363831",
+        "manufacturer": "APV(爱普微)"
+      }
+    ],
+    "TCJB227M006R0070": [],
+    "PESD5V0U1UL": [
+      {
+        "uuid": "b2bd3dcb86d14c9c99d2f9a75ba77a71",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD5V0U1UL,315",
+        "footprint": "SOD-882_L1.0-W0.6-RD",
+        "supplierId": "C85401",
+        "manufacturer": "Nexperia(安世)"
+      }
+    ],
+    "SIM-115C": [
+      {
+        "uuid": "4a8f7478e4024426b77774d7551066a1",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SIM-115C",
+        "footprint": "SIM-SMD_SIM-115C-1",
+        "supplierId": "C9900017356",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "7e5f15e764274f9db37650e145a1ac16",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SIM-115C_C266628",
+        "footprint": "SIM-SMD_SIM-115C",
+        "supplierId": "C266628",
+        "manufacturer": "XUNPU(讯普)"
+      },
+      {
+        "uuid": "f2090ea658364c17bc2a4a752235af60",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SIM-131-ARP8",
+        "footprint": "SIM-SMD_SIM-131-ARP8",
+        "supplierId": "C5174698",
+        "manufacturer": "XUNPU(讯普)"
+      },
+      {
+        "uuid": "9a8849fd859d490696b5d1450ef16dec",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "5145300-1",
+        "footprint": "SD-SMD_5145300-3",
+        "supplierId": "C17261546",
+        "manufacturer": "TE Connectivity(泰科电子)"
+      },
+      {
+        "uuid": "867a380c5850461abfd5a656dd1cf5da",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "BX-SMN-1.35HJ-C",
+        "footprint": "SIM-SMD_BX-SMN-1.35HJ-C",
+        "supplierId": "C18077636",
+        "manufacturer": "Bossie(博锡)"
+      },
+      {
+        "uuid": "d40f6d14cadf406da81621d0054570fb",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "K-DYX-003",
+        "footprint": "SIM-SMD_HDGC_K-DYX-003",
+        "supplierId": "C2919610",
+        "manufacturer": "HDGC(华德共创)"
+      }
+    ],
+    "MMBT3904LT1G": [
+      {
+        "uuid": "564cadce804e4fdcb009ae93bf75eeb3",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MMBT3904LT1G",
+        "footprint": "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+        "supplierId": "C81464",
+        "manufacturer": "onsemi(安森美)"
+      },
+      {
+        "uuid": "9f77b4d4b28948fd86049709a2aa3971",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MMBT3904LT1G-CN",
+        "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+        "supplierId": "C42379421",
+        "manufacturer": "ChipNobo(无边界)"
+      },
+      {
+        "uuid": "d289cb8d91904581ac1cbcc0db2e32b6",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMMBT3904LT1G",
+        "footprint": "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR",
+        "supplierId": "C84555",
+        "manufacturer": "onsemi(安森美)"
+      },
+      {
+        "uuid": "ea4e56f3877840e3844a8e911fb84a3a",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MMBT3904LT1G_C7422625",
+        "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+        "supplierId": "C7422625",
+        "manufacturer": "FUXINSEMI(富芯森美)"
+      },
+      {
+        "uuid": "5089e55d3eaf4c079a97936aeb24f101",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMMBT3904LT1G-HXY",
+        "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+        "supplierId": "C46682377",
+        "manufacturer": "HXY MOSFET(华轩阳电子)"
+      }
+    ],
+    "C111196": [
+      {
+        "uuid": "f00bcc8ebfab48e1bb79736de2b1fb07",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "TF-15x15",
+        "footprint": "TF-SMD_TF-15-15",
+        "supplierId": "C111196",
+        "manufacturer": "SOFNG(硕方)"
+      }
+    ],
+    "SS14": [
+      {
+        "uuid": "f58a4ed1d9384a5e9b1116a73041b48b",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SS14_C9900013398",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.6-RD-1",
+        "supplierId": "C9900013398",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "bab419bfe9f3486eb2a0b93b3e43a098",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMB/DO-214AA",
+        "footprint": "SMA_L4.3-W2.7-LS5.1-RD",
+        "supplierId": "C9900011811",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "ba4f3099ffb34c4ea5d40f3459eb21bb",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SS14_C9900014631",
+        "footprint": "SMA_L4.3-W2.5-LS5.0-FD",
+        "supplierId": "C9900014631",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "573dbc1c89204bb4a69bdba708192c88",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SS14",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.5-RD",
+        "supplierId": "C9900017063",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "63eef0ed98314333aeb9edd07470c75d",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "TW-07-02-S-S-145-075",
+        "footprint": "HDR-TH_TW-07-02-S-S-145-075",
+        "supplierId": "C7087717",
+        "manufacturer": "SAMTEC"
+      },
+      {
+        "uuid": "b1ddf04bb1614b25b762adb9fc30d3ad",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SS14D07L2B",
+        "footprint": "SW-TH_SS-14D07-X-X",
+        "supplierId": "C480354",
+        "manufacturer": "XKB Connection(中国星坤)"
+      }
+    ]
+  },
+  "windowId": "7f59f6fe-cee0-4116-a908-2223d15abdac"
+}

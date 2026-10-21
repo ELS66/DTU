@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "created": [
+      {
+        "ref": "U1",
+        "pin": "23",
+        "net": "FIELD_RX",
+        "id": "eae99e252882267f"
+      },
+      {
+        "ref": "U1",
+        "pin": "21",
+        "net": "FIELD_TX",
+        "id": "f10a0a63e2d5cb05"
+      },
+      {
+        "ref": "U1",
+        "pin": "5",
+        "net": "MCU_485_DE",
+        "id": "fcfa6e79abdbf6e1"
+      },
+      {
+        "ref": "U1",
+        "pin": "4",
+        "net": "MCU_IF_ENABLE",
+        "id": "7ec613a23e5f7cec"
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

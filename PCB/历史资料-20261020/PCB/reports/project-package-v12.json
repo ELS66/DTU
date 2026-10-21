@@ -1,0 +1,17 @@
+{
+  "title": "DTU-V0.12-ML307R-DL-60x70",
+  "changes": {
+    "documentTitles": 3,
+    "version": 1
+  },
+  "epro2Sha256": "59e28fc9ccafffb4f158dee9951a4767630ca8bdd8e7bdc24a302e92391235b3",
+  "cplAllCount": 159,
+  "cplAssemblyCount": 154,
+  "excludedAssembly": [
+    "C50",
+    "C51",
+    "J6",
+    "J7",
+    "R32"
+  ]
+}

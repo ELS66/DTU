@@ -1,0 +1,74 @@
+{
+  "changedSourceRecords": [
+    [
+      "POLY",
+      "30b7e9410712e557"
+    ],
+    [
+      "VIA",
+      "6085135c819a0a52"
+    ],
+    [
+      "VIA",
+      "49228cec81f7eb66"
+    ],
+    [
+      "POLY",
+      "9aeb8ccf2e6c6957"
+    ]
+  ],
+  "reopenedSourceVerified": true,
+  "componentPlacementsAndPadDefinitionsUnchanged": true,
+  "vias": 306,
+  "drills": 322,
+  "routes": 509,
+  "movedVias": [
+    {
+      "id": "49228cec81f7eb66",
+      "net": "GND",
+      "x": 40.749999779999996,
+      "y": 46.90000018,
+      "diameter": 0.4499991,
+      "hole": 0.19999959999999997,
+      "copperToAllMaskOpeningsMm": 0.46990827000000474,
+      "holeToAllMaskOpeningsMm": 0.5949080200000045
+    },
+    {
+      "id": "6085135c819a0a52",
+      "net": "GND",
+      "x": 18.099999359999998,
+      "y": 62.249999960000004,
+      "diameter": 0.4499991,
+      "hole": 0.19999959999999997,
+      "copperToAllMaskOpeningsMm": 0.27408681,
+      "holeToAllMaskOpeningsMm": 0.3990865599999998
+    }
+  ],
+  "minimumDrillWallGapMm": 0.32737368156270225,
+  "modifiedCopperMinimumClearanceMm": 0.25790517010168734,
+  "U1AllNineGroundPadsReachVias": true,
+  "R36R100MaskBridgeMm": 0.1797939999999869,
+  "removedMountPlaceholders": 16,
+  "removedNumericalMaskResidues": [
+    {
+      "layer": "Gerber_TopSolderMaskLayer.GTS",
+      "via": "b94621a9948d9d95",
+      "center": [
+        17.500001,
+        9.0
+      ],
+      "diameterMm": 3e-06
+    },
+    {
+      "layer": "Gerber_BottomSolderMaskLayer.GBS",
+      "via": "b94621a9948d9d95",
+      "center": [
+        17.500001,
+        9.0
+      ],
+      "diameterMm": 3e-06
+    }
+  ],
+  "PCB_DRC": 0,
+  "factoryDfmPassed": false
+}

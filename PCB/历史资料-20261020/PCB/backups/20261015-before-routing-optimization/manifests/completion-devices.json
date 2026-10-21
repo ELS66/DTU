@@ -1,0 +1,363 @@
+{
+  "success": true,
+  "result": {
+    "U3": {
+      "libraryType": "3",
+      "uuid": "676a12fadece41eb8224bb38360970ca",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "TPS259470ARPWR",
+      "classification": [
+        "电源管理",
+        "浪涌保护器"
+      ],
+      "association": {
+        "symbolType": 2,
+        "symbolUuid": "cdc12674d72647588b88dde67248ffdb",
+        "symbol": {
+          "type": 2,
+          "uuid": "cdc12674d72647588b88dde67248ffdb",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "footprintUuid": "a89252a26c6741fea3298339413ab807",
+        "footprint": {
+          "uuid": "a89252a26c6741fea3298339413ab807",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "images": [
+          "https://alimg.szlcsc.com/upload/public/product/middle/20240815/52619593CF04FCDE6CD89BBCB5311716.jpg"
+        ]
+      },
+      "description": "通道数:1;工作电压:2.7V~23V;安装方式:表面安装;",
+      "property": {
+        "name": "TPS259470ARPWR",
+        "designator": "U?",
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "manufacturer": "TI(德州仪器)",
+        "manufacturerId": "TPS259470ARPWR",
+        "supplier": "LCSC",
+        "supplierId": "C3662799",
+        "otherProperty": {
+          "LCSC Part Name": "2.7V至23V、5.5A、28mΩ真反向电流阻断电子保险丝",
+          "Supplier Part": "C3662799",
+          "Manufacturer": "TI(德州仪器)",
+          "Manufacturer Part": "TPS259470ARPWR",
+          "Supplier Footprint": "QFN-10(2x2)",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://www.ti.com/cn/lit/ds/symlink/tps25947.pdf",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "cdc12674d72647588b88dde67248ffdb",
+          "Designator": "U?",
+          "Footprint": "a89252a26c6741fea3298339413ab807",
+          "3D Model": "c74b11dc6301497d8044a28629695f2c",
+          "3D Model Title": "VQFN-10_L2.0-W2.0-P0.45-TL",
+          "3D Model Transform": "79.1337,78.74,0,0,0,0,0,0,0",
+          "FET Type": "内置FET",
+          "Number of Lines": "1",
+          "Threshold Voltage": "-",
+          "Trigger Current": "500mA~6A",
+          "Voltage Rating": "2.7V~23V",
+          "Reset Voltage": "-",
+          "Mounting Type": "表面安装",
+          "Peak Output Current(Source)": "-",
+          "Peak Output Current(Sink)": "-",
+          "RDS(on)": "28.3mΩ",
+          "Operating temperature": "-40℃~+125℃",
+          "Length": "2mm",
+          "Width": "2mm",
+          "Height": "1mm",
+          "Features": "热保护；过流保护；过压钳位保护；欠压锁定；短路保护",
+          "Name": "={Manufacturer Part}",
+          "Description": "通道数:1;工作电压:2.7V~23V;安装方式:表面安装;"
+        }
+      },
+      "subPartNames": [
+        "TPS259470ARPWR.1"
+      ]
+    },
+    "SW2": {
+      "libraryType": "3",
+      "uuid": "0ad8dbc3a8644ba08fb62b8dc809ff93",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SKRPACE010",
+      "classification": [
+        "按键/开关",
+        "轻触开关"
+      ],
+      "association": {
+        "symbolType": 2,
+        "symbolUuid": "debd27ab112c4cd1ac2e554c30fa6fbb",
+        "symbol": {
+          "type": 2,
+          "uuid": "debd27ab112c4cd1ac2e554c30fa6fbb",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "footprintUuid": "d68fb37867914d819b985c6db541b3eb",
+        "footprint": {
+          "uuid": "d68fb37867914d819b985c6db541b3eb",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "images": [
+          "https://alimg.szlcsc.com/upload/public/product/middle/20230110/C9B583BCFCD08A6FAB5468B2B2B733F8.jpg"
+        ]
+      },
+      "description": "电路结构:单刀单掷;按钮形状:椭圆形按钮;安装方式:立贴;开关长度:4.2mm;开关宽度:3.2mm;开关高度:2.5mm;触点电流:50mA;额定电压:16V;带灯:-;工作寿命:-;",
+      "property": {
+        "name": "SKRPACE010",
+        "designator": "SW?",
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "manufacturer": "ALPSALPINE(阿尔卑斯阿尔派)",
+        "manufacturerId": "SKRPACE010",
+        "supplier": "LCSC",
+        "supplierId": "C139797",
+        "otherProperty": {
+          "LCSC Part Name": "4.2*3.2*2.5mm 立贴 轻触开关",
+          "Supplier Part": "C139797",
+          "Manufacturer": "ALPSALPINE(阿尔卑斯阿尔派)",
+          "Manufacturer Part": "SKRPACE010",
+          "Supplier Footprint": "SMD-4P,4.2x3.2mm",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/SKRPACE010/151122.html",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "debd27ab112c4cd1ac2e554c30fa6fbb",
+          "Designator": "SW?",
+          "Footprint": "d68fb37867914d819b985c6db541b3eb",
+          "3D Model": "38f4e5ae1c0a49d7a4c1f95a650cdbea",
+          "3D Model Title": "KEY-SMD_4P-L4.2-W3.2-H2.5-LS4.6-P2.2",
+          "3D Model Transform": "184.96971,125.984,0,0,0,0,0,-0.005,0",
+          "Circuit": "单刀单掷",
+          "Actuator Style": "椭圆形按钮",
+          "Mounting Type": "立贴",
+          "Length": "4.2mm",
+          "Width": "3.2mm",
+          "Switch Height": "2.5mm",
+          "Contact Current": "50mA",
+          "Voltage Rating": "16V",
+          "With Lamp": "-",
+          "Life": "-",
+          "Name": "={Manufacturer Part}",
+          "Description": "电路结构:单刀单掷;按钮形状:椭圆形按钮;安装方式:立贴;开关长度:4.2mm;开关宽度:3.2mm;开关高度:2.5mm;触点电流:50mA;额定电压:16V;带灯:-;工作寿命:-;"
+        }
+      },
+      "subPartNames": [
+        "SKRPACE010.1"
+      ]
+    },
+    "C80": {
+      "libraryType": "3",
+      "uuid": "eb87e022f92d4258af4aa28fa7b0b2eb",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "6SVPC220MV",
+      "classification": [
+        "电容",
+        "固态电容"
+      ],
+      "association": {
+        "symbolType": 2,
+        "symbolUuid": "76c012e9b7664dbe9c71774ff74fed7e",
+        "symbol": {
+          "type": 2,
+          "uuid": "76c012e9b7664dbe9c71774ff74fed7e",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "footprintUuid": "9bcbff25bacc472bab0b329695433fb9",
+        "footprint": {
+          "uuid": "9bcbff25bacc472bab0b329695433fb9",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "images": [
+          "https://alimg.szlcsc.com/upload/public/product/middle/20251203/2F6D3DC5C301B9AF051384C8763F86FE.jpg"
+        ]
+      },
+      "description": "容值:220uF;精度:±20%;额定电压:6.3V;纹波电流:3.16A@100kHz;等效串联电阻(ESR):15mΩ@100kHz;类型:聚合物;",
+      "property": {
+        "name": "6SVPC220MV",
+        "designator": "C?",
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "manufacturer": "PANASONIC(松下)",
+        "manufacturerId": "6SVPC220MV",
+        "supplier": "LCSC",
+        "supplierId": "C128504",
+        "otherProperty": {
+          "LCSC Part Name": "220uF ±20% 6.3V",
+          "Supplier Part": "C128504",
+          "Manufacturer": "PANASONIC(松下)",
+          "Manufacturer Part": "6SVPC220MV",
+          "Supplier Footprint": "SMD,D6.3xL6mm",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/6SVPC220MV/139789.html",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "76c012e9b7664dbe9c71774ff74fed7e",
+          "Designator": "C?",
+          "Footprint": "9bcbff25bacc472bab0b329695433fb9",
+          "3D Model": "ec7f1c7bda5e4386b54ec5ff3d1d94ff",
+          "3D Model Title": "CAP-SMD_BD6.3-L6.6-W6.6-FD",
+          "3D Model Transform": "307.086,259.842,0,180,0,0,0,0,0",
+          "Value": "220uF",
+          "Tolerance": "±20%",
+          "Voltage Rating": "6.3V",
+          "Ripple Current": "3.16A@100kHz",
+          "Equivalent Series Resistance(ESR)": "15mΩ@100kHz",
+          "Type": "聚合物",
+          "Pin Spacing": "-",
+          "Diameter": "6.3mm",
+          "Height - Seated (Max)": "6mm",
+          "Lifetime": "2000hrs@105℃",
+          "Operating Temperature": "-55℃~+105℃",
+          "Polarity type": "有极性",
+          "Name": "={Value}",
+          "Description": "容值:220uF;精度:±20%;额定电压:6.3V;纹波电流:3.16A@100kHz;等效串联电阻(ESR):15mΩ@100kHz;类型:聚合物;"
+        }
+      },
+      "subPartNames": [
+        "6SVPC220MV.1"
+      ]
+    },
+    "D14": {
+      "libraryType": "3",
+      "uuid": "25e8e30d8a1d4bd1ac613bc3b045b169",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "MBR0530",
+      "classification": [
+        "二极管",
+        "肖特基二极管"
+      ],
+      "association": {
+        "symbolType": 2,
+        "symbolUuid": "8fed2f0c8bfd4b5e880036fccc917ff1",
+        "symbol": {
+          "type": 2,
+          "uuid": "8fed2f0c8bfd4b5e880036fccc917ff1",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "footprintUuid": "15bfa070ed90484d8421118564b264ae",
+        "footprint": {
+          "uuid": "15bfa070ed90484d8421118564b264ae",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "images": [
+          "https://alimg.szlcsc.com/upload/public/product/middle/20230105/D7A1315CCD6EDDBE6C34FED571D9BEF0.jpg"
+        ]
+      },
+      "description": "二极管配置:独立式;正向压降(Vf):550mV@500mA;直流反向耐压(Vr):30V;整流电流:500mA;",
+      "property": {
+        "name": "MBR0530",
+        "designator": "D?",
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "manufacturer": "LGE(鲁光)",
+        "manufacturerId": "MBR0530",
+        "supplier": "LCSC",
+        "supplierId": "C2983233",
+        "otherProperty": {
+          "LCSC Part Name": "电压:30V 电流:0.5A",
+          "Supplier Part": "C2983233",
+          "Manufacturer": "LGE(鲁光)",
+          "Manufacturer Part": "MBR0530",
+          "Supplier Footprint": "SOD-123FL",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/MBR0530/3419390.html",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "8fed2f0c8bfd4b5e880036fccc917ff1",
+          "Designator": "D?",
+          "Footprint": "15bfa070ed90484d8421118564b264ae",
+          "3D Model": "86f9151e155e4fe2af0c4f2e0a80302e",
+          "3D Model Title": "SOD-123FL_L2.8-W1.8-H1.1-LS3.6",
+          "3D Model Transform": "141.732,70.866,0,180,0,0,0,0,0",
+          "Diode Configuration": "独立式",
+          "Voltage - Forward(Vf@If)": "550mV@500mA",
+          "Voltage - DC Reverse(Vr)": "30V",
+          "Current - Rectified": "500mA",
+          "Reverse Leakage Current (Ir)": "20uA@30V",
+          "Operating Junction Temperature Range": "-55℃~+175℃",
+          "Non-Repetitive Peak Forward Surge Current": "15A",
+          "Name": "={Manufacturer Part}",
+          "Description": "二极管配置:独立式;正向压降(Vf):550mV@500mA;直流反向耐压(Vr):30V;整流电流:500mA;"
+        }
+      },
+      "subPartNames": [
+        "MBR0530_C2983233.1"
+      ]
+    },
+    "J4": {
+      "libraryType": "3",
+      "uuid": "c063e97519bd4d95bb1703161091689f",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SMN-303",
+      "classification": [
+        "连接器",
+        "SIM卡连接器"
+      ],
+      "association": {
+        "symbolType": 2,
+        "symbolUuid": "0feb9f955f4f483e9c9ee6c643e41546",
+        "symbol": {
+          "type": 2,
+          "uuid": "0feb9f955f4f483e9c9ee6c643e41546",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "footprintUuid": "259257931f9743dea4970a7bb265c575",
+        "footprint": {
+          "uuid": "259257931f9743dea4970a7bb265c575",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "images": [
+          "https://alimg.szlcsc.com/upload/public/product/middle/20230219/AAA67F9D1AC56F76A471C223FAB61D6A.jpg"
+        ]
+      },
+      "description": "卡连接方式:自弹式;卡类型:NanoSIM卡;连接器类型:卡座;本体最大高度:1.37mm;工作温度:-25℃~+85℃;",
+      "property": {
+        "name": "SMN-303",
+        "designator": "CARD?",
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "manufacturer": "XUNPU(讯普)",
+        "manufacturerId": "SMN-303",
+        "supplier": "LCSC",
+        "supplierId": "C266888",
+        "otherProperty": {
+          "LCSC Part Name": "自弹式 NanoSIM卡 卡座",
+          "Supplier Part": "C266888",
+          "Manufacturer": "XUNPU(讯普)",
+          "Manufacturer Part": "SMN-303",
+          "Supplier Footprint": "SMD",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/SMN-303/256999.html",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "0feb9f955f4f483e9c9ee6c643e41546",
+          "Designator": "CARD?",
+          "Footprint": "259257931f9743dea4970a7bb265c575",
+          "3D Model": "e85aea9c891b48868bba0c3f17017a0f",
+          "3D Model Title": "SIM-SMD_L13.5-W12.3-H1.4",
+          "3D Model Transform": "515.353,572.8335,0,0,0,0,0,-11.693,0",
+          "Card Connection Mode": "自弹式",
+          "Card Type": "NanoSIM卡",
+          "Connector Type": "卡座",
+          "Card Detection": "有插卡检测",
+          "Supplementary Features": "-",
+          "Height Above Board": "1.37mm",
+          "Rated Voltage (Max)": "-",
+          "Operating Temperature": "-25℃~+85℃",
+          "Name": "={Manufacturer Part}",
+          "Description": "卡连接方式:自弹式;卡类型:NanoSIM卡;连接器类型:卡座;本体最大高度:1.37mm;工作温度:-25℃~+85℃;"
+        }
+      },
+      "subPartNames": [
+        "SMN-303.1"
+      ]
+    }
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

@@ -1,0 +1,108 @@
+{
+  "PCB_DRC": 0,
+  "factoryDfmPassed": false,
+  "reopenedNativeSourceVerified": true,
+  "changedTextObjects": 5,
+  "keptTextObjects": 15,
+  "nominalTextSizeMm": 1.8,
+  "strokeWidthMm": 0.15,
+  "RS485PinRowMoveMm": [
+    0,
+    0.8
+  ],
+  "RS485TitleMoveMm": [
+    -0.8,
+    0.95
+  ],
+  "silkToDrillWallMinimumGapMm": 0.2618840000000002,
+  "silkToMaskMinimumGapMm": 0.2890929999999994,
+  "drillHolesChecked": 322,
+  "drillPairsWithin018mm": 0,
+  "nearestDrillPairsMm": [
+    [
+      0.2618840000000002,
+      17.500001,
+      9.0,
+      0.2
+    ],
+    [
+      0.4151264119373013,
+      18.800001,
+      11.769999,
+      0.2
+    ],
+    [
+      0.43555857576541906,
+      33.900001,
+      9.800001,
+      0.2
+    ],
+    [
+      0.9751358923151425,
+      26.200001,
+      11.100001,
+      0.299999
+    ],
+    [
+      1.1083914231678698,
+      40.5,
+      11.975,
+      0.2
+    ],
+    [
+      1.1659117973762325,
+      30.7,
+      12.400001,
+      0.2
+    ],
+    [
+      1.2843839563944788,
+      25.2,
+      8.400001,
+      0.2
+    ],
+    [
+      1.4064226262461639,
+      20.55,
+      11.821249,
+      0.2
+    ],
+    [
+      1.9561592567196573,
+      29.0,
+      13.199999,
+      0.2
+    ],
+    [
+      2.045610992301215,
+      21.8,
+      11.4,
+      0.2
+    ]
+  ],
+  "unchangedProductionNonSilkFilesByBytes": [
+    "Gerber_TopLayer.GTL",
+    "Gerber_BottomLayer.GBL",
+    "Gerber_InnerLayer1.G1",
+    "Gerber_InnerLayer2.G2",
+    "Gerber_TopSolderMaskLayer.GTS",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_TopPasteMaskLayer.GTP",
+    "Gerber_BoardOutlineLayer.GKO",
+    "Drill_PTH_Through.DRL",
+    "Drill_NPTH_Through.DRL"
+  ],
+  "nativeNonSilkGeometryCompared": [
+    "Gerber_TopLayer.GTL",
+    "Gerber_BottomLayer.GBL",
+    "Gerber_InnerLayer1.G1",
+    "Gerber_InnerLayer2.G2",
+    "Gerber_TopSolderMaskLayer.GTS",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_TopPasteMaskLayer.GTP",
+    "Gerber_BoardOutlineLayer.GKO"
+  ],
+  "geometryToleranceMm": 1e-05,
+  "componentAndPadGeometryUnchanged": true,
+  "BOMandCPLUnchanged": true
+}

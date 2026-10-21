@@ -1,0 +1,1 @@
+const p=await eda.dmt_Project.getCurrentProjectInfo();const d=await eda.dmt_SelectControl.getCurrentDocumentInfo();return {project:p?.uuid,name:p?.friendlyName,document:d?.uuid,documentName:d?.name,import:globalThis.dtuV12ImportState};

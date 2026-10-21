@@ -1,0 +1,135 @@
+{
+  "success": true,
+  "result": {
+    "count": 44,
+    "components": [
+      {
+        "id": "dc8d413e374d5c4e",
+        "type": "part",
+        "ref": "U4",
+        "x": 300,
+        "y": 370
+      },
+      {
+        "id": "64503b85a8106bcb",
+        "type": "part",
+        "ref": "U5",
+        "x": 660,
+        "y": 370
+      },
+      {
+        "id": "b0d2c07a6ea9a14c",
+        "type": "part",
+        "ref": "L1",
+        "x": 1020,
+        "y": 370
+      },
+      {
+        "id": "93e20e80f1aab31c",
+        "type": "part",
+        "ref": "L2",
+        "x": 1380,
+        "y": 370
+      },
+      {
+        "id": "38c51b3250a0b8f2",
+        "type": "part",
+        "ref": "R90",
+        "x": 1740,
+        "y": 370
+      },
+      {
+        "id": "9215ef28d0f4af6d",
+        "type": "part",
+        "ref": "R91",
+        "x": 300,
+        "y": 605
+      },
+      {
+        "id": "0a78dafa551d9868",
+        "type": "part",
+        "ref": "C90",
+        "x": 660,
+        "y": 605
+      },
+      {
+        "id": "c0924be39053f5dd",
+        "type": "part",
+        "ref": "C91",
+        "x": 1020,
+        "y": 605
+      },
+      {
+        "id": "e7d7d34f9a8cc2f2",
+        "type": "part",
+        "ref": "C92",
+        "x": 1380,
+        "y": 605
+      },
+      {
+        "id": "acd5580d8c187bd2",
+        "type": "part",
+        "ref": "C93",
+        "x": 1740,
+        "y": 605
+      },
+      {
+        "id": "bd13baeed337ecf7",
+        "type": "part",
+        "ref": "C94",
+        "x": 300,
+        "y": 840
+      },
+      {
+        "id": "0e9c6362fa70b1a4",
+        "type": "part",
+        "ref": "C95",
+        "x": 660,
+        "y": 840
+      },
+      {
+        "id": "f81ca3a3f4f9c0a9",
+        "type": "part",
+        "ref": "C96",
+        "x": 1020,
+        "y": 840
+      },
+      {
+        "id": "1034059f105df721",
+        "type": "part",
+        "ref": "C97",
+        "x": 1380,
+        "y": 840
+      },
+      {
+        "id": "405b0def4842ffb4",
+        "type": "part",
+        "ref": "C98",
+        "x": 1740,
+        "y": 840
+      },
+      {
+        "id": "889ac53a1ecf20ca",
+        "type": "part",
+        "ref": "C99",
+        "x": 300,
+        "y": 1075
+      },
+      {
+        "id": "96a2ac9f9b15abb5",
+        "type": "part",
+        "ref": "C106",
+        "x": 660,
+        "y": 1075
+      },
+      {
+        "id": "6239729ab9ccf86f",
+        "type": "part",
+        "ref": "C85",
+        "x": 1020,
+        "y": 1075
+      }
+    ]
+  },
+  "windowId": "9b81981a-8b48-43e9-841b-e3d0abbe1ec4"
+}

@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "result": {
+    "removed": [
+      "R100",
+      "D13",
+      "C34",
+      "R31",
+      "R32",
+      "R37",
+      "R38",
+      "D6",
+      "D8",
+      "D9"
+    ],
+    "saved": true
+  },
+  "windowId": "c1955aa7-f8d1-4843-96ac-9fd9d300a6d3"
+}

@@ -1,0 +1,10 @@
+from pathlib import Path
+import json
+P=Path('PCB');d=json.loads((P/'reports/pcb-drc-control-sample-v04.json').read_text(encoding='utf-8-sig'))['result'];nets=[]
+for group in d:
+ if group.get('name')=='Connection Error':nets=[x['name']for x in group['list']]
+exc={'GND','LTE_FB','TTL_5V_FB','EFUSE_DVDT','EFUSE_ILM','EFUSE_UVLO','EFUSE_OVLO','LTE_VREF','SIM_VDD'}
+sel=[n for n in nets if n not in exc and not n.startswith(('VIN','VDD','EFUSE_')) and not any(x in n for x in ['_USB','_ANT','_RF_','_SW','_BST','_VSENSE','_VREF'])];(P/'manifests/pcb-digital-route-nets-v04.json').write_text(json.dumps(sel,indent=2));print(len(sel),sel)
+guard='if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");';code=guard+'const key="DTU_V04_ROUTING_JOB_20261010";const prev=eda.sys_Storage.getExtensionUserConfig(key);if(prev?.status==="running")throw Error("Previous routing job is running");const Layer={TOP:1,BOTTOM:2};const Mode={KEEP:"keep"};const Corner={DEGREE_45:0};const Optimization={COMPLETION:1};const nets='+json.dumps(sel)+';const current=await eda.pcb_Drc.getCurrentRuleConfiguration();const config=JSON.parse(JSON.stringify(current.config));config.Physics.Track.copperThickness1oz.form.data["1"].defaultValue=0.1524;if(!await eda.pcb_Drc.overwriteCurrentRuleConfiguration(config))throw Error("Rule update failed");await eda.sys_Storage.setExtensionUserConfig(key,{status:"running",nets,startedAt:Date.now()});try{const result=await eda.pcb_Document.autoRouting({RoutingNets:nets,layers:[Layer.TOP,Layer.BOTTOM],cornerStyle:Corner.DEGREE_45,optimization:Optimization.COMPLETION,existingPrimitiveMode:Mode.KEEP});const saved=await eda.pcb_Document.save();await eda.sys_Storage.setExtensionUserConfig(key,{status:"done",result,saved,finishedAt:Date.now()});return {result,saved};}catch(e){await eda.sys_Storage.setExtensionUserConfig(key,{status:"error",error:String(e),finishedAt:Date.now()});throw e;}'
+(P/'scripts/route-digital-v04.js').write_text(code)
+(P/'scripts/read-route-job-status-v04.js').write_text(guard+'return eda.sys_Storage.getExtensionUserConfig("DTU_V04_ROUTING_JOB_20261010");')

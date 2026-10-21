@@ -1,0 +1,1 @@
+const out={};for(const k of ["0603WAF5101T5E","0603WAF100JT5E","CL10C330JB8NNNC","CL10B103KB8NNNC","CL10C3R3BB8NNNC","CL10A475KO8NNNC"]){out[k]=(await eda.lib_Device.search(k,undefined,undefined,undefined,2,1)).map(z=>({name:z.name,uuid:z.uuid,libraryUuid:z.libraryUuid,supplierId:z.supplierId,footprint:z.footprintName}));}return out;

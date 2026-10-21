@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='ba912ce2dfad253c22e034fef383544af50374bc5b74a7f6f0299caf191a7a67'||(await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='4211128ecf040c100b33238447713203')throw Error('Wrong PCB');return await eda.pcb_Drc.check(true,false,true);

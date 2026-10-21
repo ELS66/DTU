@@ -1,0 +1,213 @@
+{
+  "shiftsMm": {
+    "D6": [
+      1.25,
+      -7.4
+    ],
+    "Q1": [
+      -0.5,
+      0
+    ]
+  },
+  "changedRoutes": [
+    "67ed5911ca1c5029",
+    "489d2faf7863bdaa",
+    "d77be76dc124a1c9",
+    "84a8bed1b8a30299",
+    "e2744c9a36799684",
+    "e986fcd01383e49e",
+    "1b0a3e249f4e8ef1",
+    "8525f9021d2422cd"
+  ],
+  "conflicts": [
+    {
+      "a": "67ed5911ca1c5029",
+      "b": "Q1:5",
+      "an": "LTE_PWRKEY",
+      "bn": "MCU_LTE_RESET",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.14735625129677032
+    },
+    {
+      "a": "489d2faf7863bdaa",
+      "b": "Q1:3",
+      "an": "MCU_LTE_PWRKEY",
+      "bn": "LTE_RESET",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "d77be76dc124a1c9",
+      "b": "489d2faf7863bdaa",
+      "an": "LTE_RESET",
+      "bn": "MCU_LTE_PWRKEY",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.04277484114898991
+    },
+    {
+      "a": "84a8bed1b8a30299",
+      "b": "Q1:4",
+      "an": "MCU_LTE_RESET",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "e986fcd01383e49e",
+      "b": "84a8bed1b8a30299",
+      "an": "GND",
+      "bn": "MCU_LTE_RESET",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.011769624645666844
+    },
+    {
+      "a": "1b0a3e249f4e8ef1",
+      "b": "R38:1",
+      "an": "GND",
+      "bn": "VDD_3V3",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "1b0a3e249f4e8ef1",
+      "b": "D9:1",
+      "an": "GND",
+      "bn": "TTL_RX_EXT",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.08247212050554249
+    },
+    {
+      "a": "1b0a3e249f4e8ef1",
+      "b": "R31:1",
+      "an": "GND",
+      "bn": "RS485_B",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "1b0a3e249f4e8ef1",
+      "b": "4bf401dd067c7a0b",
+      "an": "GND",
+      "bn": "RS485_B",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "1b0a3e249f4e8ef1",
+      "b": "R30:2",
+      "an": "GND",
+      "bn": "RS485_A_EXT",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "1b0a3e249f4e8ef1",
+      "b": "R30:1",
+      "an": "GND",
+      "bn": "RS485_A",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.05603574473120521
+    },
+    {
+      "a": "1b0a3e249f4e8ef1",
+      "b": "55752276f2fa2629",
+      "an": "GND",
+      "bn": "RS485_A",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "de450f7b8439aa2d",
+      "b": "1b0a3e249f4e8ef1",
+      "an": "RS485_A_EXT",
+      "bn": "GND",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "8525f9021d2422cd",
+      "b": "D9:2",
+      "an": "RS232_TX_EXT",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "8525f9021d2422cd",
+      "b": "ab39888e17670e41",
+      "an": "RS232_TX_EXT",
+      "bn": "GND",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "8525f9021d2422cd",
+      "b": "f4e59c9010ef243f",
+      "an": "RS232_TX_EXT",
+      "bn": "GND",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "8525f9021d2422cd",
+      "b": "U7:11",
+      "an": "RS232_TX_EXT",
+      "bn": "FIELD_TX",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.049340351073450986
+    },
+    {
+      "a": "8525f9021d2422cd",
+      "b": "U7:10",
+      "an": "RS232_TX_EXT",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "74a721a974fa8d8f",
+      "b": "8525f9021d2422cd",
+      "an": "GND",
+      "bn": "RS232_TX_EXT",
+      "at": "via",
+      "bt": "track",
+      "distanceMm": 0.0726508438504011
+    },
+    {
+      "a": "8072b68eee580710",
+      "b": "1b0a3e249f4e8ef1",
+      "an": "RS485_A",
+      "bn": "GND",
+      "at": "via",
+      "bt": "track",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "e04a0a15286d11fc",
+      "b": "1b0a3e249f4e8ef1",
+      "an": "RS485_B_EXT",
+      "bn": "GND",
+      "at": "via",
+      "bt": "track",
+      "distanceMm": 0.10046309250838441
+    }
+  ]
+}

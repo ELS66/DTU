@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=="1d7fb27b7ad9306bc25c90ee476429c9e681ffecce79136ba05149eca7bba1b0")throw Error('Wrong project');return await eda.sch_Drc.check(true,false,true);

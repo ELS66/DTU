@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");return eda.sys_Storage.getExtensionUserConfig("DTU_V04_SMALL_ROUTING_20261010_01");

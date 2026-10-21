@@ -1,0 +1,1 @@
+const p=await eda.dmt_Project.getCurrentProjectInfo();return {project:p,doc:await eda.dmt_SelectControl.getCurrentDocumentInfo(),devices:await eda.lib_Device.search("Air780",p.uuid,undefined,undefined,10,1)};

@@ -1,0 +1,1297 @@
+{
+  "success": true,
+  "result": [
+    {
+      "name": "Clearance Error",
+      "list": [
+        {
+          "name": "Hole to Hole",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Hole to Hole",
+              "ruleName": "otherClearance",
+              "ruleTypeName": "Other Spacing",
+              "obj1": {
+                "typeName": "Hole",
+                "suffix": "(GND): e2577"
+              },
+              "obj2": {
+                "typeName": "Hole",
+                "suffix": "(GND): e2258"
+              },
+              "layer": "Multi-Layer",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 11.8mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err0",
+                  "position": {
+                    "x": 149.83464488188974,
+                    "y": 211.56692913385828
+                  },
+                  "name": "otherClearance",
+                  "obj1": "fc6da35e1af5935a",
+                  "obj1Type": "Hole",
+                  "obj2": "94c959e47d2e1bf2",
+                  "obj2Type": "Hole",
+                  "minDistance": 0,
+                  "clearance": 1.1800000000000002,
+                  "errorType": "Other Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    12
+                  ],
+                  "line": {
+                    "type": "Line",
+                    "_start": {
+                      "x": 149.83464488188974,
+                      "y": 211.56692913385828
+                    },
+                    "_end": {
+                      "x": 149.83464488188974,
+                      "y": 211.56692913385828
+                    }
+                  },
+                  "obj1Suffix": "(GND): e2577",
+                  "obj2Suffix": "(GND): e2258"
+                }
+              },
+              "objs": [
+                "fc6da35e1af5935a",
+                "94c959e47d2e1bf2"
+              ],
+              "globalIndex": "err0",
+              "pos": {
+                "x": 149.83464488188974,
+                "y": 211.56692913385828
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Hole to Hole"
+            }
+          ],
+          "count": 1,
+          "title": [
+            "Hole",
+            "to",
+            "Hole",
+            "(1)"
+          ],
+          "visible": true
+        }
+      ],
+      "visible": true,
+      "count": 1,
+      "title": [
+        "Clearance Error",
+        "(1)"
+      ]
+    },
+    {
+      "name": "Connection Error",
+      "list": [
+        {
+          "name": "LED_ESP_R_N",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Line",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(LED_ESP_R_N): e4583"
+              },
+              "isFree": false,
+              "net": "LED_ESP_R_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err1",
+                  "position": {
+                    "x": 204.6437016535433,
+                    "y": 228.5308661417323
+                  },
+                  "name": "Common",
+                  "obj1": "f297512f2bcf2bda",
+                  "obj1Type": "Line",
+                  "net": "LED_ESP_R_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_R_N): e4583"
+                }
+              },
+              "objs": [
+                "f297512f2bcf2bda"
+              ],
+              "globalIndex": "err1",
+              "pos": {
+                "x": 204.6437016535433,
+                "y": 228.5308661417323
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_R_N"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_ESP_R_N): D30_1"
+              },
+              "isFree": false,
+              "net": "LED_ESP_R_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err2",
+                  "position": {
+                    "x": 230.70915999999997,
+                    "y": 205.71261999999996
+                  },
+                  "name": "Common",
+                  "obj1": "0cfdf56f39edd152e22",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_ESP_R_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_R_N): D30_1"
+                }
+              },
+              "objs": [
+                "0cfdf56f39edd152e22"
+              ],
+              "globalIndex": "err2",
+              "pos": {
+                "x": 230.70915999999997,
+                "y": 205.71261999999996
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_R_N"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_ESP_R_N (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_ESP_R_A",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_ESP_R_A): D30_2"
+              },
+              "isFree": false,
+              "net": "LED_ESP_R_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err3",
+                  "position": {
+                    "x": 230.70816,
+                    "y": 211.61021999999997
+                  },
+                  "name": "Common",
+                  "obj1": "0cfdf56f39edd152e21",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_ESP_R_A",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_R_A): D30_2"
+                }
+              },
+              "objs": [
+                "0cfdf56f39edd152e21"
+              ],
+              "globalIndex": "err3",
+              "pos": {
+                "x": 230.70816,
+                "y": 211.61021999999997
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_R_A"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Line",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(LED_ESP_R_A): e4590"
+              },
+              "isFree": false,
+              "net": "LED_ESP_R_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err4",
+                  "position": {
+                    "x": 228.93767499999998,
+                    "y": 219.48818574803147
+                  },
+                  "name": "Common",
+                  "obj1": "1116e3023f75345d",
+                  "obj1Type": "Line",
+                  "net": "LED_ESP_R_A",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_R_A): e4590"
+                }
+              },
+              "objs": [
+                "1116e3023f75345d"
+              ],
+              "globalIndex": "err4",
+              "pos": {
+                "x": 228.93767499999998,
+                "y": 219.48818574803147
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_R_A"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_ESP_R_A (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_ESP_B_A",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Via",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Via",
+                "suffix": "(LED_ESP_B_A): e2198"
+              },
+              "isFree": false,
+              "net": "LED_ESP_B_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err5",
+                  "position": {
+                    "x": 227.16535,
+                    "y": 183.0708657480315
+                  },
+                  "name": "Common",
+                  "obj1": "6ac5032d01eff10f",
+                  "obj1Type": "Via",
+                  "net": "LED_ESP_B_A",
+                  "isFree": false,
+                  "layerIds": [
+                    12
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_B_A): e2198"
+                }
+              },
+              "objs": [
+                "6ac5032d01eff10f"
+              ],
+              "globalIndex": "err5",
+              "pos": {
+                "x": 227.16535,
+                "y": 183.0708657480315
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_B_A"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_ESP_B_A): D32_2"
+              },
+              "isFree": false,
+              "net": "LED_ESP_B_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err6",
+                  "position": {
+                    "x": 230.70866,
+                    "y": 176.06284999999997
+                  },
+                  "name": "Common",
+                  "obj1": "21423da9db13f1fae8",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_ESP_B_A",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_B_A): D32_2"
+                }
+              },
+              "objs": [
+                "21423da9db13f1fae8"
+              ],
+              "globalIndex": "err6",
+              "pos": {
+                "x": 230.70866,
+                "y": 176.06284999999997
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_B_A"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_ESP_B_A (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_ESP_G_A",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_ESP_G_A): D31_2"
+              },
+              "isFree": false,
+              "net": "LED_ESP_G_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err7",
+                  "position": {
+                    "x": 230.70816,
+                    "y": 193.89367999999996
+                  },
+                  "name": "Common",
+                  "obj1": "364556e3915944fde21",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_ESP_G_A",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_G_A): D31_2"
+                }
+              },
+              "objs": [
+                "364556e3915944fde21"
+              ],
+              "globalIndex": "err7",
+              "pos": {
+                "x": 230.70816,
+                "y": 193.89367999999996
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_G_A"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Via",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Via",
+                "suffix": "(LED_ESP_G_A): e2202"
+              },
+              "isFree": false,
+              "net": "LED_ESP_G_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err8",
+                  "position": {
+                    "x": 233.46457,
+                    "y": 198.81889574803148
+                  },
+                  "name": "Common",
+                  "obj1": "6f3a98c6e7673665",
+                  "obj1Type": "Via",
+                  "net": "LED_ESP_G_A",
+                  "isFree": false,
+                  "layerIds": [
+                    12
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_G_A): e2202"
+                }
+              },
+              "objs": [
+                "6f3a98c6e7673665"
+              ],
+              "globalIndex": "err8",
+              "pos": {
+                "x": 233.46457,
+                "y": 198.81889574803148
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_G_A"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_ESP_G_A (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_ESP_G_N",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Line",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(LED_ESP_G_N): e5270"
+              },
+              "isFree": false,
+              "net": "LED_ESP_G_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err9",
+                  "position": {
+                    "x": 196.96653543307087,
+                    "y": 187.992125984252
+                  },
+                  "name": "Common",
+                  "obj1": "1f6205b7b63075fa",
+                  "obj1Type": "Line",
+                  "net": "LED_ESP_G_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_G_N): e5270"
+                }
+              },
+              "objs": [
+                "1f6205b7b63075fa"
+              ],
+              "globalIndex": "err9",
+              "pos": {
+                "x": 196.96653543307087,
+                "y": 187.992125984252
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_G_N"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_ESP_G_N): D31_1"
+              },
+              "isFree": false,
+              "net": "LED_ESP_G_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err10",
+                  "position": {
+                    "x": 230.70915999999997,
+                    "y": 187.99607999999995
+                  },
+                  "name": "Common",
+                  "obj1": "364556e3915944fde22",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_ESP_G_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_G_N): D31_1"
+                }
+              },
+              "objs": [
+                "364556e3915944fde22"
+              ],
+              "globalIndex": "err10",
+              "pos": {
+                "x": 230.70915999999997,
+                "y": 187.99607999999995
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_G_N"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_ESP_G_N (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_LTE_G_A",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Via",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Via",
+                "suffix": "(LED_LTE_G_A): e2394"
+              },
+              "isFree": false,
+              "net": "LED_LTE_G_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err11",
+                  "position": {
+                    "x": 2.75591,
+                    "y": 198.81889574803148
+                  },
+                  "name": "Common",
+                  "obj1": "002252bedc087927",
+                  "obj1Type": "Via",
+                  "net": "LED_LTE_G_A",
+                  "isFree": false,
+                  "layerIds": [
+                    12
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_G_A): e2394"
+                }
+              },
+              "objs": [
+                "002252bedc087927"
+              ],
+              "globalIndex": "err11",
+              "pos": {
+                "x": 2.75591,
+                "y": 198.81889574803148
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_G_A"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_LTE_G_A): D34_2"
+              },
+              "isFree": false,
+              "net": "LED_LTE_G_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err12",
+                  "position": {
+                    "x": 5.511310000000002,
+                    "y": 193.89368
+                  },
+                  "name": "Common",
+                  "obj1": "abf6e59e2ffea891e21",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_LTE_G_A",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_G_A): D34_2"
+                }
+              },
+              "objs": [
+                "abf6e59e2ffea891e21"
+              ],
+              "globalIndex": "err12",
+              "pos": {
+                "x": 5.511310000000002,
+                "y": 193.89368
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_G_A"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_LTE_G_A (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_LTE_R_A",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Via",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Via",
+                "suffix": "(LED_LTE_R_A): e2396"
+              },
+              "isFree": false,
+              "net": "LED_LTE_R_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err13",
+                  "position": {
+                    "x": 2.75591,
+                    "y": 216.53543574803152
+                  },
+                  "name": "Common",
+                  "obj1": "294d04f9ba681abe",
+                  "obj1Type": "Via",
+                  "net": "LED_LTE_R_A",
+                  "isFree": false,
+                  "layerIds": [
+                    12
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_R_A): e2396"
+                }
+              },
+              "objs": [
+                "294d04f9ba681abe"
+              ],
+              "globalIndex": "err13",
+              "pos": {
+                "x": 2.75591,
+                "y": 216.53543574803152
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_R_A"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_LTE_R_A): D33_2"
+              },
+              "isFree": false,
+              "net": "LED_LTE_R_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err14",
+                  "position": {
+                    "x": 5.511309999999999,
+                    "y": 211.61022
+                  },
+                  "name": "Common",
+                  "obj1": "57090e3ef40539e1e21",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_LTE_R_A",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_R_A): D33_2"
+                }
+              },
+              "objs": [
+                "57090e3ef40539e1e21"
+              ],
+              "globalIndex": "err14",
+              "pos": {
+                "x": 5.511309999999999,
+                "y": 211.61022
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_R_A"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_LTE_R_A (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_LTE_B_A",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_LTE_B_A): D35_2"
+              },
+              "isFree": false,
+              "net": "LED_LTE_B_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err15",
+                  "position": {
+                    "x": 5.511809999999997,
+                    "y": 176.06284999999997
+                  },
+                  "name": "Common",
+                  "obj1": "213caf081a508836e8",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_LTE_B_A",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_B_A): D35_2"
+                }
+              },
+              "objs": [
+                "213caf081a508836e8"
+              ],
+              "globalIndex": "err15",
+              "pos": {
+                "x": 5.511809999999997,
+                "y": 176.06284999999997
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_B_A"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Via",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Via",
+                "suffix": "(LED_LTE_B_A): e2447"
+              },
+              "isFree": false,
+              "net": "LED_LTE_B_A",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err16",
+                  "position": {
+                    "x": 9.055119999999999,
+                    "y": 181.8897657480315
+                  },
+                  "name": "Common",
+                  "obj1": "ee7af8b944975e4d",
+                  "obj1Type": "Via",
+                  "net": "LED_LTE_B_A",
+                  "isFree": false,
+                  "layerIds": [
+                    12
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_B_A): e2447"
+                }
+              },
+              "objs": [
+                "ee7af8b944975e4d"
+              ],
+              "globalIndex": "err16",
+              "pos": {
+                "x": 9.055119999999999,
+                "y": 181.8897657480315
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_B_A"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_LTE_B_A (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_LTE_B_N",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Line",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(LED_LTE_B_N): e5258"
+              },
+              "isFree": false,
+              "net": "LED_LTE_B_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err17",
+                  "position": {
+                    "x": 36.81011811023622,
+                    "y": 177.6360240944882
+                  },
+                  "name": "Common",
+                  "obj1": "85f1f88e6f3b6920",
+                  "obj1Type": "Line",
+                  "net": "LED_LTE_B_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_B_N): e5258"
+                }
+              },
+              "objs": [
+                "85f1f88e6f3b6920"
+              ],
+              "globalIndex": "err17",
+              "pos": {
+                "x": 36.81011811023622,
+                "y": 177.6360240944882
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_B_N"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_LTE_B_N): D35_1"
+              },
+              "isFree": false,
+              "net": "LED_LTE_B_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err18",
+                  "position": {
+                    "x": 5.511809999999997,
+                    "y": 170.39385
+                  },
+                  "name": "Common",
+                  "obj1": "213caf081a508836e9",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_LTE_B_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_B_N): D35_1"
+                }
+              },
+              "objs": [
+                "213caf081a508836e9"
+              ],
+              "globalIndex": "err18",
+              "pos": {
+                "x": 5.511809999999997,
+                "y": 170.39385
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_B_N"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_LTE_B_N (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_LTE_R_N",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_LTE_R_N): D33_1"
+              },
+              "isFree": false,
+              "net": "LED_LTE_R_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err19",
+                  "position": {
+                    "x": 5.512309999999999,
+                    "y": 205.71262
+                  },
+                  "name": "Common",
+                  "obj1": "57090e3ef40539e1e22",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_LTE_R_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_R_N): D33_1"
+                }
+              },
+              "objs": [
+                "57090e3ef40539e1e22"
+              ],
+              "globalIndex": "err19",
+              "pos": {
+                "x": 5.512309999999999,
+                "y": 205.71262
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_R_N"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Line",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(LED_LTE_R_N): e5252"
+              },
+              "isFree": false,
+              "net": "LED_LTE_R_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err20",
+                  "position": {
+                    "x": 6.887795275590552,
+                    "y": 213.60039370078744
+                  },
+                  "name": "Common",
+                  "obj1": "f720efe2ccee61fb",
+                  "obj1Type": "Line",
+                  "net": "LED_LTE_R_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_R_N): e5252"
+                }
+              },
+              "objs": [
+                "f720efe2ccee61fb"
+              ],
+              "globalIndex": "err20",
+              "pos": {
+                "x": 6.887795275590552,
+                "y": 213.60039370078744
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_R_N"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_LTE_R_N (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_LTE_G_N",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Line",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(LED_LTE_G_N): e5280"
+              },
+              "isFree": false,
+              "net": "LED_LTE_G_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err21",
+                  "position": {
+                    "x": 16.541338582677163,
+                    "y": 205.5748031496063
+                  },
+                  "name": "Common",
+                  "obj1": "0b1955808a5c7e41",
+                  "obj1Type": "Line",
+                  "net": "LED_LTE_G_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_G_N): e5280"
+                }
+              },
+              "objs": [
+                "0b1955808a5c7e41"
+              ],
+              "globalIndex": "err21",
+              "pos": {
+                "x": 16.541338582677163,
+                "y": 205.5748031496063
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_G_N"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_LTE_G_N): D34_1"
+              },
+              "isFree": false,
+              "net": "LED_LTE_G_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err22",
+                  "position": {
+                    "x": 5.512309999999999,
+                    "y": 187.99607999999998
+                  },
+                  "name": "Common",
+                  "obj1": "abf6e59e2ffea891e22",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_LTE_G_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_LTE_G_N): D34_1"
+                }
+              },
+              "objs": [
+                "abf6e59e2ffea891e22"
+              ],
+              "globalIndex": "err22",
+              "pos": {
+                "x": 5.512309999999999,
+                "y": 187.99607999999998
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_LTE_G_N"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_LTE_G_N (2)",
+          "visible": true
+        },
+        {
+          "name": "LED_ESP_B_N",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "SMD Pad",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "SMD Pad",
+                "suffix": "(LED_ESP_B_N): D32_1"
+              },
+              "isFree": false,
+              "net": "LED_ESP_B_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err23",
+                  "position": {
+                    "x": 230.70866,
+                    "y": 170.39385
+                  },
+                  "name": "Common",
+                  "obj1": "21423da9db13f1fae9",
+                  "obj1Type": "SMD Pad",
+                  "net": "LED_ESP_B_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_B_N): D32_1"
+                }
+              },
+              "objs": [
+                "21423da9db13f1fae9"
+              ],
+              "globalIndex": "err23",
+              "pos": {
+                "x": 230.70866,
+                "y": 170.39385
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_B_N"
+            },
+            {
+              "visible": true,
+              "errorType": "Connection Error",
+              "errorObjType": "Line",
+              "ruleName": "Common",
+              "obj1": {
+                "typeName": "Line",
+                "suffix": "(LED_ESP_B_N): e5257"
+              },
+              "isFree": false,
+              "net": "LED_ESP_B_N",
+              "explanation": {
+                "str": "{obj1} is disconnected from other objects of the same network",
+                "param": {
+                  "obj1": "Object 1",
+                  "type": "ConnectError"
+                },
+                "errData": {
+                  "globalIndex": "err24",
+                  "position": {
+                    "x": 182.51,
+                    "y": 176.25807133858268
+                  },
+                  "name": "Common",
+                  "obj1": "77014a34fe720ace",
+                  "obj1Type": "Line",
+                  "net": "LED_ESP_B_N",
+                  "isFree": false,
+                  "layerIds": [
+                    1
+                  ],
+                  "errorType": "No Connection",
+                  "obj1Suffix": "(LED_ESP_B_N): e5257"
+                }
+              },
+              "objs": [
+                "77014a34fe720ace"
+              ],
+              "globalIndex": "err24",
+              "pos": {
+                "x": 182.51,
+                "y": 176.25807133858268
+              },
+              "parentId": "DRCTab|_|Errors|_|Connection Error|_|LED_ESP_B_N"
+            }
+          ],
+          "doNotTranslate": true,
+          "count": 2,
+          "title": "LED_ESP_B_N (2)",
+          "visible": true
+        }
+      ],
+      "visible": true,
+      "count": 24,
+      "title": [
+        "Connection Error",
+        "(24)"
+      ]
+    }
+  ],
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

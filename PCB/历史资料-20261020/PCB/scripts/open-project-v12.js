@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='1d7fb27b7ad9306bc25c90ee476429c9e681ffecce79136ba05149eca7bba1b0')throw Error('Unexpected current project');return await eda.dmt_Project.openProject('be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc');

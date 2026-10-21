@@ -1,0 +1,1 @@
+const u="c2bff6216166854806fb0135bb156a18c0ae8c03a227bd251e55df64cd0baefb";if(!await eda.dmt_Project.openProject(u))throw Error('Open ML307 project failed');const tab=await eda.dmt_EditorControl.openDocument('4211128ecf040c100b33238447713203');return {project:(await eda.dmt_Project.getCurrentProjectInfo())?.uuid,tab};

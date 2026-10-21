@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "components": 154,
+  "physicalPads": 538,
+  "nettedPads": 466,
+  "nativeMetadataAssertions": 924,
+  "errors": []
+}

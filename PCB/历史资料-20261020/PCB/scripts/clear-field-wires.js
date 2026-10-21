@@ -1,0 +1,1 @@
+const ws=await eda.sch_PrimitiveWire.getAll();if(ws.length)await eda.sch_PrimitiveWire.delete(ws.map(w=>w.getState_PrimitiveId()));return {saved:await eda.sch_Document.save()};

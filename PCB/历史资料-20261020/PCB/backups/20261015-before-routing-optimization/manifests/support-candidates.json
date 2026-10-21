@@ -1,0 +1,769 @@
+{
+  "success": true,
+  "result": {
+    "TPS25940ARVCR": [
+      {
+        "uuid": "bff6f3783601497f9020b201ccd315c9",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "TPS25940ARVCR",
+        "footprint": "WQFN-20_L4.0-W3.0-P0.50-BL-EP",
+        "supplierId": "C2653873",
+        "manufacturer": "TI(德州仪器)"
+      }
+    ],
+    "74HC139": [
+      {
+        "uuid": "f1464d33cac747c5b14e17028788c6e8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "74HC139PW,118",
+        "footprint": "TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL",
+        "supplierId": "C546582",
+        "manufacturer": "Nexperia(安世)"
+      },
+      {
+        "uuid": "6e7f9c2432f040c18d9d4acacf515884",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "74HC139D",
+        "footprint": "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+        "supplierId": "C3234435",
+        "manufacturer": "TOSHIBA(东芝)"
+      },
+      {
+        "uuid": "0e407bf828764b968ad3aaae19c81b12",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "74HC139D-Q100118",
+        "footprint": "SO-16_L9.9-W3.9-P1.27-LS6.0-BL",
+        "supplierId": "C3233856",
+        "manufacturer": "Nexperia(安世)"
+      },
+      {
+        "uuid": "d7e7025be52547dc8893c63fdd369e68",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "74HC139PW-Q100J",
+        "footprint": "TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL",
+        "supplierId": "C546583",
+        "manufacturer": "Nexperia(安世)"
+      },
+      {
+        "uuid": "7cbab7f7ce674851a4455134efecf3ab",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "74HC139PW,112",
+        "footprint": "TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL",
+        "supplierId": "C546581",
+        "manufacturer": "Nexperia(安世)"
+      },
+      {
+        "uuid": "94ab409ec8d94615b2b82851194f9112",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "74HC139PW-Q100118",
+        "footprint": "TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL",
+        "supplierId": "C3238777",
+        "manufacturer": "Nexperia(安世)"
+      },
+      {
+        "uuid": "3a6ce03817e64da7909bd456fb621ece",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "74HC139D/C4118",
+        "footprint": "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+        "supplierId": "C3233862",
+        "manufacturer": "Nexperia(安世)"
+      },
+      {
+        "uuid": "29e4e23844454419b81132dd22a64438",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "74HC139D,652",
+        "footprint": "SO-16_L9.9-W3.9-P1.27-LS6.0-BL",
+        "supplierId": "C546576",
+        "manufacturer": "Nexperia(安世)"
+      }
+    ],
+    "SS54": [
+      {
+        "uuid": "619b7c496f4d4db2ae52152809a6d6d0",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SS54",
+        "footprint": "SMA_L4.2-W2.6-LS5.1-RD",
+        "supplierId": "C9900023219",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "ea6bca2b63634481bd1c65c596036d70",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "DW-12-13-F-S-750",
+        "footprint": "HDR-TH_DW-12-10-S-S-540-LL",
+        "supplierId": "C6026781",
+        "manufacturer": "SAMTEC"
+      },
+      {
+        "uuid": "dc823dce4bff4cacab85818cc2cdaed8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "DW-12-12-T-S-510",
+        "footprint": "HDR-TH_DW-12-10-S-S-540-LL",
+        "supplierId": "C6233393",
+        "manufacturer": "SAMTEC"
+      },
+      {
+        "uuid": "69f3cfb4332c455a89799cbed5fb9855",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "DW-12-17-T-S-255",
+        "footprint": "HDR-TH_DW-12-10-S-S-540-LL",
+        "supplierId": "C6543614",
+        "manufacturer": "SAMTEC"
+      },
+      {
+        "uuid": "34f6fa3e85ae4b3bb7c2fce69bbf2e58",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "DW-12-10-T-S-400",
+        "footprint": "HDR-TH_DW-12-10-S-S-540-LL",
+        "supplierId": "C6188009",
+        "manufacturer": "SAMTEC"
+      },
+      {
+        "uuid": "bedb9b6d90fe4c6c89a61ccff09849bc",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "DW-20-10-S-S-540-LL",
+        "footprint": "HDR-TH_DW-20-10-S-S-540-LL",
+        "supplierId": "C6840556",
+        "manufacturer": "SAMTEC"
+      },
+      {
+        "uuid": "e448ac7bea3343699dfafa32854f5eea",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "HMTSW-115-09-S-S-540",
+        "footprint": "HDR-TH_HMTSW-115-09-S-S-540",
+        "supplierId": "C6208253",
+        "manufacturer": "SAMTEC"
+      },
+      {
+        "uuid": "a418b20ac5aa4d23adf762e337bc4cf3",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "DW-12-09-S-S-300",
+        "footprint": "HDR-TH_DW-12-10-S-S-540-LL",
+        "supplierId": "C6543537",
+        "manufacturer": "SAMTEC"
+      }
+    ],
+    "SMBJ15A": [
+      {
+        "uuid": "9a1593d1216344c29a56d306ce854ef8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMBJ15A",
+        "footprint": "SMB_L4.6-W3.6-LS5.3-RD",
+        "supplierId": "C357961",
+        "manufacturer": "DOWO(东沃)"
+      },
+      {
+        "uuid": "8666e2a7f60d4b2fa0b83d6f9224c68d",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMBJ15AE3/TR13",
+        "footprint": "DO-214AA_L4.4-W3.6-LS5.3-RD",
+        "supplierId": "C2448769",
+        "manufacturer": "Microsemi(美高森美)"
+      },
+      {
+        "uuid": "66cdac96d9e64b598f264c6fb759b651",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMBJ15AHM4G",
+        "footprint": "SMB_L4.3-W3.6-LS5.4-RD",
+        "supplierId": "C2445281",
+        "manufacturer": "Taiwan Semiconductor(台湾半导体)"
+      },
+      {
+        "uuid": "51f066e7febc45b6be7be5276add92c5",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMBJ15A/54",
+        "footprint": "SMB_L4.3-W3.6-LS5.4-RD",
+        "supplierId": "C1981433",
+        "manufacturer": "VISHAY(威世)"
+      },
+      {
+        "uuid": "910b880abb4b46ddbe2b410402bda470",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMBJ15A_C143149",
+        "footprint": "SMB_L4.6-W3.6-LS5.3-RD",
+        "supplierId": "C143149",
+        "manufacturer": "FMS(美丽微)"
+      },
+      {
+        "uuid": "6aea4a4a5f894769b2fa737ba34dcde4",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MXSMBJ15AE3",
+        "footprint": "DO-214AA_L4.4-W3.6-LS5.3-RD",
+        "supplierId": "C2629524",
+        "manufacturer": "MICROCHIP(美国微芯)"
+      },
+      {
+        "uuid": "6ddfe92584b34f62918e86aae2368959",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MASMBJ15AE3",
+        "footprint": "DO-214AA_L4.4-W3.6-LS5.3-RD",
+        "supplierId": "C2626495",
+        "manufacturer": "Microsemi(美高森美)"
+      },
+      {
+        "uuid": "fe5aa8028b6e44f3826844147922f3af",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMBJ15A_C10210",
+        "footprint": "SMB_L4.6-W3.6-LS5.3-RD",
+        "supplierId": "C10210",
+        "manufacturer": "RUILON(瑞隆源)"
+      }
+    ],
+    "SM712": [
+      {
+        "uuid": "e522943977084453a95cd350fd445ea9",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SM712",
+        "footprint": "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR",
+        "supplierId": "C293966",
+        "manufacturer": "DOWO(东沃)"
+      },
+      {
+        "uuid": "ff6d4d95f40b4a1d9fe77d3fd8ad37db",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SM712_C127543",
+        "footprint": "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR",
+        "supplierId": "C127543",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "460d25a559904e61adcf6722ed1aa0de",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SM712H-TP",
+        "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+        "supplierId": "C725542",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "10ad787669c84089aef16ac8dc96bac4",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PSM712_C127542",
+        "footprint": "SOT-23_L2.9-W1.3-P1.90-LS2.4-BR",
+        "supplierId": "C127542",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "583355a4e0e5494e959604748595236d",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PSM712-LF-T7-YJLTY",
+        "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.3-BR-1",
+        "supplierId": "C2928839",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "3f7c543230074eb1ab471b36ce2255cc",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "ASM712",
+        "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+        "supplierId": "C712132",
+        "manufacturer": "Applied Power(应能微)"
+      },
+      {
+        "uuid": "e72c8c798a0143008937e8007f7422a0",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SM712-02HTG-L",
+        "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+        "supplierId": "C41376484",
+        "manufacturer": "PIELENST(派量)"
+      },
+      {
+        "uuid": "8ba6e5575e294c3da5f8bb56f0157338",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PSM712-ES",
+        "footprint": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+        "supplierId": "C5180294",
+        "manufacturer": "ElecSuper(静芯)"
+      }
+    ],
+    "PESD5V0S1BA": [
+      {
+        "uuid": "93250235cc8d4546a65e7ad6d841ccc2",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD5V0S1BA",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.5-BI",
+        "supplierId": "C2827694",
+        "manufacturer": "TECH PUBLIC(台舟)"
+      },
+      {
+        "uuid": "859ee054235c4fe4a02a47d872dfb58c",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD5V0S1BA_C330094",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.7-BI",
+        "supplierId": "C330094",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "e30932f3a2924fbf8c3f886d22d6e42c",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD5V0S1BA-N-ES",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.6-BI",
+        "supplierId": "C5180220",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "82b2589d1f1741d5a109b070c0854bd8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD5V0S1BA,115-ES",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.7-BI",
+        "supplierId": "C41409246",
+        "manufacturer": "ElecSuper(静芯)"
+      },
+      {
+        "uuid": "12dbb09e73b048d5ad71f686d77c2155",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD5V0S1BA-N_C22439040",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.5-BI",
+        "supplierId": "C22439040",
+        "manufacturer": "DOWO(东沃)"
+      },
+      {
+        "uuid": "15b7700714d34fc8b06f1cc5c19a7359",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD5V0S1BA-ES",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.6-BI",
+        "supplierId": "C5180216",
+        "manufacturer": "ElecSuper(静芯)"
+      },
+      {
+        "uuid": "cbce7c25762d4d6c8dc0e0dcd561b400",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD5V0S1BA_C5211004",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.5-BI",
+        "supplierId": "C5211004",
+        "manufacturer": "Leiditech(雷卯电子)"
+      },
+      {
+        "uuid": "65344a4ab61d4f7e949e6dc69a9b9e10",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD5V0S1BA-MS",
+        "footprint": "SOD-323F_L1.7-W1.3-LS2.5-BI",
+        "supplierId": "C5449084",
+        "manufacturer": "MSKSEMI(美森科)"
+      }
+    ],
+    "PESD12VL1BA": [
+      {
+        "uuid": "27757889531b4051a6e9dbc9934a56b1",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD12VL1BA",
+        "footprint": "SOD-323_L1.8-W1.3-LS2.5-BI",
+        "supplierId": "C323796",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "397127ee9faf4f249c66210d5460d61b",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD12VL1BA-QX",
+        "footprint": "SOD-323_L1.8-W1.3-LS2.5-BI",
+        "supplierId": "C7508733",
+        "manufacturer": "Nexperia(安世)"
+      },
+      {
+        "uuid": "fafc63639f3f4b288ed119055c1c31cb",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD12VL1BAF",
+        "footprint": "SOD-323_L1.8-W1.3-LS2.5-BI",
+        "supplierId": "C552446",
+        "manufacturer": "Nexperia(安世)"
+      },
+      {
+        "uuid": "a952075109d84a87922e15487dcb4316",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD12VL1BA_C2827689",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.5-BI",
+        "supplierId": "C2827689",
+        "manufacturer": "TECH PUBLIC(台舟)"
+      },
+      {
+        "uuid": "cedc4a77e7e34fa2a70945fcfa6ecfd4",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "TPPESD12VL1BA",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.6-BI",
+        "supplierId": "C2682284",
+        "manufacturer": "TECH PUBLIC(台舟)"
+      },
+      {
+        "uuid": "e0f2ca644f5543d09340f6c9582d1185",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD12VL1BA-HXY",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.5-BI-1",
+        "supplierId": "C19627018",
+        "manufacturer": "HXY MOSFET(华轩阳电子)"
+      },
+      {
+        "uuid": "fb543b439a724ce28c49b152fd80f24b",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "PESD12VL1BA,115-ES",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.6-BI",
+        "supplierId": "C22379577",
+        "manufacturer": "ElecSuper(静芯)"
+      },
+      {
+        "uuid": "e615af17d5b24439a412b859a431b083",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "HPESD12VL1BA115",
+        "footprint": "SOD-323_L1.7-W1.3-LS2.5-BI",
+        "supplierId": "C42402073",
+        "manufacturer": "HXY MOSFET(华轩阳电子)"
+      }
+    ],
+    "SMF12CA": [
+      {
+        "uuid": "a3ee31d70e554f74a84a167ddab57f9a",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMF12CA",
+        "footprint": "SOD-123_L2.8-W1.8-LS3.7-BI",
+        "supplierId": "C399256",
+        "manufacturer": "SUNMATE(森美特)"
+      },
+      {
+        "uuid": "c1dc9c4af735457a945e0658392a51f8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMF12CA_C466520",
+        "footprint": "SOD-123FL_L2.8-W1.8-LS3.7-BI",
+        "supplierId": "C466520",
+        "manufacturer": "High Diode(海德)"
+      },
+      {
+        "uuid": "ccf154ee6e8c4eeda26a5239523e9373",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMF12CA_C435479",
+        "footprint": "SOD-123_L2.8-W1.8-LS3.7-BI",
+        "supplierId": "C435479",
+        "manufacturer": "AnBon(安邦)"
+      },
+      {
+        "uuid": "2768915e30194e75aec32b6203e8911e",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMF12CA_C19634088",
+        "footprint": "SOD-123_L2.8-W1.8-LS3.7-BI-1",
+        "supplierId": "C19634088",
+        "manufacturer": "JUXING(钜兴)"
+      },
+      {
+        "uuid": "62d1fbd8dee047eda727f8809021ba2d",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMF12CA_C393929",
+        "footprint": "SOD-123_L2.8-W1.8-LS3.7-BI",
+        "supplierId": "C393929",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "2503da54646345c58e6b7f09e202c181",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMF12CA-TP",
+        "footprint": "SOD-123FL_L2.8-W1.8-LS3.7-BI",
+        "supplierId": "C779148",
+        "manufacturer": "MCC(美微科)"
+      },
+      {
+        "uuid": "a2e2f27002264f44ae16da7ef87d8eae",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMF12CA_C2961203",
+        "footprint": "SOD-123FL_L2.8-W1.8-LS3.7-BI",
+        "supplierId": "C2961203",
+        "manufacturer": "CJ(江苏长电/长晶)"
+      },
+      {
+        "uuid": "2062b7c4560a4f7b9bba163dc5d72642",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMF12CA_C3035821",
+        "footprint": "SOD-123FL_L2.7-W1.9-LS3.7-BI",
+        "supplierId": "C3035821",
+        "manufacturer": "PAKER(派克微)"
+      }
+    ],
+    "SMAJ12CA": [
+      {
+        "uuid": "0c0cdff0fb1840ddb65fb5b024f0ed46",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMAJ12CA",
+        "footprint": "SMA_L4.3-W2.7-LS5.1-BI",
+        "supplierId": "C2985628",
+        "manufacturer": "KUU"
+      },
+      {
+        "uuid": "e7a09748bd724d229b135adaf0bb4643",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMAJ12CAHR3G",
+        "footprint": "SMA-L4.3-W2.6-LS5.3-BI",
+        "supplierId": "C2594324",
+        "manufacturer": "Taiwan Semiconductor(台湾半导体)"
+      },
+      {
+        "uuid": "1f07eabbac92401e882f351515f1b6b4",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMAJ12CA-M3/5A",
+        "footprint": "SMA_L4.3-W2.7-LS5.1-BI",
+        "supplierId": "C1978760",
+        "manufacturer": "VISHAY(威世)"
+      },
+      {
+        "uuid": "b4f49e463a2f42268e3f8af619c801ed",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMAJ12CA M2G",
+        "footprint": "SMA_L4.3-W2.7-LS5.1-BI",
+        "supplierId": "C2444850",
+        "manufacturer": "Taiwan Semiconductor(台湾半导体)"
+      },
+      {
+        "uuid": "77f39e037f274291b0b0cc3f585faa48",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMAJ12CAHM2G",
+        "footprint": "SMA_L4.4-W2.6-LS5.0-BI",
+        "supplierId": "C2444722",
+        "manufacturer": "Taiwan Semiconductor(台湾半导体)"
+      },
+      {
+        "uuid": "b61f7b75033c4f2881c358010ab8c758",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMAJ12CA R3G",
+        "footprint": "SMA_L4.4-W2.6-LS5.0-BI",
+        "supplierId": "C2443600",
+        "manufacturer": "Taiwan Semiconductor(台湾半导体)"
+      },
+      {
+        "uuid": "02e545038d8d4b25abb56e6fe0bccca9",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMAJ12CAHE3/5A",
+        "footprint": "SMA_L4.4-W2.6-LS5.0-BI",
+        "supplierId": "C335769",
+        "manufacturer": "VISHAY(威世)"
+      },
+      {
+        "uuid": "e24d3c661ffc4479bf7ee36a44606e94",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SMAJ12CA_C9900014303",
+        "footprint": "SMA_L4.3-W2.6-LS5.2-BI",
+        "supplierId": "C9900014303",
+        "manufacturer": ""
+      }
+    ],
+    "USBLC6-2SC6": [
+      {
+        "uuid": "1e5e214711544da8ba71fb2137ae703f",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "USBLC6-2SC6",
+        "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+        "supplierId": "C2687116",
+        "manufacturer": "UMW(友台半导体)"
+      },
+      {
+        "uuid": "2f27bb9e93574926ac9f00328419cca0",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MSUSBLC6-2SC6",
+        "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+        "supplierId": "C2830148",
+        "manufacturer": "MSKSEMI(美森科)"
+      },
+      {
+        "uuid": "3850f565fa7540089d0bca4cba0b635b",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "USBLC6-2SC6_C22390014",
+        "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+        "supplierId": "C22390014",
+        "manufacturer": "DOWO(东沃)"
+      },
+      {
+        "uuid": "6820ed5f64f5459d9520c6dbca42a71d",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "USBLC6-2SC6_C47147619",
+        "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+        "supplierId": "C47147619",
+        "manufacturer": "KUU"
+      },
+      {
+        "uuid": "72497d70834b4e849c646e56030a17c0",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "USBLC6-2SC6_C48971164",
+        "footprint": "TSOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR",
+        "supplierId": "C48971164",
+        "manufacturer": "Slkor(萨科微)"
+      },
+      {
+        "uuid": "b403d214f17545ed9c033367b052a235",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "USBLC6-2SC6Y",
+        "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+        "supplierId": "C5310974",
+        "manufacturer": "TECH PUBLIC(台舟)"
+      },
+      {
+        "uuid": "a9aa9f47c0fa472dbf6d1f50e15b4170",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "USBLC6-2SC6_C5250994",
+        "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL",
+        "supplierId": "C5250994",
+        "manufacturer": "TWGMC(迪嘉)"
+      },
+      {
+        "uuid": "4c5ba9eef28e43049e3cf8a47b01c5bf",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "USBLC6-2SC6Y_C2969755",
+        "footprint": "SOT-23-6_L2.9-W1.7-P0.95-LS2.8-BL",
+        "supplierId": "C2969755",
+        "manufacturer": "ST(意法半导体)"
+      }
+    ],
+    "SIM8006": [],
+    "U.FL-R-SMT": [
+      {
+        "uuid": "03c0e07be8ff43c080d960456e974cb0",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "U.FL-R-SMT-1(80)",
+        "footprint": "IPEX-SMD_4P-L2.6-W2.6-LS3.0-1",
+        "supplierId": "C9900020048",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "d4823212e40a402dbac1cc3a043936ec",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "U.FL-R-SMT-1_HRS",
+        "footprint": "IPEX-SMD_BWIPX-1-001E",
+        "supplierId": "C9900096664",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "baac005597c04811b289654b69dad396",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "U.FL-R-SMT(10)",
+        "footprint": "ANT-SMD_U.FL-R-SMT10",
+        "supplierId": "C434808",
+        "manufacturer": "HRS(广濑)"
+      },
+      {
+        "uuid": "4159ba7cecd44b679c82ab4ebbbaca3c",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "U.FL-R-SMT-1(01)",
+        "footprint": "RF-SMD_U.FL-R-SMT-1-80",
+        "supplierId": "C598199",
+        "manufacturer": "HRS(广濑)"
+      },
+      {
+        "uuid": "e81887b4170c4f0e84ad9c16e75addfc",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "U.FL-R-SMT-1(40)",
+        "footprint": "ANT-SMD_UFL-R-SMT-1",
+        "supplierId": "C434816",
+        "manufacturer": "HRS(广濑)"
+      },
+      {
+        "uuid": "e472616488314503b4939195379972e1",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "U.FL-R-SMT-1(10)",
+        "footprint": "ANT-SMD_UFL-R-SMT-1-10",
+        "supplierId": "C88373",
+        "manufacturer": "HRS(广濑)"
+      },
+      {
+        "uuid": "bab96af13ce04ded9617b5a5214de9d1",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "HMT-U.FL-R-SMT",
+        "footprint": "IPEX-SMD_4P-L2.6-W2.6-LS3.1",
+        "supplierId": "C53122033",
+        "manufacturer": "HMTCONN(华明通)"
+      },
+      {
+        "uuid": "3bac4e44ef6f440897c734e3dac49a7e",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "U.FL-R-SMT-1(01)_C596814",
+        "footprint": "IPEX-SMD_4P-L2.6-W2.6-LS3.0-2",
+        "supplierId": "C596814",
+        "manufacturer": ""
+      }
+    ],
+    "SIM CARD": [
+      {
+        "uuid": "9e5964c3b28b44e09c84aab6b9e12837",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CCM033001LFTR102",
+        "footprint": "SIM-SMD_CCM033001LFTR102",
+        "supplierId": "C9900003292",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "8fb55b58096a4d4eafdb563ccd836893",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MICRO_SIM_7P",
+        "footprint": "MICRO-SIM-SMD_MICRO_SIM_7P",
+        "supplierId": "C9900003889",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "377d5b883361433e91e20f5ac58e2395",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "MICROSIM_F",
+        "footprint": "SIM-SMD_SIM-SMD_MICROSIM_F",
+        "supplierId": "C9900005409",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "114191a47a444400acb8b510b92f0e04",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "S28-0B08F15A",
+        "footprint": "MICRO-SIM_S28-0B08F15A",
+        "supplierId": "C2889223",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "f1c36f0f721d4569a32f4a498025602f",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CSTS-0522135CF",
+        "footprint": "SIM-SMD_CSTU-21391348L-P",
+        "supplierId": "C9900012173",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "4a8f7478e4024426b77774d7551066a1",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "SIM-115C",
+        "footprint": "SIM-SMD_SIM-115C-1",
+        "supplierId": "C9900017356",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "d6403e874d59433f88adccc0b244a83c",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "TF-CARD-ETF010811020008X",
+        "footprint": "TF-SMD_TF-012",
+        "supplierId": "C9900021535",
+        "manufacturer": ""
+      },
+      {
+        "uuid": "62af463ce0a04fa98cf555081afbae70",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "TF_CARD_SELF",
+        "footprint": "TF-SMD_TF-15-15",
+        "supplierId": "C9900010414",
+        "manufacturer": ""
+      }
+    ],
+    "DSIC02LSGET": [
+      {
+        "uuid": "31b41de76eff4900a13f1188c811d8b6",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "DSIC02LSGET",
+        "footprint": "SW-SMD_4P-L6.0-W5.1-P2.54-LS9.3-BL",
+        "supplierId": "C54949",
+        "manufacturer": "YE"
+      },
+      {
+        "uuid": "10dbf3a23fbf44b8b98772b1127e6c90",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "HY-DSIC02LS",
+        "footprint": "SW-SMD_DSIC02LSGET",
+        "supplierId": "C25503163",
+        "manufacturer": "HanElectricity(瀚源)"
+      },
+      {
+        "uuid": "a1006a5aac3b4dd6b535210dd9d550fe",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "DSIC02LSGET_C3293152",
+        "footprint": "SW-SMD_DSIC02LSGET",
+        "supplierId": "C3293152",
+        "manufacturer": "康深"
+      }
+    ]
+  },
+  "windowId": "7f59f6fe-cee0-4116-a908-2223d15abdac"
+}

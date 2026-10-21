@@ -1,0 +1,25 @@
+{
+  "directory": "D:\\DTU\\PCB\\backups\\20261016-before-silk-hole-fix-093846",
+  "files": [
+    {
+      "name": "DTU-V0.13-60x70-Silkclean.epro2",
+      "sha256": "3bde65bf5cc9e0d98a8467c99d9799c4d594d2fc3cc587560a8ef26d2afe3f17"
+    },
+    {
+      "name": "DTU-V0.13-60x70-Silkclean-Gerber.zip",
+      "sha256": "8fe67d6c7de70fe7622f573d2c28c31a17d466b31b092a0cf2eaeff3b4f3ff55"
+    },
+    {
+      "name": "DTU-V0.13-60x70-\u4e1d\u5370\u7cbe\u7b80\u590d\u67e5\u5305.zip",
+      "sha256": "f10885d2166b860e431f79ec935fb7a17568bc4d4e849d2773b9d5e8f921da03"
+    },
+    {
+      "name": "current-pcb-delivery-v13.json",
+      "sha256": "e573db4c2b56acb3dce63eb21892dce33f482ee4f51eb50d3f52371b2d17d686"
+    },
+    {
+      "name": "silkholefix-before-source-v13.json",
+      "sha256": "1439eb3d7f5272fcc2908d5138872b56edabd21a73d334ddd72238c89133d8ee"
+    }
+  ]
+}

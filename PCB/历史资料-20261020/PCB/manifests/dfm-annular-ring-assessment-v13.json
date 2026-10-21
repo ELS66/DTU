@@ -1,0 +1,1632 @@
+{
+  "smallViaCount": 299,
+  "smallViaOuterDiameterMm": 0.45,
+  "smallViaDrillMm": 0.2,
+  "annularRingMm": 0.125,
+  "DFMWarningThresholdMm": 0.15,
+  "largerViaCount": 7,
+  "largerViaOuterDiameterMm": 0.65,
+  "largerViaDrillMm": 0.3,
+  "largerViaRingMm": 0.175,
+  "candidateOuterDiameterMm": 0.55,
+  "candidateRingMm": 0.175,
+  "candidateConflicts": [
+    {
+      "viaId": "078d67cc67266197",
+      "object": "cc08acbad963dbd4",
+      "kind": "track",
+      "gapMm": 0.1323204257435767
+    },
+    {
+      "viaId": "b9e64cb4c39069ae",
+      "object": "7dad81137ad6da9e",
+      "kind": "track",
+      "gapMm": 0.12499920000000486
+    },
+    {
+      "viaId": "4d1af5f1421d7bcd",
+      "object": "7dad81137ad6da9e",
+      "kind": "track",
+      "gapMm": 0.12499920000000488
+    },
+    {
+      "viaId": "4e47e6d269a024fa",
+      "object": "C33:2",
+      "kind": "pad",
+      "gapMm": 0.1252100200000008
+    },
+    {
+      "viaId": "4e47e6d269a024fa",
+      "object": "ade1a290ca7f09f4",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "a01191049fd2b5cf",
+      "object": "c6a3f5f448e06751",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "a01191049fd2b5cf",
+      "object": "U1:17",
+      "kind": "pad",
+      "gapMm": 0.12253032000000225
+    },
+    {
+      "viaId": "1a46936099218f7e",
+      "object": "ade1a290ca7f09f4",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "1a46936099218f7e",
+      "object": "C30:1",
+      "kind": "pad",
+      "gapMm": 0.1494492400000027
+    },
+    {
+      "viaId": "e22dd4cc3d934809",
+      "object": "RN1:5",
+      "kind": "pad",
+      "gapMm": 0.14817818516263867
+    },
+    {
+      "viaId": "e22dd4cc3d934809",
+      "object": "RN1:4",
+      "kind": "pad",
+      "gapMm": 0.1480313879256937
+    },
+    {
+      "viaId": "e22dd4cc3d934809",
+      "object": "8e3677871fa359a8",
+      "kind": "track",
+      "gapMm": 0.1501160576956741
+    },
+    {
+      "viaId": "e22dd4cc3d934809",
+      "object": "778948704866436c",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "0054d5d90c1e08bf",
+      "object": "f297512f2bcf2bda",
+      "kind": "track",
+      "gapMm": 0.1437737568810951
+    },
+    {
+      "viaId": "ecb68e5adda9c315",
+      "object": "5ff859bdef6476c6",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "aeeb969f21734515",
+      "object": "1f8ec6f3925261d5",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "aeeb969f21734515",
+      "object": "34d4a461098d9e19",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "ac5bd0f61b05ed5d",
+      "object": "cdc3305061afae7a",
+      "kind": "track",
+      "gapMm": 0.13810661949495162
+    },
+    {
+      "viaId": "e709615571d25492",
+      "object": "L1:1",
+      "kind": "pad",
+      "gapMm": 0.1253801999999986
+    },
+    {
+      "viaId": "ceb7832b369d753e",
+      "object": "1f8ec6f3925261d5",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "cefc46405bfc2018",
+      "object": "0b5e9dbec6175301",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "c03b3885f0c8dcc3",
+      "object": "680e08df11aa13c2",
+      "kind": "track",
+      "gapMm": 0.1478541294923057
+    },
+    {
+      "viaId": "c03b3885f0c8dcc3",
+      "object": "34d4a461098d9e19",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "c03b3885f0c8dcc3",
+      "object": "7e270a9bb0b9c772",
+      "kind": "track",
+      "gapMm": 0.12500174000000186
+    },
+    {
+      "viaId": "4a89e663ce756994",
+      "object": "27123d72dd3915be",
+      "kind": "track",
+      "gapMm": 0.14377555293231398
+    },
+    {
+      "viaId": "6ac5032d01eff10f",
+      "object": "65d8d985fbe52d97",
+      "kind": "track",
+      "gapMm": 0.14879900000000393
+    },
+    {
+      "viaId": "a950f3eeee6a714e",
+      "object": "ae933b0fa791ba9d",
+      "kind": "track",
+      "gapMm": 0.14880154000000445
+    },
+    {
+      "viaId": "8ebb7c89e60456d9",
+      "object": "124a6e18a916c5d0",
+      "kind": "via",
+      "gapMm": 0.14048848234905298
+    },
+    {
+      "viaId": "42233b9c0fa817b4",
+      "object": "026db366d7c896ea",
+      "kind": "track",
+      "gapMm": 0.14879900000000393
+    },
+    {
+      "viaId": "42233b9c0fa817b4",
+      "object": "c6a3f5f448e06751",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "42233b9c0fa817b4",
+      "object": "f7694e83bfef84af",
+      "kind": "via",
+      "gapMm": 0.1404849291256896
+    },
+    {
+      "viaId": "f7694e83bfef84af",
+      "object": "42233b9c0fa817b4",
+      "kind": "via",
+      "gapMm": 0.1404849291256896
+    },
+    {
+      "viaId": "c47bf802d4e34e37",
+      "object": "054030892e4505f0",
+      "kind": "track",
+      "gapMm": 0.14879900000001098
+    },
+    {
+      "viaId": "5ba59570adcef0c6",
+      "object": "d3051dab07d65649",
+      "kind": "via",
+      "gapMm": 0.11906726332602399
+    },
+    {
+      "viaId": "39f4f5d20a8d5f5d",
+      "object": "D8:2",
+      "kind": "pad",
+      "gapMm": 0.13301735377713939
+    },
+    {
+      "viaId": "39f4f5d20a8d5f5d",
+      "object": "68131e255dbd8c90",
+      "kind": "via",
+      "gapMm": 0.13290672223503264
+    },
+    {
+      "viaId": "39f4f5d20a8d5f5d",
+      "object": "cacc1fe0d3780c38",
+      "kind": "track",
+      "gapMm": 0.14880154000000087
+    },
+    {
+      "viaId": "124a6e18a916c5d0",
+      "object": "8ebb7c89e60456d9",
+      "kind": "via",
+      "gapMm": 0.14048848234905298
+    },
+    {
+      "viaId": "0fdbd588e5330a2b",
+      "object": "2995c91b0139904f",
+      "kind": "track",
+      "gapMm": 0.1288015799999993
+    },
+    {
+      "viaId": "eff920405c0d4e55",
+      "object": "ae8857400f3c33fb",
+      "kind": "track",
+      "gapMm": 0.14880154000000087
+    },
+    {
+      "viaId": "4af3282498e7a66a",
+      "object": "d66d9af663ee8fb4",
+      "kind": "via",
+      "gapMm": 0.14048492912567964
+    },
+    {
+      "viaId": "4af3282498e7a66a",
+      "object": "680e08df11aa13c2",
+      "kind": "track",
+      "gapMm": 0.14083666540621217
+    },
+    {
+      "viaId": "4af3282498e7a66a",
+      "object": "7e270a9bb0b9c772",
+      "kind": "track",
+      "gapMm": 0.12500174000000186
+    },
+    {
+      "viaId": "82cddde69fa8f4a2",
+      "object": "ae8857400f3c33fb",
+      "kind": "track",
+      "gapMm": 0.14879899999999682
+    },
+    {
+      "viaId": "5866fbc07836e441",
+      "object": "41b3e93e21abe5bc",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "5866fbc07836e441",
+      "object": "U1:7",
+      "kind": "pad",
+      "gapMm": 0.10925032137657353
+    },
+    {
+      "viaId": "5866fbc07836e441",
+      "object": "U1:8",
+      "kind": "pad",
+      "gapMm": 0.12863645729141074
+    },
+    {
+      "viaId": "ecfb8949c2e5bb9d",
+      "object": "5e39c1217894e745",
+      "kind": "track",
+      "gapMm": 0.14879899999999682
+    },
+    {
+      "viaId": "ecfb8949c2e5bb9d",
+      "object": "1febef13bf20fccc",
+      "kind": "via",
+      "gapMm": 0.1404849291256912
+    },
+    {
+      "viaId": "ecfb8949c2e5bb9d",
+      "object": "fe0fe381eb761476",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "ecfb8949c2e5bb9d",
+      "object": "55752276f2fa2629",
+      "kind": "track",
+      "gapMm": 0.14377555293231398
+    },
+    {
+      "viaId": "0dae72c8060dad28",
+      "object": "d675d0f02ac474fa",
+      "kind": "track",
+      "gapMm": 0.14880154000000445
+    },
+    {
+      "viaId": "0dae72c8060dad28",
+      "object": "ae933b0fa791ba9d",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "76cfd579e99476ba",
+      "object": "2995c91b0139904f",
+      "kind": "track",
+      "gapMm": 0.14879900000000387
+    },
+    {
+      "viaId": "76cfd579e99476ba",
+      "object": "dd85a8320fb6e514",
+      "kind": "via",
+      "gapMm": 0.15229159840139522
+    },
+    {
+      "viaId": "513097eb9293c01b",
+      "object": "e8c29ea6480a91d2",
+      "kind": "track",
+      "gapMm": 0.1250017399999983
+    },
+    {
+      "viaId": "49af5a167a1c5462",
+      "object": "RN3:8",
+      "kind": "pad",
+      "gapMm": 0.1287048025605492
+    },
+    {
+      "viaId": "1ad71257f7f70b14",
+      "object": "af6eab93a790d85b",
+      "kind": "track",
+      "gapMm": 0.14153163388269305
+    },
+    {
+      "viaId": "1ad71257f7f70b14",
+      "object": "d6e5745ba47bfe26",
+      "kind": "track",
+      "gapMm": 0.11992602072541725
+    },
+    {
+      "viaId": "1ad71257f7f70b14",
+      "object": "369d4c0c47dd1768",
+      "kind": "track",
+      "gapMm": 0.11096936121564605
+    },
+    {
+      "viaId": "43c859396b766b5f",
+      "object": "67a104d2090364bd",
+      "kind": "track",
+      "gapMm": 0.12380032000000797
+    },
+    {
+      "viaId": "c8876beeb4e233ac",
+      "object": "23bd581d8c6b95e8",
+      "kind": "track",
+      "gapMm": 0.12380032000000797
+    },
+    {
+      "viaId": "94c959e47d2e1bf2",
+      "object": "3f50d0224078f7e2",
+      "kind": "track",
+      "gapMm": 0.1415282517599427
+    },
+    {
+      "viaId": "d3051dab07d65649",
+      "object": "23bd581d8c6b95e8",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "d3051dab07d65649",
+      "object": "3f50d0224078f7e2",
+      "kind": "track",
+      "gapMm": 0.14152932124649883
+    },
+    {
+      "viaId": "d3051dab07d65649",
+      "object": "5ba59570adcef0c6",
+      "kind": "via",
+      "gapMm": 0.11906726332602399
+    },
+    {
+      "viaId": "ad7e71569fe37064",
+      "object": "3377db954de4eb3c",
+      "kind": "track",
+      "gapMm": 0.1415282517599427
+    },
+    {
+      "viaId": "fd302ef1e665d731",
+      "object": "41b3e93e21abe5bc",
+      "kind": "track",
+      "gapMm": 0.13162928601803325
+    },
+    {
+      "viaId": "c9cfe2f76e16b555",
+      "object": "c6a09fa56e63c060",
+      "kind": "track",
+      "gapMm": 0.1512678758885741
+    },
+    {
+      "viaId": "8c94f32b9df215b8",
+      "object": "57571779adf3d679",
+      "kind": "track",
+      "gapMm": 0.12500174000000186
+    },
+    {
+      "viaId": "a7181be220bdb3f4",
+      "object": "eb3c2e85028cb506",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "8674d67e137230df",
+      "object": "6e27070a053a3578",
+      "kind": "track",
+      "gapMm": 0.12380032000000084
+    },
+    {
+      "viaId": "8674d67e137230df",
+      "object": "1cd2a80e04905422",
+      "kind": "via",
+      "gapMm": 0.12117778769497746
+    },
+    {
+      "viaId": "8674d67e137230df",
+      "object": "4a3ee00db7d2304f",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "8674d67e137230df",
+      "object": "c72b310a1f99f307",
+      "kind": "track",
+      "gapMm": 0.13720090803472487
+    },
+    {
+      "viaId": "c82ab33a1f65480a",
+      "object": "5cd57319920ba9c2",
+      "kind": "track",
+      "gapMm": 0.12380031999999376
+    },
+    {
+      "viaId": "38334f63cac5d625",
+      "object": "ae933b0fa791ba9d",
+      "kind": "track",
+      "gapMm": 0.1415282517599546
+    },
+    {
+      "viaId": "38334f63cac5d625",
+      "object": "C30:2",
+      "kind": "pad",
+      "gapMm": 0.13246184493101043
+    },
+    {
+      "viaId": "a9b9ba87672a2edf",
+      "object": "C31:1",
+      "kind": "pad",
+      "gapMm": 0.14451705314951466
+    },
+    {
+      "viaId": "466cec7144cc02ae",
+      "object": "d10cbe1435451c2b",
+      "kind": "track",
+      "gapMm": 0.11366115772138825
+    },
+    {
+      "viaId": "0367ffcc6101a86a",
+      "object": "d675d0f02ac474fa",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "0367ffcc6101a86a",
+      "object": "5fbe6a0c32ae5bbf",
+      "kind": "track",
+      "gapMm": 0.149146900090075
+    },
+    {
+      "viaId": "0367ffcc6101a86a",
+      "object": "d998203e9ab86592",
+      "kind": "track",
+      "gapMm": 0.11366201342161605
+    },
+    {
+      "viaId": "ba6ada48dfa2731d",
+      "object": "b49fb0a4856d3f55",
+      "kind": "track",
+      "gapMm": 0.12500174000000186
+    },
+    {
+      "viaId": "dd85a8320fb6e514",
+      "object": "2995c91b0139904f",
+      "kind": "track",
+      "gapMm": 0.1464706219440657
+    },
+    {
+      "viaId": "dd85a8320fb6e514",
+      "object": "76cfd579e99476ba",
+      "kind": "via",
+      "gapMm": 0.15229159840139522
+    },
+    {
+      "viaId": "dd85a8320fb6e514",
+      "object": "5fbe6a0c32ae5bbf",
+      "kind": "track",
+      "gapMm": 0.12438027998542046
+    },
+    {
+      "viaId": "74a721a974fa8d8f",
+      "object": "7ffc05ad813bd823",
+      "kind": "via",
+      "gapMm": 0.12728631895003242
+    },
+    {
+      "viaId": "9d1d9f2c6366c6c5",
+      "object": "2995c91b0139904f",
+      "kind": "track",
+      "gapMm": 0.14377411609070417
+    },
+    {
+      "viaId": "62300cd6de97c40e",
+      "object": "c656f261684f9ceb",
+      "kind": "via",
+      "gapMm": 0.11906726332603088
+    },
+    {
+      "viaId": "62300cd6de97c40e",
+      "object": "03045e22c0f58030",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "b704426fa578cfc7",
+      "object": "c5dc426a548e52f2",
+      "kind": "track",
+      "gapMm": 0.1372009080347207
+    },
+    {
+      "viaId": "b704426fa578cfc7",
+      "object": "RN4:4",
+      "kind": "pad",
+      "gapMm": 0.12857864559643312
+    },
+    {
+      "viaId": "9cbcb8aba783a981",
+      "object": "b49fb0a4856d3f55",
+      "kind": "track",
+      "gapMm": 0.12499920000000132
+    },
+    {
+      "viaId": "ec57077f3dd26cfd",
+      "object": "04a08c2e106a09b8",
+      "kind": "track",
+      "gapMm": 0.14879900000000745
+    },
+    {
+      "viaId": "ec57077f3dd26cfd",
+      "object": "U7:14",
+      "kind": "pad",
+      "gapMm": 0.13243091462462117
+    },
+    {
+      "viaId": "209317caee097b98",
+      "object": "U7:9",
+      "kind": "pad",
+      "gapMm": 0.13314775439424614
+    },
+    {
+      "viaId": "5a60860386c9a4a1",
+      "object": "2995c91b0139904f",
+      "kind": "track",
+      "gapMm": 0.10868306331843765
+    },
+    {
+      "viaId": "2d9de6afa15196d7",
+      "object": "27b3f10d8e9022bc",
+      "kind": "via",
+      "gapMm": 0.1329082580567288
+    },
+    {
+      "viaId": "2d9de6afa15196d7",
+      "object": "cacc1fe0d3780c38",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "d562ca35ae459883",
+      "object": "f3198e4b7214fe86",
+      "kind": "track",
+      "gapMm": 0.1308497418260384
+    },
+    {
+      "viaId": "d562ca35ae459883",
+      "object": "ce9115c194aaaf32",
+      "kind": "track",
+      "gapMm": 0.1308497418260395
+    },
+    {
+      "viaId": "898ca265f17c52fa",
+      "object": "0b39c693b43b1ea7",
+      "kind": "track",
+      "gapMm": 0.11335017145955718
+    },
+    {
+      "viaId": "fd6c2fb7019faf50",
+      "object": "0433209466e010e3",
+      "kind": "track",
+      "gapMm": 0.12218833909655726
+    },
+    {
+      "viaId": "fd6c2fb7019faf50",
+      "object": "0571f627cb92ed52",
+      "kind": "track",
+      "gapMm": 0.1522176507129231
+    },
+    {
+      "viaId": "67e3f209ae198809",
+      "object": "1e6a1f0d16537f08",
+      "kind": "track",
+      "gapMm": 0.14880153999999912
+    },
+    {
+      "viaId": "ae20d89a931683e5",
+      "object": "421cb58442dc5dab",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "ae20d89a931683e5",
+      "object": "39e9aac9919b6bea",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "287141cbaa8789fc",
+      "object": "24668c515ff24143",
+      "kind": "track",
+      "gapMm": 0.1415282280193585
+    },
+    {
+      "viaId": "287141cbaa8789fc",
+      "object": "72702f4a2a9d08ed",
+      "kind": "track",
+      "gapMm": 0.12499919999999774
+    },
+    {
+      "viaId": "287141cbaa8789fc",
+      "object": "461ea720c2baa071",
+      "kind": "track",
+      "gapMm": 0.12499919999999774
+    },
+    {
+      "viaId": "287141cbaa8789fc",
+      "object": "e6aabf06674fed75",
+      "kind": "track",
+      "gapMm": 0.12499919999999774
+    },
+    {
+      "viaId": "287141cbaa8789fc",
+      "object": "7141b0b742a00f60",
+      "kind": "via",
+      "gapMm": 0.1265875467713872
+    },
+    {
+      "viaId": "026b68367e7fffbc",
+      "object": "800761ecc9deb7f3",
+      "kind": "track",
+      "gapMm": 0.1249992000000013
+    },
+    {
+      "viaId": "5ac8d0d1e875206c",
+      "object": "5ff859bdef6476c6",
+      "kind": "track",
+      "gapMm": 0.14880154000000093
+    },
+    {
+      "viaId": "c67f4fe96146c1c4",
+      "object": "930a09de688845a3",
+      "kind": "track",
+      "gapMm": 0.15104735380935036
+    },
+    {
+      "viaId": "16506acbbefc56e8",
+      "object": "930a09de688845a3",
+      "kind": "track",
+      "gapMm": 0.1250017400000054
+    },
+    {
+      "viaId": "89874552aef43aae",
+      "object": "b49fb0a4856d3f55",
+      "kind": "track",
+      "gapMm": 0.127319311174856
+    },
+    {
+      "viaId": "2edd67d212b8ce3d",
+      "object": "fb2d950154672c84",
+      "kind": "track",
+      "gapMm": 0.14880153999999735
+    },
+    {
+      "viaId": "3b956041232fce66",
+      "object": "04a08c2e106a09b8",
+      "kind": "track",
+      "gapMm": 0.1270071653845507
+    },
+    {
+      "viaId": "3b956041232fce66",
+      "object": "4760cd9116670ba2",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "3b956041232fce66",
+      "object": "4609c691dd37ce9e",
+      "kind": "via",
+      "gapMm": 0.13290825805673215
+    },
+    {
+      "viaId": "153e0a3807d30526",
+      "object": "U7:11",
+      "kind": "pad",
+      "gapMm": 0.12172741006996375
+    },
+    {
+      "viaId": "153e0a3807d30526",
+      "object": "32e54ba5cf192167",
+      "kind": "via",
+      "gapMm": 0.1250004699999998
+    },
+    {
+      "viaId": "153e0a3807d30526",
+      "object": "ae933b0fa791ba9d",
+      "kind": "track",
+      "gapMm": 0.1453352877594118
+    },
+    {
+      "viaId": "c5468892750fb5ad",
+      "object": "e928df43257c484a",
+      "kind": "track",
+      "gapMm": 0.14377546312916617
+    },
+    {
+      "viaId": "b6f81e532cb74988",
+      "object": "a90f0778d6e73ff6",
+      "kind": "track",
+      "gapMm": 0.12499919999999777
+    },
+    {
+      "viaId": "b6f81e532cb74988",
+      "object": "RN1:1",
+      "kind": "pad",
+      "gapMm": 0.1492511199999953
+    },
+    {
+      "viaId": "78cb874d7f768948",
+      "object": "D4:1",
+      "kind": "pad",
+      "gapMm": 0.14126027999999732
+    },
+    {
+      "viaId": "a58e135ca75e37c0",
+      "object": "0b5e9dbec6175301",
+      "kind": "track",
+      "gapMm": 0.1415282517599427
+    },
+    {
+      "viaId": "a58e135ca75e37c0",
+      "object": "ae8857400f3c33fb",
+      "kind": "track",
+      "gapMm": 0.14152822801935547
+    },
+    {
+      "viaId": "32e54ba5cf192167",
+      "object": "U7:10",
+      "kind": "pad",
+      "gapMm": 0.13676284860136892
+    },
+    {
+      "viaId": "32e54ba5cf192167",
+      "object": "d675d0f02ac474fa",
+      "kind": "track",
+      "gapMm": 0.11149310179272069
+    },
+    {
+      "viaId": "32e54ba5cf192167",
+      "object": "153e0a3807d30526",
+      "kind": "via",
+      "gapMm": 0.1250004699999998
+    },
+    {
+      "viaId": "8072b68eee580710",
+      "object": "fe0fe381eb761476",
+      "kind": "track",
+      "gapMm": 0.13425802381719926
+    },
+    {
+      "viaId": "f6e9c43708c21769",
+      "object": "U6:6",
+      "kind": "pad",
+      "gapMm": 0.11078028000000018
+    },
+    {
+      "viaId": "f6e9c43708c21769",
+      "object": "2dc55fb84126d303",
+      "kind": "track",
+      "gapMm": 0.12324502809483517
+    },
+    {
+      "viaId": "1b5108dd7378941f",
+      "object": "cacc1fe0d3780c38",
+      "kind": "track",
+      "gapMm": 0.1296956367667469
+    },
+    {
+      "viaId": "1b5108dd7378941f",
+      "object": "cf5b38474debcfa4",
+      "kind": "track",
+      "gapMm": 0.12380032000000085
+    },
+    {
+      "viaId": "e04a0a15286d11fc",
+      "object": "R38:1",
+      "kind": "pad",
+      "gapMm": 0.1067099782691393
+    },
+    {
+      "viaId": "8ef3961e412d454e",
+      "object": "D7:2",
+      "kind": "pad",
+      "gapMm": 0.1452811000000054
+    },
+    {
+      "viaId": "34b60ad8f5df3b06",
+      "object": "03045e22c0f58030",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "34b60ad8f5df3b06",
+      "object": "C70:2",
+      "kind": "pad",
+      "gapMm": 0.1273458935697085
+    },
+    {
+      "viaId": "34b60ad8f5df3b06",
+      "object": "U10:4",
+      "kind": "pad",
+      "gapMm": 0.13889659024486525
+    },
+    {
+      "viaId": "34b60ad8f5df3b06",
+      "object": "U1:19",
+      "kind": "pad",
+      "gapMm": 0.12253032000000097
+    },
+    {
+      "viaId": "3dfdcb2cee05317b",
+      "object": "27123d72dd3915be",
+      "kind": "track",
+      "gapMm": 0.14921483973512184
+    },
+    {
+      "viaId": "b586523f79efa1f6",
+      "object": "R35:2",
+      "kind": "pad",
+      "gapMm": 0.12697884150721556
+    },
+    {
+      "viaId": "b586523f79efa1f6",
+      "object": "C92:2",
+      "kind": "pad",
+      "gapMm": 0.1149580467921077
+    },
+    {
+      "viaId": "b586523f79efa1f6",
+      "object": "C92:1",
+      "kind": "pad",
+      "gapMm": 0.11491182773907334
+    },
+    {
+      "viaId": "7525002bc8923a9c",
+      "object": "RN4:7",
+      "kind": "pad",
+      "gapMm": 0.13741074664079211
+    },
+    {
+      "viaId": "482d227eca9b8525",
+      "object": "4de118cfbf2eaf1e",
+      "kind": "track",
+      "gapMm": 0.14879899999999968
+    },
+    {
+      "viaId": "019a836a32973796",
+      "object": "1a654da9cc99b4fa",
+      "kind": "track",
+      "gapMm": 0.14377375688109056
+    },
+    {
+      "viaId": "81ac110a8fc3a335",
+      "object": "dc2dfe486b9247c0",
+      "kind": "track",
+      "gapMm": 0.13182775352482623
+    },
+    {
+      "viaId": "81ac110a8fc3a335",
+      "object": "C52:2",
+      "kind": "pad",
+      "gapMm": 0.11627251168089374
+    },
+    {
+      "viaId": "c3899b0276c364c4",
+      "object": "27123d72dd3915be",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "c3899b0276c364c4",
+      "object": "7e270a9bb0b9c772",
+      "kind": "track",
+      "gapMm": 0.12499920000001198
+    },
+    {
+      "viaId": "1cd2a80e04905422",
+      "object": "8674d67e137230df",
+      "kind": "via",
+      "gapMm": 0.12117778769497746
+    },
+    {
+      "viaId": "6f8acd576f88f4c0",
+      "object": "39e9aac9919b6bea",
+      "kind": "track",
+      "gapMm": 0.14879900000000035
+    },
+    {
+      "viaId": "89d338ac9d0ed3ab",
+      "object": "3eb2d55546ec2aa8",
+      "kind": "track",
+      "gapMm": 0.14880154000000093
+    },
+    {
+      "viaId": "21312cbc781720c1",
+      "object": "0331683023a860c2",
+      "kind": "track",
+      "gapMm": 0.11366354924331136
+    },
+    {
+      "viaId": "7141b0b742a00f60",
+      "object": "287141cbaa8789fc",
+      "kind": "via",
+      "gapMm": 0.1265875467713872
+    },
+    {
+      "viaId": "7141b0b742a00f60",
+      "object": "026db366d7c896ea",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "0bb89431c8716bcb",
+      "object": "ae8857400f3c33fb",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "93b1d70818cc55e1",
+      "object": "482fe1c5de1345ce",
+      "kind": "track",
+      "gapMm": 0.12499919999999777
+    },
+    {
+      "viaId": "4efff33ab9ddafac",
+      "object": "D5:2",
+      "kind": "pad",
+      "gapMm": 0.12411020000000404
+    },
+    {
+      "viaId": "4efff33ab9ddafac",
+      "object": "2995c91b0139904f",
+      "kind": "track",
+      "gapMm": 0.14879899999999677
+    },
+    {
+      "viaId": "849eecf2b2f67b7c",
+      "object": "ab22cd8b44219e3d",
+      "kind": "track",
+      "gapMm": 0.14879900000000393
+    },
+    {
+      "viaId": "d7e9179a40c55a04",
+      "object": "ee76a15326049d94",
+      "kind": "track",
+      "gapMm": 0.12500174000000186
+    },
+    {
+      "viaId": "3383c5173713bc57",
+      "object": "34d4a461098d9e19",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "7f6869d409f26b8c",
+      "object": "420f40153e7bf428",
+      "kind": "track",
+      "gapMm": 0.12499920000000128
+    },
+    {
+      "viaId": "7f6869d409f26b8c",
+      "object": "1df64a40da89e911",
+      "kind": "via",
+      "gapMm": 0.13290586653480593
+    },
+    {
+      "viaId": "7f6869d409f26b8c",
+      "object": "8f85e6aa7cbb3f0e",
+      "kind": "track",
+      "gapMm": 0.12152371050031271
+    },
+    {
+      "viaId": "7f6869d409f26b8c",
+      "object": "d675d0f02ac474fa",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "c1e7734b14378d53",
+      "object": "9c11ace72ab6e501",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "c1e7734b14378d53",
+      "object": "fb2d950154672c84",
+      "kind": "track",
+      "gapMm": 0.14879900000000035
+    },
+    {
+      "viaId": "f0f107757661e73c",
+      "object": "e8c29ea6480a91d2",
+      "kind": "track",
+      "gapMm": 0.12499920000000131
+    },
+    {
+      "viaId": "112a1382052529cf",
+      "object": "3eb2d55546ec2aa8",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "547a7f30d0dcfb47",
+      "object": "46245afd0c54ab5f",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "0cfb66b13453d833",
+      "object": "U5:7",
+      "kind": "pad",
+      "gapMm": 0.1254792600000023
+    },
+    {
+      "viaId": "4c09f9e41cf2a28b",
+      "object": "0bdca8c4704e0bf6",
+      "kind": "track",
+      "gapMm": 0.1437750477926174
+    },
+    {
+      "viaId": "aaac5bd1b6fbbf4a",
+      "object": "R31:2",
+      "kind": "pad",
+      "gapMm": 0.12496109999999659
+    },
+    {
+      "viaId": "aaac5bd1b6fbbf4a",
+      "object": "d675d0f02ac474fa",
+      "kind": "track",
+      "gapMm": 0.14880153999999735
+    },
+    {
+      "viaId": "aaac5bd1b6fbbf4a",
+      "object": "5e39c1217894e745",
+      "kind": "track",
+      "gapMm": 0.14503204766249478
+    },
+    {
+      "viaId": "e0931d27cf665fb7",
+      "object": "ae8857400f3c33fb",
+      "kind": "track",
+      "gapMm": 0.14879900000000387
+    },
+    {
+      "viaId": "fb678ad7f7c4ac4f",
+      "object": "ba926dafc1949677",
+      "kind": "track",
+      "gapMm": 0.14880154
+    },
+    {
+      "viaId": "fb678ad7f7c4ac4f",
+      "object": "RN5:6",
+      "kind": "pad",
+      "gapMm": 0.13843283232896747
+    },
+    {
+      "viaId": "fb678ad7f7c4ac4f",
+      "object": "4de118cfbf2eaf1e",
+      "kind": "track",
+      "gapMm": 0.14879900000000013
+    },
+    {
+      "viaId": "f1daf9cf89eec3ae",
+      "object": "af6eab93a790d85b",
+      "kind": "track",
+      "gapMm": 0.14377375688108968
+    },
+    {
+      "viaId": "18e40596381244ed",
+      "object": "34d4a461098d9e19",
+      "kind": "track",
+      "gapMm": 0.14377555293231895
+    },
+    {
+      "viaId": "18e40596381244ed",
+      "object": "7e270a9bb0b9c772",
+      "kind": "track",
+      "gapMm": 0.12499920000001198
+    },
+    {
+      "viaId": "c656f261684f9ceb",
+      "object": "62300cd6de97c40e",
+      "kind": "via",
+      "gapMm": 0.11906726332603088
+    },
+    {
+      "viaId": "aadcbee33c99cb74",
+      "object": "29b7c2a981fb931e",
+      "kind": "track",
+      "gapMm": 0.14880154
+    },
+    {
+      "viaId": "aadcbee33c99cb74",
+      "object": "1a654da9cc99b4fa",
+      "kind": "track",
+      "gapMm": 0.14377398138566802
+    },
+    {
+      "viaId": "ea636b9889a54807",
+      "object": "U2:11",
+      "kind": "pad",
+      "gapMm": 0.12860684795645658
+    },
+    {
+      "viaId": "5e22a14cff21bd50",
+      "object": "34d4a461098d9e19",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "d3dfa6fb5bcc4c53",
+      "object": "1f8ec6f3925261d5",
+      "kind": "track",
+      "gapMm": 0.148801540000008
+    },
+    {
+      "viaId": "d3dfa6fb5bcc4c53",
+      "object": "RN4:2",
+      "kind": "pad",
+      "gapMm": 0.13776061751319432
+    },
+    {
+      "viaId": "584b21228a8c6185",
+      "object": "2dc55fb84126d303",
+      "kind": "track",
+      "gapMm": 0.12625610657605904
+    },
+    {
+      "viaId": "584b21228a8c6185",
+      "object": "J4:9",
+      "kind": "pad",
+      "gapMm": 0.12465884000000216
+    },
+    {
+      "viaId": "b974c61724401593",
+      "object": "3eb2d55546ec2aa8",
+      "kind": "track",
+      "gapMm": 0.14880154000000093
+    },
+    {
+      "viaId": "60344cfaefdbcf34",
+      "object": "af93e377da2eb860",
+      "kind": "track",
+      "gapMm": 0.14880154000000087
+    },
+    {
+      "viaId": "940df9b800e0f2c3",
+      "object": "9e02cb505da9c1c7",
+      "kind": "track",
+      "gapMm": 0.1512966043394195
+    },
+    {
+      "viaId": "9ca3c30c2d0b93b8",
+      "object": "ae8857400f3c33fb",
+      "kind": "track",
+      "gapMm": 0.14879900000000387
+    },
+    {
+      "viaId": "28731e6a6adbb105",
+      "object": "19d0830afef97f5b",
+      "kind": "track",
+      "gapMm": 0.1406881856808396
+    },
+    {
+      "viaId": "9dbedb02811a1760",
+      "object": "U2:102",
+      "kind": "pad",
+      "gapMm": 0.1357311586988862
+    },
+    {
+      "viaId": "9dbedb02811a1760",
+      "object": "U2:103",
+      "kind": "pad",
+      "gapMm": 0.14019429368689718
+    },
+    {
+      "viaId": "63057dc7a84f8f35",
+      "object": "D1:2",
+      "kind": "pad",
+      "gapMm": 0.12806379144635513
+    },
+    {
+      "viaId": "862cddb575adf501",
+      "object": "30030a03d14c6cea",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "862cddb575adf501",
+      "object": "d5fa68b8dc4a0d51",
+      "kind": "track",
+      "gapMm": 0.14879899999999682
+    },
+    {
+      "viaId": "be9ca65acb1ea73f",
+      "object": "ea6544c44240eca1",
+      "kind": "track",
+      "gapMm": 0.11153716458414506
+    },
+    {
+      "viaId": "be9ca65acb1ea73f",
+      "object": "482fe1c5de1345ce",
+      "kind": "track",
+      "gapMm": 0.1321059669729868
+    },
+    {
+      "viaId": "9bf673116532ff13",
+      "object": "R32:1",
+      "kind": "pad",
+      "gapMm": 0.14393998000000252
+    },
+    {
+      "viaId": "9bf673116532ff13",
+      "object": "56b08f667e216b7f",
+      "kind": "track",
+      "gapMm": 0.14879900000000745
+    },
+    {
+      "viaId": "9bf673116532ff13",
+      "object": "6b689830900f667b",
+      "kind": "via",
+      "gapMm": 0.14048492912569194
+    },
+    {
+      "viaId": "9bf673116532ff13",
+      "object": "a8040fe4edfce536",
+      "kind": "track",
+      "gapMm": 0.14879900000000035
+    },
+    {
+      "viaId": "1febef13bf20fccc",
+      "object": "ecfb8949c2e5bb9d",
+      "kind": "via",
+      "gapMm": 0.1404849291256912
+    },
+    {
+      "viaId": "6b689830900f667b",
+      "object": "9bf673116532ff13",
+      "kind": "via",
+      "gapMm": 0.14048492912569194
+    },
+    {
+      "viaId": "bc301ab8f55e2539",
+      "object": "d998203e9ab86592",
+      "kind": "track",
+      "gapMm": 0.11366115772138313
+    },
+    {
+      "viaId": "f351085b1a94044a",
+      "object": "2995c91b0139904f",
+      "kind": "track",
+      "gapMm": 0.12438290990821059
+    },
+    {
+      "viaId": "f351085b1a94044a",
+      "object": "a6301aee9b755935",
+      "kind": "track",
+      "gapMm": 0.14879899999999677
+    },
+    {
+      "viaId": "f351085b1a94044a",
+      "object": "a12e05cfb29262b0",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "d04c97a01cea328e",
+      "object": "5e3b72614d35cad8",
+      "kind": "track",
+      "gapMm": 0.1146525843106783
+    },
+    {
+      "viaId": "4a7455f6890f6bff",
+      "object": "C81:1",
+      "kind": "pad",
+      "gapMm": 0.12001063999999939
+    },
+    {
+      "viaId": "52e99a34f267ee7d",
+      "object": "e5d2ee1c48cdaa1a",
+      "kind": "track",
+      "gapMm": 0.148799000000011
+    },
+    {
+      "viaId": "da3dcbdf9de54636",
+      "object": "ea6544c44240eca1",
+      "kind": "track",
+      "gapMm": 0.14879900000000387
+    },
+    {
+      "viaId": "da3dcbdf9de54636",
+      "object": "30030a03d14c6cea",
+      "kind": "track",
+      "gapMm": 0.12189920839409157
+    },
+    {
+      "viaId": "68131e255dbd8c90",
+      "object": "39f4f5d20a8d5f5d",
+      "kind": "via",
+      "gapMm": 0.13290672223503264
+    },
+    {
+      "viaId": "a75a4dad82babd14",
+      "object": "D4:1",
+      "kind": "pad",
+      "gapMm": 0.1299496600000047
+    },
+    {
+      "viaId": "a75a4dad82babd14",
+      "object": "2137f3e97ff1f578",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "a75a4dad82babd14",
+      "object": "ae933b0fa791ba9d",
+      "kind": "track",
+      "gapMm": 0.14880154000000093
+    },
+    {
+      "viaId": "27b3f10d8e9022bc",
+      "object": "2d9de6afa15196d7",
+      "kind": "via",
+      "gapMm": 0.1329082580567288
+    },
+    {
+      "viaId": "3647796fbf5a9f37",
+      "object": "cb2f545619e466e0",
+      "kind": "track",
+      "gapMm": 0.12500174000000186
+    },
+    {
+      "viaId": "3647796fbf5a9f37",
+      "object": "5e39c1217894e745",
+      "kind": "track",
+      "gapMm": 0.14880153999999737
+    },
+    {
+      "viaId": "1df64a40da89e911",
+      "object": "4ace113b9477fdc9",
+      "kind": "track",
+      "gapMm": 0.13663322391517246
+    },
+    {
+      "viaId": "1df64a40da89e911",
+      "object": "420f40153e7bf428",
+      "kind": "track",
+      "gapMm": 0.12499920000000131
+    },
+    {
+      "viaId": "1df64a40da89e911",
+      "object": "7f6869d409f26b8c",
+      "kind": "via",
+      "gapMm": 0.13290586653480593
+    },
+    {
+      "viaId": "602d5f7f80f47385",
+      "object": "C35:2",
+      "kind": "pad",
+      "gapMm": 0.1253700399999964
+    },
+    {
+      "viaId": "d12317c993cd99cc",
+      "object": "27123d72dd3915be",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "d12317c993cd99cc",
+      "object": "7e270a9bb0b9c772",
+      "kind": "track",
+      "gapMm": 0.12500174000000186
+    },
+    {
+      "viaId": "d66d9af663ee8fb4",
+      "object": "9b9a9c0f85cc041f",
+      "kind": "track",
+      "gapMm": 0.14880154000000798
+    },
+    {
+      "viaId": "d66d9af663ee8fb4",
+      "object": "4af3282498e7a66a",
+      "kind": "via",
+      "gapMm": 0.14048492912567964
+    },
+    {
+      "viaId": "d66d9af663ee8fb4",
+      "object": "af6eab93a790d85b",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "fa6c9b424a6611ea",
+      "object": "2995c91b0139904f",
+      "kind": "track",
+      "gapMm": 0.11671075773774439
+    },
+    {
+      "viaId": "fa6c9b424a6611ea",
+      "object": "41c711612aa6769c",
+      "kind": "track",
+      "gapMm": 0.1487989999999968
+    },
+    {
+      "viaId": "625bc36c57a6133b",
+      "object": "2df7b48c644e9112",
+      "kind": "track",
+      "gapMm": 0.14880154000000093
+    },
+    {
+      "viaId": "4609c691dd37ce9e",
+      "object": "d675d0f02ac474fa",
+      "kind": "track",
+      "gapMm": 0.14879899999999677
+    },
+    {
+      "viaId": "4609c691dd37ce9e",
+      "object": "3b956041232fce66",
+      "kind": "via",
+      "gapMm": 0.13290825805673215
+    },
+    {
+      "viaId": "4609c691dd37ce9e",
+      "object": "ae933b0fa791ba9d",
+      "kind": "track",
+      "gapMm": 0.14880153999999732
+    },
+    {
+      "viaId": "99750be6575c3920",
+      "object": "c4f2b856f7b4ebe5",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "99750be6575c3920",
+      "object": "2995c91b0139904f",
+      "kind": "track",
+      "gapMm": 0.14879900000000032
+    },
+    {
+      "viaId": "507765f02d2f0f7b",
+      "object": "c4f2b856f7b4ebe5",
+      "kind": "track",
+      "gapMm": 0.1487990000000039
+    },
+    {
+      "viaId": "507765f02d2f0f7b",
+      "object": "e24ab754a2313c59",
+      "kind": "track",
+      "gapMm": 0.1488015400000009
+    },
+    {
+      "viaId": "5734f88976368655",
+      "object": "RN3:2",
+      "kind": "pad",
+      "gapMm": 0.12468931999999454
+    },
+    {
+      "viaId": "5734f88976368655",
+      "object": "RN3:7",
+      "kind": "pad",
+      "gapMm": 0.12541068000000166
+    },
+    {
+      "viaId": "5734f88976368655",
+      "object": "88568e125932b38d",
+      "kind": "track",
+      "gapMm": 0.14377555293231395
+    },
+    {
+      "viaId": "ccf5bb9d181310b2",
+      "object": "c5f3b276c1631ac9",
+      "kind": "track",
+      "gapMm": 0.14377555293231647
+    },
+    {
+      "viaId": "ccf5bb9d181310b2",
+      "object": "ae8857400f3c33fb",
+      "kind": "track",
+      "gapMm": 0.14880153999999376
+    },
+    {
+      "viaId": "e26c0e9ef26ca956",
+      "object": "1e6a1f0d16537f08",
+      "kind": "track",
+      "gapMm": 0.14377491148298793
+    },
+    {
+      "viaId": "6912d1a98351b396",
+      "object": "cc08acbad963dbd4",
+      "kind": "track",
+      "gapMm": 0.1265652795660074
+    },
+    {
+      "viaId": "6912d1a98351b396",
+      "object": "c318a2d17b8e14a3",
+      "kind": "track",
+      "gapMm": 0.12499919999999955
+    },
+    {
+      "viaId": "6912d1a98351b396",
+      "object": "f3198e4b7214fe86",
+      "kind": "track",
+      "gapMm": 0.12499792999999924
+    },
+    {
+      "viaId": "631c538bfe6a4bd0",
+      "object": "421cb58442dc5dab",
+      "kind": "track",
+      "gapMm": 0.1437737568810919
+    },
+    {
+      "viaId": "41d0c30ef8481ded",
+      "object": "2995c91b0139904f",
+      "kind": "track",
+      "gapMm": 0.14880154000000093
+    },
+    {
+      "viaId": "7ffc05ad813bd823",
+      "object": "D9:2",
+      "kind": "pad",
+      "gapMm": 0.1254310000000025
+    },
+    {
+      "viaId": "7ffc05ad813bd823",
+      "object": "74a721a974fa8d8f",
+      "kind": "via",
+      "gapMm": 0.12728631895003242
+    }
+  ],
+  "affectedVias": 161,
+  "status": "Offline assessment only; no geometry changed",
+  "reportedCounts": {
+    "L1": {
+      "danger": 4,
+      "warning": 598,
+      "good": 14
+    },
+    "L2": {
+      "danger": 4,
+      "warning": 430,
+      "good": 0
+    },
+    "L3": {
+      "danger": 4,
+      "warning": 456,
+      "good": 0
+    },
+    "L4": {
+      "danger": 4,
+      "warning": 598,
+      "good": 14
+    }
+  },
+  "countObservation": "Outer-layer warnings equal 299*2 and good results equal 7*2; duplication or multiple measurements not yet verified",
+  "dangerLocationStatus": "Four danger locations not provided; mechanical NPTH identification is a hypothesis only",
+  "smallViaAction": "Do not enlarge all vias before distinguishing via rules and locating dangers; offline .55 mm enlargement affects clearance at 161 vias"
+}

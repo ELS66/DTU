@@ -1,0 +1,889 @@
+{
+  "success": true,
+  "result": {
+    "devices": [
+      {
+        "name": "ML307R-DL",
+        "id": "40439b4c9a055df4",
+        "component": {
+          "uuid": "2848422365a9150d",
+          "name": "ML307R-DL_C48982537",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "pins": [
+          {
+            "number": "109",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2260,
+            "rotation": 0
+          },
+          {
+            "number": "108",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2250,
+            "rotation": 0
+          },
+          {
+            "number": "107",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2240,
+            "rotation": 0
+          },
+          {
+            "number": "106",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2230,
+            "rotation": 0
+          },
+          {
+            "number": "105",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2220,
+            "rotation": 0
+          },
+          {
+            "number": "104",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2210,
+            "rotation": 0
+          },
+          {
+            "number": "103",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2200,
+            "rotation": 0
+          },
+          {
+            "number": "102",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2190,
+            "rotation": 0
+          },
+          {
+            "number": "101",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2180,
+            "rotation": 0
+          },
+          {
+            "number": "100",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2170,
+            "rotation": 0
+          },
+          {
+            "number": "99",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2160,
+            "rotation": 0
+          },
+          {
+            "number": "98",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2150,
+            "rotation": 0
+          },
+          {
+            "number": "97",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2140,
+            "rotation": 0
+          },
+          {
+            "number": "96",
+            "name": "ADC1",
+            "x": 2580,
+            "y": 2130,
+            "rotation": 0
+          },
+          {
+            "number": "95",
+            "name": "GND",
+            "x": 2580,
+            "y": 2120,
+            "rotation": 0
+          },
+          {
+            "number": "94",
+            "name": "GND",
+            "x": 2580,
+            "y": 2110,
+            "rotation": 0
+          },
+          {
+            "number": "93",
+            "name": "GND",
+            "x": 2580,
+            "y": 2100,
+            "rotation": 0
+          },
+          {
+            "number": "92",
+            "name": "GND",
+            "x": 2580,
+            "y": 2090,
+            "rotation": 0
+          },
+          {
+            "number": "91",
+            "name": "GND",
+            "x": 2580,
+            "y": 2080,
+            "rotation": 0
+          },
+          {
+            "number": "90",
+            "name": "GND",
+            "x": 2580,
+            "y": 2070,
+            "rotation": 0
+          },
+          {
+            "number": "89",
+            "name": "GND",
+            "x": 2580,
+            "y": 2060,
+            "rotation": 0
+          },
+          {
+            "number": "88",
+            "name": "GND",
+            "x": 2580,
+            "y": 2050,
+            "rotation": 0
+          },
+          {
+            "number": "87",
+            "name": "GPIO3",
+            "x": 2580,
+            "y": 2040,
+            "rotation": 0
+          },
+          {
+            "number": "86",
+            "name": "GPIO2",
+            "x": 2580,
+            "y": 2030,
+            "rotation": 0
+          },
+          {
+            "number": "85",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2020,
+            "rotation": 0
+          },
+          {
+            "number": "84",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2010,
+            "rotation": 0
+          },
+          {
+            "number": "83",
+            "name": "RSV",
+            "x": 2580,
+            "y": 2000,
+            "rotation": 0
+          },
+          {
+            "number": "82",
+            "name": "BOOT_MODE",
+            "x": 2580,
+            "y": 1990,
+            "rotation": 0
+          },
+          {
+            "number": "81",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1980,
+            "rotation": 0
+          },
+          {
+            "number": "80",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1970,
+            "rotation": 0
+          },
+          {
+            "number": "79",
+            "name": "USIM_DET",
+            "x": 2580,
+            "y": 1960,
+            "rotation": 0
+          },
+          {
+            "number": "78",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1950,
+            "rotation": 0
+          },
+          {
+            "number": "77",
+            "name": "GPIO1",
+            "x": 2580,
+            "y": 1940,
+            "rotation": 0
+          },
+          {
+            "number": "76",
+            "name": "GPIO0",
+            "x": 2580,
+            "y": 1930,
+            "rotation": 0
+          },
+          {
+            "number": "75",
+            "name": "PWM1",
+            "x": 2580,
+            "y": 1920,
+            "rotation": 0
+          },
+          {
+            "number": "74",
+            "name": "PWM0",
+            "x": 2580,
+            "y": 1910,
+            "rotation": 0
+          },
+          {
+            "number": "73",
+            "name": "GND",
+            "x": 2580,
+            "y": 1900,
+            "rotation": 0
+          },
+          {
+            "number": "72",
+            "name": "GND",
+            "x": 2580,
+            "y": 1890,
+            "rotation": 0
+          },
+          {
+            "number": "71",
+            "name": "GND",
+            "x": 2580,
+            "y": 1880,
+            "rotation": 0
+          },
+          {
+            "number": "70",
+            "name": "GND",
+            "x": 2580,
+            "y": 1870,
+            "rotation": 0
+          },
+          {
+            "number": "69",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1860,
+            "rotation": 0
+          },
+          {
+            "number": "68",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1850,
+            "rotation": 0
+          },
+          {
+            "number": "67",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1840,
+            "rotation": 0
+          },
+          {
+            "number": "66",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1830,
+            "rotation": 0
+          },
+          {
+            "number": "65",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1820,
+            "rotation": 0
+          },
+          {
+            "number": "64",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1810,
+            "rotation": 0
+          },
+          {
+            "number": "63",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1800,
+            "rotation": 0
+          },
+          {
+            "number": "62",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1790,
+            "rotation": 0
+          },
+          {
+            "number": "61",
+            "name": "USB_VBUS",
+            "x": 2580,
+            "y": 1780,
+            "rotation": 0
+          },
+          {
+            "number": "60",
+            "name": "USB_DM",
+            "x": 2580,
+            "y": 1770,
+            "rotation": 0
+          },
+          {
+            "number": "59",
+            "name": "USB_DP",
+            "x": 2580,
+            "y": 1760,
+            "rotation": 0
+          },
+          {
+            "number": "58",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1750,
+            "rotation": 0
+          },
+          {
+            "number": "57",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1740,
+            "rotation": 0
+          },
+          {
+            "number": "56",
+            "name": "RSV",
+            "x": 2580,
+            "y": 1730,
+            "rotation": 0
+          },
+          {
+            "number": "55",
+            "name": "RSV",
+            "x": 2420,
+            "y": 1730,
+            "rotation": 180
+          },
+          {
+            "number": "54",
+            "name": "RSV",
+            "x": 2420,
+            "y": 1740,
+            "rotation": 180
+          },
+          {
+            "number": "53",
+            "name": "RSV",
+            "x": 2420,
+            "y": 1750,
+            "rotation": 180
+          },
+          {
+            "number": "52",
+            "name": "RSV",
+            "x": 2420,
+            "y": 1760,
+            "rotation": 180
+          },
+          {
+            "number": "51",
+            "name": "RSV",
+            "x": 2420,
+            "y": 1770,
+            "rotation": 180
+          },
+          {
+            "number": "50",
+            "name": "RSV",
+            "x": 2420,
+            "y": 1780,
+            "rotation": 180
+          },
+          {
+            "number": "49",
+            "name": "WAKEUPOUT",
+            "x": 2420,
+            "y": 1790,
+            "rotation": 180
+          },
+          {
+            "number": "48",
+            "name": "GND",
+            "x": 2420,
+            "y": 1800,
+            "rotation": 180
+          },
+          {
+            "number": "47",
+            "name": "GND",
+            "x": 2420,
+            "y": 1810,
+            "rotation": 180
+          },
+          {
+            "number": "46",
+            "name": "GND",
+            "x": 2420,
+            "y": 1820,
+            "rotation": 180
+          },
+          {
+            "number": "45",
+            "name": "GND",
+            "x": 2420,
+            "y": 1830,
+            "rotation": 180
+          },
+          {
+            "number": "44",
+            "name": "RSV",
+            "x": 2420,
+            "y": 1840,
+            "rotation": 180
+          },
+          {
+            "number": "43",
+            "name": "VBAT",
+            "x": 2420,
+            "y": 1850,
+            "rotation": 180
+          },
+          {
+            "number": "42",
+            "name": "VBAT",
+            "x": 2420,
+            "y": 1860,
+            "rotation": 180
+          },
+          {
+            "number": "41",
+            "name": "GND",
+            "x": 2420,
+            "y": 1870,
+            "rotation": 180
+          },
+          {
+            "number": "40",
+            "name": "GND",
+            "x": 2420,
+            "y": 1880,
+            "rotation": 180
+          },
+          {
+            "number": "39",
+            "name": "DBG_TXD",
+            "x": 2420,
+            "y": 1890,
+            "rotation": 180
+          },
+          {
+            "number": "38",
+            "name": "DBG_RXD",
+            "x": 2420,
+            "y": 1900,
+            "rotation": 180
+          },
+          {
+            "number": "37",
+            "name": "GND",
+            "x": 2420,
+            "y": 1910,
+            "rotation": 180
+          },
+          {
+            "number": "36",
+            "name": "GND",
+            "x": 2420,
+            "y": 1920,
+            "rotation": 180
+          },
+          {
+            "number": "35",
+            "name": "ANT_MAIN",
+            "x": 2420,
+            "y": 1930,
+            "rotation": 180
+          },
+          {
+            "number": "34",
+            "name": "GND",
+            "x": 2420,
+            "y": 1940,
+            "rotation": 180
+          },
+          {
+            "number": "33",
+            "name": "PCM_OUT",
+            "x": 2420,
+            "y": 1950,
+            "rotation": 180
+          },
+          {
+            "number": "32",
+            "name": "RSV",
+            "x": 2420,
+            "y": 1960,
+            "rotation": 180
+          },
+          {
+            "number": "31",
+            "name": "RSV",
+            "x": 2420,
+            "y": 1970,
+            "rotation": 180
+          },
+          {
+            "number": "30",
+            "name": "RSV",
+            "x": 2420,
+            "y": 1980,
+            "rotation": 180
+          },
+          {
+            "number": "29",
+            "name": "UART1_TXD",
+            "x": 2420,
+            "y": 1990,
+            "rotation": 180
+          },
+          {
+            "number": "28",
+            "name": "UART1_RXD",
+            "x": 2420,
+            "y": 2000,
+            "rotation": 180
+          },
+          {
+            "number": "27",
+            "name": "GND",
+            "x": 2420,
+            "y": 2010,
+            "rotation": 180
+          },
+          {
+            "number": "26",
+            "name": "RSV",
+            "x": 2420,
+            "y": 2020,
+            "rotation": 180
+          },
+          {
+            "number": "25",
+            "name": "STATE",
+            "x": 2420,
+            "y": 2030,
+            "rotation": 180
+          },
+          {
+            "number": "24",
+            "name": "VDD_EXT",
+            "x": 2420,
+            "y": 2040,
+            "rotation": 180
+          },
+          {
+            "number": "23",
+            "name": "UART0_RTS",
+            "x": 2420,
+            "y": 2050,
+            "rotation": 180
+          },
+          {
+            "number": "22",
+            "name": "UART0_CTS",
+            "x": 2420,
+            "y": 2060,
+            "rotation": 180
+          },
+          {
+            "number": "21",
+            "name": "UART0_DCD",
+            "x": 2420,
+            "y": 2070,
+            "rotation": 180
+          },
+          {
+            "number": "20",
+            "name": "UART0_RI",
+            "x": 2420,
+            "y": 2080,
+            "rotation": 180
+          },
+          {
+            "number": "19",
+            "name": "UART0_DTR",
+            "x": 2420,
+            "y": 2090,
+            "rotation": 180
+          },
+          {
+            "number": "18",
+            "name": "UART0_TXD",
+            "x": 2420,
+            "y": 2100,
+            "rotation": 180
+          },
+          {
+            "number": "17",
+            "name": "UART0_RXD",
+            "x": 2420,
+            "y": 2110,
+            "rotation": 180
+          },
+          {
+            "number": "16",
+            "name": "NETLIGHT",
+            "x": 2420,
+            "y": 2120,
+            "rotation": 180
+          },
+          {
+            "number": "15",
+            "name": "RESET",
+            "x": 2420,
+            "y": 2130,
+            "rotation": 180
+          },
+          {
+            "number": "14",
+            "name": "USIM_PWR",
+            "x": 2420,
+            "y": 2140,
+            "rotation": 180
+          },
+          {
+            "number": "13",
+            "name": "USIM_CLK",
+            "x": 2420,
+            "y": 2150,
+            "rotation": 180
+          },
+          {
+            "number": "12",
+            "name": "USIM_RESET",
+            "x": 2420,
+            "y": 2160,
+            "rotation": 180
+          },
+          {
+            "number": "11",
+            "name": "USIM_DATA",
+            "x": 2420,
+            "y": 2170,
+            "rotation": 180
+          },
+          {
+            "number": "10",
+            "name": "GND",
+            "x": 2420,
+            "y": 2180,
+            "rotation": 180
+          },
+          {
+            "number": "9",
+            "name": "ADC0",
+            "x": 2420,
+            "y": 2190,
+            "rotation": 180
+          },
+          {
+            "number": "8",
+            "name": "RSV",
+            "x": 2420,
+            "y": 2200,
+            "rotation": 180
+          },
+          {
+            "number": "7",
+            "name": "PWR_ON/OFF",
+            "x": 2420,
+            "y": 2210,
+            "rotation": 180
+          },
+          {
+            "number": "6",
+            "name": "RSV",
+            "x": 2420,
+            "y": 2220,
+            "rotation": 180
+          },
+          {
+            "number": "5",
+            "name": "RSV",
+            "x": 2420,
+            "y": 2230,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "RSV",
+            "x": 2420,
+            "y": 2240,
+            "rotation": 180
+          },
+          {
+            "number": "3",
+            "name": "RSV",
+            "x": 2420,
+            "y": 2250,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "RSV",
+            "x": 2420,
+            "y": 2260,
+            "rotation": 180
+          },
+          {
+            "number": "1",
+            "name": "GND",
+            "x": 2420,
+            "y": 2270,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "name": "AP63300WU-7",
+        "id": "62a2174872cc4bee",
+        "component": {
+          "uuid": "5ff811235bef809e",
+          "name": "AP63300WU-7",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "pins": [
+          {
+            "number": "1",
+            "name": "FB",
+            "x": 3965,
+            "y": 2010,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "EN",
+            "x": 3965,
+            "y": 2000,
+            "rotation": 180
+          },
+          {
+            "number": "3",
+            "name": "VIN",
+            "x": 3965,
+            "y": 1990,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "GND",
+            "x": 4035,
+            "y": 1990,
+            "rotation": 0
+          },
+          {
+            "number": "5",
+            "name": "SW",
+            "x": 4035,
+            "y": 2000,
+            "rotation": 0
+          },
+          {
+            "number": "6",
+            "name": "BST",
+            "x": 4035,
+            "y": 2010,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "name": "SN74LVC1T45DCKR",
+        "id": "15c81659862b2c31",
+        "component": {
+          "uuid": "2a7ea242ee7d1ec0",
+          "name": "SN74LVC1T45DCKR",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+        },
+        "pins": [
+          {
+            "number": "1",
+            "name": "VCCA",
+            "x": 4455,
+            "y": 2010,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "GND",
+            "x": 4455,
+            "y": 2000,
+            "rotation": 180
+          },
+          {
+            "number": "3",
+            "name": "A",
+            "x": 4455,
+            "y": 1990,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "B",
+            "x": 4545,
+            "y": 1990,
+            "rotation": 0
+          },
+          {
+            "number": "5",
+            "name": "DIR",
+            "x": 4545,
+            "y": 2000,
+            "rotation": 0
+          },
+          {
+            "number": "6",
+            "name": "VCCB",
+            "x": 4545,
+            "y": 2010,
+            "rotation": 0
+          }
+        ]
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "07345b6b-1ea4-41eb-bd64-8fd4d32e593a"
+}

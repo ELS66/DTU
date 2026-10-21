@@ -1,0 +1,235 @@
+{
+  "success": true,
+  "result": {
+    "renamed": true,
+    "saved": true,
+    "componentId": "3004308b183c492a",
+    "pins": [
+      {
+        "number": "20",
+        "name": "NC",
+        "x": 445,
+        "y": 535,
+        "rotation": 180
+      },
+      {
+        "number": "22",
+        "name": "NC",
+        "x": 445,
+        "y": 525,
+        "rotation": 180
+      },
+      {
+        "number": "19",
+        "name": "NC/IO15",
+        "x": 445,
+        "y": 515,
+        "rotation": 180
+      },
+      {
+        "number": "15",
+        "name": "IO28",
+        "x": 555,
+        "y": 415,
+        "rotation": 0
+      },
+      {
+        "number": "18",
+        "name": "IO27",
+        "x": 555,
+        "y": 425,
+        "rotation": 0
+      },
+      {
+        "number": "27",
+        "name": "IO26",
+        "x": 555,
+        "y": 435,
+        "rotation": 0
+      },
+      {
+        "number": "26",
+        "name": "IO25",
+        "x": 555,
+        "y": 445,
+        "rotation": 0
+      },
+      {
+        "number": "23",
+        "name": "IO24",
+        "x": 555,
+        "y": 455,
+        "rotation": 0
+      },
+      {
+        "number": "21",
+        "name": "IO23",
+        "x": 555,
+        "y": 465,
+        "rotation": 0
+      },
+      {
+        "number": "14",
+        "name": "IO14",
+        "x": 555,
+        "y": 475,
+        "rotation": 0
+      },
+      {
+        "number": "13",
+        "name": "IO13",
+        "x": 555,
+        "y": 485,
+        "rotation": 0
+      },
+      {
+        "number": "12",
+        "name": "IO10",
+        "x": 555,
+        "y": 495,
+        "rotation": 0
+      },
+      {
+        "number": "11",
+        "name": "IO9",
+        "x": 555,
+        "y": 505,
+        "rotation": 0
+      },
+      {
+        "number": "10",
+        "name": "IO8",
+        "x": 555,
+        "y": 515,
+        "rotation": 0
+      },
+      {
+        "number": "9",
+        "name": "IO7",
+        "x": 555,
+        "y": 525,
+        "rotation": 0
+      },
+      {
+        "number": "8",
+        "name": "IO6",
+        "x": 555,
+        "y": 535,
+        "rotation": 0
+      },
+      {
+        "number": "16",
+        "name": "IO5",
+        "x": 555,
+        "y": 545,
+        "rotation": 0
+      },
+      {
+        "number": "17",
+        "name": "IO4",
+        "x": 555,
+        "y": 555,
+        "rotation": 0
+      },
+      {
+        "number": "5",
+        "name": "IO3",
+        "x": 555,
+        "y": 565,
+        "rotation": 0
+      },
+      {
+        "number": "4",
+        "name": "IO2",
+        "x": 555,
+        "y": 575,
+        "rotation": 0
+      },
+      {
+        "number": "7",
+        "name": "IO1",
+        "x": 555,
+        "y": 585,
+        "rotation": 0
+      },
+      {
+        "number": "6",
+        "name": "IO0",
+        "x": 555,
+        "y": 595,
+        "rotation": 0
+      },
+      {
+        "number": "25",
+        "name": "TX0",
+        "x": 445,
+        "y": 550,
+        "rotation": 180
+      },
+      {
+        "number": "24",
+        "name": "RX0",
+        "x": 445,
+        "y": 560,
+        "rotation": 180
+      },
+      {
+        "number": "3",
+        "name": "EN",
+        "x": 445,
+        "y": 570,
+        "rotation": 180
+      },
+      {
+        "number": "2",
+        "name": "3V3",
+        "x": 445,
+        "y": 580,
+        "rotation": 180
+      },
+      {
+        "number": "29",
+        "name": "GND",
+        "x": 445,
+        "y": 480,
+        "rotation": 180
+      },
+      {
+        "number": "28",
+        "name": "GND",
+        "x": 445,
+        "y": 470,
+        "rotation": 180
+      },
+      {
+        "number": "1",
+        "name": "GND",
+        "x": 445,
+        "y": 460,
+        "rotation": 180
+      },
+      {
+        "number": "30",
+        "name": "GND",
+        "x": 445,
+        "y": 450,
+        "rotation": 180
+      },
+      {
+        "number": "32",
+        "name": "GND",
+        "x": 445,
+        "y": 440,
+        "rotation": 180
+      },
+      {
+        "number": "31",
+        "name": "ANT2",
+        "x": 445,
+        "y": 500,
+        "rotation": 180
+      }
+    ]
+  },
+  "windowId": "7f59f6fe-cee0-4116-a908-2223d15abdac"
+}

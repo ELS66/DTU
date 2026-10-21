@@ -1,0 +1,127 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "part": {
+      "ref": "U8",
+      "page": 5,
+      "id": "b5d97389463976b4",
+      "sub": "74AXP4T245PWJ.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "VCC(A)",
+          "x": 265,
+          "y": 565,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "1DIR",
+          "x": 265,
+          "y": 555,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "2DIR",
+          "x": 265,
+          "y": 545,
+          "rotation": 180
+        },
+        {
+          "number": "4",
+          "name": "1A1",
+          "x": 265,
+          "y": 535,
+          "rotation": 180
+        },
+        {
+          "number": "5",
+          "name": "1A2",
+          "x": 265,
+          "y": 525,
+          "rotation": 180
+        },
+        {
+          "number": "6",
+          "name": "2A1",
+          "x": 265,
+          "y": 515,
+          "rotation": 180
+        },
+        {
+          "number": "7",
+          "name": "2A2",
+          "x": 265,
+          "y": 505,
+          "rotation": 180
+        },
+        {
+          "number": "8",
+          "name": "GND",
+          "x": 265,
+          "y": 495,
+          "rotation": 180
+        },
+        {
+          "number": "9",
+          "name": "GND",
+          "x": 375,
+          "y": 495,
+          "rotation": 0
+        },
+        {
+          "number": "10",
+          "name": "2B2",
+          "x": 375,
+          "y": 505,
+          "rotation": 0
+        },
+        {
+          "number": "11",
+          "name": "2B1",
+          "x": 375,
+          "y": 515,
+          "rotation": 0
+        },
+        {
+          "number": "12",
+          "name": "1B2",
+          "x": 375,
+          "y": 525,
+          "rotation": 0
+        },
+        {
+          "number": "13",
+          "name": "1B1",
+          "x": 375,
+          "y": 535,
+          "rotation": 0
+        },
+        {
+          "number": "14",
+          "name": "2OE#",
+          "x": 375,
+          "y": 545,
+          "rotation": 0
+        },
+        {
+          "number": "15",
+          "name": "1OE#",
+          "x": 375,
+          "y": 555,
+          "rotation": 0
+        },
+        {
+          "number": "16",
+          "name": "VCC(B)",
+          "x": 375,
+          "y": 565,
+          "rotation": 0
+        }
+      ]
+    }
+  },
+  "windowId": "8b5d94cc-0e2a-429a-8b5f-a64207bef6f6"
+}

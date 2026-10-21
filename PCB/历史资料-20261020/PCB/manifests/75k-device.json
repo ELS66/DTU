@@ -1,0 +1,72 @@
+{
+  "success": true,
+  "result": {
+    "libraryType": "3",
+    "uuid": "e86db94ff6f44d6ba8f8680283c9c5e0",
+    "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+    "name": "0603WAF7502T5E",
+    "classification": [
+      "电阻",
+      "贴片电阻"
+    ],
+    "association": {
+      "symbolType": 2,
+      "symbolUuid": "500c4108475f4ac19cfdaab997dffe89",
+      "symbol": {
+        "type": 2,
+        "uuid": "500c4108475f4ac19cfdaab997dffe89",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+      },
+      "footprintUuid": "50b4943912284dab97752312e589e9e2",
+      "footprint": {
+        "uuid": "50b4943912284dab97752312e589e9e2",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+      },
+      "images": [
+        "https://alimg.szlcsc.com/upload/public/product/middle/20251013/89B20FDFBD4D85720AFCFE9EFA2C9928.jpg"
+      ]
+    },
+    "description": "电阻类型:厚膜电阻;阻值:75kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;",
+    "property": {
+      "name": "0603WAF7502T5E",
+      "designator": "R?",
+      "addIntoBom": true,
+      "addIntoPcb": true,
+      "manufacturer": "UNI-ROYAL(厚声)",
+      "manufacturerId": "0603WAF7502T5E",
+      "supplier": "LCSC",
+      "supplierId": "C23242",
+      "otherProperty": {
+        "LCSC Part Name": "厚膜电阻 75kΩ ±1%",
+        "Supplier Part": "C23242",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF7502T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Basic Part",
+        "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF7502T5E/23969.html",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "500c4108475f4ac19cfdaab997dffe89",
+        "Designator": "R?",
+        "Footprint": "50b4943912284dab97752312e589e9e2",
+        "3D Model": "fc143cca1e79419f9cd78b61e9279f08",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "75kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Voltage-Supply(Max)": "75V",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Operating Temperature": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:75kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+      }
+    },
+    "subPartNames": [
+      "0603WAF7502T5E.1"
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

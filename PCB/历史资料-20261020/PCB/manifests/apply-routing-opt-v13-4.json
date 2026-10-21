@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "result": {
+    "created": [
+      {
+        "id": "d675d0f02ac474fa",
+        "net": "485_RX_RAW",
+        "kind": "route"
+      },
+      {
+        "id": "919cc3d069cbf115",
+        "net": "LED_RX_N",
+        "kind": "route"
+      },
+      {
+        "id": "03da9e62c039fd78",
+        "net": "LED_RX_N",
+        "kind": "route"
+      },
+      {
+        "id": "680e08df11aa13c2",
+        "net": "LED_RX_N",
+        "kind": "route"
+      },
+      {
+        "id": "cf5b38474debcfa4",
+        "net": "RS232_RX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "ab22cd8b44219e3d",
+        "net": "RS232_RX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "6b9fc31764d51595",
+        "net": "RS232_RX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "b73eccf650612f1b",
+        "net": "RS232_RX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "8525f9021d2422cd",
+        "net": "RS232_TX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "dc70db5fa1e9ddf6",
+        "net": "RS232_TX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "04a08c2e106a09b8",
+        "net": "RS232_TX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "053143561c42287d",
+        "net": "RS232_TX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "c97f644e708bb0dc",
+        "net": "232_TOUT",
+        "kind": "route"
+      },
+      {
+        "id": "75aeabc0f05c9612",
+        "net": "232_TOUT",
+        "kind": "route"
+      },
+      {
+        "id": "cc674b81ee182f82",
+        "net": "232_TOUT",
+        "kind": "route"
+      },
+      {
+        "id": "c6dae55aaf33f7c7",
+        "net": "ESP_EN",
+        "kind": "route"
+      },
+      {
+        "id": "a85db22d8da23404",
+        "net": "ESP_EN",
+        "kind": "route"
+      },
+      {
+        "id": "d6458988a7ff1493",
+        "net": "ESP_EN",
+        "kind": "route"
+      },
+      {
+        "id": "369d4c0c47dd1768",
+        "net": "ESP_EN",
+        "kind": "route"
+      },
+      {
+        "id": "3c99fd9935c9a233",
+        "net": "ESP_EN",
+        "kind": "route"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "54d14f83-2b26-423e-baa3-d79d6c8a00d6"
+}

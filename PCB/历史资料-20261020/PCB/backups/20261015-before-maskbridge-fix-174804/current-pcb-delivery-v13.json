@@ -1,0 +1,72 @@
+{
+  "revision": "V0.13 四角安装孔修正 2026-10-15",
+  "boardMm": [
+    60,
+    70
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 306,
+  "drilledHoles": 322,
+  "pcbDrcIssues": 0,
+  "schematicWarnings": 18,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261015-before-NPTH-ring-fix-161705",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-NPTHfix.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-NPTHfix-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-安装孔修正复查包.zip",
+  "actualCopperManifest": "smt-fixed-actual-routing-v13.json",
+  "actualSourceSnapshot": "npth-four-pad-fix-v13.json",
+  "connectors": {
+    "model": "ZX-HY2.0-4PLT",
+    "supplierPart": "C7429562",
+    "signalFixedRowSpacingMm": 3.0
+  },
+  "factoryDfmPassed": false,
+  "files": [
+    {
+      "file": "DTU-V0.13-60x70-NPTHfix.epro2",
+      "bytes": 1142639,
+      "sha256": "eb0887ed9fc3e0c1644c7e9034b52f34c04439c2085e671d16ccc82fd1a13623"
+    },
+    {
+      "file": "DTU-V0.13-60x70-NPTHfix-Gerber.zip",
+      "bytes": 144292,
+      "sha256": "3ede628b0ca20a8fe3fae1f153e478a8bbeccfcf1516192fdc2831e092845b52"
+    },
+    {
+      "file": "DTU-V0.13-NPTHfix-BOM-99.csv",
+      "bytes": 3730,
+      "sha256": "bdcac2736e76d6ab56b4ed8c459dcbbcd6d84c36b71f2e1a858672466390ed48"
+    },
+    {
+      "file": "DTU-V0.13-NPTHfix-CPL-99-Top.csv",
+      "bytes": 2528,
+      "sha256": "3db8d0f8715e2066ba7dad806639ad15c6dcff3eb378cc7e679633edc0e6f1a7"
+    },
+    {
+      "file": "V0.13-四角无铜安装孔修正记录.md",
+      "bytes": 2732,
+      "sha256": "c196397c904bcd7d160c31a48bc06ef659a3104288348742c0c98506fd210460"
+    },
+    {
+      "file": "DTU-V0.13-NPTHfix-README.md",
+      "bytes": 737,
+      "sha256": "7f36f4847a2f711e8d880d6aa851d3bc916f5b52f46f80248e3e43f51e6eb55d"
+    }
+  ],
+  "status": "DFM复查中，四角安装孔待重新运行DFM确认",
+  "openDfmItems": [
+    "同位号端子碰撞明细待核对",
+    "其余PCB/SMT检查分类待取得",
+    "孔环检查：普通过孔0.125mm触发0.15mm阈值，需核对过孔/插件孔分类及重复统计",
+    "四角安装孔已去除残留铜环，待新Gerber重新运行DFM确认",
+    "焊盘距焊盘7项已逐条定位：6项GND、1项LTE_BOOT，均同网且孔口盖油；由厂家确认盖油工艺接受条件"
+  ],
+  "padSpacingReview": "D:\\DTU\\PCB\\docs\\V0.13-焊盘距焊盘提示复核记录.md",
+  "downloadHoleAssemblyReview": "D:\\DTU\\PCB\\docs\\V0.13-下载裸孔装配间距复核.md",
+  "dfmDispositionNotes": [
+    "插件焊盘距贴片焊盘21红22黄全部定位至J6/J7；默认裸孔不装不焊，按装配条件不适用；加装排针须重审。"
+  ]
+}

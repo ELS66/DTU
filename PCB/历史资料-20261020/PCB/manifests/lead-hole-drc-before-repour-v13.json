@@ -1,0 +1,343 @@
+{
+  "success": true,
+  "result": [
+    {
+      "name": "Clearance Error",
+      "list": [
+        {
+          "name": "Copper Region(Filled) to Line",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Copper Region(Filled) to Line",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Copper Region(Filled)",
+                "suffix": "(GND): e7e8"
+              },
+              "obj2": {
+                "typeName": "Line",
+                "suffix": "(SIM_VDD): e-1"
+              },
+              "layer": "Inner2",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 10mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err3",
+                  "position": {
+                    "x": 81.26179178636852,
+                    "y": 105.53184616497481
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "469cb2ab7cf7ae75",
+                  "obj1Type": "Copper Region(Filled)",
+                  "obj2": "0331683023a860c2",
+                  "obj2Type": "Line",
+                  "minDistance": 0,
+                  "clearance": 1,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    16
+                  ],
+                  "obj1Suffix": "(GND): e7e8",
+                  "obj2Suffix": "(SIM_VDD): e-1"
+                }
+              },
+              "objs": [
+                "469cb2ab7cf7ae75",
+                "0331683023a860c2"
+              ],
+              "globalIndex": "err3",
+              "pos": {
+                "x": 81.26179178636852,
+                "y": 105.53184616497481
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Copper Region(Filled) to Line"
+            }
+          ],
+          "count": 1,
+          "title": [
+            "Copper Region(Filled)",
+            "to",
+            "Line",
+            "(1)"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Copper Region(Filled) to Via",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Copper Region(Filled) to Via",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Copper Region(Filled)",
+                "suffix": "(GND): e7e8"
+              },
+              "obj2": {
+                "typeName": "Via",
+                "suffix": "(SIM_VDD): e2439"
+              },
+              "layer": "Inner2",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 10mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err4",
+                  "position": {
+                    "x": 79.94619963689851,
+                    "y": 104.81099473569343
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "469cb2ab7cf7ae75",
+                  "obj1Type": "Copper Region(Filled)",
+                  "obj2": "bd31757caf9c21db",
+                  "obj2Type": "Via",
+                  "minDistance": 0,
+                  "clearance": 1,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    16
+                  ],
+                  "obj1Suffix": "(GND): e7e8",
+                  "obj2Suffix": "(SIM_VDD): e2439"
+                }
+              },
+              "objs": [
+                "469cb2ab7cf7ae75",
+                "bd31757caf9c21db"
+              ],
+              "globalIndex": "err4",
+              "pos": {
+                "x": 79.94619963689851,
+                "y": 104.81099473569343
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Copper Region(Filled) to Via"
+            },
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Copper Region(Filled) to Via",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Copper Region(Filled)",
+                "suffix": "(GND): e6e9"
+              },
+              "obj2": {
+                "typeName": "Via",
+                "suffix": "(SIM_VDD): e2439"
+              },
+              "layer": "Inner1",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 10mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err6",
+                  "position": {
+                    "x": 80.65906443617115,
+                    "y": 105.25653240606891
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "c1e4b84a676eb7e1",
+                  "obj1Type": "Copper Region(Filled)",
+                  "obj2": "bd31757caf9c21db",
+                  "obj2Type": "Via",
+                  "minDistance": 0,
+                  "clearance": 1,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    15
+                  ],
+                  "obj1Suffix": "(GND): e6e9",
+                  "obj2Suffix": "(SIM_VDD): e2439"
+                }
+              },
+              "objs": [
+                "c1e4b84a676eb7e1",
+                "bd31757caf9c21db"
+              ],
+              "globalIndex": "err6",
+              "pos": {
+                "x": 80.65906443617115,
+                "y": 105.25653240606891
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Copper Region(Filled) to Via"
+            }
+          ],
+          "count": 2,
+          "title": [
+            "Copper Region(Filled)",
+            "to",
+            "Via",
+            "(2)"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Copper Region(Filled) to Hole",
+          "list": [
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Copper Region(Filled) to Hole",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Copper Region(Filled)",
+                "suffix": "(GND): e7e8"
+              },
+              "obj2": {
+                "typeName": "Hole",
+                "suffix": "(SIM_VDD): e2439"
+              },
+              "layer": "Inner2",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 10mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err5",
+                  "position": {
+                    "x": 80.58649555493858,
+                    "y": 105.37264335334231
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "469cb2ab7cf7ae75",
+                  "obj1Type": "Copper Region(Filled)",
+                  "obj2": "bd31757caf9c21db",
+                  "obj2Type": "Hole",
+                  "minDistance": 0,
+                  "clearance": 1,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    16,
+                    12
+                  ],
+                  "obj1Suffix": "(GND): e7e8",
+                  "obj2Suffix": "(SIM_VDD): e2439"
+                }
+              },
+              "objs": [
+                "469cb2ab7cf7ae75",
+                "bd31757caf9c21db"
+              ],
+              "globalIndex": "err5",
+              "pos": {
+                "x": 80.58649555493858,
+                "y": 105.37264335334231
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Copper Region(Filled) to Hole"
+            },
+            {
+              "visible": true,
+              "errorType": "Clearance Error",
+              "errorObjType": "Copper Region(Filled) to Hole",
+              "ruleName": "copperThickness1oz",
+              "ruleTypeName": "Safe Spacing",
+              "obj1": {
+                "typeName": "Copper Region(Filled)",
+                "suffix": "(GND): e6e9"
+              },
+              "obj2": {
+                "typeName": "Hole",
+                "suffix": "(SIM_VDD): e2439"
+              },
+              "layer": "Inner1",
+              "explanation": {
+                "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+                "param": {
+                  "minDistance": "0mil",
+                  "shouldBe": ">= 10mil",
+                  "obj1": "Object 1",
+                  "obj2": "object 2",
+                  "type": "ClearanceError"
+                },
+                "errData": {
+                  "globalIndex": "err7",
+                  "position": {
+                    "x": 80.58649555493858,
+                    "y": 105.3726433533423
+                  },
+                  "name": "copperThickness1oz",
+                  "obj1": "c1e4b84a676eb7e1",
+                  "obj1Type": "Copper Region(Filled)",
+                  "obj2": "bd31757caf9c21db",
+                  "obj2Type": "Hole",
+                  "minDistance": 0,
+                  "clearance": 1,
+                  "errorType": "Safe Spacing",
+                  "isInSameComponent": false,
+                  "layerIds": [
+                    15,
+                    12
+                  ],
+                  "obj1Suffix": "(GND): e6e9",
+                  "obj2Suffix": "(SIM_VDD): e2439"
+                }
+              },
+              "objs": [
+                "c1e4b84a676eb7e1",
+                "bd31757caf9c21db"
+              ],
+              "globalIndex": "err7",
+              "pos": {
+                "x": 80.58649555493858,
+                "y": 105.3726433533423
+              },
+              "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Copper Region(Filled) to Hole"
+            }
+          ],
+          "count": 2,
+          "title": [
+            "Copper Region(Filled)",
+            "to",
+            "Hole",
+            "(2)"
+          ],
+          "visible": true
+        }
+      ],
+      "visible": true,
+      "count": 5,
+      "title": [
+        "Clearance Error",
+        "(5)"
+      ]
+    }
+  ],
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

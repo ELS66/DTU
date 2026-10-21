@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "result": {
+    "projectUuid": "12230af40fcb3675a68a591406a0a990f01e9023920d5aea6411657b74722ec6",
+    "schematicUuid": "5a91bce448072d09",
+    "pages": [
+      {
+        "uuid": "ac9947f0c683b3f5",
+        "name": "01_Power_Protection",
+        "renamed": false
+      },
+      {
+        "uuid": "905678d5aaed7ed3",
+        "name": "02_ESP32_C5",
+        "renamed": false
+      },
+      {
+        "uuid": "a8fcac05b0a49c52",
+        "name": "03_Air780EPT",
+        "renamed": true
+      },
+      {
+        "uuid": "8c8a42c355c95b77",
+        "name": "04_SIM_RF",
+        "renamed": false
+      },
+      {
+        "uuid": "31c8ed08a1998d0d",
+        "name": "05_Field_Interfaces",
+        "renamed": true
+      }
+    ]
+  },
+  "windowId": "7f59f6fe-cee0-4116-a908-2223d15abdac"
+}

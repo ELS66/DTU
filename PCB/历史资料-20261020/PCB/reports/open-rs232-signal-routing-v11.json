@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "result": {
+    "specs": {
+      "lines": [],
+      "polys": [
+        "1e3d918419950b4f",
+        "45f56d8514419324",
+        "3d69c56c1d04a638",
+        "1314c06dce14509a"
+      ],
+      "vias": [
+        "45e88f308ce409c6",
+        "68b54edf935c66f8"
+      ]
+    },
+    "saved": true
+  },
+  "windowId": "b1faecb9-4fd3-42fc-a7ba-9730a347bfe6"
+}

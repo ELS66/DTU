@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "result": [
+    {
+      "id": "083923def04406b7",
+      "ref": "U2",
+      "x": 1000,
+      "y": 1300,
+      "rotation": 0,
+      "footprint": {
+        "libraryUuid": "b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5",
+        "uuid": "3f4ad55cbd874e07a56c6a66b44efd36",
+        "name": "AIR780E"
+      }
+    }
+  ],
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

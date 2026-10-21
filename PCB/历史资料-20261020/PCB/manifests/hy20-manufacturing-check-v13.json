@@ -1,0 +1,74 @@
+{
+  "totalDrilledHoles": 320,
+  "PTH": 314,
+  "NPTH": 6,
+  "drillDiameters": {
+    "0.2": 298,
+    "0.3": 6,
+    "1.1": 10,
+    "0.75": 2,
+    "3.2": 4
+  },
+  "minimumDrillWallGapMm": 0.41846487370019997,
+  "closestDrills": [
+    [
+      38.05,
+      49.999999,
+      0.2
+    ],
+    [
+      37.9,
+      49.4,
+      0.2
+    ]
+  ],
+  "topSilkMaskClearanceMm": 0.47431699999999927,
+  "manufacturingFileCount": 12,
+  "removedDuplicateViaDrill": true,
+  "copperLayers": 4,
+  "assemblySide": "Top only",
+  "terminalMeasurements": [
+    {
+      "ref": "J1",
+      "centerMm": [
+        16.50000002000001,
+        5.0
+      ],
+      "rotation": 0,
+      "signalPitchMm": 1.998980000000001,
+      "signalToFixedRowMm": 2.9997399999999996,
+      "fixedPadSpanMm": 10.69848,
+      "topSmtPads": 6
+    },
+    {
+      "ref": "J2",
+      "centerMm": [
+        30.000000959999998,
+        5.0
+      ],
+      "rotation": 0,
+      "signalPitchMm": 1.998980000000001,
+      "signalToFixedRowMm": 2.9997399999999996,
+      "fixedPadSpanMm": 10.69848,
+      "topSmtPads": 6
+    },
+    {
+      "ref": "J3",
+      "centerMm": [
+        43.49999936,
+        5.0
+      ],
+      "rotation": 0,
+      "signalPitchMm": 1.998980000000001,
+      "signalToFixedRowMm": 2.9997399999999996,
+      "fixedPadSpanMm": 10.69848,
+      "topSmtPads": 6
+    }
+  ],
+  "verifiedGerberPadLayers": [
+    "GTL",
+    "GTS",
+    "GTP"
+  ],
+  "factoryDFM": "Pending"
+}

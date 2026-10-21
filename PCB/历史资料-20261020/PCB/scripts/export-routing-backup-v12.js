@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc')throw Error('Wrong project');const f=await eda.sys_FileManager.getProjectFile('DTU-V0.12-routing-backup',undefined,'epro2');if(!f)throw Error('Export unavailable');return {name:f.name,size:f.size,bytes:Array.from(new Uint8Array(await f.arrayBuffer()))};

@@ -1,0 +1,26 @@
+{
+  "unchangedSourceTypes": [
+    "COMPONENT",
+    "PAD_NET",
+    "PAD",
+    "PRIMITIVE",
+    "STRING",
+    "RULE",
+    "RULE_SELECTOR",
+    "REGION",
+    "POUR",
+    "LAYER_PHYS"
+  ],
+  "nativeCopperMatchesCandidate": true,
+  "protectedCopperUnchanged": true,
+  "oldTraceLengthMm": 2369.3569088973854,
+  "newTraceLengthMm": 2296.7201551561193,
+  "oldRoutes": 581,
+  "newRoutes": 507,
+  "oldVias": 362,
+  "newVias": 310,
+  "nativeViaHoleSizes": {
+    "0.2": 298,
+    "0.3": 12
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "success": true,
+  "result": {
+    "parts": [
+      {
+        "ref": "F1",
+        "prior": "={Manufacturer Part}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "8V 2A 1812自恢复",
+          "Supplier Footprint": "1812",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/MF-MSMF200-2/211715.html",
+          "Voltage - Max": "8V",
+          "Current - Max": "40A",
+          "Hold Current": "2A",
+          "Trip Current": "4A",
+          "Power Dissipation": "2W",
+          "Resistance - Initial (Ri) (Min)": "20mΩ",
+          "Resistance - Post Trip (R1) (Max)": "80mΩ",
+          "Time to Trip(Max)": "-",
+          "Operating Temperature": "-40℃~+85℃",
+          "Length": "5.4mm",
+          "Width": "3.2mm",
+          "Height": "-",
+          "Pitch": "-",
+          "Description": "耐压(Vmax):8V;最大电流(Imax):40A;保持电流(Ihold):2A;跳闸电流(Itrip):4A;"
+        }
+      },
+      {
+        "ref": "D1",
+        "prior": "={Manufacturer Part}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "电压:40V 电流:3A",
+          "Supplier Footprint": "SMA(DO-214AC)",
+          "JLCPCB Part Class": "Basic Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/SS34/9178.html",
+          "Diode Configuration": "独立式",
+          "Voltage - Forward(Vf@If)": "550mV@3A",
+          "Voltage - DC Reverse(Vr)": "40V",
+          "Current - Rectified": "3A",
+          "Reverse Leakage Current (Ir)": "500uA@40V",
+          "Operating Junction Temperature Range": "-55℃~+125℃",
+          "Description": "二极管配置:独立式;正向压降(Vf):550mV@3A;直流反向耐压(Vr):40V;整流电流:3A;"
+        }
+      },
+      {
+        "ref": "F2",
+        "prior": "={Manufacturer Part}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "8V 2A 1812自恢复",
+          "Supplier Footprint": "1812",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/MF-MSMF200-2/211715.html",
+          "Voltage - Max": "8V",
+          "Current - Max": "40A",
+          "Hold Current": "2A",
+          "Trip Current": "4A",
+          "Power Dissipation": "2W",
+          "Resistance - Initial (Ri) (Min)": "20mΩ",
+          "Resistance - Post Trip (R1) (Max)": "80mΩ",
+          "Time to Trip(Max)": "-",
+          "Operating Temperature": "-40℃~+85℃",
+          "Length": "5.4mm",
+          "Width": "3.2mm",
+          "Height": "-",
+          "Pitch": "-",
+          "Description": "耐压(Vmax):8V;最大电流(Imax):40A;保持电流(Ihold):2A;跳闸电流(Itrip):4A;"
+        }
+      },
+      {
+        "ref": "D2",
+        "prior": "={Manufacturer Part}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "电压:40V 电流:3A",
+          "Supplier Footprint": "SMA(DO-214AC)",
+          "JLCPCB Part Class": "Basic Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/SS34/9178.html",
+          "Diode Configuration": "独立式",
+          "Voltage - Forward(Vf@If)": "550mV@3A",
+          "Voltage - DC Reverse(Vr)": "40V",
+          "Current - Rectified": "3A",
+          "Reverse Leakage Current (Ir)": "500uA@40V",
+          "Operating Junction Temperature Range": "-55℃~+125℃",
+          "Description": "二极管配置:独立式;正向压降(Vf):550mV@3A;直流反向耐压(Vr):40V;整流电流:3A;"
+        }
+      },
+      {
+        "ref": "F3",
+        "prior": "={Manufacturer Part}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "8V 2A 1812自恢复",
+          "Supplier Footprint": "1812",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/MF-MSMF200-2/211715.html",
+          "Voltage - Max": "8V",
+          "Current - Max": "40A",
+          "Hold Current": "2A",
+          "Trip Current": "4A",
+          "Power Dissipation": "2W",
+          "Resistance - Initial (Ri) (Min)": "20mΩ",
+          "Resistance - Post Trip (R1) (Max)": "80mΩ",
+          "Time to Trip(Max)": "-",
+          "Operating Temperature": "-40℃~+85℃",
+          "Length": "5.4mm",
+          "Width": "3.2mm",
+          "Height": "-",
+          "Pitch": "-",
+          "Description": "耐压(Vmax):8V;最大电流(Imax):40A;保持电流(Ihold):2A;跳闸电流(Itrip):4A;"
+        }
+      },
+      {
+        "ref": "D3",
+        "prior": "={Manufacturer Part}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "电压:40V 电流:3A",
+          "Supplier Footprint": "SMA(DO-214AC)",
+          "JLCPCB Part Class": "Basic Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/SS34/9178.html",
+          "Diode Configuration": "独立式",
+          "Voltage - Forward(Vf@If)": "550mV@3A",
+          "Voltage - DC Reverse(Vr)": "40V",
+          "Current - Rectified": "3A",
+          "Reverse Leakage Current (Ir)": "500uA@40V",
+          "Operating Junction Temperature Range": "-55℃~+125℃",
+          "Description": "二极管配置:独立式;正向压降(Vf):550mV@3A;直流反向耐压(Vr):40V;整流电流:3A;"
+        }
+      },
+      {
+        "ref": "D4",
+        "prior": "={Manufacturer Part}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "SMBJ12A/54",
+          "Supplier Footprint": "DO-214AA(SMBJ)",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/SMBJ12A%252F54/2072973.html",
+          "Polarity": "单向",
+          "Reverse Stand-Off Voltage (Vrwm)": "12V",
+          "Clamping Voltage": "19.9V",
+          "Peak Pulse Current (Ipp)": "30.2A@10/1000us",
+          "Peak Pulse Power Dissipation (Ppp)": "600W@10/1000us",
+          "Voltage - Breakdown": "14.7V",
+          "Reverse Leakage Current (Ir)": "5uA",
+          "Operating Temperature": "-55℃~+150℃",
+          "Type": "TVS",
+          "Description": "极性:单向;反向截止电压(Vrwm):12V;钳位电压:19.9V;峰值脉冲电流(Ipp):30.2A@10/1000us;峰值脉冲功率(Ppp):600W@10/1000us;击穿电压:14.7V;"
+        }
+      },
+      {
+        "ref": "U3",
+        "prior": "={Manufacturer Part}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "2.7V至23V、5.5A、28mΩ真反向电流阻断电子保险丝",
+          "Supplier Footprint": "QFN-10(2x2)",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://www.ti.com/cn/lit/ds/symlink/tps25947.pdf",
+          "FET Type": "内置FET",
+          "Number of Lines": "1",
+          "Threshold Voltage": "-",
+          "Trigger Current": "500mA~6A",
+          "Voltage Rating": "2.7V~23V",
+          "Reset Voltage": "-",
+          "Mounting Type": "表面安装",
+          "Peak Output Current(Source)": "-",
+          "Peak Output Current(Sink)": "-",
+          "RDS(on)": "28.3mΩ",
+          "Operating temperature": "-40℃~+125℃",
+          "Length": "2mm",
+          "Width": "2mm",
+          "Height": "1mm",
+          "Features": "热保护；过流保护；过压钳位保护；欠压锁定；短路保护",
+          "Description": "通道数:1;工作电压:2.7V~23V;安装方式:表面安装;"
+        }
+      },
+      {
+        "ref": "R1",
+        "prior": "={Value}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "232kΩ ±1% 100mW 厚膜电阻",
+          "Supplier Footprint": "0603",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF2323T5E/23640.html",
+          "Type": "厚膜电阻",
+          "Value": "232kΩ",
+          "Tolerance": "±1%",
+          "Power(Watts)": "100mW",
+          "Voltage-Supply(Max)": "75V",
+          "Temperature Coefficient": "±100ppm/℃",
+          "Operating Temperature": "-55℃~+155℃",
+          "Description": "电阻类型:厚膜电阻;阻值:232kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+        }
+      },
+      {
+        "ref": "R2",
+        "prior": "={Value}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "厚膜电阻 100kΩ ±1%",
+          "Supplier Footprint": "0603",
+          "JLCPCB Part Class": "Basic Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html",
+          "Type": "厚膜电阻",
+          "Value": "100kΩ",
+          "Tolerance": "±1%",
+          "Power(Watts)": "100mW",
+          "Voltage-Supply(Max)": "75V",
+          "Temperature Coefficient": "±100ppm/℃",
+          "Operating Temperature": "-55℃~+155℃",
+          "Description": "电阻类型:厚膜电阻;阻值:100kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+        }
+      },
+      {
+        "ref": "R3",
+        "prior": "={Value}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "1MΩ ±1% 100mW 厚膜电阻",
+          "Supplier Footprint": "0603",
+          "JLCPCB Part Class": "Basic Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1004T5E/23662.html",
+          "Type": "厚膜电阻",
+          "Value": "1MΩ",
+          "Tolerance": "±1%",
+          "Power(Watts)": "100mW",
+          "Voltage-Supply(Max)": "75V",
+          "Temperature Coefficient": "±100ppm/℃",
+          "Operating Temperature": "-55℃~+155℃",
+          "Description": "电阻类型:厚膜电阻;阻值:1MΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+        }
+      },
+      {
+        "ref": "R4",
+        "prior": "={Value}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "厚膜电阻 100kΩ ±1%",
+          "Supplier Footprint": "0603",
+          "JLCPCB Part Class": "Basic Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1003T5E/26546.html",
+          "Type": "厚膜电阻",
+          "Value": "100kΩ",
+          "Tolerance": "±1%",
+          "Power(Watts)": "100mW",
+          "Voltage-Supply(Max)": "75V",
+          "Temperature Coefficient": "±100ppm/℃",
+          "Operating Temperature": "-55℃~+155℃",
+          "Description": "电阻类型:厚膜电阻;阻值:100kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+        }
+      },
+      {
+        "ref": "R5",
+        "prior": "={Value}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "厚膜电阻 1.87kΩ ±1%",
+          "Supplier Footprint": "0603",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1871T5E/23577.html",
+          "Type": "厚膜电阻",
+          "Value": "1.87kΩ",
+          "Tolerance": "±1%",
+          "Power(Watts)": "100mW",
+          "Voltage-Supply(Max)": "75V",
+          "Temperature Coefficient": "±200ppm/℃",
+          "Operating Temperature": "-55℃~+155℃",
+          "Description": "电阻类型:厚膜电阻;阻值:1.87kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±200ppm/℃;"
+        }
+      },
+      {
+        "ref": "R6",
+        "prior": "={Value}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "厚膜电阻 10kΩ ±1% 100mW",
+          "Supplier Footprint": "0603",
+          "JLCPCB Part Class": "Basic Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/0603WAF1002T5E/26547.html",
+          "Type": "厚膜电阻",
+          "Value": "10kΩ",
+          "Tolerance": "±1%",
+          "Power(Watts)": "100mW",
+          "Voltage-Supply(Max)": "75V",
+          "Temperature Coefficient": "±100ppm/℃",
+          "Operating Temperature": "-55℃~+155℃",
+          "Description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;"
+        }
+      },
+      {
+        "ref": "C1",
+        "prior": "={Value}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "10uF ±10% 25V",
+          "Supplier Footprint": "1206",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/CL31B106KAHNNNE/15532.html",
+          "Value": "10uF",
+          "Tolerance": "±10%",
+          "Voltage Rating": "25V",
+          "Temperature Coefficient": "X7R",
+          "Description": "容值:10uF;精度:±10%;额定电压:25V;温度系数:X7R;"
+        }
+      },
+      {
+        "ref": "C2",
+        "prior": "={Value}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "100nF ±10% 50V",
+          "Supplier Footprint": "0603",
+          "JLCPCB Part Class": "Basic Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html",
+          "Value": "100nF",
+          "Tolerance": "±10%",
+          "Voltage Rating": "50V",
+          "Temperature Coefficient": "X7R",
+          "Description": "容值:100nF;精度:±10%;额定电压:50V;温度系数:X7R;"
+        }
+      },
+      {
+        "ref": "C3",
+        "prior": "={Value}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "10uF ±10% 25V",
+          "Supplier Footprint": "1206",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/CL31B106KAHNNNE/15532.html",
+          "Value": "10uF",
+          "Tolerance": "±10%",
+          "Voltage Rating": "25V",
+          "Temperature Coefficient": "X7R",
+          "Description": "容值:10uF;精度:±10%;额定电压:25V;温度系数:X7R;"
+        }
+      },
+      {
+        "ref": "C4",
+        "prior": "={Value}",
+        "props": {
+          "PCB Layer": "Default",
+          "LCSC Part Name": "2.2nF ±10% 50V",
+          "Supplier Footprint": "0603",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/CL10B222KB8NNNC/16715.html",
+          "Value": "2.2nF",
+          "Tolerance": "±10%",
+          "Voltage Rating": "50V",
+          "Temperature Coefficient": "X7R",
+          "Description": "容值:2.2nF;精度:±10%;额定电压:50V;温度系数:X7R;"
+        }
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "85b38436-b87a-4f79-b4e4-e135b424871d"
+}

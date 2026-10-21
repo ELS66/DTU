@@ -1,0 +1,1 @@
+const c=(await eda.sch_PrimitiveComponent.getAll("part")).filter(z=>["R100","R101","R113","U13"].includes(z.getState_Designator()));const out=[];for(const a of c)out.push({part:a,attrs:await eda.sch_PrimitiveAttribute.getAll(a.getState_PrimitiveId())});return out;

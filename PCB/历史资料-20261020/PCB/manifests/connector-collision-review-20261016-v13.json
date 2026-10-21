@@ -1,0 +1,263 @@
+{
+  "review": "2026-10-16 latest screenshot component collision 9 red 7 yellow 8 green",
+  "source": "current Silkholefix PCB; component positions unchanged since Silkclean source",
+  "numeric005Means": "5 percent model enlargement, not 0.05 mm physical gap (per screenshot explanation)",
+  "componentCount": 104,
+  "CPLRows": 99,
+  "duplicateCPLRefs": [],
+  "connectorChecks": [
+    {
+      "ref": "J1",
+      "PCBInstanceCount": 1,
+      "CPLRowCount": 1,
+      "bodyBoundsMm": [
+        10.490004420000002,
+        0.6900011600000004,
+        22.499988020000004,
+        5.81000616
+      ],
+      "footprintBoundsIncludingPadsMm": [
+        10.350660020000003,
+        0.6646011600000001,
+        22.64934002,
+        8.22199016
+      ],
+      "nearestOtherBody": [
+        [
+          1.4900173399999943,
+          "J2"
+        ],
+        [
+          6.812012840017047,
+          "D6"
+        ],
+        [
+          6.940019139999998,
+          "D13"
+        ],
+        [
+          7.279739802533064,
+          "R38"
+        ]
+      ],
+      "nearestOtherBodyFromFootprintEnvelope": [
+        [
+          1.3406653399999975,
+          "J2"
+        ],
+        [
+          4.528035139999998,
+          "D13"
+        ],
+        [
+          4.977600256461391,
+          "D6"
+        ],
+        [
+          4.989539464165005,
+          "R38"
+        ]
+      ]
+    },
+    {
+      "ref": "J2",
+      "PCBInstanceCount": 1,
+      "CPLRowCount": 1,
+      "bodyBoundsMm": [
+        23.990005359999998,
+        0.6900011600000004,
+        35.999988959999996,
+        5.81000616
+      ],
+      "footprintBoundsIncludingPadsMm": [
+        23.850660960000003,
+        0.6646011600000001,
+        36.14934096,
+        8.22199016
+      ],
+      "nearestOtherBody": [
+        [
+          1.4900147999999973,
+          "J3"
+        ],
+        [
+          1.4900173399999943,
+          "J1"
+        ],
+        [
+          5.439981499999998,
+          "D6"
+        ],
+        [
+          6.889996379999999,
+          "R38"
+        ]
+      ],
+      "nearestOtherBodyFromFootprintEnvelope": [
+        [
+          1.3406627999999898,
+          "J3"
+        ],
+        [
+          1.350672939999999,
+          "J1"
+        ],
+        [
+          3.0279974999999983,
+          "D6"
+        ],
+        [
+          4.478012379999997,
+          "R38"
+        ]
+      ]
+    },
+    {
+      "ref": "J3",
+      "PCBInstanceCount": 1,
+      "CPLRowCount": 1,
+      "bodyBoundsMm": [
+        37.49000375999999,
+        0.6900011600000004,
+        49.49998736,
+        5.81000616
+      ],
+      "footprintBoundsIncludingPadsMm": [
+        37.350659359999995,
+        0.6646011600000001,
+        49.64933936,
+        8.22199016
+      ],
+      "nearestOtherBody": [
+        [
+          1.4900147999999973,
+          "J2"
+        ],
+        [
+          7.220184397617659,
+          "D8"
+        ],
+        [
+          7.289995579999997,
+          "R100"
+        ],
+        [
+          7.63999488,
+          "R36"
+        ]
+      ],
+      "nearestOtherBodyFromFootprintEnvelope": [
+        [
+          1.3506703999999983,
+          "J2"
+        ],
+        [
+          4.8358867386796405,
+          "D8"
+        ],
+        [
+          4.878011579999996,
+          "R100"
+        ],
+        [
+          5.228010879999999,
+          "R101"
+        ]
+      ]
+    }
+  ],
+  "nominalCenterSpacingMm": 13.5,
+  "datasheetNominalBodyWidthMm": 12,
+  "datasheetBodyWidthToleranceMm": 0.2,
+  "nominalBodyGapMm": 1.5,
+  "bodyWidthMaximumGapMm": 1.3,
+  "conservativeSymmetric5PercentMaxBodyWidthGapMm": 0.6899999999999995,
+  "fullLayer48Audit": {
+    "scope": "library layer48 body geometry; excludes DNP; does not replace manufacturer drawings or DFM 3D model engine",
+    "bodyCount": 104,
+    "missingBodyOutline": [],
+    "bodyOverlaps": [],
+    "bodyGapBelow0_3mm": [],
+    "uniform5PercentExpansionIntersections": []
+  },
+  "DFMObject2NotVisible": false,
+  "DFMDisposition": "all nine red rows same-reference connector pairs; no duplicate PCB/CPL instances or local body overlap found; model cause awaits factory confirmation. Seven yellow rows reduce to five component pairs, no local body overlap; spacing and 3D model validation pending.",
+  "factoryDfmPassed": false,
+  "visibleRedPairsFromSecondScreenshot": [
+    [
+      "J3",
+      "J3"
+    ],
+    [
+      "J3",
+      "J3"
+    ],
+    [
+      "J3",
+      "J3"
+    ],
+    [
+      "J1",
+      "J1"
+    ],
+    [
+      "J1",
+      "J1"
+    ],
+    [
+      "J1",
+      "J1"
+    ],
+    [
+      "J2",
+      "J2"
+    ],
+    [
+      "J2",
+      "J2"
+    ]
+  ],
+  "redCountShown": 9,
+  "redRowsVisible": 8,
+  "unseenRedRows": 0,
+  "yellowCountShown": 7,
+  "yellowPairsNotProvided": false,
+  "allRedRowsIdentified": true,
+  "red9Pair": [
+    "J2",
+    "J2"
+  ],
+  "allRedPairsSameReference": true,
+  "yellowRowsFromScreenshot": [
+    [
+      "C53",
+      "J4"
+    ],
+    [
+      "C57",
+      "J4"
+    ],
+    [
+      "C57",
+      "J4"
+    ],
+    [
+      "Q1",
+      "C85"
+    ],
+    [
+      "Q1",
+      "U1"
+    ],
+    [
+      "J4",
+      "C94"
+    ],
+    [
+      "J4",
+      "C94"
+    ]
+  ],
+  "uniqueYellowPairs": 5,
+  "warningPairReview": "smt-warning-pair-review-v13.json"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "ref": "C30",
+    "x": 22.5,
+    "y": 10.6,
+    "rotation": 180,
+    "physicalCollisions": [
+      "D4",
+      "U7"
+    ],
+    "blockingNets": [
+      "GND"
+    ]
+  },
+  {
+    "ref": "C31",
+    "x": 32.0,
+    "y": 12.5,
+    "rotation": 90,
+    "physicalCollisions": [
+      "D2"
+    ],
+    "blockingNets": [
+      "VIN_232_FUSED"
+    ]
+  },
+  {
+    "ref": "C32",
+    "x": 22.5,
+    "y": 13.2,
+    "rotation": 90,
+    "physicalCollisions": [
+      "D4"
+    ],
+    "blockingNets": [
+      "FIELD_TX",
+      "LTE_RXD"
+    ]
+  },
+  {
+    "ref": "C33",
+    "x": 31.5,
+    "y": 14.8,
+    "rotation": 90,
+    "physicalCollisions": [
+      "D2",
+      "C105",
+      "D16",
+      "R102"
+    ],
+    "blockingNets": [
+      "232_TOUT",
+      "RS232_PRESENT_N"
+    ]
+  }
+]

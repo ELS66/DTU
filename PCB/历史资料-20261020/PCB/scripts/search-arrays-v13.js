@@ -1,0 +1,1 @@
+const out={};for(const key of ['YC164-JR-071KL','CAT16-102J4LF','CAY16-102J4LF'])out[key]=await eda.lib_Device.search(key,undefined,undefined,undefined,3,1);return out;

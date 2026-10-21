@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='1d7fb27b7ad9306bc25c90ee476429c9e681ffecce79136ba05149eca7bba1b0')throw Error('Wrong project');const f=await eda.sys_FileManager.getProjectFile('DTU-V0.11-参考板接口精简',undefined,'epro2');if(!f)throw Error('No project export');return {name:f.name,size:f.size,bytes:Array.from(new Uint8Array(await f.arrayBuffer()))};

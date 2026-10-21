@@ -1,0 +1,2739 @@
+{
+  "sourceUrl": "https://modules.lceda.cn/3dmodel/6367ea27a5384112840465ad6d260e03",
+  "matchedLCSC": "C48982537",
+  "publicPackageUuid": "2e739451f60d4693986b4bd55cd7f7f9",
+  "modelFootprintName": "LCC-LGA-109_L17.7-W15.8-P1.10_MC661",
+  "minimumMeshZ": -0.8,
+  "bottomMetalRegions": 109,
+  "outsideCopper": 54,
+  "outsideHistogram": {
+    "0.025": 54
+  },
+  "rows": [
+    {
+      "pin": "13",
+      "dfmModelBoundsMm": [
+        -7.9,
+        -6.975,
+        -6.6,
+        -6.225
+      ],
+      "landBoundsMm": [
+        -9.25,
+        -6.949999999999998,
+        -6.549999999999999,
+        -6.249999999999999
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        -6.8999999999999995,
+        -6.6,
+        -6.3
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.025000000000001243,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772718918855003
+    },
+    {
+      "pin": "12",
+      "dfmModelBoundsMm": [
+        -7.9,
+        -5.875,
+        -6.6,
+        -5.125
+      ],
+      "landBoundsMm": [
+        -9.25,
+        -5.85,
+        -6.549999999999999,
+        -5.15
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        -5.8,
+        -6.6,
+        -5.2
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772719029350002
+    },
+    {
+      "pin": "11",
+      "dfmModelBoundsMm": [
+        -7.9,
+        -4.775,
+        -6.6,
+        -4.025
+      ],
+      "landBoundsMm": [
+        -9.25,
+        -4.75,
+        -6.549999999999999,
+        -4.050000000000001
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        -4.7,
+        -6.6,
+        -4.1000000000000005
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772719361900003
+    },
+    {
+      "pin": "10",
+      "dfmModelBoundsMm": [
+        -7.9,
+        -3.675,
+        -6.6,
+        -2.925
+      ],
+      "landBoundsMm": [
+        -9.25,
+        -3.6499999999999995,
+        -6.549999999999999,
+        -2.9499999999999993
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        -3.5999999999999996,
+        -6.6,
+        -3.0
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499999999999981,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772720843575003
+    },
+    {
+      "pin": "9",
+      "dfmModelBoundsMm": [
+        -7.9,
+        -2.575,
+        -6.6,
+        -1.825
+      ],
+      "landBoundsMm": [
+        -9.25,
+        -2.5500000000000003,
+        -6.549999999999999,
+        -1.85
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        -2.5,
+        -6.6,
+        -1.9000000000000001
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000009,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772721122270005
+    },
+    {
+      "pin": "8",
+      "dfmModelBoundsMm": [
+        -7.9,
+        -1.475,
+        -6.6,
+        -0.725
+      ],
+      "landBoundsMm": [
+        -9.25,
+        -1.4500000000000002,
+        -6.549999999999999,
+        -0.7500000000000001
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        -1.4000000000000001,
+        -6.6,
+        -0.8
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000009,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772721122270005
+    },
+    {
+      "pin": "7",
+      "dfmModelBoundsMm": [
+        -7.9,
+        -0.375,
+        -6.6,
+        0.375
+      ],
+      "landBoundsMm": [
+        -9.25,
+        -0.35,
+        -6.549999999999999,
+        0.35
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        -0.3,
+        -6.6,
+        0.3
+      ],
+      "modelOutsideCopperAreaMm2": 0.0650000000000001,
+      "maximumOverhangMm": 0.025000000000000022,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772721122270004
+    },
+    {
+      "pin": "6",
+      "dfmModelBoundsMm": [
+        -7.9,
+        0.725,
+        -6.6,
+        1.475
+      ],
+      "landBoundsMm": [
+        -9.25,
+        0.7500000000000001,
+        -6.549999999999999,
+        1.4500000000000002
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        0.8,
+        -6.6,
+        1.4000000000000001
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000009,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772721122270004
+    },
+    {
+      "pin": "5",
+      "dfmModelBoundsMm": [
+        -7.9,
+        1.825,
+        -6.6,
+        2.575
+      ],
+      "landBoundsMm": [
+        -9.25,
+        1.85,
+        -6.549999999999999,
+        2.5500000000000003
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        1.9000000000000001,
+        -6.6,
+        2.5
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000009,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772721122270007
+    },
+    {
+      "pin": "4",
+      "dfmModelBoundsMm": [
+        -7.9,
+        2.925,
+        -6.6,
+        3.675
+      ],
+      "landBoundsMm": [
+        -9.25,
+        2.9499999999999993,
+        -6.549999999999999,
+        3.6499999999999995
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        3.0,
+        -6.6,
+        3.5999999999999996
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499999999999981,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772720843575003
+    },
+    {
+      "pin": "3",
+      "dfmModelBoundsMm": [
+        -7.9,
+        4.025,
+        -6.6,
+        4.775
+      ],
+      "landBoundsMm": [
+        -9.25,
+        4.050000000000001,
+        -6.549999999999999,
+        4.75
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        4.1000000000000005,
+        -6.6,
+        4.7
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772719361900003
+    },
+    {
+      "pin": "2",
+      "dfmModelBoundsMm": [
+        -7.9,
+        5.125,
+        -6.6,
+        5.875
+      ],
+      "landBoundsMm": [
+        -9.25,
+        5.15,
+        -6.549999999999999,
+        5.85
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        5.2,
+        -6.6,
+        5.8
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772719029350005
+    },
+    {
+      "pin": "1",
+      "dfmModelBoundsMm": [
+        -7.9,
+        6.225,
+        -6.6,
+        6.975
+      ],
+      "landBoundsMm": [
+        -9.25,
+        6.249999999999999,
+        -6.549999999999999,
+        6.949999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -7.9,
+        6.3,
+        -6.6,
+        6.8999999999999995
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.025000000000001243,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772718918855005
+    },
+    {
+      "pin": "95",
+      "dfmModelBoundsMm": [
+        -5.875,
+        -8.849999,
+        -5.125,
+        -7.55
+      ],
+      "landBoundsMm": [
+        -5.85,
+        -10.199999999999998,
+        -5.15,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.8,
+        -8.85,
+        -5.2,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772716228040003
+    },
+    {
+      "pin": "98",
+      "dfmModelBoundsMm": [
+        -5.875,
+        7.55,
+        -5.125,
+        8.849999
+      ],
+      "landBoundsMm": [
+        -5.85,
+        7.499999999999998,
+        -5.15,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.8,
+        7.549999999999999,
+        -5.2,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772716228040004
+    },
+    {
+      "pin": "14",
+      "dfmModelBoundsMm": [
+        -4.775,
+        -8.849999,
+        -4.025,
+        -7.55
+      ],
+      "landBoundsMm": [
+        -4.75,
+        -10.199999999999998,
+        -4.050000000000001,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -4.7,
+        -8.85,
+        -4.1000000000000005,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772716560585001
+    },
+    {
+      "pin": "15",
+      "dfmModelBoundsMm": [
+        -3.675,
+        -8.849999,
+        -2.925,
+        -7.55
+      ],
+      "landBoundsMm": [
+        -3.6499999999999995,
+        -10.199999999999998,
+        -2.9499999999999993,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.5999999999999996,
+        -8.85,
+        -3.0,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.0649999499999998,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718042255001
+    },
+    {
+      "pin": "100",
+      "dfmModelBoundsMm": [
+        -5.5,
+        -6.35,
+        -4.5,
+        -5.6
+      ],
+      "landBoundsMm": [
+        -5.55,
+        -6.4,
+        -4.45,
+        -5.6
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        -6.35,
+        -4.5,
+        -5.65
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.05000000000000071,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "101",
+      "dfmModelBoundsMm": [
+        -3.975,
+        -6.425,
+        -3.225,
+        -5.425
+      ],
+      "landBoundsMm": [
+        -4.0,
+        -6.5,
+        -3.2,
+        -5.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.95,
+        -6.45,
+        -3.25,
+        -5.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932756,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "53",
+      "dfmModelBoundsMm": [
+        -5.5,
+        -5.15,
+        -4.5,
+        -4.4
+      ],
+      "landBoundsMm": [
+        -5.55,
+        -5.2,
+        -4.45,
+        -4.3999999999999995
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        -5.1499999999999995,
+        -4.5,
+        -4.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "52",
+      "dfmModelBoundsMm": [
+        -5.5,
+        -3.95,
+        -4.5,
+        -3.2
+      ],
+      "landBoundsMm": [
+        -5.55,
+        -4.0,
+        -4.45,
+        -3.2
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        -3.95,
+        -4.5,
+        -3.25
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "79",
+      "dfmModelBoundsMm": [
+        -3.7,
+        -3.35,
+        -2.7,
+        -2.6
+      ],
+      "landBoundsMm": [
+        -3.75,
+        -3.4,
+        -2.6500000000000004,
+        -2.6
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.7,
+        -3.35,
+        -2.7,
+        -2.65
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "51",
+      "dfmModelBoundsMm": [
+        -5.5,
+        -2.75,
+        -4.5,
+        -2.0
+      ],
+      "landBoundsMm": [
+        -5.55,
+        -2.8,
+        -4.45,
+        -2.0
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        -2.75,
+        -4.5,
+        -2.05
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "50",
+      "dfmModelBoundsMm": [
+        -5.5,
+        -1.55,
+        -4.5,
+        -0.8
+      ],
+      "landBoundsMm": [
+        -5.55,
+        -1.5999999999999999,
+        -4.45,
+        -0.8
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        -1.5499999999999998,
+        -4.5,
+        -0.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999993,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "49",
+      "dfmModelBoundsMm": [
+        -5.5,
+        -0.35,
+        -4.5,
+        0.4
+      ],
+      "landBoundsMm": [
+        -5.55,
+        -0.39999999999999997,
+        -4.45,
+        0.39999999999999997
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        -0.35,
+        -4.5,
+        0.35
+      ],
+      "modelOutsideCopperAreaMm2": 5.551115123125783e-17,
+      "maximumOverhangMm": 5.551115123125782e-17,
+      "modelToManufacturerHausdorffMm": 0.050000000000000044,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "76",
+      "dfmModelBoundsMm": [
+        -3.7,
+        0.25,
+        -2.7,
+        1.0
+      ],
+      "landBoundsMm": [
+        -3.75,
+        0.2,
+        -2.6500000000000004,
+        1.0
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.7,
+        0.25,
+        -2.7,
+        0.95
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.050000000000000044,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "48",
+      "dfmModelBoundsMm": [
+        -5.5,
+        0.85,
+        -4.5,
+        1.6
+      ],
+      "landBoundsMm": [
+        -5.55,
+        0.8,
+        -4.45,
+        1.5999999999999999
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        0.85,
+        -4.5,
+        1.5499999999999998
+      ],
+      "modelOutsideCopperAreaMm2": 2.220446049250313e-16,
+      "maximumOverhangMm": 2.2204460492503128e-16,
+      "modelToManufacturerHausdorffMm": 0.050000000000000266,
+      "modelAreaMm2": 0.7500000000000001
+    },
+    {
+      "pin": "75",
+      "dfmModelBoundsMm": [
+        -3.7,
+        1.45,
+        -2.7,
+        2.2
+      ],
+      "landBoundsMm": [
+        -3.75,
+        1.4000000000000001,
+        -2.6500000000000004,
+        2.2
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.7,
+        1.4500000000000002,
+        -2.7,
+        2.15
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.050000000000000266,
+      "modelAreaMm2": 0.7500000000000002
+    },
+    {
+      "pin": "47",
+      "dfmModelBoundsMm": [
+        -5.5,
+        2.05,
+        -4.5,
+        2.8
+      ],
+      "landBoundsMm": [
+        -5.55,
+        2.0,
+        -4.45,
+        2.8
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        2.05,
+        -4.5,
+        2.75
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "74",
+      "dfmModelBoundsMm": [
+        -3.7,
+        2.65,
+        -2.7,
+        3.4
+      ],
+      "landBoundsMm": [
+        -3.75,
+        2.6,
+        -2.6500000000000004,
+        3.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.7,
+        2.65,
+        -2.7,
+        3.35
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "46",
+      "dfmModelBoundsMm": [
+        -5.5,
+        3.25,
+        -4.5,
+        4.0
+      ],
+      "landBoundsMm": [
+        -5.55,
+        3.2,
+        -4.45,
+        4.0
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        3.25,
+        -4.5,
+        3.95
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "73",
+      "dfmModelBoundsMm": [
+        -3.7,
+        3.85,
+        -2.7,
+        4.6
+      ],
+      "landBoundsMm": [
+        -3.75,
+        3.8000000000000003,
+        -2.6500000000000004,
+        4.6000000000000005
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.7,
+        3.85,
+        -2.7,
+        4.55
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.7499999999999996
+    },
+    {
+      "pin": "45",
+      "dfmModelBoundsMm": [
+        -5.5,
+        4.45,
+        -4.5,
+        5.2
+      ],
+      "landBoundsMm": [
+        -5.55,
+        4.3999999999999995,
+        -4.45,
+        5.2
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        4.45,
+        -4.5,
+        5.1499999999999995
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.05000000000000071,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "106",
+      "dfmModelBoundsMm": [
+        -3.975,
+        5.425,
+        -3.225,
+        6.425
+      ],
+      "landBoundsMm": [
+        -4.0,
+        5.4,
+        -3.2,
+        6.5
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.95,
+        5.45,
+        -3.25,
+        6.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932756,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "99",
+      "dfmModelBoundsMm": [
+        -5.5,
+        5.65,
+        -4.5,
+        6.4
+      ],
+      "landBoundsMm": [
+        -5.55,
+        5.6,
+        -4.45,
+        6.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -5.5,
+        5.65,
+        -4.5,
+        6.35
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.05000000000000071,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "44",
+      "dfmModelBoundsMm": [
+        -4.775,
+        7.55,
+        -4.025,
+        8.849999
+      ],
+      "landBoundsMm": [
+        -4.75,
+        7.499999999999998,
+        -4.050000000000001,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -4.7,
+        7.549999999999999,
+        -4.1000000000000005,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772716560585002
+    },
+    {
+      "pin": "43",
+      "dfmModelBoundsMm": [
+        -3.675,
+        7.55,
+        -2.925,
+        8.849999
+      ],
+      "landBoundsMm": [
+        -3.6499999999999995,
+        7.499999999999998,
+        -2.9499999999999993,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.5999999999999996,
+        7.549999999999999,
+        -3.0,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.0649999499999998,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718042255
+    },
+    {
+      "pin": "17",
+      "dfmModelBoundsMm": [
+        -1.475,
+        -8.849999,
+        -0.725,
+        -7.55
+      ],
+      "landBoundsMm": [
+        -1.4500000000000002,
+        -10.199999999999998,
+        -0.7500000000000001,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -1.4000000000000001,
+        -8.85,
+        -0.8,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000008,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718320950004
+    },
+    {
+      "pin": "16",
+      "dfmModelBoundsMm": [
+        -2.575,
+        -8.849999,
+        -1.825,
+        -7.55
+      ],
+      "landBoundsMm": [
+        -2.5500000000000003,
+        -10.199999999999998,
+        -1.85,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -2.5,
+        -8.85,
+        -1.9000000000000001,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000008,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718320950003
+    },
+    {
+      "pin": "54",
+      "dfmModelBoundsMm": [
+        -2.775,
+        -6.425,
+        -2.025,
+        -5.425
+      ],
+      "landBoundsMm": [
+        -2.8,
+        -6.5,
+        -2.0,
+        -5.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -2.75,
+        -6.45,
+        -2.05,
+        -5.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932756,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "55",
+      "dfmModelBoundsMm": [
+        -1.575,
+        -6.425,
+        -0.825,
+        -5.425
+      ],
+      "landBoundsMm": [
+        -1.5999999999999999,
+        -6.5,
+        -0.8,
+        -5.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -1.5499999999999998,
+        -6.45,
+        -0.85,
+        -5.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932772,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "80",
+      "dfmModelBoundsMm": [
+        -3.7,
+        -4.55,
+        -2.7,
+        -3.8
+      ],
+      "landBoundsMm": [
+        -3.75,
+        -4.6000000000000005,
+        -2.6500000000000004,
+        -3.8000000000000003
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.7,
+        -4.55,
+        -2.7,
+        -3.85
+      ],
+      "modelOutsideCopperAreaMm2": 4.440892098500626e-16,
+      "maximumOverhangMm": 4.4408920985006257e-16,
+      "modelToManufacturerHausdorffMm": 0.050000000000000266,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "107",
+      "dfmModelBoundsMm": [
+        -1.575,
+        -4.625,
+        -0.825,
+        -3.625
+      ],
+      "landBoundsMm": [
+        -1.5999999999999999,
+        -4.7,
+        -0.8,
+        -3.6000000000000005
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -1.5499999999999998,
+        -4.65,
+        -0.85,
+        -3.6500000000000004
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932772,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "78",
+      "dfmModelBoundsMm": [
+        -3.7,
+        -2.15,
+        -2.7,
+        -1.4
+      ],
+      "landBoundsMm": [
+        -3.75,
+        -2.2,
+        -2.6500000000000004,
+        -1.4000000000000001
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.7,
+        -2.15,
+        -2.7,
+        -1.4500000000000002
+      ],
+      "modelOutsideCopperAreaMm2": 2.220446049250313e-16,
+      "maximumOverhangMm": 2.2204460492503128e-16,
+      "modelToManufacturerHausdorffMm": 0.050000000000000266,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "77",
+      "dfmModelBoundsMm": [
+        -3.7,
+        -0.95,
+        -2.7,
+        -0.2
+      ],
+      "landBoundsMm": [
+        -3.75,
+        -1.0,
+        -2.6500000000000004,
+        -0.2
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -3.7,
+        -0.95,
+        -2.7,
+        -0.25
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999999,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "71",
+      "dfmModelBoundsMm": [
+        -1.575,
+        5.425,
+        -0.825,
+        6.425
+      ],
+      "landBoundsMm": [
+        -1.5999999999999999,
+        5.4,
+        -0.8,
+        6.5
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -1.5499999999999998,
+        5.45,
+        -0.85,
+        6.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932772,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "72",
+      "dfmModelBoundsMm": [
+        -2.775,
+        5.425,
+        -2.025,
+        6.425
+      ],
+      "landBoundsMm": [
+        -2.8,
+        5.4,
+        -2.0,
+        6.5
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -2.75,
+        5.45,
+        -2.05,
+        6.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932756,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "42",
+      "dfmModelBoundsMm": [
+        -2.575,
+        7.55,
+        -1.825,
+        8.849999
+      ],
+      "landBoundsMm": [
+        -2.5500000000000003,
+        7.499999999999998,
+        -1.85,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -2.5,
+        7.549999999999999,
+        -1.9000000000000001,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000008,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718320950003
+    },
+    {
+      "pin": "41",
+      "dfmModelBoundsMm": [
+        -1.475,
+        7.55,
+        -0.725,
+        8.849999
+      ],
+      "landBoundsMm": [
+        -1.4500000000000002,
+        7.499999999999998,
+        -0.7500000000000001,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -1.4000000000000001,
+        7.549999999999999,
+        -0.8,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000008,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718320950005
+    },
+    {
+      "pin": "19",
+      "dfmModelBoundsMm": [
+        0.725,
+        -8.849999,
+        1.475,
+        -7.55
+      ],
+      "landBoundsMm": [
+        0.7500000000000001,
+        -10.199999999999998,
+        1.4500000000000002,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        0.8,
+        -8.85,
+        1.4000000000000001,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000008,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.877271832095
+    },
+    {
+      "pin": "18",
+      "dfmModelBoundsMm": [
+        -0.375,
+        -8.849999,
+        0.375,
+        -7.55
+      ],
+      "landBoundsMm": [
+        -0.35,
+        -10.199999999999998,
+        0.35,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -0.3,
+        -8.85,
+        0.3,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000008,
+      "maximumOverhangMm": 0.025000000000000026,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718320950003
+    },
+    {
+      "pin": "56",
+      "dfmModelBoundsMm": [
+        -0.375,
+        -6.425,
+        0.375,
+        -5.425
+      ],
+      "landBoundsMm": [
+        -0.39999999999999997,
+        -6.5,
+        0.39999999999999997,
+        -5.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -0.35,
+        -6.45,
+        0.35,
+        -5.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.035355339059327646,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "57",
+      "dfmModelBoundsMm": [
+        0.825,
+        -6.425,
+        1.575,
+        -5.425
+      ],
+      "landBoundsMm": [
+        0.8,
+        -6.5,
+        1.5999999999999999,
+        -5.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        0.85,
+        -6.45,
+        1.5499999999999998,
+        -5.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932772,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "108",
+      "dfmModelBoundsMm": [
+        -0.375,
+        -4.625,
+        0.375,
+        -3.625
+      ],
+      "landBoundsMm": [
+        -0.39999999999999997,
+        -4.7,
+        0.39999999999999997,
+        -3.6000000000000005
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -0.35,
+        -4.65,
+        0.35,
+        -3.6500000000000004
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.035355339059327646,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "109",
+      "dfmModelBoundsMm": [
+        0.825,
+        -4.625,
+        1.575,
+        -3.625
+      ],
+      "landBoundsMm": [
+        0.8,
+        -4.7,
+        1.5999999999999999,
+        -3.6000000000000005
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        0.85,
+        -4.65,
+        1.5499999999999998,
+        -3.6500000000000004
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932772,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "92",
+      "dfmModelBoundsMm": [
+        0.2,
+        -2.475,
+        1.6,
+        -1.075
+      ],
+      "landBoundsMm": [
+        0.19999999999999996,
+        -2.5,
+        1.6,
+        -1.1
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        0.25,
+        -2.45,
+        1.55,
+        -1.15
+      ],
+      "modelOutsideCopperAreaMm2": 0.03500000000000019,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.09013878188659973,
+      "modelAreaMm2": 1.9600000000000004
+    },
+    {
+      "pin": "91",
+      "dfmModelBoundsMm": [
+        -1.6,
+        -2.475,
+        -0.2,
+        -1.075
+      ],
+      "landBoundsMm": [
+        -1.6,
+        -2.5,
+        -0.19999999999999996,
+        -1.1
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -1.55,
+        -2.45,
+        -0.25,
+        -1.15
+      ],
+      "modelOutsideCopperAreaMm2": 0.03500000000000019,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.09013878188659973,
+      "modelAreaMm2": 1.9600000000000004
+    },
+    {
+      "pin": "93",
+      "dfmModelBoundsMm": [
+        0.2,
+        -0.675,
+        1.6,
+        0.725
+      ],
+      "landBoundsMm": [
+        0.19999999999999996,
+        -0.7000000000000001,
+        1.6,
+        0.7000000000000001
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        0.25,
+        -0.65,
+        1.55,
+        0.65
+      ],
+      "modelOutsideCopperAreaMm2": 0.03499999999999988,
+      "maximumOverhangMm": 0.02499999999999991,
+      "modelToManufacturerHausdorffMm": 0.09013878188659973,
+      "modelAreaMm2": 1.96
+    },
+    {
+      "pin": "90",
+      "dfmModelBoundsMm": [
+        -1.6,
+        -0.675,
+        -0.2,
+        0.725
+      ],
+      "landBoundsMm": [
+        -1.6,
+        -0.7000000000000001,
+        -0.19999999999999996,
+        0.7000000000000001
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -1.55,
+        -0.65,
+        -0.25,
+        0.65
+      ],
+      "modelOutsideCopperAreaMm2": 0.03499999999999988,
+      "maximumOverhangMm": 0.02499999999999991,
+      "modelToManufacturerHausdorffMm": 0.09013878188659973,
+      "modelAreaMm2": 1.96
+    },
+    {
+      "pin": "89",
+      "dfmModelBoundsMm": [
+        -1.6,
+        1.125,
+        -0.2,
+        2.525
+      ],
+      "landBoundsMm": [
+        -1.6,
+        1.1,
+        -0.19999999999999996,
+        2.5
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -1.55,
+        1.15,
+        -0.25,
+        2.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.03499999999999988,
+      "maximumOverhangMm": 0.02499999999999991,
+      "modelToManufacturerHausdorffMm": 0.09013878188659953,
+      "modelAreaMm2": 1.96
+    },
+    {
+      "pin": "94",
+      "dfmModelBoundsMm": [
+        0.2,
+        1.125,
+        1.6,
+        2.525
+      ],
+      "landBoundsMm": [
+        0.19999999999999996,
+        1.1,
+        1.6,
+        2.5
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        0.25,
+        1.15,
+        1.55,
+        2.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.03499999999999988,
+      "maximumOverhangMm": 0.02499999999999991,
+      "modelToManufacturerHausdorffMm": 0.09013878188659953,
+      "modelAreaMm2": 1.96
+    },
+    {
+      "pin": "70",
+      "dfmModelBoundsMm": [
+        -0.375,
+        5.425,
+        0.375,
+        6.425
+      ],
+      "landBoundsMm": [
+        -0.39999999999999997,
+        5.4,
+        0.39999999999999997,
+        6.5
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -0.35,
+        5.45,
+        0.35,
+        6.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.035355339059327646,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "69",
+      "dfmModelBoundsMm": [
+        0.825,
+        5.425,
+        1.575,
+        6.425
+      ],
+      "landBoundsMm": [
+        0.8,
+        5.4,
+        1.5999999999999999,
+        6.5
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        0.85,
+        5.45,
+        1.5499999999999998,
+        6.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932772,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "40",
+      "dfmModelBoundsMm": [
+        -0.375,
+        7.55,
+        0.375,
+        8.849999
+      ],
+      "landBoundsMm": [
+        -0.35,
+        7.499999999999998,
+        0.35,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        -0.3,
+        7.549999999999999,
+        0.3,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000008,
+      "maximumOverhangMm": 0.025000000000000026,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718320950003
+    },
+    {
+      "pin": "39",
+      "dfmModelBoundsMm": [
+        0.725,
+        7.55,
+        1.475,
+        8.849999
+      ],
+      "landBoundsMm": [
+        0.7500000000000001,
+        7.499999999999998,
+        1.4500000000000002,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        0.8,
+        7.549999999999999,
+        1.4000000000000001,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000008,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718320950003
+    },
+    {
+      "pin": "20",
+      "dfmModelBoundsMm": [
+        1.825,
+        -8.849999,
+        2.575,
+        -7.55
+      ],
+      "landBoundsMm": [
+        1.85,
+        -10.199999999999998,
+        2.5500000000000003,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        1.9000000000000001,
+        -8.85,
+        2.5,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000008,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718320950003
+    },
+    {
+      "pin": "21",
+      "dfmModelBoundsMm": [
+        2.925,
+        -8.849999,
+        3.675,
+        -7.55
+      ],
+      "landBoundsMm": [
+        2.9499999999999993,
+        -10.199999999999998,
+        3.6499999999999995,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        3.0,
+        -8.85,
+        3.5999999999999996,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.0649999499999998,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718042255
+    },
+    {
+      "pin": "58",
+      "dfmModelBoundsMm": [
+        2.025,
+        -6.425,
+        2.775,
+        -5.425
+      ],
+      "landBoundsMm": [
+        2.0,
+        -6.5,
+        2.8,
+        -5.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        2.05,
+        -6.45,
+        2.75,
+        -5.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932756,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "81",
+      "dfmModelBoundsMm": [
+        2.7,
+        -4.55,
+        3.7,
+        -3.8
+      ],
+      "landBoundsMm": [
+        2.6500000000000004,
+        -4.6000000000000005,
+        3.75,
+        -3.8000000000000003
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        2.7,
+        -4.55,
+        3.7,
+        -3.85
+      ],
+      "modelOutsideCopperAreaMm2": 4.440892098500626e-16,
+      "maximumOverhangMm": 4.4408920985006257e-16,
+      "modelToManufacturerHausdorffMm": 0.050000000000000266,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "82",
+      "dfmModelBoundsMm": [
+        2.7,
+        -3.35,
+        3.7,
+        -2.6
+      ],
+      "landBoundsMm": [
+        2.6500000000000004,
+        -3.4,
+        3.75,
+        -2.6
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        2.7,
+        -3.35,
+        3.7,
+        -2.65
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "83",
+      "dfmModelBoundsMm": [
+        2.7,
+        -2.15,
+        3.7,
+        -1.4
+      ],
+      "landBoundsMm": [
+        2.6500000000000004,
+        -2.2,
+        3.75,
+        -1.4000000000000001
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        2.7,
+        -2.15,
+        3.7,
+        -1.4500000000000002
+      ],
+      "modelOutsideCopperAreaMm2": 2.220446049250313e-16,
+      "maximumOverhangMm": 2.2204460492503128e-16,
+      "modelToManufacturerHausdorffMm": 0.050000000000000266,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "84",
+      "dfmModelBoundsMm": [
+        2.7,
+        -0.95,
+        3.7,
+        -0.2
+      ],
+      "landBoundsMm": [
+        2.6500000000000004,
+        -1.0,
+        3.75,
+        -0.2
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        2.7,
+        -0.95,
+        3.7,
+        -0.25
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999999,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "85",
+      "dfmModelBoundsMm": [
+        2.7,
+        0.25,
+        3.7,
+        1.0
+      ],
+      "landBoundsMm": [
+        2.6500000000000004,
+        0.2,
+        3.75,
+        1.0
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        2.7,
+        0.25,
+        3.7,
+        0.95
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.050000000000000044,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "86",
+      "dfmModelBoundsMm": [
+        2.7,
+        1.45,
+        3.7,
+        2.2
+      ],
+      "landBoundsMm": [
+        2.6500000000000004,
+        1.4000000000000001,
+        3.75,
+        2.2
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        2.7,
+        1.4500000000000002,
+        3.7,
+        2.15
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.050000000000000266,
+      "modelAreaMm2": 0.7500000000000002
+    },
+    {
+      "pin": "87",
+      "dfmModelBoundsMm": [
+        2.7,
+        2.65,
+        3.7,
+        3.4
+      ],
+      "landBoundsMm": [
+        2.6500000000000004,
+        2.6,
+        3.75,
+        3.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        2.7,
+        2.65,
+        3.7,
+        3.35
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "88",
+      "dfmModelBoundsMm": [
+        2.7,
+        3.85,
+        3.7,
+        4.6
+      ],
+      "landBoundsMm": [
+        2.6500000000000004,
+        3.8000000000000003,
+        3.75,
+        4.6000000000000005
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        2.7,
+        3.85,
+        3.7,
+        4.55
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.7499999999999996
+    },
+    {
+      "pin": "68",
+      "dfmModelBoundsMm": [
+        2.025,
+        5.425,
+        2.775,
+        6.425
+      ],
+      "landBoundsMm": [
+        2.0,
+        5.4,
+        2.8,
+        6.5
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        2.05,
+        5.45,
+        2.75,
+        6.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932756,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "38",
+      "dfmModelBoundsMm": [
+        1.825,
+        7.55,
+        2.575,
+        8.849999
+      ],
+      "landBoundsMm": [
+        1.85,
+        7.499999999999998,
+        2.5500000000000003,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        1.9000000000000001,
+        7.549999999999999,
+        2.5,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000008,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718320950006
+    },
+    {
+      "pin": "37",
+      "dfmModelBoundsMm": [
+        2.925,
+        7.55,
+        3.675,
+        8.849999
+      ],
+      "landBoundsMm": [
+        2.9499999999999993,
+        7.499999999999998,
+        3.6499999999999995,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        3.0,
+        7.549999999999999,
+        3.5999999999999996,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.0649999499999998,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772718042255001
+    },
+    {
+      "pin": "96",
+      "dfmModelBoundsMm": [
+        5.125,
+        -8.849999,
+        5.875,
+        -7.55
+      ],
+      "landBoundsMm": [
+        5.15,
+        -10.199999999999998,
+        5.85,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        5.2,
+        -8.85,
+        5.8,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772716228040001
+    },
+    {
+      "pin": "22",
+      "dfmModelBoundsMm": [
+        4.025,
+        -8.849999,
+        4.775,
+        -7.55
+      ],
+      "landBoundsMm": [
+        4.050000000000001,
+        -10.199999999999998,
+        4.75,
+        -7.499999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.1000000000000005,
+        -8.85,
+        4.7,
+        -7.549999999999999
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772716560585001
+    },
+    {
+      "pin": "103",
+      "dfmModelBoundsMm": [
+        4.5,
+        -6.35,
+        5.5,
+        -5.6
+      ],
+      "landBoundsMm": [
+        4.45,
+        -6.4,
+        5.55,
+        -5.6
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        -6.35,
+        5.5,
+        -5.65
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.05000000000000071,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "102",
+      "dfmModelBoundsMm": [
+        3.225,
+        -6.425,
+        3.975,
+        -5.425
+      ],
+      "landBoundsMm": [
+        3.2,
+        -6.5,
+        4.0,
+        -5.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        3.25,
+        -6.45,
+        3.95,
+        -5.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932756,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "59",
+      "dfmModelBoundsMm": [
+        4.5,
+        -5.15,
+        5.5,
+        -4.4
+      ],
+      "landBoundsMm": [
+        4.45,
+        -5.2,
+        5.55,
+        -4.3999999999999995
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        -5.1499999999999995,
+        5.5,
+        -4.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "60",
+      "dfmModelBoundsMm": [
+        4.5,
+        -3.95,
+        5.5,
+        -3.2
+      ],
+      "landBoundsMm": [
+        4.45,
+        -4.0,
+        5.55,
+        -3.2
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        -3.95,
+        5.5,
+        -3.25
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "61",
+      "dfmModelBoundsMm": [
+        4.5,
+        -2.75,
+        5.5,
+        -2.0
+      ],
+      "landBoundsMm": [
+        4.45,
+        -2.8,
+        5.55,
+        -2.0
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        -2.75,
+        5.5,
+        -2.05
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "62",
+      "dfmModelBoundsMm": [
+        4.5,
+        -1.55,
+        5.5,
+        -0.8
+      ],
+      "landBoundsMm": [
+        4.45,
+        -1.5999999999999999,
+        5.55,
+        -0.8
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        -1.5499999999999998,
+        5.5,
+        -0.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999993,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "63",
+      "dfmModelBoundsMm": [
+        4.5,
+        -0.35,
+        5.5,
+        0.4
+      ],
+      "landBoundsMm": [
+        4.45,
+        -0.39999999999999997,
+        5.55,
+        0.39999999999999997
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        -0.35,
+        5.5,
+        0.35
+      ],
+      "modelOutsideCopperAreaMm2": 5.551115123125783e-17,
+      "maximumOverhangMm": 5.551115123125782e-17,
+      "modelToManufacturerHausdorffMm": 0.050000000000000044,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "64",
+      "dfmModelBoundsMm": [
+        4.5,
+        0.85,
+        5.5,
+        1.6
+      ],
+      "landBoundsMm": [
+        4.45,
+        0.8,
+        5.55,
+        1.5999999999999999
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        0.85,
+        5.5,
+        1.5499999999999998
+      ],
+      "modelOutsideCopperAreaMm2": 2.220446049250313e-16,
+      "maximumOverhangMm": 2.2204460492503128e-16,
+      "modelToManufacturerHausdorffMm": 0.050000000000000266,
+      "modelAreaMm2": 0.7500000000000001
+    },
+    {
+      "pin": "65",
+      "dfmModelBoundsMm": [
+        4.5,
+        2.05,
+        5.5,
+        2.8
+      ],
+      "landBoundsMm": [
+        4.45,
+        2.0,
+        5.55,
+        2.8
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        2.05,
+        5.5,
+        2.75
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "66",
+      "dfmModelBoundsMm": [
+        4.5,
+        3.25,
+        5.5,
+        4.0
+      ],
+      "landBoundsMm": [
+        4.45,
+        3.2,
+        5.55,
+        4.0
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        3.25,
+        5.5,
+        3.95
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.04999999999999982,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "67",
+      "dfmModelBoundsMm": [
+        4.5,
+        4.45,
+        5.5,
+        5.2
+      ],
+      "landBoundsMm": [
+        4.45,
+        4.3999999999999995,
+        5.55,
+        5.2
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        4.45,
+        5.5,
+        5.1499999999999995
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.05000000000000071,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "105",
+      "dfmModelBoundsMm": [
+        3.225,
+        5.425,
+        3.975,
+        6.425
+      ],
+      "landBoundsMm": [
+        3.2,
+        5.4,
+        4.0,
+        6.5
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        3.25,
+        5.45,
+        3.95,
+        6.45
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.03535533905932756,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "104",
+      "dfmModelBoundsMm": [
+        4.5,
+        5.65,
+        5.5,
+        6.4
+      ],
+      "landBoundsMm": [
+        4.45,
+        5.6,
+        5.55,
+        6.4
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.5,
+        5.65,
+        5.5,
+        6.35
+      ],
+      "modelOutsideCopperAreaMm2": 0.0,
+      "maximumOverhangMm": 0.0,
+      "modelToManufacturerHausdorffMm": 0.05000000000000071,
+      "modelAreaMm2": 0.75
+    },
+    {
+      "pin": "36",
+      "dfmModelBoundsMm": [
+        4.025,
+        7.55,
+        4.775,
+        8.849999
+      ],
+      "landBoundsMm": [
+        4.050000000000001,
+        7.499999999999998,
+        4.75,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        4.1000000000000005,
+        7.549999999999999,
+        4.7,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772716560585002
+    },
+    {
+      "pin": "97",
+      "dfmModelBoundsMm": [
+        5.125,
+        7.55,
+        5.875,
+        8.849999
+      ],
+      "landBoundsMm": [
+        5.15,
+        7.499999999999998,
+        5.85,
+        10.199999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        5.2,
+        7.549999999999999,
+        5.8,
+        8.85
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499995000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914599999999965,
+      "modelAreaMm2": 0.8772716228040001
+    },
+    {
+      "pin": "23",
+      "dfmModelBoundsMm": [
+        6.6,
+        -6.975,
+        7.9,
+        -6.225
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        -6.949999999999998,
+        9.25,
+        -6.249999999999999
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        -6.8999999999999995,
+        7.9,
+        -6.3
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.025000000000001243,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772718918855005
+    },
+    {
+      "pin": "24",
+      "dfmModelBoundsMm": [
+        6.6,
+        -5.875,
+        7.9,
+        -5.125
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        -5.85,
+        9.25,
+        -5.15
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        -5.8,
+        7.9,
+        -5.2
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772719029350002
+    },
+    {
+      "pin": "25",
+      "dfmModelBoundsMm": [
+        6.6,
+        -4.775,
+        7.9,
+        -4.025
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        -4.75,
+        9.25,
+        -4.050000000000001
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        -4.7,
+        7.9,
+        -4.1000000000000005
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772719361900004
+    },
+    {
+      "pin": "26",
+      "dfmModelBoundsMm": [
+        6.6,
+        -3.675,
+        7.9,
+        -2.925
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        -3.6499999999999995,
+        9.25,
+        -2.9499999999999993
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        -3.5999999999999996,
+        7.9,
+        -3.0
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499999999999981,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772720843575003
+    },
+    {
+      "pin": "27",
+      "dfmModelBoundsMm": [
+        6.6,
+        -2.575,
+        7.9,
+        -1.825
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        -2.5500000000000003,
+        9.25,
+        -1.85
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        -2.5,
+        7.9,
+        -1.9000000000000001
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000009,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772721122270007
+    },
+    {
+      "pin": "28",
+      "dfmModelBoundsMm": [
+        6.6,
+        -1.475,
+        7.9,
+        -0.725
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        -1.4500000000000002,
+        9.25,
+        -0.7500000000000001
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        -1.4000000000000001,
+        7.9,
+        -0.8
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000009,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772721122270004
+    },
+    {
+      "pin": "29",
+      "dfmModelBoundsMm": [
+        6.6,
+        -0.375,
+        7.9,
+        0.375
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        -0.35,
+        9.25,
+        0.35
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        -0.3,
+        7.9,
+        0.3
+      ],
+      "modelOutsideCopperAreaMm2": 0.0650000000000001,
+      "maximumOverhangMm": 0.025000000000000022,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772721122270003
+    },
+    {
+      "pin": "30",
+      "dfmModelBoundsMm": [
+        6.6,
+        0.725,
+        7.9,
+        1.475
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        0.7500000000000001,
+        9.25,
+        1.4500000000000002
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        0.8,
+        7.9,
+        1.4000000000000001
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000009,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772721122270003
+    },
+    {
+      "pin": "31",
+      "dfmModelBoundsMm": [
+        6.6,
+        1.825,
+        7.9,
+        2.575
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        1.85,
+        9.25,
+        2.5500000000000003
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        1.9000000000000001,
+        7.9,
+        2.5
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000009,
+      "maximumOverhangMm": 0.025000000000000133,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772721122270006
+    },
+    {
+      "pin": "32",
+      "dfmModelBoundsMm": [
+        6.6,
+        2.925,
+        7.9,
+        3.675
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        2.9499999999999993,
+        9.25,
+        3.6499999999999995
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        3.0,
+        7.9,
+        3.5999999999999996
+      ],
+      "modelOutsideCopperAreaMm2": 0.06499999999999981,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772720843575003
+    },
+    {
+      "pin": "33",
+      "dfmModelBoundsMm": [
+        6.6,
+        4.025,
+        7.9,
+        4.775
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        4.050000000000001,
+        9.25,
+        4.75
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        4.1000000000000005,
+        7.9,
+        4.7
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772719361900004
+    },
+    {
+      "pin": "34",
+      "dfmModelBoundsMm": [
+        6.6,
+        5.125,
+        7.9,
+        5.875
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        5.15,
+        9.25,
+        5.85
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        5.2,
+        7.9,
+        5.8
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.02500000000000036,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772719029350003
+    },
+    {
+      "pin": "35",
+      "dfmModelBoundsMm": [
+        6.6,
+        6.225,
+        7.9,
+        6.975
+      ],
+      "landBoundsMm": [
+        6.549999999999999,
+        6.249999999999999,
+        9.25,
+        6.949999999999998
+      ],
+      "manufacturerNominalMetalBoundsMm": [
+        6.6,
+        6.3,
+        7.9,
+        6.8999999999999995
+      ],
+      "modelOutsideCopperAreaMm2": 0.06500000000000096,
+      "maximumOverhangMm": 0.025000000000001243,
+      "modelToManufacturerHausdorffMm": 0.24914600000000053,
+      "modelAreaMm2": 0.8772718918855005
+    }
+  ]
+}

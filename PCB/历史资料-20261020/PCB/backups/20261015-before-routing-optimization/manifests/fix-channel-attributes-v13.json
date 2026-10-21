@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "result": [
+    {
+      "page": "905678d5aaed7ed3",
+      "count": 7
+    },
+    {
+      "page": "a8fcac05b0a49c52",
+      "count": 8
+    },
+    {
+      "page": "8c8a42c355c95b77",
+      "count": 6
+    },
+    {
+      "page": "31c8ed08a1998d0d",
+      "count": 18
+    },
+    {
+      "page": "8902a3019bd8d84c",
+      "count": 1
+    },
+    {
+      "page": "2eb77bba50a14eab",
+      "count": 4
+    },
+    {
+      "page": "61de9aff546f5073",
+      "count": 14
+    },
+    {
+      "page": "8ecd39430ee2c9d6",
+      "count": 2
+    }
+  ],
+  "windowId": "adb71a11-6db8-48c3-8859-f78c7ce85201"
+}

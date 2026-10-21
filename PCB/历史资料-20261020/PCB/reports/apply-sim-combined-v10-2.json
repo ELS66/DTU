@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "result": {
+    "ids": [
+      {
+        "kind": "route",
+        "id": "e5b6c0fdaa4b56ce"
+      },
+      {
+        "kind": "route",
+        "id": "db4df0d2c00313a3"
+      },
+      {
+        "kind": "route",
+        "id": "ecfb1a4c4a4bc058"
+      },
+      {
+        "kind": "route",
+        "id": "d1deea0314a0aa8a"
+      },
+      {
+        "kind": "route",
+        "id": "669d113440d7e58f"
+      },
+      {
+        "kind": "route",
+        "id": "4a2e76b9a2adbf11"
+      },
+      {
+        "kind": "route",
+        "id": "90a7510d5af38218"
+      },
+      {
+        "kind": "route",
+        "id": "d5dcef5e5b22b2f7"
+      },
+      {
+        "kind": "route",
+        "id": "2a97593ec0053d06"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

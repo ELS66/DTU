@@ -1,0 +1,3 @@
+import json
+from pathlib import Path
+p=Path('PCB');plan=json.loads((p/'manifests/interface-routing-plan-v11.json').read_text());done=json.loads((p/'manifests/optimized-routing-partial-pass10-v11.json').read_text());key=lambda z:json.dumps(z,sort_keys=True);plan={k:[z for z in plan[k] if key(z) not in {key(a) for a in done[k]}] for k in ['routes','vias']};print({k:len(v) for k,v in plan.items()});(p/'manifests/remaining-pass10-v11.json').write_text(json.dumps(plan));s=Path('PCB/scripts/optimize-ground-routing-v11.py').read_text().replace('interface-routing-plan-v11.json','remaining-pass10-v11.json').replace('pass7','remaining-pass10');exec(s)

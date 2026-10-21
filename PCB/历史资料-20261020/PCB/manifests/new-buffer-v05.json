@@ -1,0 +1,90 @@
+{
+  "success": true,
+  "result": {
+    "component": {
+      "uuid": "eb6040cbfaeb6edb",
+      "name": "SN74LVC2G125DCUR",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+    },
+    "props": {
+      "PCB Layer": "Default",
+      "LCSC Part Name": "双路三态输出总线缓冲门",
+      "Supplier Footprint": "VSSOP-8",
+      "JLCPCB Part Class": "Extended Part",
+      "Datasheet": "https://www.ti.com/cn/lit/ds/symlink/sn74lvc2g125.pdf",
+      "Input type": "-",
+      "output type": "三态",
+      "Voltage - Supply": "1.65V~5.5V",
+      "Number of Elements": "2",
+      "Number of Bits per Element": "1",
+      "Channel Type": "单向",
+      "Current - Output Low(IOL)": "32mA",
+      "Current - Output High(IOH)": "32mA",
+      "Logic Family": "74LVC",
+      "Operating Temperature": "-40℃~+85℃",
+      "Quiescent Current": "10uA",
+      "Propagation Delay": "4.3ns@3.3V,50pF",
+      "Features": "掉电隔离；输出使能",
+      "Description": "输入类型:-;工作电压:1.65V~5.5V;元件数:2;每个元件位数:1;灌电流(IOL):32mA;拉电流(IOH):32mA;"
+    },
+    "pins": [
+      {
+        "number": "1",
+        "name": "1OE#",
+        "x": 570,
+        "y": 225,
+        "rotation": 180
+      },
+      {
+        "number": "2",
+        "name": "1A",
+        "x": 570,
+        "y": 215,
+        "rotation": 180
+      },
+      {
+        "number": "3",
+        "name": "2Y",
+        "x": 570,
+        "y": 205,
+        "rotation": 180
+      },
+      {
+        "number": "4",
+        "name": "GND",
+        "x": 570,
+        "y": 195,
+        "rotation": 180
+      },
+      {
+        "number": "5",
+        "name": "2A",
+        "x": 650,
+        "y": 195,
+        "rotation": 0
+      },
+      {
+        "number": "6",
+        "name": "1Y",
+        "x": 650,
+        "y": 205,
+        "rotation": 0
+      },
+      {
+        "number": "7",
+        "name": "2OE#",
+        "x": 650,
+        "y": 215,
+        "rotation": 0
+      },
+      {
+        "number": "8",
+        "name": "VCC",
+        "x": 650,
+        "y": 225,
+        "rotation": 0
+      }
+    ]
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

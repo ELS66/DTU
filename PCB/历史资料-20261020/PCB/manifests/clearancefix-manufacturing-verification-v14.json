@@ -1,0 +1,604 @@
+{
+  "boardMm": [
+    60,
+    75
+  ],
+  "copperLayers": 4,
+  "gerberFiles": 12,
+  "viaCount": 310,
+  "drillCount": 326,
+  "mountsNPTHMm": [
+    [
+      4.0,
+      4.0,
+      3.200001
+    ],
+    [
+      56.0,
+      4.0,
+      3.200001
+    ],
+    [
+      4.0,
+      71.0,
+      3.200001
+    ],
+    [
+      56.0,
+      71.0,
+      3.200001
+    ]
+  ],
+  "minimumDrillWallGapMm": 0.35620320027846014,
+  "silkToDrillWallMinimumGapMm": 0.2618840000000002,
+  "silkToMaskMinimumGapMm": 0.2890929999999994,
+  "silkscreenGeometryUnchanged": true,
+  "minimumMovedViaAnnulusToMaskGapMm": 0.1601981900000098,
+  "upperViaChecks": [
+    {
+      "via": "526f09595a64add9",
+      "net": "VDD_4G",
+      "annulusToMaskGapMm": 0.3241992099999998,
+      "holeToMaskGapMm": 0.44919895999999954
+    },
+    {
+      "via": "b5041c25a8e47f26",
+      "net": "VDD_4G",
+      "annulusToMaskGapMm": 0.17758596531301274,
+      "holeToMaskGapMm": 0.30243730869390706
+    },
+    {
+      "via": "592480d5932f4c45",
+      "net": "VDD_3V3",
+      "annulusToMaskGapMm": 0.17679453000000933,
+      "holeToMaskGapMm": 0.30179428000000996
+    },
+    {
+      "via": "b9e64cb4c39069ae",
+      "net": "ESP_USB_DM_EXT",
+      "annulusToMaskGapMm": 1.4871690720714847,
+      "holeToMaskGapMm": 1.6121687582889603
+    },
+    {
+      "via": "4d1af5f1421d7bcd",
+      "net": "ESP_USB_DM_EXT",
+      "annulusToMaskGapMm": 0.17418904999999538,
+      "holeToMaskGapMm": 0.299188799999996
+    },
+    {
+      "via": "af1731c1a89bde76",
+      "net": "MCU_LTE_TX",
+      "annulusToMaskGapMm": 0.17679453000000933,
+      "holeToMaskGapMm": 0.30179428000000996
+    },
+    {
+      "via": "0054d5d90c1e08bf",
+      "net": "LED_ESP_R_A",
+      "annulusToMaskGapMm": 0.22407555000000204,
+      "holeToMaskGapMm": 0.34907530000000264
+    },
+    {
+      "via": "6e81baeff807dbd6",
+      "net": "LTE_RESET",
+      "annulusToMaskGapMm": 0.18720160999999894,
+      "holeToMaskGapMm": 0.3122013599999996
+    },
+    {
+      "via": "6ac5032d01eff10f",
+      "net": "LED_ESP_B_A",
+      "annulusToMaskGapMm": 0.1742405500000004,
+      "holeToMaskGapMm": 0.299240300000001
+    },
+    {
+      "via": "6f3a98c6e7673665",
+      "net": "LED_ESP_G_A",
+      "annulusToMaskGapMm": 0.18450567999340026,
+      "holeToMaskGapMm": 0.3093917867669188
+    },
+    {
+      "via": "11e3a4d569656682",
+      "net": "LED_ESP_G_N",
+      "annulusToMaskGapMm": 0.19004730999999708,
+      "holeToMaskGapMm": 0.3150470599999977
+    },
+    {
+      "via": "c47bf802d4e34e37",
+      "net": "MCU_LTE_RX",
+      "annulusToMaskGapMm": 0.16227107004604974,
+      "holeToMaskGapMm": 0.2872647759494299
+    },
+    {
+      "via": "5ba59570adcef0c6",
+      "net": "MCU_LTE_RX",
+      "annulusToMaskGapMm": 0.22202205000000672,
+      "holeToMaskGapMm": 0.3470218000000074
+    },
+    {
+      "via": "95eeff4d07ebdf0d",
+      "net": "MCU_LTE_RX",
+      "annulusToMaskGapMm": 0.17679453000000933,
+      "holeToMaskGapMm": 0.30179428000000996
+    },
+    {
+      "via": "ff1e21b6b161e89a",
+      "net": "LTE_RXD",
+      "annulusToMaskGapMm": 0.18720160999999894,
+      "holeToMaskGapMm": 0.3122013599999996
+    },
+    {
+      "via": "5866fbc07836e441",
+      "net": "ESP_BOOT",
+      "annulusToMaskGapMm": 1.0437068477793345,
+      "holeToMaskGapMm": 1.168640106772778
+    },
+    {
+      "via": "7ac77e80de03de89",
+      "net": "ESP_BOOT",
+      "annulusToMaskGapMm": 0.17937567092544707,
+      "holeToMaskGapMm": 0.30422485325222814
+    },
+    {
+      "via": "18e32151ba482365",
+      "net": "MCU_485_DE",
+      "annulusToMaskGapMm": 0.17679453000000933,
+      "holeToMaskGapMm": 0.30179428000000996
+    },
+    {
+      "via": "d70597ace0a3c896",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1662009499999968,
+      "holeToMaskGapMm": 0.2912006999999974
+    },
+    {
+      "via": "d8f9caa9fb18f54d",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16511418999999705,
+      "holeToMaskGapMm": 0.2901139399999977
+    },
+    {
+      "via": "3b941d012a229e69",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.19096377000000334,
+      "holeToMaskGapMm": 0.31596352000000394
+    },
+    {
+      "via": "ae612ad432eb6332",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1810508299999896,
+      "holeToMaskGapMm": 0.3060505799999902
+    },
+    {
+      "via": "7f61a3ff2dbee01b",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.17893646999999646,
+      "holeToMaskGapMm": 0.3039362199999971
+    },
+    {
+      "via": "43c859396b766b5f",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.17090855000000715,
+      "holeToMaskGapMm": 0.2959083000000078
+    },
+    {
+      "via": "f0a81e928a99f001",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.17090855000000715,
+      "holeToMaskGapMm": 0.2959083000000078
+    },
+    {
+      "via": "49228cec81f7eb66",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.4699071900000078,
+      "holeToMaskGapMm": 0.5949069400000085
+    },
+    {
+      "via": "c8876beeb4e233ac",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1810508299999896,
+      "holeToMaskGapMm": 0.3060505799999902
+    },
+    {
+      "via": "94c959e47d2e1bf2",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16402369000000763,
+      "holeToMaskGapMm": 0.28902344000000824
+    },
+    {
+      "via": "d3051dab07d65649",
+      "net": "GND",
+      "annulusToMaskGapMm": 1.121022030000006,
+      "holeToMaskGapMm": 1.2460217800000066
+    },
+    {
+      "via": "ad7e71569fe37064",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16402369000000763,
+      "holeToMaskGapMm": 0.28902344000000824
+    },
+    {
+      "via": "fd302ef1e665d731",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16600929000000522,
+      "holeToMaskGapMm": 0.2910090400000058
+    },
+    {
+      "via": "012e6eca0b6aa2b4",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.18599153000000257,
+      "holeToMaskGapMm": 0.3109912800000032
+    },
+    {
+      "via": "896a020a9cdc53f4",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.5242013099999951,
+      "holeToMaskGapMm": 0.6492010599999958
+    },
+    {
+      "via": "c9cfe2f76e16b555",
+      "net": "GND",
+      "annulusToMaskGapMm": 1.0741760100000022,
+      "holeToMaskGapMm": 1.1991757600000028
+    },
+    {
+      "via": "6085135c819a0a52",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.27408681,
+      "holeToMaskGapMm": 0.39908656000000065
+    },
+    {
+      "via": "fb331bdbbf3ebd23",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.17712419940570392,
+      "holeToMaskGapMm": 0.3021214627099502
+    },
+    {
+      "via": "1c8a7c730c47500a",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.22127258999999813,
+      "holeToMaskGapMm": 0.34627233999999874
+    },
+    {
+      "via": "c82ab33a1f65480a",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.29219834999999966,
+      "holeToMaskGapMm": 0.4171980999999985
+    },
+    {
+      "via": "2662308277b0d568",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.17420340999997563,
+      "holeToMaskGapMm": 0.2992031599999763
+    },
+    {
+      "via": "5f3dc3ee1102709a",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1652004500000004,
+      "holeToMaskGapMm": 0.29020019999999924
+    },
+    {
+      "via": "ff492964edf36a17",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16120027000000192,
+      "holeToMaskGapMm": 0.28620002000000255
+    },
+    {
+      "via": "39c1a2852aea74a7",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16120027000000192,
+      "holeToMaskGapMm": 0.28620002000000255
+    },
+    {
+      "via": "c93eb56e5e80efec",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16120061000000166,
+      "holeToMaskGapMm": 0.28620036000000226
+    },
+    {
+      "via": "17d4b2ba02bc077b",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16120061000000166,
+      "holeToMaskGapMm": 0.28620036000000226
+    },
+    {
+      "via": "f8385ca12a36c64d",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1652004500000004,
+      "holeToMaskGapMm": 0.29020019999999924
+    },
+    {
+      "via": "5f53d4c41ce544c9",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1601981900000098,
+      "holeToMaskGapMm": 0.2851979400000104
+    },
+    {
+      "via": "536b4f5e81f6de30",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1972005699999997,
+      "holeToMaskGapMm": 0.3222003200000003
+    },
+    {
+      "via": "d562ca35ae459883",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16520006999999914,
+      "holeToMaskGapMm": 0.290199819999998
+    },
+    {
+      "via": "d9db561d0c8487e0",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16520006999999914,
+      "holeToMaskGapMm": 0.290199819999998
+    },
+    {
+      "via": "f7dcb8349079a6dc",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16520006999999914,
+      "holeToMaskGapMm": 0.290199819999998
+    },
+    {
+      "via": "c0ce0e8ad069fb6c",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.16120033000000686,
+      "holeToMaskGapMm": 0.2862000800000075
+    },
+    {
+      "via": "7279f8bfdf1ba240",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1612003300000069,
+      "holeToMaskGapMm": 0.2862000800000075
+    },
+    {
+      "via": "da3bacfb17ca2fd0",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1612003300000069,
+      "holeToMaskGapMm": 0.2862000800000075
+    },
+    {
+      "via": "898ca265f17c52fa",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1612003300000069,
+      "holeToMaskGapMm": 0.2862000800000075
+    },
+    {
+      "via": "d3b2388593d4b626",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.2741993099999993,
+      "holeToMaskGapMm": 0.3991990599999991
+    },
+    {
+      "via": "c0299af4fcc5f953",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.2741993099999993,
+      "holeToMaskGapMm": 0.3991990599999991
+    },
+    {
+      "via": "d34fbe859532576a",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.2741993099999993,
+      "holeToMaskGapMm": 0.3991990599999991
+    },
+    {
+      "via": "fdd329252a28af53",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.2741993099999993,
+      "holeToMaskGapMm": 0.3991990599999991
+    },
+    {
+      "via": "c5b5235b7ff31b5a",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.22219977000000316,
+      "holeToMaskGapMm": 0.34719952000000376
+    },
+    {
+      "via": "31780437ea8d2598",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1967992560418917,
+      "holeToMaskGapMm": 0.3217982953886243
+    },
+    {
+      "via": "67e3f209ae198809",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.8741995300000003,
+      "holeToMaskGapMm": 0.9991992799999991
+    },
+    {
+      "via": "7c0b9755d0017b7b",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.18720146999999798,
+      "holeToMaskGapMm": 0.3122012199999986
+    },
+    {
+      "via": "bc60bd34cc3d872d",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.1872015700000027,
+      "holeToMaskGapMm": 0.31220132000000334
+    },
+    {
+      "via": "002252bedc087927",
+      "net": "LED_LTE_G_A",
+      "annulusToMaskGapMm": 0.18450424240998214,
+      "holeToMaskGapMm": 0.30939036926120683
+    },
+    {
+      "via": "294d04f9ba681abe",
+      "net": "LED_LTE_R_A",
+      "annulusToMaskGapMm": 0.18450412385780282,
+      "holeToMaskGapMm": 0.30939024906274426
+    },
+    {
+      "via": "abfcf2d8581e31d5",
+      "net": "SIM_VDD",
+      "annulusToMaskGapMm": 0.1672016499999991,
+      "holeToMaskGapMm": 0.2922013999999998
+    },
+    {
+      "via": "e0931d27cf665fb7",
+      "net": "SIM_DATA_M",
+      "annulusToMaskGapMm": 0.21220199000000406,
+      "holeToMaskGapMm": 0.33720174000000463
+    },
+    {
+      "via": "ee7af8b944975e4d",
+      "net": "LED_LTE_B_A",
+      "annulusToMaskGapMm": 0.1902339997615818,
+      "holeToMaskGapMm": 0.3150831820883631
+    },
+    {
+      "via": "ea636b9889a54807",
+      "net": "LED_LTE_B_N",
+      "annulusToMaskGapMm": 0.1845965060774507,
+      "holeToMaskGapMm": 0.30957825445366194
+    },
+    {
+      "via": "3976f05bbdf4b54d",
+      "net": "LTE_USB_DP",
+      "annulusToMaskGapMm": 0.19920347000000047,
+      "holeToMaskGapMm": 0.32420322000000107
+    },
+    {
+      "via": "f2eb9cd5d27ee5dc",
+      "net": "LTE_USB_DP",
+      "annulusToMaskGapMm": 0.3941967099999993,
+      "holeToMaskGapMm": 0.5191964599999999
+    },
+    {
+      "via": "940df9b800e0f2c3",
+      "net": "LTE_USB_DM",
+      "annulusToMaskGapMm": 0.19920347000000047,
+      "holeToMaskGapMm": 0.32420322000000107
+    },
+    {
+      "via": "2cdd2758287c7fb4",
+      "net": "LTE_USB_DM",
+      "annulusToMaskGapMm": 0.24219526999999988,
+      "holeToMaskGapMm": 0.36719502000000054
+    },
+    {
+      "via": "feb29807e8398399",
+      "net": "LTE_USB_DM_EXT",
+      "annulusToMaskGapMm": 0.17701390111650048,
+      "holeToMaskGapMm": 0.3019762402393169
+    },
+    {
+      "via": "9ca3c30c2d0b93b8",
+      "net": "GND",
+      "annulusToMaskGapMm": 0.49919753000000355,
+      "holeToMaskGapMm": 0.6241972800000042
+    },
+    {
+      "via": "f46478f25cd4abcc",
+      "net": "LED_LTE_R_N",
+      "annulusToMaskGapMm": 0.8682069899999973,
+      "holeToMaskGapMm": 0.9932067399999979
+    },
+    {
+      "via": "5e011d935cf9a7a8",
+      "net": "LED_LTE_R_N",
+      "annulusToMaskGapMm": 0.1650732700000002,
+      "holeToMaskGapMm": 0.29007302000000035
+    },
+    {
+      "via": "b4203b25c2e281b8",
+      "net": "LTE_BOOT",
+      "annulusToMaskGapMm": 0.24215958546594202,
+      "holeToMaskGapMm": 0.36700876779272334
+    },
+    {
+      "via": "f458542bc3611304",
+      "net": "LTE_BOOT",
+      "annulusToMaskGapMm": 0.39219760999998954,
+      "holeToMaskGapMm": 0.5171973599999902
+    },
+    {
+      "via": "16b29bef50314ece",
+      "net": "LTE_USB_VBUS",
+      "annulusToMaskGapMm": 0.16120253000000415,
+      "holeToMaskGapMm": 0.2862022800000048
+    },
+    {
+      "via": "eb68ba471f6fbd87",
+      "net": "LTE_VDD_EXT",
+      "annulusToMaskGapMm": 0.21219979000000674,
+      "holeToMaskGapMm": 0.3371995400000074
+    },
+    {
+      "via": "28731e6a6adbb105",
+      "net": "LTE_VDD_EXT",
+      "annulusToMaskGapMm": 0.18721228247001342,
+      "holeToMaskGapMm": 0.3122077595238301
+    },
+    {
+      "via": "9dbedb02811a1760",
+      "net": "LTE_VDD_EXT",
+      "annulusToMaskGapMm": 0.16666940585342777,
+      "holeToMaskGapMm": 0.29156008444050485
+    },
+    {
+      "via": "52e99a34f267ee7d",
+      "net": "SIM_RST_M",
+      "annulusToMaskGapMm": 0.40955240661819525,
+      "holeToMaskGapMm": 0.5345102524233101
+    },
+    {
+      "via": "a9c77c984ea7c854",
+      "net": "ESP_EN",
+      "annulusToMaskGapMm": 0.1806144070908892,
+      "holeToMaskGapMm": 0.30560684234494845
+    },
+    {
+      "via": "ccf5bb9d181310b2",
+      "net": "LTE_TXD",
+      "annulusToMaskGapMm": 0.9991990700000031,
+      "holeToMaskGapMm": 1.1241988200000037
+    },
+    {
+      "via": "e26c0e9ef26ca956",
+      "net": "SIM_CLK_M",
+      "annulusToMaskGapMm": 1.2902907142851314,
+      "holeToMaskGapMm": 1.4151418474379809
+    },
+    {
+      "via": "c1abd4eff8e28dfc",
+      "net": "SIM_CLK_M",
+      "annulusToMaskGapMm": 0.1742008499999983,
+      "holeToMaskGapMm": 0.29920059999999893
+    },
+    {
+      "via": "6912d1a98351b396",
+      "net": "LTE_BOOT_FIXTURE",
+      "annulusToMaskGapMm": 0.6741999300000003,
+      "holeToMaskGapMm": 0.7991996799999993
+    },
+    {
+      "via": "393063f154125e13",
+      "net": "LED_LTE_G_N",
+      "annulusToMaskGapMm": 0.21273432875064816,
+      "holeToMaskGapMm": 0.3375835110774302
+    },
+    {
+      "via": "601c934e4578807b",
+      "net": "LED_LTE_G_N",
+      "annulusToMaskGapMm": 0.18475157643632306,
+      "holeToMaskGapMm": 0.3097260545630824
+    },
+    {
+      "via": "287d79f5825e3b2f",
+      "net": "LED_LTE_B_N",
+      "annulusToMaskGapMm": 0.1775880065988573,
+      "holeToMaskGapMm": 0.30243935744548867
+    },
+    {
+      "via": "fb64303df97fa044",
+      "net": "LED_ESP_G_N",
+      "annulusToMaskGapMm": 0.6270466900000002,
+      "holeToMaskGapMm": 0.7520464400000008
+    }
+  ],
+  "rfAllTopNoSignalVias": true,
+  "physicalLeadCopperContainmentCount": 109,
+  "unchangedNominalPasteAperturesCount": 109,
+  "nominalLeadCopperMinimumMarginMm": 0.049939728099580014,
+  "removedZeroSizeMountCopperPlaceholders": 16,
+  "removedNumericalMaskResidues": 2,
+  "factoryDfmPassed": false
+}

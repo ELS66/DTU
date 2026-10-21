@@ -1,0 +1,2 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='be907e0c26ece4ccdedd2f5b24e25f76812bc6b957961675838d5450e3220cbc'||(await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='4211128ecf040c100b33238447713203')throw Error('Wrong PCB');
+const f=await eda.pcb_ManufactureData.getPickAndPlaceFile('DTU-V0.12-positions-all','csv','mm');if(!f)throw Error('Position export failed');return {name:f.name,size:f.size,bytes:Array.from(new Uint8Array(await f.arrayBuffer()))};

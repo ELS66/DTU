@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "result": {
+    "imported": {
+      "itemType": "Project",
+      "uuid": "778f520ce68ec55093c846023b96e6c8ebd08057c8fcf39cccecb2d8dc791848",
+      "friendlyName": "DTU-V0.14-ML307R-DL-单面贴装-60x75",
+      "teamUuid": "0c9678a4817f4bfdae4fc75bb046846a"
+    }
+  },
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

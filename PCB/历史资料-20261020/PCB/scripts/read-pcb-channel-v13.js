@@ -1,0 +1,1 @@
+const cs=await eda.pcb_PrimitiveComponent.getAll();return cs.filter(c=>['R12','U1','R94','U5'].includes(c.getState_Designator())).map(c=>({ref:c.getState_Designator(),uid:c.getState_UniqueId(),other:c.getState_OtherProperty()}));

@@ -1,0 +1,1 @@
+const f=await eda.sys_FileManager.getProjectFile("DTU-V04-staged",undefined,"epro2");if(!f)throw Error("No file");return {name:f.name,size:f.size,bytes:Array.from(new Uint8Array(await f.arrayBuffer()))};

@@ -1,0 +1,189 @@
+{
+  "success": true,
+  "result": [
+    {
+      "shortcutKey": [
+        "Ctrl",
+        "H"
+      ],
+      "title": "选择对象 - 连接的铜皮",
+      "documentType": [
+        4
+      ],
+      "scene": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "shortcutKey": [
+        ""
+      ],
+      "title": "转为铺铜区域",
+      "documentType": [
+        4
+      ],
+      "scene": [
+        2
+      ]
+    },
+    {
+      "shortcutKey": [
+        ""
+      ],
+      "title": "铺铜区域",
+      "documentType": [
+        4
+      ],
+      "scene": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "shortcutKey": [
+        ""
+      ],
+      "title": "铺铜区域 - 矩形",
+      "documentType": [
+        4
+      ],
+      "scene": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "shortcutKey": [
+        ""
+      ],
+      "title": "铺铜区域 - 圆形",
+      "documentType": [
+        4
+      ],
+      "scene": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "shortcutKey": [
+        "Alt",
+        "E"
+      ],
+      "title": "铺铜区域 - 多边形",
+      "documentType": [
+        4
+      ],
+      "scene": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "shortcutKey": [
+        "Num*"
+      ],
+      "title": "切换到下一个铜层",
+      "documentType": [
+        2,
+        3,
+        6,
+        4,
+        5,
+        12,
+        13
+      ],
+      "scene": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "shortcutKey": [
+        "Shift",
+        "Num*"
+      ],
+      "title": "切换到上一个铜层",
+      "documentType": [
+        2,
+        3,
+        6,
+        4,
+        5,
+        12,
+        13
+      ],
+      "scene": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "shortcutKey": [
+        ""
+      ],
+      "title": "铺铜管理器",
+      "documentType": [
+        4
+      ],
+      "scene": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "shortcutKey": [
+        "Shift",
+        "M"
+      ],
+      "title": "循环切换铺铜区可见性",
+      "documentType": [
+        4
+      ],
+      "scene": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "shortcutKey": [
+        "Shift",
+        "B"
+      ],
+      "title": "重建所有铺铜",
+      "documentType": [
+        4
+      ],
+      "scene": [
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "windowId": "54d14f83-2b26-423e-baa3-d79d6c8a00d6"
+}

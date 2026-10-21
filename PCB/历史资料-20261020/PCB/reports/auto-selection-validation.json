@@ -1,0 +1,158 @@
+{
+  "status": "PASS",
+  "scope": "Exported schematic nets and steady-state logic model; no ERC/DRC or physical circuit test",
+  "projectUuid": "b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5",
+  "physicalComponents": 196,
+  "pinNetAssertions": 182,
+  "cases": [
+    {
+      "enabled": 0,
+      "TTL": 0,
+      "RS232": 0,
+      "RS485": 0,
+      "selected": "OFF",
+      "encoderWinner": null,
+      "activeLowEnables": 0
+    },
+    {
+      "enabled": 0,
+      "TTL": 0,
+      "RS232": 0,
+      "RS485": 1,
+      "selected": "OFF",
+      "encoderWinner": null,
+      "activeLowEnables": 0
+    },
+    {
+      "enabled": 0,
+      "TTL": 0,
+      "RS232": 1,
+      "RS485": 0,
+      "selected": "OFF",
+      "encoderWinner": null,
+      "activeLowEnables": 0
+    },
+    {
+      "enabled": 0,
+      "TTL": 0,
+      "RS232": 1,
+      "RS485": 1,
+      "selected": "OFF",
+      "encoderWinner": null,
+      "activeLowEnables": 0
+    },
+    {
+      "enabled": 0,
+      "TTL": 1,
+      "RS232": 0,
+      "RS485": 0,
+      "selected": "OFF",
+      "encoderWinner": null,
+      "activeLowEnables": 0
+    },
+    {
+      "enabled": 0,
+      "TTL": 1,
+      "RS232": 0,
+      "RS485": 1,
+      "selected": "OFF",
+      "encoderWinner": null,
+      "activeLowEnables": 0
+    },
+    {
+      "enabled": 0,
+      "TTL": 1,
+      "RS232": 1,
+      "RS485": 0,
+      "selected": "OFF",
+      "encoderWinner": null,
+      "activeLowEnables": 0
+    },
+    {
+      "enabled": 0,
+      "TTL": 1,
+      "RS232": 1,
+      "RS485": 1,
+      "selected": "OFF",
+      "encoderWinner": null,
+      "activeLowEnables": 0
+    },
+    {
+      "enabled": 1,
+      "TTL": 0,
+      "RS232": 0,
+      "RS485": 0,
+      "selected": "OFF",
+      "encoderWinner": null,
+      "activeLowEnables": 0
+    },
+    {
+      "enabled": 1,
+      "TTL": 0,
+      "RS232": 0,
+      "RS485": 1,
+      "selected": "RS485",
+      "encoderWinner": 5,
+      "activeLowEnables": 1
+    },
+    {
+      "enabled": 1,
+      "TTL": 0,
+      "RS232": 1,
+      "RS485": 0,
+      "selected": "RS232",
+      "encoderWinner": 6,
+      "activeLowEnables": 1
+    },
+    {
+      "enabled": 1,
+      "TTL": 0,
+      "RS232": 1,
+      "RS485": 1,
+      "selected": "RS232",
+      "encoderWinner": 6,
+      "activeLowEnables": 1
+    },
+    {
+      "enabled": 1,
+      "TTL": 1,
+      "RS232": 0,
+      "RS485": 0,
+      "selected": "TTL",
+      "encoderWinner": 7,
+      "activeLowEnables": 1
+    },
+    {
+      "enabled": 1,
+      "TTL": 1,
+      "RS232": 0,
+      "RS485": 1,
+      "selected": "TTL",
+      "encoderWinner": 7,
+      "activeLowEnables": 1
+    },
+    {
+      "enabled": 1,
+      "TTL": 1,
+      "RS232": 1,
+      "RS485": 0,
+      "selected": "TTL",
+      "encoderWinner": 7,
+      "activeLowEnables": 1
+    },
+    {
+      "enabled": 1,
+      "TTL": 1,
+      "RS232": 1,
+      "RS485": 1,
+      "selected": "TTL",
+      "encoderWinner": 7,
+      "activeLowEnables": 1
+    }
+  ],
+  "nominalDetection": {
+    "risingV": 4.4296461184817355,
+    "fallingV": 3.9183503815554466,
+    "rcSeconds": 9.375e-05
+  }
+}

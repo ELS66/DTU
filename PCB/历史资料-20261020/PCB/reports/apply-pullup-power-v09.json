@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "result": {
+    "moves": [
+      {
+        "ref": "R105",
+        "x": 38.8,
+        "y": 15.8,
+        "rotation": 0
+      },
+      {
+        "ref": "R117",
+        "x": 38.8,
+        "y": 15,
+        "rotation": 0
+      }
+    ],
+    "ids": [
+      "888f614c6664c776",
+      "32cf4460226db474"
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

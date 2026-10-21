@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "result": {
+    "ids": [
+      {
+        "kind": "via",
+        "id": "8640ab9d33219c99"
+      },
+      {
+        "kind": "via",
+        "id": "221f91b91e071211"
+      },
+      {
+        "kind": "via",
+        "id": "da3b1542a1e3c9d2"
+      },
+      {
+        "kind": "route",
+        "id": "508e59f52c8d7d81"
+      },
+      {
+        "kind": "route",
+        "id": "184128830a67f206"
+      },
+      {
+        "kind": "route",
+        "id": "9ac63404f956b97b"
+      },
+      {
+        "kind": "route",
+        "id": "2a541d11709d67c3"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

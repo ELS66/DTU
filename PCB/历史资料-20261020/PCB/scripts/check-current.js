@@ -1,0 +1,1 @@
+const p=await eda.dmt_Project.getCurrentProjectInfo();return {uuid:p?.uuid,name:p?.friendlyName,doc:await eda.dmt_SelectControl.getCurrentDocumentInfo(),parts:(await eda.sch_PrimitiveComponent.getAll("part")).map(c=>({ref:c.getState_Designator(),id:c.getState_PrimitiveId()}))};

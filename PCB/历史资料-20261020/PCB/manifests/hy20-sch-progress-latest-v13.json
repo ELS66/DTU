@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "result": [
+    {
+      "ref": "J1",
+      "id": "f8608e58f59865fc",
+      "uid": "gge22",
+      "x": 660,
+      "y": 375,
+      "fp": {
+        "uuid": "0190edb3deceabcd",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "name": "CONN-SMD_4P-P2.00_HY2.0-4P"
+      }
+    }
+  ],
+  "windowId": "490674b5-0a0c-4091-99f8-25ad4dc56709"
+}

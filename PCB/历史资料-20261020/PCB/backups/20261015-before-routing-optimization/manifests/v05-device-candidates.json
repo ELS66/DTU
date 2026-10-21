@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "result": {
+    "SN74LVC2G125DCUR": [
+      {
+        "name": "SN74LVC2G125DCUR",
+        "uuid": "48b2c377874146408b6ade0d1cd52548",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C21404",
+        "footprint": "VSON8_L2.0-W2.3-P0.50-LS3.1-BL"
+      }
+    ],
+    "19-217/R6C-AL1M2VY/3T": [
+      {
+        "name": "19-217/R6C-AL1M2VY/3T",
+        "uuid": "8d4bcee940e744f6adfe09da69d8bcba",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C72044",
+        "footprint": "LED0603-RD"
+      },
+      {
+        "name": "19-217/R6C-AL1M2VY/3T(GDB)",
+        "uuid": "908d6f761e324d338cff34cacd0814af",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C131266",
+        "footprint": "LED0603-R-RD"
+      }
+    ],
+    "19-217/GHC-YR1S2/3T": [
+      {
+        "name": "19-217/GHC-YR1S2/3T",
+        "uuid": "52fdefd7f63c4d58a4856ea3989e5a74",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C72043",
+        "footprint": "LED0603-RD"
+      },
+      {
+        "name": "19-217/GHC-YR1S2/3T-YJLTY",
+        "uuid": "be0be095f00547ebbf897d1f344ab716",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C5182730",
+        "footprint": "LED0603-RD_GREEN"
+      }
+    ],
+    "19-217/BHC-ZL1M2RY/3T": [
+      {
+        "name": "19-217/BHC-ZL1M2RY/3T",
+        "uuid": "ee0886f26af24c2a9fcc6eb051116587",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C72041",
+        "footprint": "LED0603-FD_BLUE"
+      }
+    ]
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

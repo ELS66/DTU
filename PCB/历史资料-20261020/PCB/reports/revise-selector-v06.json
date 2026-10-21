@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "removed": [
+      "Q5",
+      "Q6",
+      "R118",
+      "R119",
+      "R120",
+      "R122",
+      "R123"
+    ]
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

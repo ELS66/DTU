@@ -1,0 +1,19 @@
+{
+  "holes": 322,
+  "vias": 306,
+  "drillDiameters": {
+    "0.2": 299,
+    "0.3": 7,
+    "1.1": 10,
+    "0.75": 2,
+    "3.2": 4
+  },
+  "minimumDrillWallGapMm": 0.41846487370019997,
+  "silkToMaskClearanceMm": 0.5264220000000002,
+  "pcbDrcIssues": 0,
+  "factoryDfmPassed": false,
+  "openDfmItems": [
+    "same-reference connector model collision warnings",
+    "remaining PCB/SMT categories not yet supplied"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "scope": "placement pads only, routing/DFM not complete",
+  "padClearanceThresholdMm": 0.149,
+  "padClearanceViolations": [],
+  "componentCount": 104,
+  "allTop": true,
+  "minimumPadToEdgeMm": 0.31369000000000025
+}

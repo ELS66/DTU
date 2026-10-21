@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "physicalComponents": 180,
+  "pinNetAssertions": 530,
+  "counts": {
+    "D": 29,
+    "U": 12,
+    "R": 71,
+    "C": 47,
+    "F": 3,
+    "SW": 3,
+    "J": 7,
+    "Q": 5,
+    "L": 3
+  },
+  "errors": []
+}

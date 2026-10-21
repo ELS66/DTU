@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "result": {
+    "placed": [
+      "R93",
+      "C10",
+      "R10",
+      "R11",
+      "R12",
+      "R13",
+      "R14",
+      "R15",
+      "R16",
+      "R60",
+      "R61",
+      "R50"
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

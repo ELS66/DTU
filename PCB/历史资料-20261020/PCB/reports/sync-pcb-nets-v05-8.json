@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "result": {
+    "changed": [
+      "R118:1",
+      "R122:1"
+    ],
+    "missing": [],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

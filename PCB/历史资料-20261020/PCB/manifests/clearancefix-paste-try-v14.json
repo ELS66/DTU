@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "result": {
+    "pad": "109",
+    "expansion": {
+      "topSolderMask": 2,
+      "bottomSolderMask": 2,
+      "topPasteMask": -1.9685039370078743,
+      "bottomPasteMask": 0
+    },
+    "saved": true
+  },
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

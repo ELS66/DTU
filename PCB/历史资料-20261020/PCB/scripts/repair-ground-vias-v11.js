@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=='4211128ecf040c100b33238447713203')throw Error('Wrong PCB');if(!await eda.pcb_PrimitiveVia.delete(['0f2b766e4832844d','da531895c8928782']))throw Error('Via deletion failed');return {saved:await eda.pcb_Document.save()};

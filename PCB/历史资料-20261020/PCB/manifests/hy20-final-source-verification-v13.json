@@ -1,0 +1,10 @@
+{
+  "components": 104,
+  "unchangedOtherComponents": 101,
+  "allPinNetsMatchSchematic": true,
+  "topAssembly": true,
+  "vias": 304,
+  "routes": 504,
+  "pcbDrcIssues": 0,
+  "schematicWarnings": 18
+}

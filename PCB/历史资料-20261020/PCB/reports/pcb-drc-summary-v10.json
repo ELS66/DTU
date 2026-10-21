@@ -1,0 +1,18 @@
+{
+  "errorsByType": {
+    "Connection Error": 29
+  },
+  "connectionErrorsByNet": {
+    "RS485_B_EXT": 2,
+    "RS485_A_EXT": 2,
+    "RS232_TX_EXT": 2,
+    "RS485_B": 2,
+    "TTL_VSENSE": 5,
+    "RS232_VSENSE": 5,
+    "TTL_PRESENT_N": 3,
+    "RS485_PRESENT_N": 2,
+    "LED_LTE_G_N": 2,
+    "LED_TX_N": 2,
+    "LED_LTE_B_N": 2
+  }
+}

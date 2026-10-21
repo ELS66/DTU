@@ -1,0 +1,1 @@
+const f=await eda.sch_ManufactureData.getPngFile('DTU-V0.11-schematic',{width:4096});if(!f)throw Error('No schematic images');return {name:f.name,type:f.type,bytes:Array.from(new Uint8Array(await f.arrayBuffer()))};

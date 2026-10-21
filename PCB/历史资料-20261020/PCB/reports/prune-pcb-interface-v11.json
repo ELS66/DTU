@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "result": {
+    "removed": 24,
+    "copper": {
+      "lines": 0,
+      "polys": 99,
+      "vias": 46
+    },
+    "saved": true
+  },
+  "windowId": "b1faecb9-4fd3-42fc-a7ba-9730a347bfe6"
+}

@@ -1,0 +1,36 @@
+{
+  "C53": {
+    "connected": [
+      "38d814e8bb8ca2a3",
+      "57571779adf3d679",
+      "5a02b320ec50dead"
+    ],
+    "candidates": []
+  },
+  "C57": {
+    "connected": [
+      "4bdf539b38f1d4a5",
+      "65fc869a27760a7f",
+      "b9a0d6f58a644e3b"
+    ],
+    "candidates": []
+  },
+  "C94": {
+    "connected": [
+      "d24e83b97ea83ba1",
+      "7e8c0df6cbcbf349"
+    ],
+    "candidates": []
+  },
+  "Q1": {
+    "connected": [
+      "e2a02a13e168d820",
+      "b88252971611cec5",
+      "e5d2ee1c48cdaa1a",
+      "397ed4054df40a3c",
+      "5ff859bdef6476c6",
+      "cc1fabac15bccf85"
+    ],
+    "candidates": []
+  }
+}

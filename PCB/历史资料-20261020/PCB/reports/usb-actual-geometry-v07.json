@@ -1,0 +1,221 @@
+{
+  "allPrincipalSegmentsMatched": true,
+  "actualLengthsMm": {
+    "ESP_DP": 34.63611765287762,
+    "ESP_DM": 34.636117652877616,
+    "LTE_DP": 62.73540664111623,
+    "LTE_DM": 62.73540664111622
+  },
+  "segments": [
+    {
+      "net": "LTE_USB_DP_EXT",
+      "role": "coupled-core",
+      "matchingIds": [
+        "d8ad953f88b898ff"
+      ],
+      "lengthMm": 50.054239156782245
+    },
+    {
+      "net": "LTE_USB_DM_EXT",
+      "role": "coupled-core",
+      "matchingIds": [
+        "e7e4bc53a798d0a3"
+      ],
+      "lengthMm": 48.73293347876819
+    },
+    {
+      "net": "ESP_USB_DP_EXT",
+      "role": "coupled-core",
+      "matchingIds": [
+        "16c0c75b3500697f"
+      ],
+      "lengthMm": 25.9403085184037
+    },
+    {
+      "net": "ESP_USB_DM_EXT",
+      "role": "coupled-core",
+      "matchingIds": [
+        "e4f3e57c01f7f929"
+      ],
+      "lengthMm": 25.728257760486677
+    },
+    {
+      "net": "LTE_USB_DP",
+      "role": "coupled-input-core",
+      "matchingIds": [
+        "d0e7eddea64fb262"
+      ],
+      "lengthMm": 3.4000000000000057
+    },
+    {
+      "net": "LTE_USB_DM",
+      "role": "coupled-input-core",
+      "matchingIds": [
+        "2fe15d738c29fc99"
+      ],
+      "lengthMm": 3.4000000000000057
+    },
+    {
+      "net": "LTE_USB_DP_EXT",
+      "role": "series-to-core",
+      "matchingIds": [
+        "ab287dab02099ef5"
+      ],
+      "lengthMm": 2.2435832245262666
+    },
+    {
+      "net": "LTE_USB_DP_EXT",
+      "role": "core-to-header",
+      "matchingIds": [
+        "5fb19e2fea91d10b"
+      ],
+      "lengthMm": 2.6844447216858667
+    },
+    {
+      "net": "LTE_USB_DM_EXT",
+      "role": "series-to-core",
+      "matchingIds": [
+        "d8ffbc942945c4da"
+      ],
+      "lengthMm": 2.585261865190143
+    },
+    {
+      "net": "LTE_USB_DM_EXT",
+      "role": "core-to-header",
+      "matchingIds": [
+        "f57a81d8a9c3fb81"
+      ],
+      "lengthMm": 2.1512081405155272
+    },
+    {
+      "net": "ESP_USB_DP_EXT",
+      "role": "series-to-via",
+      "matchingIds": [
+        "07e508f38eb692f1"
+      ],
+      "lengthMm": 3.5959461777173534
+    },
+    {
+      "net": "ESP_USB_DP_EXT",
+      "role": "via-to-core",
+      "matchingIds": [
+        "c46219035404533d"
+      ],
+      "lengthMm": 1.1242640687119314
+    },
+    {
+      "net": "ESP_USB_DP_EXT",
+      "role": "core-to-header",
+      "matchingIds": [
+        "47bcc3d0d1da6d3e"
+      ],
+      "lengthMm": 2.1695004359668046
+    },
+    {
+      "net": "ESP_USB_DM_EXT",
+      "role": "series-to-via",
+      "matchingIds": [
+        "c53e4fa25e4de11b"
+      ],
+      "lengthMm": 1.7257163149412769
+    },
+    {
+      "net": "ESP_USB_DM_EXT",
+      "role": "via-to-core",
+      "matchingIds": [
+        "32794e2c8a014ce1"
+      ],
+      "lengthMm": 2.820959934316264
+    },
+    {
+      "net": "ESP_USB_DM_EXT",
+      "role": "core-to-header",
+      "matchingIds": [
+        "08292679ab48cade"
+      ],
+      "lengthMm": 2.3823172712843075
+    },
+    {
+      "net": "ESP_USB_DP",
+      "role": "module-to-series",
+      "matchingIds": [
+        "5022b030917c1652"
+      ],
+      "lengthMm": 1.806098452077834
+    },
+    {
+      "net": "ESP_USB_DM",
+      "role": "module-to-series",
+      "matchingIds": [
+        "986d3b26c8494405"
+      ],
+      "lengthMm": 1.9788663718490933
+    },
+    {
+      "net": "LTE_USB_DP",
+      "role": "module-to-via",
+      "matchingIds": [
+        "3b222489daea050e"
+      ],
+      "lengthMm": 1.1007992496481103
+    },
+    {
+      "net": "LTE_USB_DP",
+      "role": "via-to-input-core",
+      "matchingIds": [
+        "18c270de6bfdf771"
+      ],
+      "lengthMm": 0.8656854249492403
+    },
+    {
+      "net": "LTE_USB_DP",
+      "role": "input-core-to-via",
+      "matchingIds": [
+        "e4d7d012fc1cbd3d"
+      ],
+      "lengthMm": 1.4313708498984692
+    },
+    {
+      "net": "LTE_USB_DP",
+      "role": "via-to-series",
+      "matchingIds": [
+        "b6dbc55de0900d07"
+      ],
+      "lengthMm": 0.9552840136260271
+    },
+    {
+      "net": "LTE_USB_DM",
+      "role": "module-to-via",
+      "matchingIds": [
+        "dc11a0f8553fec01"
+      ],
+      "lengthMm": 1.1008508818954483
+    },
+    {
+      "net": "LTE_USB_DM",
+      "role": "via-to-input-core",
+      "matchingIds": [
+        "fa8019cd6ca702e4"
+      ],
+      "lengthMm": 3.1444717321814317
+    },
+    {
+      "net": "LTE_USB_DM",
+      "role": "input-core-to-via",
+      "matchingIds": [
+        "a44e1a14ab475c65"
+      ],
+      "lengthMm": 0.6656854249492353
+    },
+    {
+      "net": "LTE_USB_DM",
+      "role": "via-to-series",
+      "matchingIds": [
+        "432bfd953dea4eb5"
+      ],
+      "lengthMm": 0.9549951176162406
+    }
+  ],
+  "impedanceVerified": false,
+  "referencePlanePending": true
+}

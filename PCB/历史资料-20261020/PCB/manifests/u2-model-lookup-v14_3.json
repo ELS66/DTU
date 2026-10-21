@@ -1,0 +1,64 @@
+{
+  "success": true,
+  "result": {
+    "bound": {
+      "libraryType": "5",
+      "uuid": "2571ce606ab740e6abf98629ca0922ea",
+      "name": "LCC-LGA-109_L17.7-W15.8-P1.10_MC661",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "classification": [],
+      "description": ""
+    },
+    "models": [
+      {
+        "uuid": "083031f6cebc4b38b819d6715c7beac0",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "classification": [],
+        "ordinal": 0,
+        "name": "comm-th_ml307r_mini_core",
+        "type": 16,
+        "description": "",
+        "updateTimestamp": 1743853346000,
+        "ascription": "LCSC",
+        "lastModifiedBy": "LCSC"
+      },
+      {
+        "uuid": "9d85ddf3ed304fb9846332e1721fbf8e",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "classification": [],
+        "ordinal": 1,
+        "name": "comm-th_12p-l24.0-w24.0-p2.54_ml307r",
+        "type": 16,
+        "description": "",
+        "updateTimestamp": 1743845536000,
+        "ascription": "LCSC",
+        "lastModifiedBy": "LCSC"
+      },
+      {
+        "uuid": "e54ec295d89040dfbad0e507cf7afaf2",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "classification": [],
+        "ordinal": 2,
+        "name": "comm-smd_l17.7-w15.8-p1.10-tl_ml307a-gsln",
+        "type": 16,
+        "description": "",
+        "updateTimestamp": 1753214769000,
+        "ascription": "LCSC",
+        "lastModifiedBy": "LCSC"
+      },
+      {
+        "uuid": "eac2acbab17547f9bb36fe0cb56fd48f",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "classification": [],
+        "ordinal": 3,
+        "name": "comm-smd_109p-l17.7-w15.8-p1.10_ml307h",
+        "type": 16,
+        "description": "",
+        "updateTimestamp": 1749758758000,
+        "ascription": "LCSC",
+        "lastModifiedBy": "LCSC"
+      }
+    ]
+  },
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

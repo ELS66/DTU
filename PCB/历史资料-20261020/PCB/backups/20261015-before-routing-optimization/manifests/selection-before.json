@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "result": {
+    "project": "b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5",
+    "doc": {
+      "documentType": 1,
+      "uuid": "8902a3019bd8d84c",
+      "tabId": "8902a3019bd8d84c@b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5",
+      "parentProjectUuid": "b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5"
+    },
+    "wires": 0,
+    "parts": [
+      {
+        "ref": "U9",
+        "id": "edfa4f0c583385f8"
+      },
+      {
+        "ref": "SW1",
+        "id": "c00d69ffbc3ec9ce"
+      },
+      {
+        "ref": "Q5",
+        "id": "9365df3a30a14f94"
+      },
+      {
+        "ref": "Q6",
+        "id": "0ae0603155976cb1"
+      }
+    ]
+  },
+  "windowId": "09aa76fa-5735-4a2b-9cba-9019fb3768ff"
+}

@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "result": {
+    "moved": [
+      "D6",
+      "Q1"
+    ],
+    "removedRoutes": 8,
+    "created": [
+      "6e5cba2ab86cc707",
+      "7ffc05ad813bd823",
+      "0571f627cb92ed52",
+      "3f50d0224078f7e2",
+      "995d8ec0a37e56cc",
+      "3bfed31636bca150",
+      "e2a02a13e168d820",
+      "b88252971611cec5",
+      "e5d2ee1c48cdaa1a",
+      "397ed4054df40a3c",
+      "5ff859bdef6476c6",
+      "cc1fabac15bccf85",
+      "36365666147b2159",
+      "4760cd9116670ba2",
+      "8d8e44da51e652e6"
+    ],
+    "saved": true
+  },
+  "windowId": "490674b5-0a0c-4091-99f8-25ad4dc56709"
+}

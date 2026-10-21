@@ -1,0 +1,18 @@
+{
+  "Gerber_TopLayer.GTL": {
+    "missingFullAnnulus": [],
+    "count": 0
+  },
+  "Gerber_BottomLayer.GBL": {
+    "missingFullAnnulus": [],
+    "count": 0
+  },
+  "Gerber_InnerLayer1.G1": {
+    "missingFullAnnulus": [],
+    "count": 0
+  },
+  "Gerber_InnerLayer2.G2": {
+    "missingFullAnnulus": [],
+    "count": 0
+  }
+}

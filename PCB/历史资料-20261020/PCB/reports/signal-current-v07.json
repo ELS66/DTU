@@ -1,0 +1,40 @@
+{
+  "success": true,
+  "result": {
+    "status": "returned",
+    "batch": 1,
+    "nets": [
+      "LED_ESP_B_A",
+      "LED_ESP_G_A",
+      "LED_ESP_R_A",
+      "LED_LTE_B_A",
+      "LED_LTE_G_A",
+      "LED_LTE_R_A",
+      "LED_RX_A",
+      "LED_TX_A"
+    ],
+    "result": {
+      "success": true,
+      "totalNetsCount": 8,
+      "successNetsCount": 4,
+      "failedNets": [
+        "LED_ESP_G_A",
+        "LED_LTE_B_A",
+        "LED_LTE_G_A",
+        "LED_TX_A"
+      ],
+      "duration": 79741
+    },
+    "saved": true,
+    "before": {
+      "lines": 86,
+      "vias": 201
+    },
+    "after": {
+      "lines": 98,
+      "vias": 203
+    },
+    "finishedAt": 1791603032335
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

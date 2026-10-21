@@ -1,0 +1,2298 @@
+{
+  "scope": "All 109 nominal physical lead rectangles versus actual native Gerber pad copper and solder mask; actual stencil compared separately to original nominal land shapes. This is not a factory DFM result or tolerance-stack certification.",
+  "physicalModelsUnchanged": true,
+  "copperContainsNominalLeadCount": 109,
+  "pasteAperturesMatchOriginalNominalCount": 109,
+  "minimumNominalLeadCopperMarginMm": 0.049939728099580014,
+  "rows": [
+    {
+      "pin": "109",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.4721356894970494e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.4721356894970494e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.081134302496644
+        }
+      }
+    },
+    {
+      "pin": "108",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.081134302496644
+        }
+      }
+    },
+    {
+      "pin": "107",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.081134302496644
+        }
+      }
+    },
+    {
+      "pin": "106",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000273,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000335,
+          "areaMm2": 1.0811343024966467
+        }
+      }
+    },
+    {
+      "pin": "105",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000273,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000335,
+          "areaMm2": 1.0811343024966467
+        }
+      }
+    },
+    {
+      "pin": "104",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000158,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "103",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "102",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.081134302496644
+        }
+      }
+    },
+    {
+      "pin": "101",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.081134302496644
+        }
+      }
+    },
+    {
+      "pin": "100",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "99",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000158,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "98",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049939754797051775,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779888
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544954223e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227723,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "97",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049939754797051775,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779888
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544954223e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227723,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "96",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360463852094e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779888
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "95",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360463852094e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779888
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "94",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000095,
+          "areaMm2": 1.960000000000006
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.6899999999999948
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000156,
+          "areaMm2": 2.252574302496654
+        }
+      }
+    },
+    {
+      "pin": "93",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000095,
+          "areaMm2": 1.960000000000006
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.6899999999999926
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 2.252574302496652
+        }
+      }
+    },
+    {
+      "pin": "92",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.0499999599999974,
+          "areaMm2": 1.960000000000006
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.6899999999999926
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 2.252574302496652
+        }
+      }
+    },
+    {
+      "pin": "91",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0499999599999974,
+          "areaMm2": 1.960000000000006
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.6899999999999926
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 2.252574302496652
+        }
+      }
+    },
+    {
+      "pin": "90",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000095,
+          "areaMm2": 1.960000000000006
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.6899999999999926
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 2.252574302496652
+        }
+      }
+    },
+    {
+      "pin": "89",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000095,
+          "areaMm2": 1.960000000000006
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.6899999999999948
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000156,
+          "areaMm2": 2.252574302496654
+        }
+      }
+    },
+    {
+      "pin": "88",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000158,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "87",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000158,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "86",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999942
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000011
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000158,
+          "areaMm2": 1.0811343024966398
+        }
+      }
+    },
+    {
+      "pin": "85",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "84",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "83",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "82",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "81",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "80",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "79",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "78",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136642790184e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136642790184e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "77",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "76",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "75",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999942
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000011
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000158,
+          "areaMm2": 1.0811343024966398
+        }
+      }
+    },
+    {
+      "pin": "74",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000158,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "73",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000158,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "72",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000273,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000335,
+          "areaMm2": 1.0811343024966467
+        }
+      }
+    },
+    {
+      "pin": "71",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000273,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000335,
+          "areaMm2": 1.0811343024966467
+        }
+      }
+    },
+    {
+      "pin": "70",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000273,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000335,
+          "areaMm2": 1.0811343024966467
+        }
+      }
+    },
+    {
+      "pin": "69",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000273,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000335,
+          "areaMm2": 1.0811343024966467
+        }
+      }
+    },
+    {
+      "pin": "68",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000273,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000335,
+          "areaMm2": 1.0811343024966467
+        }
+      }
+    },
+    {
+      "pin": "67",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000272,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000334,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "66",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000272,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000334,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "65",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000158,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "64",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "63",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "62",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "61",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "60",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "59",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "58",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.081134302496644
+        }
+      }
+    },
+    {
+      "pin": "57",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.081134302496644
+        }
+      }
+    },
+    {
+      "pin": "56",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.081134302496644
+        }
+      }
+    },
+    {
+      "pin": "55",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.081134302496644
+        }
+      }
+    },
+    {
+      "pin": "54",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.879999999999998
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.081134302496644
+        }
+      }
+    },
+    {
+      "pin": "53",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "52",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "51",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "50",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.1007999599999998,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "49",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "48",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.04999995999999741,
+          "areaMm2": 0.8799999999999923
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.7000000000000028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136325025767e-08,
+          "nominalMetalToEdgeMm": 0.10079995999999625,
+          "areaMm2": 1.0811343024966356
+        }
+      }
+    },
+    {
+      "pin": "47",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049999960000000954,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000158,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "46",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000272,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000334,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "45",
+      "outer": false,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.04999996000000272,
+          "areaMm2": 0.8799999999999962
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 0.6999999999999993
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 4.472135848379216e-08,
+          "nominalMetalToEdgeMm": 0.10079996000000334,
+          "areaMm2": 1.0811343024966438
+        }
+      }
+    },
+    {
+      "pin": "44",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049939754797051775,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544954223e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227723,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "43",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049939754797051775,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544954223e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227723,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "42",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049939754797044676,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780021
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227012,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "41",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049939754797044676,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227012,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "40",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049939754797051775,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779888
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544954223e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227723,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "39",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049939754797051775,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544954223e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227723,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "38",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.4721356894970355e-08,
+          "nominalMetalToEdgeMm": 0.049939754797051775,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544489847e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227723,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "37",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049939754797044676,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780021
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227012,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "36",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.049939754797044676,
+          "areaMm2": 1.887841371226336
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067856397227012,
+          "areaMm2": 2.2369893400549614
+        }
+      }
+    },
+    {
+      "pin": "35",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472135848379329e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979838,
+          "areaMm2": 1.8878413712263657
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360379204327e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.482736169377999
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544570137e-05,
+          "nominalMetalToEdgeMm": 0.10067854301502024,
+          "areaMm2": 2.2369893400549774
+        }
+      }
+    },
+    {
+      "pin": "34",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979483,
+          "areaMm2": 1.8878413712263657
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360379204327e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.482736169377999
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067854301501669,
+          "areaMm2": 2.2369893400549774
+        }
+      }
+    },
+    {
+      "pin": "33",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979661,
+          "areaMm2": 1.8878413712263657
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360379204327e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.482736169377999
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067854301501847,
+          "areaMm2": 2.2369893400549774
+        }
+      }
+    },
+    {
+      "pin": "32",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979661,
+          "areaMm2": 1.8878413712263657
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360379204327e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067854301501847,
+          "areaMm2": 2.2369893400549774
+        }
+      }
+    },
+    {
+      "pin": "31",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979661,
+          "areaMm2": 1.8878413712263657
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360379204327e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779988
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067854301501847,
+          "areaMm2": 2.236989340054982
+        }
+      }
+    },
+    {
+      "pin": "30",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979838,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780023
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067854301502024,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "29",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979483,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067854301501669,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "28",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979838,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779955
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544409556e-05,
+          "nominalMetalToEdgeMm": 0.10067854301502024,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "27",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979483,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780023
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067854301501669,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "26",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979483,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779955
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545355676e-05,
+          "nominalMetalToEdgeMm": 0.10067854301501669,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "25",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979838,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780023
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545355676e-05,
+          "nominalMetalToEdgeMm": 0.10067854301502024,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "24",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979483,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067854301501669,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "23",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04993973383979838,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779955
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067854301502024,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "22",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099580014,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360463852094e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545355676e-05,
+          "nominalMetalToEdgeMm": 0.10067853727480446,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "21",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099580014,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780023
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545355676e-05,
+          "nominalMetalToEdgeMm": 0.10067853727480446,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "20",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261399e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "19",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780026
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "18",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779888
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "17",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099580014,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360463852094e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545355676e-05,
+          "nominalMetalToEdgeMm": 0.10067853727480446,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "16",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099580014,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780023
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545355676e-05,
+          "nominalMetalToEdgeMm": 0.10067853727480446,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "15",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780028
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "14",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263378
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360393665329e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780026
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.236989340054962
+        }
+      }
+    },
+    {
+      "pin": "13",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04993972809958626,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779941
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748107,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "12",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780015
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "11",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.04993972809958626,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780012
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545355676e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748107,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "10",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.482736169377994
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545355676e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "9",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780012
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "8",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136007261497e-08,
+          "nominalMetalToEdgeMm": 0.04993972809958626,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779941
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544409556e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748107,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "7",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.049939728099583046,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780015
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748075,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "6",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136325025838e-08,
+          "nominalMetalToEdgeMm": 0.04993972809958626,
+          "areaMm2": 1.8878413712263662
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360364743325e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780012
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748107,
+          "areaMm2": 2.2369893400549765
+        }
+      }
+    },
+    {
+      "pin": "5",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.04993972809958626,
+          "areaMm2": 1.8878413712263657
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360379204327e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779975
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067853727480991,
+          "areaMm2": 2.236989340054982
+        }
+      }
+    },
+    {
+      "pin": "4",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.04993972809958626,
+          "areaMm2": 1.8878413712263657
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360379204327e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693780012
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067853727480991,
+          "areaMm2": 2.2369893400549774
+        }
+      }
+    },
+    {
+      "pin": "3",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.04993972809958626,
+          "areaMm2": 1.8878413712263657
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360379204327e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779977
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.10067853727480991,
+          "areaMm2": 2.2369893400549774
+        }
+      }
+    },
+    {
+      "pin": "2",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472136166143667e-08,
+          "nominalMetalToEdgeMm": 0.04993972809958465,
+          "areaMm2": 1.8878413712263657
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360379204327e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779977
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553545034513e-05,
+          "nominalMetalToEdgeMm": 0.1006785372748083,
+          "areaMm2": 2.2369893400549774
+        }
+      }
+    },
+    {
+      "pin": "1",
+      "outer": true,
+      "checks": {
+        "Gerber_TopLayer.GTL": {
+          "hausdorffToExpectedMm": 4.472135848379329e-08,
+          "nominalMetalToEdgeMm": 0.04993972809958786,
+          "areaMm2": 1.8878413712263657
+        },
+        "Gerber_TopPasteMaskLayer.GTP": {
+          "hausdorffToExpectedMm": 6.712360379204327e-07,
+          "nominalMetalToEdgeMm": 0.0,
+          "areaMm2": 1.4827361693779977
+        },
+        "Gerber_TopSolderMaskLayer.GTS": {
+          "hausdorffToExpectedMm": 6.123553544570137e-05,
+          "nominalMetalToEdgeMm": 0.10067853727481152,
+          "areaMm2": 2.2369893400549774
+        }
+      }
+    }
+  ]
+}

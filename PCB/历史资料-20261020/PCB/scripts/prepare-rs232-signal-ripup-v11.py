@@ -1,0 +1,3 @@
+import json
+from pathlib import Path
+p=Path('PCB');d=json.loads((p/'manifests/routing-interface-v11.json').read_text(encoding='utf-8-sig'))['result'];sel={k:[t['id'] for t in d[k] if t['net'] in ['232_RX_RAW','232_RIN']] for k in ['lines','polys','vias']};print({k:len(v) for k,v in sel.items()});code='if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");const specs='+json.dumps(sel)+';for(const [k,a] of [["lines",eda.pcb_PrimitiveLine],["polys",eda.pcb_PrimitivePolyline],["vias",eda.pcb_PrimitiveVia]])if(specs[k].length&&!await a.delete(specs[k]))throw Error("Reroute failed");return {specs,saved:await eda.pcb_Document.save()};';(p/'scripts/open-rs232-signal-routing-v11.js').write_text(code)

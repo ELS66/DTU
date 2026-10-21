@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "result": {
+    "created": [
+      {
+        "ref": "R14",
+        "id": "f7a8edd19ef0e3d2"
+      },
+      {
+        "ref": "R15",
+        "id": "2f926ebc32a94228"
+      },
+      {
+        "ref": "R16",
+        "id": "ea7b8a199ce9bf51"
+      },
+      {
+        "ref": "R17",
+        "id": "18e9a57445b3dcef"
+      },
+      {
+        "ref": "R18",
+        "id": "ef51f1e9f6384973"
+      },
+      {
+        "ref": "SW2",
+        "id": "c8bb762a9d7bece7"
+      },
+      {
+        "ref": "SW3",
+        "id": "e9293dd058868d68"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

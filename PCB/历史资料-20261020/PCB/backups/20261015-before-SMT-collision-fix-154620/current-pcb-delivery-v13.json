@@ -1,0 +1,73 @@
+{
+  "revision": "V0.13 HY2.0 立贴端子修正 2026-10-15",
+  "boardMm": [
+    60,
+    70
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 304,
+  "drilledHoles": 320,
+  "pcbDrcIssues": 0,
+  "schematicWarnings": 18,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261015-before-HY20-connector",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-HY20.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-HY20-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-HY20资料包.zip",
+  "actualCopperManifest": "hy20-final-routing-source-v13.json",
+  "actualSourceSnapshot": "hy20-final-pcb-source-v13.json",
+  "connectors": {
+    "model": "ZX-HY2.0-4PLT",
+    "supplierPart": "C7429562",
+    "signalFixedRowSpacingMm": 3.0
+  },
+  "factoryDfmPassed": false,
+  "files": [
+    {
+      "file": "DTU-V0.13-60x70-HY20.epro2",
+      "sha256": "f64a7ab18c2be27453ec0230e14b80e4256113112b5fe0ee8d946def3f79e4ef"
+    },
+    {
+      "file": "DTU-V0.13-60x70-HY20-Gerber.zip",
+      "sha256": "9e977b60b649e241d4bed8f8da01181edf3f5de5b826fe639c4730e927f6a185"
+    },
+    {
+      "file": "DTU-V0.13-HY20-BOM-99.csv",
+      "sha256": "bdcac2736e76d6ab56b4ed8c459dcbbcd6d84c36b71f2e1a858672466390ed48"
+    },
+    {
+      "file": "DTU-V0.13-HY20-CPL-99-Top.csv",
+      "sha256": "fbd0fc074dfc3abbe1007309170fa2b89d8c0ab06ae6015ef3560102f954efe6"
+    },
+    {
+      "file": "DTU-V0.13-HY20-BOM-review.csv",
+      "sha256": "954fd68a8b95305a4b38c5edbcd07595f96cbb445dcb5bf36d05690f7c919cfa"
+    },
+    {
+      "file": "DTU-V0.13-HY20-Gerber-top.png",
+      "sha256": "412abaf064fdc2be97564d2adfbdc038abc3668d46f824745820118dc4e6e6d8"
+    },
+    {
+      "file": "DTU-V0.13-HY20-Gerber-bottom.png",
+      "sha256": "142441344fa787e9d20a4f69905f2868871bd7e2d733971d7aba83ccc5facf66"
+    },
+    {
+      "file": "V0.13-HY2.0端子封装修正记录.md",
+      "sha256": "4f19e870bb6287ce73bfc1f8ca42508290e1fc3fa06889e9bc063fe3dc3e5af8"
+    },
+    {
+      "file": "V0.13-整体验收记录.md",
+      "sha256": "d258a76979bcec888de1ace26e5ab54f771dc94036e40344848712bbd2883289"
+    },
+    {
+      "file": "DTU-V0.13-README.md",
+      "sha256": "f41617d25a25ffc8e515cb7188afcad68b0aff390a281c9349b5a1210d75da0b"
+    },
+    {
+      "file": "ZX-HY2.0-4PLT.pdf",
+      "sha256": "cabd2ec3e64fc7173f21d923b093c8ebe0fd2a504d792d0b27c5ceea60eefef0"
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "success": true,
+  "result": [
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "6b2e3ad7308c19ba",
+          "sheet": "905678d5aaed7ed3",
+          "name": "R10($2I37)"
+        },
+        {
+          "primitiveId": "972b3eb65f526315",
+          "sheet": "905678d5aaed7ed3",
+          "name": "R11($2I38)"
+        },
+        {
+          "primitiveId": "a380ef50a82bfd26",
+          "sheet": "905678d5aaed7ed3",
+          "name": "R12($2I39)"
+        },
+        {
+          "primitiveId": "bbdf6fa6c2f3a01f",
+          "sheet": "905678d5aaed7ed3",
+          "name": "R13($2I40)"
+        },
+        {
+          "primitiveId": "b390e6cce80d4b59",
+          "sheet": "905678d5aaed7ed3",
+          "name": "R14($2I41)"
+        },
+        {
+          "primitiveId": "4b5f44f676621a71",
+          "sheet": "905678d5aaed7ed3",
+          "name": "R15($2I42)"
+        },
+        {
+          "primitiveId": "1079203ce2b89a73",
+          "sheet": "905678d5aaed7ed3",
+          "name": "R16($2I43)"
+        },
+        {
+          "primitiveId": "ce7d2c0adc973de7",
+          "sheet": "905678d5aaed7ed3",
+          "name": "C10($2I46)"
+        },
+        {
+          "primitiveId": "99672818698afe0c",
+          "sheet": "905678d5aaed7ed3",
+          "name": "C11($2I47)"
+        },
+        {
+          "primitiveId": "0f3c534218585b69",
+          "sheet": "905678d5aaed7ed3",
+          "name": "C12($2I48)"
+        },
+        {
+          "primitiveId": "72d4e0f9b731c80a",
+          "sheet": "905678d5aaed7ed3",
+          "name": "J6($2I53)"
+        },
+        {
+          "primitiveId": "796452118c5c6e02",
+          "sheet": "a8fcac05b0a49c52",
+          "name": "C80($3I26)"
+        },
+        {
+          "primitiveId": "4ed78b3a3b087669",
+          "sheet": "a8fcac05b0a49c52",
+          "name": "C81($3I27)"
+        },
+        {
+          "primitiveId": "a95ecb8aa6afbde1",
+          "sheet": "a8fcac05b0a49c52",
+          "name": "C82($3I28)"
+        },
+        {
+          "primitiveId": "904de0b80352b559",
+          "sheet": "a8fcac05b0a49c52",
+          "name": "C83($3I29)"
+        },
+        {
+          "primitiveId": "1c2dc9d6dc710478",
+          "sheet": "a8fcac05b0a49c52",
+          "name": "C84($3I30)"
+        },
+        {
+          "primitiveId": "0eac8679f408125a",
+          "sheet": "a8fcac05b0a49c52",
+          "name": "R60($3I31)"
+        },
+        {
+          "primitiveId": "9d0dccb6dcc55b54",
+          "sheet": "a8fcac05b0a49c52",
+          "name": "R61($3I32)"
+        },
+        {
+          "primitiveId": "6b26b20d10b25c1f",
+          "sheet": "a8fcac05b0a49c52",
+          "name": "R64($3I33)"
+        },
+        {
+          "primitiveId": "3af84fec3d890e0c",
+          "sheet": "a8fcac05b0a49c52",
+          "name": "J7($3I37)"
+        },
+        {
+          "primitiveId": "28269ce8840921a1",
+          "sheet": "8c8a42c355c95b77",
+          "name": "J5($4I25)"
+        },
+        {
+          "primitiveId": "1a91d356d26a505b",
+          "sheet": "8c8a42c355c95b77",
+          "name": "R50($4I31)"
+        },
+        {
+          "primitiveId": "8a1d131b2ce161e0",
+          "sheet": "8c8a42c355c95b77",
+          "name": "R51($4I32)"
+        },
+        {
+          "primitiveId": "6b1230a7fba9386a",
+          "sheet": "8c8a42c355c95b77",
+          "name": "R52($4I33)"
+        },
+        {
+          "primitiveId": "11240fbf612346ad",
+          "sheet": "8c8a42c355c95b77",
+          "name": "R53($4I34)"
+        },
+        {
+          "primitiveId": "05dda9657412619f",
+          "sheet": "8c8a42c355c95b77",
+          "name": "R54($4I35)"
+        },
+        {
+          "primitiveId": "acda5329315efaf4",
+          "sheet": "8c8a42c355c95b77",
+          "name": "R55($4I36)"
+        },
+        {
+          "primitiveId": "5e624454d7c92c6b",
+          "sheet": "8c8a42c355c95b77",
+          "name": "C50($4I37)"
+        },
+        {
+          "primitiveId": "0e45df06bb4fc788",
+          "sheet": "8c8a42c355c95b77",
+          "name": "C51($4I38)"
+        },
+        {
+          "primitiveId": "d30ccf571768dd3a",
+          "sheet": "8c8a42c355c95b77",
+          "name": "C52($4I39)"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "1b6734f3a42b6f4d",
+          "sheet": "8c8a42c355c95b77",
+          "name": "C53($4I40)"
+        },
+        {
+          "primitiveId": "e0d2381dfc1c055c",
+          "sheet": "8c8a42c355c95b77",
+          "name": "C54($4I41)"
+        },
+        {
+          "primitiveId": "65c7129c388dc4f2",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "D5($5I9)"
+        },
+        {
+          "primitiveId": "115ec2254919d38a",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R30($5I35)"
+        },
+        {
+          "primitiveId": "496b4f8ccca55659",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R31($5I36)"
+        },
+        {
+          "primitiveId": "fa50299d32ab18b3",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R32($5I37)"
+        },
+        {
+          "primitiveId": "c1a1b9bc0145e902",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R33($5I38)"
+        },
+        {
+          "primitiveId": "b5dcbe810fb050b1",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R34($5I39)"
+        },
+        {
+          "primitiveId": "8dadb58c06d709b7",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R35($5I40)"
+        },
+        {
+          "primitiveId": "cb6c9a071c3863b7",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R36($5I41)"
+        },
+        {
+          "primitiveId": "4284316679fd805d",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R37($5I42)"
+        },
+        {
+          "primitiveId": "a432da24b68e1ea4",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "C30($5I43)"
+        },
+        {
+          "primitiveId": "e846797528de11ad",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "C31($5I44)"
+        },
+        {
+          "primitiveId": "dd10f684b0fbe10f",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "C32($5I45)"
+        },
+        {
+          "primitiveId": "a5e33a81d5d4a448",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "C33($5I46)"
+        },
+        {
+          "primitiveId": "42c6fbabd634cedb",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "C34($5I47)"
+        },
+        {
+          "primitiveId": "4e5dfaa5ec9d2d35",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "C35($5I48)"
+        },
+        {
+          "primitiveId": "1e32dced00be8f10",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "C36($5I49)"
+        },
+        {
+          "primitiveId": "47bb66bfb2de2fee",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "C37($5I50)"
+        },
+        {
+          "primitiveId": "2ca9a33f8f8b0e0f",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "C38($5I51)"
+        },
+        {
+          "primitiveId": "9fcfbf2bddc8c9c1",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R38($5I52)"
+        },
+        {
+          "primitiveId": "f6627f708fcb70a4",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R100($5I58)"
+        },
+        {
+          "primitiveId": "fa935ce65f4b28fc",
+          "sheet": "31c8ed08a1998d0d",
+          "name": "R101($5I59)"
+        },
+        {
+          "primitiveId": "72c5623f0cc52f15",
+          "sheet": "8902a3019bd8d84c",
+          "name": "R121($6I61)"
+        },
+        {
+          "primitiveId": "1f2d72a033b6aacb",
+          "sheet": "2eb77bba50a14eab",
+          "name": "R70($7I32)"
+        },
+        {
+          "primitiveId": "5f3f4bcbf9e32ec5",
+          "sheet": "2eb77bba50a14eab",
+          "name": "R71($7I33)"
+        },
+        {
+          "primitiveId": "8e229fa85c596969",
+          "sheet": "2eb77bba50a14eab",
+          "name": "R72($7I34)"
+        },
+        {
+          "primitiveId": "0618056256688bba",
+          "sheet": "2eb77bba50a14eab",
+          "name": "R73($7I35)"
+        },
+        {
+          "primitiveId": "ecb3ad468e64da97",
+          "sheet": "2eb77bba50a14eab",
+          "name": "R84($7I36)"
+        },
+        {
+          "primitiveId": "3600a223f353cee7",
+          "sheet": "2eb77bba50a14eab",
+          "name": "R85($7I37)"
+        }
+      ]
+    },
+    {
+      "type": "warn",
+      "rule": "ATTRMATCHCODE",
+      "primitives": [
+        {
+          "primitiveId": "e1d6a0c4129df059",
+          "sheet": "2eb77bba50a14eab",
+          "name": "C70($7I38)"
+        },
+        {
+          "primitiveId": "d9ab1a346db09858",
+          "sheet": "2eb77bba50a14eab",
+          "name": "R82($7I39)"
+        },
+        {
+          "primitiveId": "da98988b60c421e2",
+          "sheet": "2eb77bba50a14eab",
+          "name": "C71($7I42)"
+        },
+        {
+          "primitiveId": "43ef2e210ac74720",
+          "sheet": "2eb77bba50a14eab",
+          "name": "C72($7I43)"
+        },
+        {
+          "primitiveId": "730a7908b1c37d4c",
+          "sheet": "2eb77bba50a14eab",
+          "name": "C73($7I44)"
+        },
+        {
+          "primitiveId": "6f64dc604a261f0e",
+          "sheet": "2eb77bba50a14eab",
+          "name": "R77($7I45)"
+        },
+        {
+          "primitiveId": "5759a31933e9de29",
+          "sheet": "2eb77bba50a14eab",
+          "name": "R78($7I46)"
+        },
+        {
+          "primitiveId": "125e505a1b2288f1",
+          "sheet": "61de9aff546f5073",
+          "name": "L1($8I42)"
+        },
+        {
+          "primitiveId": "4090a3f06954b921",
+          "sheet": "61de9aff546f5073",
+          "name": "L2($8I43)"
+        },
+        {
+          "primitiveId": "3dabdd11dfb4df25",
+          "sheet": "61de9aff546f5073",
+          "name": "L3($8I44)"
+        },
+        {
+          "primitiveId": "3d41c07d260c9872",
+          "sheet": "61de9aff546f5073",
+          "name": "R90($8I45)"
+        },
+        {
+          "primitiveId": "2b0d6f59800f0a0b",
+          "sheet": "61de9aff546f5073",
+          "name": "R91($8I46)"
+        },
+        {
+          "primitiveId": "f465b3030fbc1bba",
+          "sheet": "61de9aff546f5073",
+          "name": "R92($8I47)"
+        },
+        {
+          "primitiveId": "a9e62a77c4d4764e",
+          "sheet": "61de9aff546f5073",
+          "name": "R93($8I48)"
+        },
+        {
+          "primitiveId": "81737a4d7ceaeaef",
+          "sheet": "61de9aff546f5073",
+          "name": "C90($8I49)"
+        },
+        {
+          "primitiveId": "42b9df3365f07013",
+          "sheet": "61de9aff546f5073",
+          "name": "C91($8I50)"
+        },
+        {
+          "primitiveId": "ec3d4a88d5a3c871",
+          "sheet": "61de9aff546f5073",
+          "name": "C92($8I51)"
+        },
+        {
+          "primitiveId": "3bd5369de54e292e",
+          "sheet": "61de9aff546f5073",
+          "name": "C93($8I52)"
+        },
+        {
+          "primitiveId": "c232556195134149",
+          "sheet": "61de9aff546f5073",
+          "name": "C94($8I53)"
+        },
+        {
+          "primitiveId": "bed448f15d48856f",
+          "sheet": "61de9aff546f5073",
+          "name": "C95($8I54)"
+        },
+        {
+          "primitiveId": "8c837a8da32dc51e",
+          "sheet": "61de9aff546f5073",
+          "name": "C96($8I55)"
+        },
+        {
+          "primitiveId": "f48f52f67a6e58f3",
+          "sheet": "61de9aff546f5073",
+          "name": "C97($8I56)"
+        },
+        {
+          "primitiveId": "cae4e3315a4634f1",
+          "sheet": "61de9aff546f5073",
+          "name": "C98($8I57)"
+        },
+        {
+          "primitiveId": "d0e7e24dd3cd71cc",
+          "sheet": "61de9aff546f5073",
+          "name": "C99($8I58)"
+        },
+        {
+          "primitiveId": "3a4d534d5634bf19",
+          "sheet": "61de9aff546f5073",
+          "name": "C106($8I59)"
+        },
+        {
+          "primitiveId": "bf32ca1770a9ba3d",
+          "sheet": "61de9aff546f5073",
+          "name": "C107($8I60)"
+        },
+        {
+          "primitiveId": "8ae3adfae24a90ee",
+          "sheet": "61de9aff546f5073",
+          "name": "C108($8I61)"
+        },
+        {
+          "primitiveId": "8dacb88eb4df0f51",
+          "sheet": "61de9aff546f5073",
+          "name": "C109($8I62)"
+        },
+        {
+          "primitiveId": "7b4750772cde1bbf",
+          "sheet": "61de9aff546f5073",
+          "name": "C85($8I63)"
+        }
+      ]
+    }
+  ],
+  "windowId": "035201c2-5ac3-44f1-be5e-f3d4c319ac71"
+}

@@ -1,0 +1,18 @@
+{
+  "beforeVias": 362,
+  "afterVias": 310,
+  "removedRoutes": 148,
+  "removedVias": 87,
+  "createdRoutes": 74,
+  "createdVias": 35,
+  "afterRoutes": 507,
+  "scripts": [
+    "apply-routing-opt-v13-1.js",
+    "apply-routing-opt-v13-2.js",
+    "apply-routing-opt-v13-3.js",
+    "apply-routing-opt-v13-4.js",
+    "apply-routing-opt-v13-5.js",
+    "apply-routing-opt-v13-6.js"
+  ],
+  "planSha256": "196f558e50d25663c874443b9d70854fed18369dae23487c70b89c12c7afc078"
+}

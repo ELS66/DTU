@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "result": {
+    "native": {
+      "name": "native-file-inspection.epro2",
+      "type": "zip",
+      "constructor": "File",
+      "isFile": true,
+      "keys": [],
+      "properties": [],
+      "prototypeKeys": [
+        "name",
+        "lastModified",
+        "lastModifiedDate",
+        "webkitRelativePath",
+        "constructor"
+      ]
+    },
+    "disk": {
+      "name": "D:/DTU/PCB/eda/DTU-V0.12-ML307R-DL-60x70.epro2",
+      "type": "application/octet-stream",
+      "constructor": "File",
+      "isFile": true,
+      "keys": [],
+      "properties": [],
+      "prototypeKeys": [
+        "name",
+        "lastModified",
+        "lastModifiedDate",
+        "webkitRelativePath",
+        "constructor"
+      ]
+    },
+    "browser": {
+      "name": "DTU-V0.12-ML307R-DL-60x70.epro2",
+      "type": "",
+      "constructor": "File",
+      "isFile": true,
+      "keys": [],
+      "properties": [],
+      "prototypeKeys": [
+        "name",
+        "lastModified",
+        "lastModifiedDate",
+        "webkitRelativePath",
+        "constructor"
+      ]
+    }
+  },
+  "windowId": "035201c2-5ac3-44f1-be5e-f3d4c319ac71"
+}

@@ -1,0 +1,351 @@
+PAGE 1
+第 2 页，共 18 页
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EGT/ E G 2 硬件手册 V1.4
+Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EGT/EG2 硬件手册 V1 .4
+特别说明：
+1. 合宙共有七个AT模组型号，分别为：
+Air700ECT ，IO电平默认1 .8V ，可通过PIN27: IO_Volt_Set下拉到地将IO电平配置为3 . 3V；
+Air780EPT ，IO电平默认1 .8V ，可通过PIN100: IO_Volt_Set下拉到地将IO电平配置为3 . 3V；
+Air780EHT ，IO电平默认1 .8V ，可通过PIN100: IO_Volt_Set下拉到地将IO电平配置为3 . 3V；
+Air780EVT ，IO电平默认3 . 3V；
+Air780EVT- 1.8V ，IO电平默认1 .8V；
+Air780EGT ，IO电平默认1 .8V ，可通过PIN100: IO_Volt_Set下拉到地将IO电平配置为3 . 3V；
+Air780EG2 ，IO电平默认1 .8V ，可通过PIN100: IO_Volt_Set下拉到地将IO电平配置为3 . 3V；
+本文将只以Air70 0 ECT/Air78 0 EP T/ EHT/EVT/EG2 / EGT为例进行说明,不再特别说明Air780EVT-1.8V ；
+仅Air780EVT 和Air780EVT-1.8V 不可通过PIN100 更改IO 电平，其它型号都可以；实际使用中，
+大家普遍选择的是Air780EVT ；
+PAGE 2
+第 2 页，共 18 页
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EGT/ E G 2 硬件手册 V1.4
+2. Air700 ECT/Air780 EHT/Air78 0 EVT/Air7 80EVT-1.8V/ Air780 EGT五款高性能AT模组，可提供8
+路带TLS加密的Socket ，高达60 KB上下行串口速率的稳定数据传输，支持1M Byte 及以下
+的文件下载；
+3. Air780EPT/Air780EG2 两款基础AT模组，可提供8路带TLS加密的Socket ，高达60 KB上下
+行串口速率的稳定数据传输，支持128K Byte 及以下的文件下载；
+4. Air780 EPT/ EHT仅支持数传，Air780 EVT在Air780 EHT的基础上增加了音频功能(1 路Mic ，1路
+Speaker) ， Air78 0 EG 2 / EGT在 Air78 0 EHT基础 上增 加了 GNSS定位 功能 ( GPS/ 北斗 等多 星系 支
+持) ； Air700ECT功能与Air780EHT功能相当，区别是Air700ECT仅有10 .5 * 13.45 * 1 .95mm大
+小，但仅支持中国移动；
+5. Air780 EPT/ EHT可以完全替代合宙早期型号Air780E/ Air780 EP/Air780 EPS等，封装、管脚
+和AT指令都完全兼容；
+( Air78 0 EHT支 持 LuatOS二 次 开 发 的 型 号 是 Air7 8 0 EHM)
+6. Air780 EG2/ EGT基本可以完全替代合宙早期型号Air78 0 EG(仅PIN98: GNSS_VDD ，GNSS有
+源天线供电管脚不同) ，其它的封装、管脚和AT指令都完全兼容；
+( Air78 0 EGT支 持 LuatOS二 次 开 发 的 型号 是 Air78 0 EGH，Air780EG2支持LuatOS二次开发的型号
+是Air780EGP)
+6. Air780 EVT/Air780EVT-1.8V内置了Audio Codec ，可直接驱动1路Mic( 驻极体Mic)和1路
+Speaker(需外加音频PA) ，可支持TTS/VoLTE；
+( Air78 0 EVT/EVT-1.8V支 持 LuatOS二 次 开 发 的 型 号 是 Air78 0 EHV/EHV-1.8V)
+7. Air700 ECT/Air780EPT/ Air780 EHT/Air780 EVT/Air780EVT-1.8V/Air780EG2/ Air780 EGT七款
+AT模组的AT指令完全相同，因此，三款模组的硬件手册也会放在一起介绍；
+8. 为避免您拿到的本硬件手册的版本不是最新的，请前往下面网址进行确认：
+https:/ / docs. openluat. com/ atmozu/ product/ shouce/
+PAGE 3
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 5 页，共 18 页
+一．Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 规格介绍
+Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 是合宙 2025 年主推 4G Cat.1 全网通模组，
+其中： Air700ECT 尺寸为 10.5 * 13.45* 1.95mm ，仅支持中国移动运营商；
+Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 系列为 16* 18*2.3mm ，经典模组封装，支持中国移动
+、 电信、联通三大运营商；支持合宙 AT 指令开发方式，也支持合宙 4G 低功耗；
+频段
+Air700 ECT：
+LTE-FDD：B3/ B8；
+LTE-TDD：B34/ B38/ B39/ B40/ B41；
+Air780 EPT/EHT/EVT/EVT-1.8V/EG2/EGT：
+LTE-FDD：B1/ B3/ B5/ B8
+LTE-TDD：B34/ B38/ B39/ B40/ B41；
+( 如 果 不 理 解 这 个 参 数 是 什 么 意 思 ， 你 只 需 要 知 道 这 些 参 数 代 表 了
+Air78 0 EP T / EHT/ EVT/ EV T -1 . 8 V / E G 2 / EGT 对中 国移 动/ 电信 / 联通 三大 运营 商 全都支持，用哪
+家运营商的 SIM 卡都可以，Air70 0 ECT 仅支持中国移动运营商)
+数据
+上行理论最大速率： 5Mbps
+下行理论最大速率： 10 Mbps
+(如果不理解这个参数是什么意思，你只需要知道这个世界上 99%的低速物联网场景 4G Cat.1
+模组的传输速率都可以胜任)
+功耗
+Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 支持三种功耗模式，常规模式、低功耗模式
+和 PSM+模式；
+1）常规模式：长连接状态，供电电压 3.8V ，实网状态下最小平均电流 7-8mA；
+2）低功耗模式：长连接状态，供电电压 3.8V ，实网状态下最小平均电流 1.5-2mA；
+3） PSM+模式： 飞行状态，供电电压 3.8V ，实网状态下平均电流 3-12uA；
+温度
+-40 °C ~ +85 °C
+(这个温度范围，也就是大家常说的“工业级 ”)
+供电
+范围 3.3V~4.3V ，典型值 3.8V
+(你可以简单理解为 3.3V~4.3V 的供电电压范围就是我们常用的锂电池电压工作范围，也就是
+可以直接用锂电池供电，如果要使用电源适配器供电，建议将电压值设置为 3.8V)
+PAGE 4
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 8 页，共 18 页
+IO 电平
+Air700ECT ，IO电平默认1 .8V ，可通过PIN27: IO_Volt_Set下拉到地将IO电平配置为3 . 3V；
+Air780EHT ，IO电平默认1 .8V ，可通过PIN10 0: IO_Volt_Set下拉到地将IO电平配置为3 .3V；
+Air780EVT ，IO电平默认3 . 3V；
+Air780EVT- 1.8V ，IO电平默认1 .8V；
+Air780EGT ，IO电平默认1 .8V ，可通过PIN100: IO_Volt_Set下拉到地将IO电平配置为3 . 3V；
+Air780EG2 ，IO电平默认1 .8V ，可通过PIN100: IO_Volt_Set下拉到地将IO电平配置为3 . 3V
+外设接口
+除 Air700ECT/Air780EPT/EHT 支持的常见接口，包括供电、开机、复位、SIM 卡(双卡单待) 、串
+口、天线、状态灯等外，Air780EVT/EVT-1.8V 在此基础上新增了 1 路 Mic 和 1 路 Speaker ，
+Air780EG2/EGT 在此基础上增加了 GNSS 相关引脚(GNSS 天线、GNSS 有源天线供电 GNSS_VDD
+、1PPS 输出)；
+射频指标
+发射功率
+TDD: Class3(23 dBm+1/-3 dB)
+FDD: Class3(23dBm+-2dB)
+灵敏度
+FDD B1: -99dBm (10M) (Air700ECT 不支持该频段)
+FDD B3: -99dBm (10M)
+FDD B5: -99dBm (10M) (Air700ECT 不支持该频段)
+FDD B8: -99dBm (10M)
+TDD B34: - 100dBm (10M)
+TDD B38: - 100dBm (10M)
+TDD B39: - 100dBm (10M)
+TDD B40: - 100dBm (10M)
+TDD B41: - 100dBm (10M)
+( 对 大 多 数 用 户 来 讲 ， 这 些 指 标 过 于 专 业 和 陌 生 ， 大 家 只 需 要 理 解 为
+Air700 ECT/Air78 0 EPT/ EHT/EVT/EVT-1.8 V/EG2/ EGT 即便在弱信号下通信能力也非常强悍就可
+以了)
+PAGE 5
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 8 页，共 18 页
+二．核心功能；
+这一章节，也可以在合宙 Docs 资料网站进行阅读：
+https:// docs.openluat.com/atmozu/ product/shouce/
+3.1 核心信息描述
+
+PAGE 6
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 8 页，共 18 页
+3.2 实网功耗数据
+
+PAGE 7
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 9 页，共 18 页
+三．开发指导
+接下来的介绍，我们按照大家在实际工作中常见的需求顺序进行介绍；
+管脚介绍；
+原理图参考设计；
+A常见问答；
+3.1 Air700ECT 管脚介绍
+管脚透视图
+
+PAGE 8
+合宙 Air700ECT/Air780EHT/Air780EVT/Air780EGT 硬件手册 V1.3
+第 10 页，共 18 页
+3.2 Air780EPT/EHT 管脚介绍
+管脚透视图
+PAGE 9
+合宙 Air700ECT/Air780EHT/Air780EVT/Air780EGT 硬件手册 V1.3
+第 11 页，共 18 页
+3.3Air780EVT/EVT-1.8V 的管脚介绍
+管脚透视图
+PAGE 10
+合宙 Air700ECT/Air780EHT/Air780EVT/Air780EGT 硬件手册 V1.3
+第 12 页，共 18 页
+3.4 Air780EG2/EGT 的管脚介绍
+管脚透视图
+PAGE 11
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 13 页，共 18 页
+3.5 Air700ECT 管脚功能说明
+管脚号 Air780EHT 备注说明
+PIN1 PWRKEY 开 机键 ， 拉低 3 秒 可以 开关 机； 也 可以 直接 接地 实 现上 电开 机 ；
+PIN4 DBG_RXD 建议引出测试点 ， 以备调试时使用
+PIN5 DBG_TXD 建议引出测试点 ， 以备调试时使用
+PIN6 VBUS 建议引出测试点 ， 以备调试时使用
+PIN7 USB_DP 建议引出测试点 ， 以备调试时使用
+PIN8 USB_DM 建议引出测试点 ， 以备调试时使用
+PIN9 GND
+PIN10 USIM_RST 建议默认 使用该路 SIM 卡 (SIM1)
+PIN11 USIM_CLK 建议默认 使用该路 SIM 卡 (SIM1)
+PIN12 USIM_DAT 建议默认 使用该路 SIM 卡 (SIM1)
+PIN13 USIM_VDD 建议默认 使用该路 SIM 卡 (SIM1)
+PIN14 UART_TXD 发 送数 据
+PIN15 UART_RXD 接 受 数 据
+PIN16 GND
+PIN17 RESET_N 拉低重启 ，注意是 重启 ，不是关 机！
+PIN18 VBAT 1) VBAT 供电电压范围 3.3-4.2V ;
+2) 使用 DCDC 供电时推荐电压设置为 3.8-4.0V ;
+3) 锂 电池 可以 直接 供 电 ， 无需 降压 或升 压 ；
+4） 常态供电能力建议 700mA 以上，瞬时供电能力建议 1A 以上；PIN19 VBAT
+PIN20 GND
+PIN21 GND
+PIN22 GND
+PIN23 LTE_ANT 4G 天线
+PIN24 GND
+PIN27 IO_Volt_Set Air700ECT，悬空时， IO 电平为 1.8V； 接地时， IO 电平为 3.3V；
+PIN29 GND
+PIN34 USB_BOOT USB 升 级 软 件 时 ， 需 将 此 管 脚 与 VDD_ EXT 短 接 拉 高 ， 建 议 PCB 引 出 测 试 点 ， 以 便 配 合 夹 具 批 量 下 载 软 件 ；
+PIN39 UART_RI Ringing Indicator， 常 用 于 模 组 将 MCU 从 休 眠 状 态 唤 醒
+PIN40 VDD_EXT 除 配 合 USB_ BOOT 进 入 升 级 模 式 外 ， 不 建 议 做 其 它 用 途
+PIN41 GND
+PIN43 Vref 仅 可 用 于 参 考 电 平 使 用 ， 比 如 电 平 转 换 电 路 的 参 考 电 平
+PIN44 USIM_DET 1) SIM 卡 插 入 检 测 ， 上 下 边 沿 电 压 触 发 中 断 ， 常 态 高 电 平 ；
+2) SIM 卡 非必 需信 号 ， 不需 要请 悬空 ；
+PIN45 GND
+PIN53 GND
+PIN56 UART_RTS 实 际 为模 组 的 CTS 信 号 ， 可 以直 连 MCU 的 RTS 信 号
+PIN57 UART_CTS 实 际 为模 组 的 RTS 信 号 ， 可 以直 连 MCU 的 CTS 信 号
+PIN63 STATUS 开机 400 ms 后输出高电平
+PIN67 NET_STATUS
+短亮 (0.2 秒)长灭 (1.8 秒)，搜网注册中；
+长亮 (1.8 秒)短灭 (0.2 秒)，联网待机中；
+快亮 (0.1 秒)快灭 (0.1 秒)，数据传输中；
+PIN69 GND
+PIN71 UART_DTR Data Terminal Ready， 常 用 于 MCU 将 模 组 从 休 眠 状 态 唤 醒
+PIN77 GND
+PIN78 GND
+PAGE 12
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 14 页，共 18 页
+PIN79 GND
+PIN80 GND
+其它 悬空 ,不接
+3.6 Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 的管脚功能说明
+管脚号 Air780EPT/EHT 780EVT/EVT-1.8V Air780EG2/EGT 备注说明
+PIN1 GND GND GND
+PIN2 GNSS_ANT 可 以 灵 活 选 择 使 用 GNSS 无 源 或 有 源 天 线 ，
+使 用 GNSS 有 源 天 线 时 请 固 定 使 用 PIN98 : GNSS_ VDD 供 电 ；
+PIN3 MIC+ Mic+ ，Air78 0 EVT 内 部 已加 偏 置 ， 外 部无 需 再 加
+PIN4 MIC- Mic-
+PIN5 SPK+ SPK+
+PIN6 SPK- SPK-
+PIN7 PWRKEY PWRKEY PWRKEY 开 机键 ， 拉低 3 秒 可以 开关 机； 也 可以 直接 接地 实 现上 电开 机 ；
+PIN10 GND GND GND
+PIN11 USIM_DAT USIM_DAT USIM_DAT 建议默认使用该路 SIM 卡 (SIM1)
+PIN12 USIM_RST USIM_RST USIM_RST 建议默认使用该路 SIM 卡 (SIM1)
+PIN13 USIM_CLK USIM_CLK USIM_CLK 建议默认使用该路 SIM 卡 (SIM1)
+PIN14 USIM_VDD USIM_VDD USIM_VDD 建议默认使用该路 SIM 卡 (SIM1)
+PIN15 RESET_N RESET_N RESET_N 拉低重启 ，注意是 重启 ，不是关 机！
+PIN16 NET_STATUS NET_STATUS NET_STATUS
+短亮(0.2 秒)长灭 (1.8 秒)，搜网注册中；
+长亮 (1.8 秒)短灭 (0.2 秒)，联网待机中；
+快亮(0.1 秒)快灭 (0.1 秒)，数据传输中；
+PIN17 UART_RXD UART_RXD UART_RXD 接 受 数 据
+PIN18 UART_TXD UART_TXD UART_TXD 发 送数 据
+PIN19 UART_DTR UART_DTR UART_DTR Data Terminal Ready， 常 用 于 MCU 将 模 组 从 休 眠 状 态 唤 醒
+PIN20 UART_RI UART_RI UART_RI Ringing Indicator， 常 用 于 模 组 将 MCU 从 休 眠 状 态 唤 醒
+PIN22 UART_CTS UART_CTS UART_CTS 实际为模组的 RTS 信号 ，可以直连 MCU 的 CTS 信号
+PIN23 UART_RTS UART_RTS UART_RTS 实际为模组的 CTS 信号 ，可以直连 MCU 的 RTS 信号
+PIN24 VDD_EXT VDD_EXT VDD_EXT 除 配 合 USB_ BOOT 进 入 升 级 模 式 外 ， 不 建 议 做 其 它 用 途
+PIN25 STATUS STATUS STATUS 开机 400 ms 后输出高电平
+PIN27 GND GND GND
+PIN28 GNSS_TXD Air780 EGT 内 部 GNSS 的 TXD， 可引 出测 试点 ， 不可 用作 它用
+PIN29 GNSS_RXD Air780 EGT 内 部 GNSS 的 RXD， 可引 出测 试点 ， 不可 用作 它用
+PIN34 GND GND GND
+PIN35 LTE_ANT LTE_ANT LTE_ANT 4G 天线
+PIN36 GND GND GND
+PIN37 GND GND GND
+PIN38 DBG_RXD DBG_RXD DBG_RXD 建议引出测试点 ， 以备调试时使用
+PIN39 DBG_TXD DBG_TXD DBG_TXD 建议引出测试点 ， 以备调试时使用
+PIN40 GND GND GND
+PIN41 GND GND GND
+PIN42 VBAT VBAT VBAT 4) VBAT 供电电压范围 3.3-4.2V ;
+5) 使用 DCDC 供电时推荐电压设置为 3.8-4.0V ;
+PAGE 13
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 15 页，共 18 页
+PIN43 VBAT VBAT VBAT
+6) 锂 电池 可以 直接 供 电 ， 无需 降压 或升 压 ；
+7) 常态供电能力建议 700 mA 以上，瞬时供电能力建议 1A 以上；
+PIN45 GND GND GND
+PIN46 GND GND GND
+PIN47 GND GND GND
+PIN48 GND GND GND
+PIN59 USB_DP USB_DP USB_DP 建议引出测试点 ， 以备调试时使用
+PIN60 USB_DM USB_DM USB_DM 建议引出测试点 ， 以备调试时使用
+PIN61 VBUS VBUS VBUS 建议引出测试点 ， 以备调试时使用
+PIN62 USIM2_ CLK USIM2_ CLK USIM2_ CLK SIM2 仅 在 双 卡 单 待 时 使 用 , 如 插 拔 卡 贴 片 卡 配 合 , 建 议 SIM2 贴 片 卡
+PIN63 USIM2_ RST USIM2_ RST USIM2_ RST SIM2 仅 在 双 卡 单 待 时 使 用 , 如 插 拔 卡 贴 片 卡 配 合 , 建 议 SIM2 贴 片 卡
+PIN64 USIM2_DAT USIM2_DAT USIM2_ DAT SIM2 仅 在 双 卡 单 待 时 使 用 , 如 插 拔 卡 贴 片 卡 配 合 , 建 议 SIM2 贴 片 卡
+PIN65 USIM2_VDD USIM2_VDD USIM2_ VDD SIM2 仅 在 双 卡 单 待 时 使 用 , 如 插 拔 卡 贴 片 卡 配 合 , 建 议 SIM2 贴 片 卡
+PIN70 GND GND GND
+PIN71 GND GND GND
+PIN72 GND GND GND
+PIN73 GND GND GND
+PIN78 AudioPA_EN Air78 0 EVT 控 制 Speaker 外 部 音 频 PA 开 关 的 信 号 ， 请 固 定 使 用 该 信
+号控制 ，可有效降低 POP 音的产生；
+PIN79 USIM_DET USIM_DET USIM_DET
+1) SIM 卡 插 入 检 测 ， 上 下 边 沿 电 压 触 发 中 断 ， 常 态 高 电 平 ；
+2 ) Air78 0 EHT/ Air78 0 EVT/ Air7 8 0 EGT 支 持 双 卡 单 待 ， 同 一 时 间 只 能
+有一路 SIM 卡工作；
+3) 产 品 确 定 只 使 用 一 张 SIM 卡 时 ， 请 优 先 使 用 SIM1 ；
+4) Air7 8 0 EHT/ Air7 8 0 EVT/ Air7 8 0 EGT 开 机 后 首 先 初 始 化 SIM1 ， 确 认
+SIM1 无卡时再 初始化 SIM2 ；
+5) Air78 0 EHT/ Air78 0 EVT/ Air78 0 EGT 双 卡 单 待 ， 常 用 于 SIM2 使 用 贴
+片 SIM 卡 ， SIM1 使 用插 拔卡 的场 景 ， 此时 SIM1 需 要搭 配 USIM_DET
+使用， 以便系统检测到 SIM1 已插入并切换为 SIM1 工作；
+PIN82 USB_BOOT USB_BOOT USB_BOOT USB 升 级软 件时 ， 需 将此 管脚 与 VDD_ EXT 短 接拉 高 ， 建 议 PCB 引 出
+测试点 ， 以便配合夹具批量下载软件；
+PIN88 GND GND GND
+PIN89 GND GND GND
+PIN90 GND GND GND
+PIN91 GND GND GND
+PIN92 GND GND GND
+PIN93 GND GND GND
+PIN94 GND GND GND
+PIN95 GND GND GND
+PIN98 GNSS_VDD 当 使 用 GNSS 有 源 天 线 时 ， 使 用 该 管 脚 对 GNSS 有 源 天 线 供 电
+PIN99 Vref Vref Vref 仅 可 用 于 参 考 电 平 使 用 ， 比 如 电 平 转 换 电 路 的 参 考 电 平
+PIN100 IO_Volt_Set 悬 空,不 接 悬空 ,不接
+Air780 EHT，悬空时，IO 电平为 1.8V； 接地时，IO 电平为 3.3V；
+Air780 EVT/Air780 EGT,IO 电平默认 为 3.3V ；
+Air780 EVT-1. 8V/ Air780 EGT-1.8V, IO 电平默认 为 1.8V ；
+PIN103 GND GND GND
+PIN108 1PPS
+授时脉冲频度,默认 1 秒 ;
+授 时 脉 冲 宽 度 , 默 认 0. 1 秒 ( 上 升 沿 与 整 授 时 脉 冲 频 度 对 齐 时 的 高 电
+平宽度) ;
+其它 悬空 ,不接 悬 空,不 接 悬空 ,不接
+3.7 Air700ECT/Air780EHT/Air780EVT/Air780EGT 的参考设计
+请前往 docs. openluat. com 下载；
+https:// docs.openluat.com/atmozu/ product/shouce/
+PAGE 14
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 16 页，共 18 页
+四．模组封装尺寸
+该章节主要描述模块的物理尺寸， 以及用户在使用 Air700 ECT/Air780 EHT/Air780 EVT/Air780 EGT
+模块时推荐的 PCB 封装尺寸；
+Air700 ECT:
+
+PAGE 15
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 17 页，共 18 页
+正视图，Air780 EPT/EHT/ EVT/ EVT-1.8V/EG2/EGT PCB 封装（单位：毫米）
+注意：
+1. PCB板上模块和其他元器件之间的间距建议至少3mm；
+2. 请访问 https://docs.openluat.com/atmozu/product/shouce/ 来获取
+Air70 0 EECT/Air78 0 EHT/ Air78 0 EVT/Air78 0 EGT原理图PCB封装库；
+PAGE 16
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 18 页，共 18 页
+五．存储和生产
+5.1 存储
+Air700 ECT/Air78 0 EPT/ EHT/EVT/EVT-1.8 V/EG2/ EGT以真空密封袋的形式出货，模块的存储需
+遵循如下条件：
+环境温度低于40 摄氏度，空气湿度小于90% 情况下，模块可在真空密封袋中存放12 个月。
+当真空密封袋打开后，若满足以下条件，模块可直接进行回流焊或其它高温流程：
+环境温度低于 30 摄氏度，空气湿度小于 60% ，工厂在 72 小时以内完成贴片；
+若模块处于如下条件，需要在贴片前进行烘烤：
+★ 当环境温度为23摄氏度(允许上下5摄氏度的波动) ，空气湿度指示卡显示湿度大于10%时；
+★ 当真空密封袋打开，模块环境温度低于30摄氏度，空气湿度小于60% ，但工厂未能在72
+小时以内完成贴片时；
+★ 当真空密封袋打开后，模块存储空气湿度大于10%时； 如果模块需要烘烤，请在125 摄
+氏度下(允许上下5摄氏度的波动)烘烤48小时;
+特别注意：
+模块 的包 装无 法承 受如 此高 温， 在模 块烘 烤之 前， 请移 除模 块包 装; 如果只需要短时 间的烘
+烤，请参考 IPC/JEDECJ-STD-033 规范。
+5.2 生产焊接
+用印刷刮 板在网板上印刷 锡膏，使锡膏通 过网板开口漏印 到 PCB上 ， 印刷刮板 力度需调整
+合 适 ， 为 保 证 模 块 印 膏 质 量 ，Air78 0 EHT/ Air78 0 EVT/ Air78 0 EGT模 块焊 盘部 分对 应的 钢网 厚 度
+应为0 . 2mm。
+印膏图
+PAGE 17
+合宙 Air700ECT/Air780EPT/EHT/EVT/EVT-1.8V/EG2/EGT 硬件手册 V1.4
+第 19 页，共 18 页
+为避免模块反复受热损伤，建议客户PCB板第一面完成回流焊后再贴模块。
+推荐的炉温曲线图如下图所示：
+推荐炉温曲线

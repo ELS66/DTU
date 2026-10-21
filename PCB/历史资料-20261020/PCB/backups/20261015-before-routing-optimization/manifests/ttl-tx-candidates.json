@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "result": [
+    {
+      "uuid": "f47fe6c3c872438d968789ed8de68467",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LV4T125PWR",
+      "footprint": "TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL",
+      "supplierId": "C90755"
+    },
+    {
+      "uuid": "67b71098340c42c7adb08d2c4e66c1eb",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "SN74LV4T125PWREP",
+      "footprint": "TSSOP-14_L4.9-W4.4-P0.65-LS6.4-BL",
+      "supplierId": "C22457063"
+    }
+  ],
+  "windowId": "7f59f6fe-cee0-4116-a908-2223d15abdac"
+}

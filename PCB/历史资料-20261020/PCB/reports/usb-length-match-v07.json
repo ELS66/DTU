@@ -1,0 +1,20 @@
+[
+  {
+    "family": "ESP",
+    "beforeDPmm": 34.63611765287762,
+    "beforeDMmm": 32.93942178727329,
+    "DPmm": 34.63611765287762,
+    "DMmm": 34.63611765287762,
+    "matched": true,
+    "adjustedRole": "via-to-core"
+  },
+  {
+    "family": "LTE",
+    "beforeDPmm": 62.73540664111623,
+    "beforeDMmm": 60.45662033388403,
+    "DPmm": 62.73540664111623,
+    "DMmm": 62.73540664111622,
+    "matched": true,
+    "adjustedRole": "via-to-input-core"
+  }
+]

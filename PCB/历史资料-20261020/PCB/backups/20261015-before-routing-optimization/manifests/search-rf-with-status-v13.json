@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "result": {
+    "UMH9NTN": {
+      "error": "Error: [object Object]",
+      "detail": "{}"
+    },
+    "PESD5V0F1BL": {
+      "error": "Error: [object Object]",
+      "detail": "{}"
+    },
+    "PESD5V0H1BSF": {
+      "error": "Error: [object Object]",
+      "detail": "{}"
+    }
+  },
+  "windowId": "adb71a11-6db8-48c3-8859-f78c7ce85201"
+}

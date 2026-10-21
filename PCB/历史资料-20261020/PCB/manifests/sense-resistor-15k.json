@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "result": [
+    {
+      "name": "0603WAF1502T5E",
+      "uuid": "d0ba2e4f71b148c8988ad726457772ca",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "supplierId": "C22809",
+      "footprint": "R0603"
+    }
+  ],
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

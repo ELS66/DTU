@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "result": {
+    "created": [
+      {
+        "net": "TTL_VREF",
+        "id": "f062ca3ee263495b"
+      },
+      {
+        "net": "TTL_VREF",
+        "id": "29eef30324889392"
+      },
+      {
+        "net": "TTL_VREF",
+        "id": "95938c9767f89d69"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

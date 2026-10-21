@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "result": [
+    {
+      "number": "109",
+      "expansion": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -2,
+        "bottomPasteMask": -2
+      },
+      "shape": [
+        "RECT",
+        43.3,
+        31.5,
+        0
+      ],
+      "special": []
+    },
+    {
+      "number": "98",
+      "expansion": {
+        "topSolderMask": 2,
+        "bottomSolderMask": 2,
+        "topPasteMask": -14.2,
+        "bottomPasteMask": -14.2
+      },
+      "shape": [
+        "RECT",
+        106.3,
+        27.6,
+        14.285714285714288
+      ],
+      "special": []
+    }
+  ],
+  "windowId": "e18ce53b-dc74-45ca-858a-478133b29701"
+}

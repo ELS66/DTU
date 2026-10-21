@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "result": {
+    "doc": {
+      "documentType": 1,
+      "uuid": "61de9aff546f5073",
+      "tabId": "61de9aff546f5073@b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5",
+      "parentProjectUuid": "b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5"
+    },
+    "parts": [
+      "U4",
+      "U5",
+      "U11",
+      "D14",
+      "L1",
+      "L2",
+      "L3",
+      "R90"
+    ],
+    "wires": 0
+  },
+  "windowId": "7f6b65f2-0ff2-433f-b425-37d36bc6612f"
+}

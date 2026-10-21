@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "part": {
+      "ref": "J4",
+      "page": 4,
+      "id": "ea1adccbacfa6709",
+      "pins": [
+        {
+          "number": "C1",
+          "name": "VCC",
+          "x": 410,
+          "y": 260,
+          "rotation": 180
+        },
+        {
+          "number": "C2",
+          "name": "RST",
+          "x": 410,
+          "y": 250,
+          "rotation": 180
+        },
+        {
+          "number": "C3",
+          "name": "CLK",
+          "x": 410,
+          "y": 240,
+          "rotation": 180
+        },
+        {
+          "number": "C7",
+          "name": "I/O",
+          "x": 530,
+          "y": 240,
+          "rotation": 0
+        },
+        {
+          "number": "C6",
+          "name": "VPP",
+          "x": 530,
+          "y": 250,
+          "rotation": 0
+        },
+        {
+          "number": "C5",
+          "name": "GND",
+          "x": 530,
+          "y": 260,
+          "rotation": 0
+        },
+        {
+          "number": "CD",
+          "name": "CD",
+          "x": 530,
+          "y": 230,
+          "rotation": 0
+        },
+        {
+          "number": "8",
+          "name": "EP",
+          "x": 450,
+          "y": 200,
+          "rotation": 270
+        },
+        {
+          "number": "9",
+          "name": "EP",
+          "x": 460,
+          "y": 200,
+          "rotation": 270
+        },
+        {
+          "number": "10",
+          "name": "EP",
+          "x": 480,
+          "y": 200,
+          "rotation": 270
+        },
+        {
+          "number": "11",
+          "name": "EP",
+          "x": 490,
+          "y": 200,
+          "rotation": 270
+        }
+      ]
+    }
+  },
+  "windowId": "526d775a-811f-4480-bfc4-0bcd5b1459a4"
+}

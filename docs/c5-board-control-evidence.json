@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-20",
+  "firmwareVersion": "0.4.0-dev",
+  "hardwareRevision": "V0.14.4",
+  "idfVersion": "5.5.1",
+  "confirmedByUser": {
+    "backend": "MQTT to own server",
+    "backendIntegration": "deferred until backend document",
+    "green": "network ready",
+    "blue": "MQTT connected on this link",
+    "provisioning": "Wi-Fi amber blink",
+    "txRx": "field UART byte activity including invalid protocol frames"
+  },
+  "ledGpios": [
+    2,
+    4,
+    5,
+    7,
+    9,
+    25,
+    11,
+    12
+  ],
+  "activeLow": true,
+  "runtimeLedWriters": [
+    "indicator_task via board_apply_led_mask"
+  ],
+  "timingMs": {
+    "refresh": 20,
+    "activityHold": 75,
+    "manualOverride": 5000,
+    "selfTestPerLed": 250,
+    "selfTestTotal": 2000
+  },
+  "build": {
+    "image": "c5/build/iot_module.bin",
+    "bytes": 984112,
+    "sha256": "21dd9dc29fc729c010d98f3cd5206fd2104b05ebfbedd88b1b41e575157237d1",
+    "compilerDiagnosticMatches": 0
+  },
+  "softwareChecks": {
+    "productionCoreChecksPassed": 7013,
+    "contradictoryIndicatorInputCombinations": 1024,
+    "hardwareMappingMatched": true,
+    "ledTimingAndOverrideChecksPassed": true
+  },
+  "sources": [
+    {
+      "path": "c5/components/module_core/module_indicator.c",
+      "sha256": "ab349515741a2033dc50a423e003d06f3e4481c36fb73a38f3817065862a8b20"
+    },
+    {
+      "path": "c5/components/module_core/include/module_indicator.h",
+      "sha256": "0482ffe055a552ec387bdbd667bfd734b001b63879af83e0192a6c01fa7f94fc"
+    },
+    {
+      "path": "c5/main/indicators.c",
+      "sha256": "3daf70f1090128b0c2a3050bd72a60df100ad8515ac6135cff9ceb69d906d530"
+    },
+    {
+      "path": "c5/main/board.c",
+      "sha256": "e4a0c8987e013346db0a36e2834d2ea5da7d90d38e8661885598ab46829457c1"
+    },
+    {
+      "path": "c5/main/field_bus.c",
+      "sha256": "e7dd5d8819397114108f3b519010c47a76cbc5fc65a073ff7fe1514f2cce2201"
+    }
+  ],
+  "hardwareVerified": false,
+  "hardwareFlashed": false,
+  "mqttClientIntegrated": false,
+  "nextIndependentWork": [
+    "Board state freshness and link loss",
+    "Runtime snapshot write health and throttling",
+    "Task progress supervision and watchdog",
+    "UART error classification and recovery",
+    "Opaque board info/parameter caching"
+  ]
+}

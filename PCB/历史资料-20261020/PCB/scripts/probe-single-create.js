@@ -1,0 +1,1 @@
+const d=await eda.dmt_SelectControl.getCurrentDocumentInfo();if(d.uuid!=="61de9aff546f5073")throw Error("Wrong page");const c=await eda.sch_PrimitiveComponent.create({libraryUuid:"0819f05c4eef4c71ace90d822a990e87",uuid:"2f6a23c7c5254d3a93d32faca978f2a0"},540,900);return {ref:c.getState_Designator(),id:c.getState_PrimitiveId()};

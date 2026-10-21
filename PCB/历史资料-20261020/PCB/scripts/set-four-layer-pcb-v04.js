@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");return {fourLayers:await eda.pcb_Layer.setTheNumberOfCopperLayers(4),saved:await eda.pcb_Document.save()};

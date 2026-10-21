@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "result": {
+    "bySku": [
+      {
+        "uuid": "38d5087c47c749c4bfff72b2e02d4049",
+        "ordinal": 1,
+        "name": "S4B-PH-K-S(LF)(SN)",
+        "symbolName": "",
+        "symbolUuid": "",
+        "symbol": {
+          "name": "S4B-PH-K-S-(LF)(SN)",
+          "uuid": "5908e3335ba3482faea2c40b1e17746f"
+        },
+        "footprintUuid": "",
+        "footprint": {
+          "name": "CONN-TH_4P-P2.00_S4B-PH-K-S-LF-SN",
+          "uuid": "961fe5d5e0614e42b1ba294ec7092148"
+        },
+        "model3DUuid": "",
+        "model3D": {
+          "name": "CONN-TH_4P-P2.00_S4B-PH-K-S-LF-SN",
+          "uuid": "e57cd0db0bcc406d844c099d87169ff7",
+          "libraryUuid": ""
+        },
+        "imageUuid": [
+          "https://alimg.szlcsc.com/upload/public/product/middle/20230110/8DE1B80D1598B184DECF8932EF1F21AD.jpg"
+        ],
+        "description": "插针结构:1x4P;间距:2mm;安装方式:弯插;参考系列:PH;总PIN数:4P;排数:1;每排PIN数:4;行距:-;额定电流:2A;触头材质:黄铜;触头镀层:锡;工作温度:-25℃~+85℃;",
+        "otherProperty": {
+          "LCSC Part Name": "1x4P 间距:2mm 弯插 系列:PH",
+          "Supplier Part": "C157926",
+          "Manufacturer": "JST",
+          "Manufacturer Part": "S4B-PH-K-S(LF)(SN)",
+          "Supplier Footprint": "弯插,P=2mm",
+          "JLCPCB Part Class": "Extended Part",
+          "Datasheet": "https://item.szlcsc.com/datasheet/S4B-PH-K-S(LF)(SN)/169274.html",
+          "Supplier": "LCSC",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "Symbol": "5908e3335ba3482faea2c40b1e17746f",
+          "Designator": "U?",
+          "Footprint": "961fe5d5e0614e42b1ba294ec7092148",
+          "3D Model": "e57cd0db0bcc406d844c099d87169ff7",
+          "3D Model Title": "CONN-TH_4P-P2.00_S4B-PH-K-S-LF-SN",
+          "3D Model Transform": "389.80237,299.212,0,0,0,0,0,-96.457,-137.795",
+          "Pins Structure": "1x4P",
+          "Pitch": "2mm",
+          "Mounting Type": "弯插",
+          "Reference Series": "PH",
+          "Number of Pins": "4P",
+          "Number of Rows": "1",
+          "Number of PINs Per Row": "4",
+          "Row Spacing": "-",
+          "Current Rating": "2A",
+          "Contact Material": "黄铜",
+          "Contact Plating": "锡",
+          "Operating Temperature": "-25℃~+85℃",
+          "Voltage Rating": "100V",
+          "Plastic Material": "PA66",
+          "Flame Retardant Rating": "UL94V-0",
+          "Supplementary Features": "打K脚",
+          "Color": "白色",
+          "Z-Height of the Board": "4.8mm",
+          "X-Length of Bottom Edge on Board (Spacing Line)": "9.9mm",
+          "Y-Width of Bottom Edge on Board": "7.6mm",
+          "Name": "={Manufacturer Part}",
+          "Description": "插针结构:1x4P;间距:2mm;安装方式:弯插;参考系列:PH;总PIN数:4P;排数:1;每排PIN数:4;行距:-;额定电流:2A;触头材质:黄铜;触头镀层:锡;工作温度:-25℃~+85℃;"
+        }
+      }
+    ]
+  },
+  "windowId": "c1955aa7-f8d1-4843-96ac-9fd9d300a6d3"
+}

@@ -1,0 +1,1458 @@
+{
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261016-before-clearancefix-142049",
+  "sourceProject": "c2bff6216166854806fb0135bb156a18c0ae8c03a227bd251e55df64cd0baefb",
+  "inputProject": "D:\\DTU\\PCB\\eda\\DTU-V0.14-60x75-Clearancefix-input.epro2",
+  "componentMoves": [
+    {
+      "id": "ecb9ec8cb3c3e406",
+      "ref": "C10",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "d0cb07fce59c6246",
+      "ref": "C11",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "2f926ebc32a94228",
+      "ref": "R15",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "ea7b8a199ce9bf51",
+      "ref": "R16",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "9289d95602590998",
+      "ref": "R60",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "7636ef9605cc8c9d",
+      "ref": "R61",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "c28d52facc690fdf",
+      "ref": "C50",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "6f8707af6723ff10",
+      "ref": "C51",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "1faae971bef4c421",
+      "ref": "J5",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "96dff85d773276c0",
+      "ref": "R50",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "26da766d1d68cdf7",
+      "ref": "J6",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "5e4753f0146b59fe",
+      "ref": "J7",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "b004cb7b8e510104",
+      "ref": "D18",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "8d11093f0f9b4ba7",
+      "ref": "D20",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "437ee3b0ea55cd34",
+      "ref": "D10",
+      "deltaMm": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "id": "27e64738f6dde1f7",
+      "ref": "U1",
+      "deltaMm": [
+        0,
+        2.0
+      ]
+    },
+    {
+      "id": "9a20c59b6357d964",
+      "ref": "U2",
+      "deltaMm": [
+        0,
+        2.0
+      ]
+    }
+  ],
+  "boardMm": [
+    60,
+    75
+  ],
+  "padEdits": [
+    {
+      "pin": "109",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "108",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "107",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "106",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "105",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "104",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "103",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "102",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "101",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "100",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "99",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "98",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "97",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "96",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "95",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "94",
+      "outer": false,
+      "copperMm": [
+        1.4000000000000001,
+        1.4000000000000001
+      ],
+      "pasteMm": [
+        1.3,
+        1.3
+      ]
+    },
+    {
+      "pin": "93",
+      "outer": false,
+      "copperMm": [
+        1.4000000000000001,
+        1.4000000000000001
+      ],
+      "pasteMm": [
+        1.3,
+        1.3
+      ]
+    },
+    {
+      "pin": "92",
+      "outer": false,
+      "copperMm": [
+        1.4000000000000001,
+        1.4000000000000001
+      ],
+      "pasteMm": [
+        1.3,
+        1.3
+      ]
+    },
+    {
+      "pin": "91",
+      "outer": false,
+      "copperMm": [
+        1.4000000000000001,
+        1.4000000000000001
+      ],
+      "pasteMm": [
+        1.3,
+        1.3
+      ]
+    },
+    {
+      "pin": "90",
+      "outer": false,
+      "copperMm": [
+        1.4000000000000001,
+        1.4000000000000001
+      ],
+      "pasteMm": [
+        1.3,
+        1.3
+      ]
+    },
+    {
+      "pin": "89",
+      "outer": false,
+      "copperMm": [
+        1.4000000000000001,
+        1.4000000000000001
+      ],
+      "pasteMm": [
+        1.3,
+        1.3
+      ]
+    },
+    {
+      "pin": "88",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "87",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "86",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "85",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "84",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "83",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "82",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "81",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "80",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "79",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "78",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "77",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "76",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "75",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "74",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "73",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "72",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "71",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "70",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "69",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "68",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "67",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "66",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "65",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "64",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "63",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "62",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "61",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "60",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "59",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "58",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "57",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "56",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "55",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "54",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "53",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "52",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "51",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "50",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "49",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "48",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "47",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "46",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "45",
+      "outer": false,
+      "copperMm": [
+        1.1,
+        0.7999999999999999
+      ],
+      "pasteMm": [
+        1.0,
+        0.7
+      ]
+    },
+    {
+      "pin": "44",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "43",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "42",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "41",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "40",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "39",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "38",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "37",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "36",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "35",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "34",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "33",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "32",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "31",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "30",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "29",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "28",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "27",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "26",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "25",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "24",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "23",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "22",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "21",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "20",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "19",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "18",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "17",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "16",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "15",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "14",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "13",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "12",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "11",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "10",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "9",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "8",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "7",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "6",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "5",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "4",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "3",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "2",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    },
+    {
+      "pin": "1",
+      "outer": true,
+      "copperMm": [
+        2.7,
+        0.7
+      ],
+      "pasteMm": [
+        2.6,
+        0.6
+      ]
+    }
+  ],
+  "modelsUnchanged": true
+}

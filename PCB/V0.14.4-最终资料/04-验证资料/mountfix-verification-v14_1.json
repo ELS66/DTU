@@ -1,0 +1,369 @@
+{
+  "revision": "V0.14.1",
+  "boardMm": [
+    60,
+    75
+  ],
+  "holesUnchanged": [
+    {
+      "id": "9982aa4c107ef684",
+      "centerMm": [
+        3.9999996199999996,
+        3.9999996199999996
+      ],
+      "diameterMm": 3.20000122
+    },
+    {
+      "id": "0d70a9c92f776e86",
+      "centerMm": [
+        55.99999976,
+        3.9999996199999996
+      ],
+      "diameterMm": 3.20000122
+    },
+    {
+      "id": "9ec8b14342c18542",
+      "centerMm": [
+        3.9999996199999996,
+        71.00000023999999
+      ],
+      "diameterMm": 3.20000122
+    },
+    {
+      "id": "413ae3e3d753ffc4",
+      "centerMm": [
+        55.99999976,
+        71.00000023999999
+      ],
+      "diameterMm": 3.20000122
+    }
+  ],
+  "regionToHoleCenterChecks": [
+    {
+      "hole": "9982aa4c107ef684",
+      "layer": 15,
+      "region": "3b4612da1bf6e5a6",
+      "holeCenterMm": [
+        3.9999996199999996,
+        3.9999996199999996
+      ],
+      "regionCenterMm": [
+        3.9999996199999996,
+        3.9999996199999996
+      ],
+      "centerErrorMm": 0.0,
+      "nominalKeepoutRadiusMm": 3.40000082
+    },
+    {
+      "hole": "9982aa4c107ef684",
+      "layer": 16,
+      "region": "fef06c45565d3870",
+      "holeCenterMm": [
+        3.9999996199999996,
+        3.9999996199999996
+      ],
+      "regionCenterMm": [
+        3.9999996199999996,
+        3.9999996199999996
+      ],
+      "centerErrorMm": 0.0,
+      "nominalKeepoutRadiusMm": 3.40000082
+    },
+    {
+      "hole": "0d70a9c92f776e86",
+      "layer": 15,
+      "region": "68762fd5a7842cae",
+      "holeCenterMm": [
+        55.99999976,
+        3.9999996199999996
+      ],
+      "regionCenterMm": [
+        55.99999976,
+        3.9999996199999996
+      ],
+      "centerErrorMm": 0.0,
+      "nominalKeepoutRadiusMm": 3.4000008199999954
+    },
+    {
+      "hole": "0d70a9c92f776e86",
+      "layer": 16,
+      "region": "73cd9ce2b83126af",
+      "holeCenterMm": [
+        55.99999976,
+        3.9999996199999996
+      ],
+      "regionCenterMm": [
+        55.99999976,
+        3.9999996199999996
+      ],
+      "centerErrorMm": 0.0,
+      "nominalKeepoutRadiusMm": 3.4000008199999954
+    },
+    {
+      "hole": "9ec8b14342c18542",
+      "layer": 15,
+      "region": "c8e96d7ee68279cd",
+      "holeCenterMm": [
+        3.9999996199999996,
+        71.00000023999999
+      ],
+      "regionCenterMm": [
+        3.9999996199999996,
+        71.00000023999999
+      ],
+      "centerErrorMm": 0.0,
+      "nominalKeepoutRadiusMm": 3.40000082
+    },
+    {
+      "hole": "9ec8b14342c18542",
+      "layer": 16,
+      "region": "62575408d463395f",
+      "holeCenterMm": [
+        3.9999996199999996,
+        71.00000023999999
+      ],
+      "regionCenterMm": [
+        3.9999996199999996,
+        71.00000023999999
+      ],
+      "centerErrorMm": 0.0,
+      "nominalKeepoutRadiusMm": 3.40000082
+    },
+    {
+      "hole": "413ae3e3d753ffc4",
+      "layer": 15,
+      "region": "72758fef2315647e",
+      "holeCenterMm": [
+        55.99999976,
+        71.00000023999999
+      ],
+      "regionCenterMm": [
+        55.99999976,
+        71.00000023999999
+      ],
+      "centerErrorMm": 0.0,
+      "nominalKeepoutRadiusMm": 3.4000008199999954
+    },
+    {
+      "hole": "413ae3e3d753ffc4",
+      "layer": 16,
+      "region": "8d71063b2e05d83c",
+      "holeCenterMm": [
+        55.99999976,
+        71.00000023999999
+      ],
+      "regionCenterMm": [
+        55.99999976,
+        71.00000023999999
+      ],
+      "centerErrorMm": 0.0,
+      "nominalKeepoutRadiusMm": 3.4000008199999954
+    }
+  ],
+  "maximumRegionCenterErrorMm": 0.0,
+  "sourceChanges": {
+    "REGION": 4,
+    "POURED": 3
+  },
+  "drilledHoles": 326,
+  "vias": 310,
+  "nativeDrcIssues": 0,
+  "actualFourLayerCopperClearances": [
+    {
+      "layer": "Gerber_TopLayer.GTL",
+      "holeCenterMm": [
+        4.0,
+        4.0
+      ],
+      "centerToCopperMm": 6.350659999999999,
+      "holeWallToCopperMm": 4.7506594999999985
+    },
+    {
+      "layer": "Gerber_TopLayer.GTL",
+      "holeCenterMm": [
+        56.0,
+        4.0
+      ],
+      "centerToCopperMm": 6.350661000000002,
+      "holeWallToCopperMm": 4.750660500000002
+    },
+    {
+      "layer": "Gerber_TopLayer.GTL",
+      "holeCenterMm": [
+        4.0,
+        71.0
+      ],
+      "centerToCopperMm": 5.812470205280523,
+      "holeWallToCopperMm": 4.2124697052805224
+    },
+    {
+      "layer": "Gerber_TopLayer.GTL",
+      "holeCenterMm": [
+        56.0,
+        71.0
+      ],
+      "centerToCopperMm": 7.185876890159232,
+      "holeWallToCopperMm": 5.585876390159232
+    },
+    {
+      "layer": "Gerber_BottomLayer.GBL",
+      "holeCenterMm": [
+        4.0,
+        4.0
+      ],
+      "centerToCopperMm": 14.018271252233125,
+      "holeWallToCopperMm": 12.418270752233125
+    },
+    {
+      "layer": "Gerber_BottomLayer.GBL",
+      "holeCenterMm": [
+        56.0,
+        4.0
+      ],
+      "centerToCopperMm": 8.461370115659214,
+      "holeWallToCopperMm": 6.861369615659214
+    },
+    {
+      "layer": "Gerber_BottomLayer.GBL",
+      "holeCenterMm": [
+        4.0,
+        71.0
+      ],
+      "centerToCopperMm": 5.812470205280523,
+      "holeWallToCopperMm": 4.2124697052805224
+    },
+    {
+      "layer": "Gerber_BottomLayer.GBL",
+      "holeCenterMm": [
+        56.0,
+        71.0
+      ],
+      "centerToCopperMm": 7.768429438908944,
+      "holeWallToCopperMm": 6.168428938908944
+    },
+    {
+      "layer": "Gerber_InnerLayer1.G1",
+      "holeCenterMm": [
+        4.0,
+        4.0
+      ],
+      "centerToCopperMm": 3.3984436775676383,
+      "holeWallToCopperMm": 1.7984431775676384
+    },
+    {
+      "layer": "Gerber_InnerLayer1.G1",
+      "holeCenterMm": [
+        56.0,
+        4.0
+      ],
+      "centerToCopperMm": 3.3984436775688938,
+      "holeWallToCopperMm": 1.7984431775688938
+    },
+    {
+      "layer": "Gerber_InnerLayer1.G1",
+      "holeCenterMm": [
+        4.0,
+        71.0
+      ],
+      "centerToCopperMm": 3.398443677568894,
+      "holeWallToCopperMm": 1.7984431775688943
+    },
+    {
+      "layer": "Gerber_InnerLayer1.G1",
+      "holeCenterMm": [
+        56.0,
+        71.0
+      ],
+      "centerToCopperMm": 3.3984432158615903,
+      "holeWallToCopperMm": 1.7984427158615903
+    },
+    {
+      "layer": "Gerber_InnerLayer2.G2",
+      "holeCenterMm": [
+        4.0,
+        4.0
+      ],
+      "centerToCopperMm": 3.3984436775676374,
+      "holeWallToCopperMm": 1.7984431775676375
+    },
+    {
+      "layer": "Gerber_InnerLayer2.G2",
+      "holeCenterMm": [
+        56.0,
+        4.0
+      ],
+      "centerToCopperMm": 3.3984436775688938,
+      "holeWallToCopperMm": 1.7984431775688938
+    },
+    {
+      "layer": "Gerber_InnerLayer2.G2",
+      "holeCenterMm": [
+        4.0,
+        71.0
+      ],
+      "centerToCopperMm": 3.398443677568894,
+      "holeWallToCopperMm": 1.7984431775688943
+    },
+    {
+      "layer": "Gerber_InnerLayer2.G2",
+      "holeCenterMm": [
+        56.0,
+        71.0
+      ],
+      "centerToCopperMm": 3.398443215861591,
+      "holeWallToCopperMm": 1.7984427158615912
+    }
+  ],
+  "formerTopKeepoutsRefilled": [
+    {
+      "layer": "Gerber_InnerLayer1.G1",
+      "oldKeepoutCenterMm": [
+        4,
+        66
+      ],
+      "oldCenterNowCopperFillFraction": 0.9999999999999997
+    },
+    {
+      "layer": "Gerber_InnerLayer1.G1",
+      "oldKeepoutCenterMm": [
+        56,
+        66
+      ],
+      "oldCenterNowCopperFillFraction": 0.9999999999999999
+    },
+    {
+      "layer": "Gerber_InnerLayer2.G2",
+      "oldKeepoutCenterMm": [
+        4,
+        66
+      ],
+      "oldCenterNowCopperFillFraction": 0.9999999999999997
+    },
+    {
+      "layer": "Gerber_InnerLayer2.G2",
+      "oldKeepoutCenterMm": [
+        56,
+        66
+      ],
+      "oldCenterNowCopperFillFraction": 0.9999999999999999
+    }
+  ],
+  "unchangedProductionFilesByBytes": [
+    "Gerber_TopLayer.GTL",
+    "Gerber_BottomLayer.GBL",
+    "Gerber_TopSilkscreenLayer.GTO",
+    "Gerber_BottomSilkscreenLayer.GBO",
+    "Gerber_TopSolderMaskLayer.GTS",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_TopPasteMaskLayer.GTP",
+    "Gerber_BoardOutlineLayer.GKO",
+    "Drill_PTH_Through.DRL",
+    "Drill_NPTH_Through.DRL"
+  ],
+  "changedProductionFiles": [
+    "Gerber_InnerLayer1.G1",
+    "Gerber_InnerLayer2.G2"
+  ],
+  "schematicComponentsAndRoutedCopperUnchanged": true,
+  "factoryDfmPassed": false
+}

@@ -1,0 +1,3271 @@
+{
+  "source": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-Exposurefix.epro2",
+  "target": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-Silkclean-input.epro2",
+  "removed": [
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e3"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "840c73582da16897",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5d7190c4f33d2b7a",
+      "type": "POLY",
+      "id": "e1"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5d7190c4f33d2b7a",
+      "type": "POLY",
+      "id": "e2"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5d7190c4f33d2b7a",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b708cc6bc1457e36",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b708cc6bc1457e36",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b708cc6bc1457e36",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4573884021b2776e",
+      "type": "POLY",
+      "id": "e1"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4573884021b2776e",
+      "type": "POLY",
+      "id": "e2"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4573884021b2776e",
+      "type": "POLY",
+      "id": "e3"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4573884021b2776e",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4573884021b2776e",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0c60e13ae6df220b",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0c60e13ae6df220b",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0c60e13ae6df220b",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0c60e13ae6df220b",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0c60e13ae6df220b",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0c60e13ae6df220b",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7c352e46c9efb280",
+      "type": "POLY",
+      "id": "e3"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7c352e46c9efb280",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7c352e46c9efb280",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7c352e46c9efb280",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7c352e46c9efb280",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7c352e46c9efb280",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "478c01b1751b81ae",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "478c01b1751b81ae",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "478c01b1751b81ae",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "478c01b1751b81ae",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "478c01b1751b81ae",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e45"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e46"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e47"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e48"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e49"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e50"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e51"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e52"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e53"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e54"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e55"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e56"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e57"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "aa2f5951db85f174",
+      "type": "POLY",
+      "id": "e58"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3f4ad55cbd874e07a56c6a66b44efd36",
+      "type": "POLY",
+      "id": "ie1"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "8a1d11332151852c",
+      "type": "POLY",
+      "id": "e25"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "8a1d11332151852c",
+      "type": "POLY",
+      "id": "e26"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "8a1d11332151852c",
+      "type": "POLY",
+      "id": "e27"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "8a1d11332151852c",
+      "type": "POLY",
+      "id": "e28"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "8a1d11332151852c",
+      "type": "POLY",
+      "id": "e29"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "8a1d11332151852c",
+      "type": "POLY",
+      "id": "e30"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "8a1d11332151852c",
+      "type": "POLY",
+      "id": "e31"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "8a1d11332151852c",
+      "type": "POLY",
+      "id": "e32"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "8a1d11332151852c",
+      "type": "POLY",
+      "id": "e33"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "8a1d11332151852c",
+      "type": "POLY",
+      "id": "e34"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "955ec9a7bb55b786",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "955ec9a7bb55b786",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "955ec9a7bb55b786",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "955ec9a7bb55b786",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "955ec9a7bb55b786",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "955ec9a7bb55b786",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "955ec9a7bb55b786",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "955ec9a7bb55b786",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "58139cf68f6be7bb",
+      "type": "FILL",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "58139cf68f6be7bb",
+      "type": "FILL",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "58139cf68f6be7bb",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "58139cf68f6be7bb",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "58139cf68f6be7bb",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "58139cf68f6be7bb",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "58139cf68f6be7bb",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "c851488574244fb0",
+      "type": "FILL",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "c851488574244fb0",
+      "type": "FILL",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "c851488574244fb0",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "c851488574244fb0",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "c851488574244fb0",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "c851488574244fb0",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "c851488574244fb0",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0f44704471c3041d",
+      "type": "POLY",
+      "id": "e3"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0f44704471c3041d",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0f44704471c3041d",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0f44704471c3041d",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0f44704471c3041d",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0f44704471c3041d",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0f44704471c3041d",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0f44704471c3041d",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "FILL",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "FILL",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "FILL",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "925a436dac61bcd1",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "FILL",
+      "id": "e41"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "FILL",
+      "id": "e42"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e19"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e20"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e21"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e22"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e23"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e24"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e25"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e26"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e27"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e28"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e29"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e30"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e31"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e32"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e33"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e34"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e35"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e36"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e37"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e38"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e39"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "4250270c99b46e1e",
+      "type": "POLY",
+      "id": "e40"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5500c2166aed2731",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5500c2166aed2731",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5500c2166aed2731",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5500c2166aed2731",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5500c2166aed2731",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a9baac6610e0bbc8",
+      "type": "FILL",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a9baac6610e0bbc8",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a9baac6610e0bbc8",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a9baac6610e0bbc8",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a9baac6610e0bbc8",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e19"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e20"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e21"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "57c9f39c589d770b",
+      "type": "POLY",
+      "id": "e22"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "de8f8e16b7d715d4",
+      "type": "POLY",
+      "id": "e35"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "de8f8e16b7d715d4",
+      "type": "POLY",
+      "id": "e36"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "de8f8e16b7d715d4",
+      "type": "POLY",
+      "id": "e37"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "de8f8e16b7d715d4",
+      "type": "POLY",
+      "id": "e38"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "de8f8e16b7d715d4",
+      "type": "POLY",
+      "id": "e39"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "de8f8e16b7d715d4",
+      "type": "POLY",
+      "id": "e40"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "e91083c61b6df582",
+      "type": "POLY",
+      "id": "e46"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "e91083c61b6df582",
+      "type": "POLY",
+      "id": "e47"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "e91083c61b6df582",
+      "type": "POLY",
+      "id": "e48"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "e91083c61b6df582",
+      "type": "POLY",
+      "id": "e49"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "e91083c61b6df582",
+      "type": "POLY",
+      "id": "e50"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "e91083c61b6df582",
+      "type": "POLY",
+      "id": "e51"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "e91083c61b6df582",
+      "type": "POLY",
+      "id": "e52"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "453ef748193a410a",
+      "type": "POLY",
+      "id": "e1"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "453ef748193a410a",
+      "type": "POLY",
+      "id": "e2"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "453ef748193a410a",
+      "type": "POLY",
+      "id": "e3"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "453ef748193a410a",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "e2bacea7d2368792",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "e2bacea7d2368792",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a90bc961f9210b8c",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a90bc961f9210b8c",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a90bc961f9210b8c",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a90bc961f9210b8c",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a90bc961f9210b8c",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cba235f2e94b68ba",
+      "type": "POLY",
+      "id": "e19"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "3986ab884a0f3fda",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e19"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e20"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e21"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e22"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e23"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e24"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e25"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e26"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e27"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e28"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e29"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e30"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e31"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e32"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e33"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e34"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e35"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e36"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e37"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "POLY",
+      "id": "e38"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "STRING",
+      "id": "e39"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "STRING",
+      "id": "e40"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "89b96d197552acf9",
+      "type": "STRING",
+      "id": "e41"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9050f91448e371dd",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9050f91448e371dd",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9050f91448e371dd",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "2e8b2c43ff56c62b",
+      "type": "POLY",
+      "id": "e1"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "2e8b2c43ff56c62b",
+      "type": "POLY",
+      "id": "e2"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "2e8b2c43ff56c62b",
+      "type": "POLY",
+      "id": "e3"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "2e8b2c43ff56c62b",
+      "type": "POLY",
+      "id": "e20"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "2e8b2c43ff56c62b",
+      "type": "POLY",
+      "id": "e21"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "db08dc1af5e31214",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "db08dc1af5e31214",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "db08dc1af5e31214",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "FILL",
+      "id": "e32"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "POLY",
+      "id": "e22"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "POLY",
+      "id": "e23"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "POLY",
+      "id": "e24"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "POLY",
+      "id": "e25"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "POLY",
+      "id": "e26"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "POLY",
+      "id": "e27"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "POLY",
+      "id": "e28"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "POLY",
+      "id": "e29"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "POLY",
+      "id": "e30"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0a5d6c9eab78d3b2",
+      "type": "POLY",
+      "id": "e31"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "913458249ee3be4b",
+      "type": "FILL",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "913458249ee3be4b",
+      "type": "FILL",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "913458249ee3be4b",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "913458249ee3be4b",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "913458249ee3be4b",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "913458249ee3be4b",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "913458249ee3be4b",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9c187b0bb5615188",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9c187b0bb5615188",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9c187b0bb5615188",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9c187b0bb5615188",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9c187b0bb5615188",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9c187b0bb5615188",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "15d1d57e8dcce3ad",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "15d1d57e8dcce3ad",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "15d1d57e8dcce3ad",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "15d1d57e8dcce3ad",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "15d1d57e8dcce3ad",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "15d1d57e8dcce3ad",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "74d690f4cd4aae5c",
+      "type": "POLY",
+      "id": "e3"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "74d690f4cd4aae5c",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e27"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e28"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e29"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e30"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e31"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e32"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e33"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e34"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e35"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e36"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e37"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e38"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e39"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e40"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e41"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e42"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e43"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e44"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e45"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e46"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e47"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e48"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e49"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e50"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e51"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e52"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e53"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e54"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e55"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e56"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e57"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e58"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e59"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e60"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e61"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e62"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e63"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e64"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e65"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "a0d35b9d3425b69a",
+      "type": "POLY",
+      "id": "e66"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "62e3f7e64ea64616",
+      "type": "POLY",
+      "id": "e52"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "62e3f7e64ea64616",
+      "type": "POLY",
+      "id": "e53"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "62e3f7e64ea64616",
+      "type": "POLY",
+      "id": "e54"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "62e3f7e64ea64616",
+      "type": "POLY",
+      "id": "e55"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "62e3f7e64ea64616",
+      "type": "POLY",
+      "id": "e56"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "62e3f7e64ea64616",
+      "type": "POLY",
+      "id": "e57"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e19"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e20"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e21"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e22"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e23"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e24"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e25"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e26"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e27"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e28"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "eba9e2e37e51c32e",
+      "type": "POLY",
+      "id": "e29"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "d40f8c99bd5017e7",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "d40f8c99bd5017e7",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "d40f8c99bd5017e7",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "d40f8c99bd5017e7",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7ee770cbd5586921",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7ee770cbd5586921",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7ee770cbd5586921",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7ee770cbd5586921",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7ee770cbd5586921",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "7ee770cbd5586921",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "1339fe241af8129e",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "1339fe241af8129e",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "1339fe241af8129e",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "1339fe241af8129e",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "1339fe241af8129e",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "1339fe241af8129e",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "1339fe241af8129e",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "1339fe241af8129e",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "1339fe241af8129e",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "1339fe241af8129e",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9a0cc57f814a0900",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9a0cc57f814a0900",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9a0cc57f814a0900",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9a0cc57f814a0900",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9a0cc57f814a0900",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9a0cc57f814a0900",
+      "type": "POLY",
+      "id": "e19"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9a0cc57f814a0900",
+      "type": "POLY",
+      "id": "e20"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9a0cc57f814a0900",
+      "type": "POLY",
+      "id": "e21"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "9a0cc57f814a0900",
+      "type": "POLY",
+      "id": "e22"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0b5678131d2b3584",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0b5678131d2b3584",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0b5678131d2b3584",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0b5678131d2b3584",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0b5678131d2b3584",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0b5678131d2b3584",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0b5678131d2b3584",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0b5678131d2b3584",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0b5678131d2b3584",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "0b5678131d2b3584",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "2abaa57ebfbaccbf",
+      "type": "POLY",
+      "id": "e23"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "2abaa57ebfbaccbf",
+      "type": "POLY",
+      "id": "e24"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "2abaa57ebfbaccbf",
+      "type": "POLY",
+      "id": "e25"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "2abaa57ebfbaccbf",
+      "type": "POLY",
+      "id": "e26"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "38c520764c1557d5",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "38c520764c1557d5",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "38c520764c1557d5",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "38c520764c1557d5",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "38c520764c1557d5",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "38c520764c1557d5",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "38c520764c1557d5",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "38c520764c1557d5",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "38c520764c1557d5",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "38c520764c1557d5",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e28"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e29"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e30"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e31"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e32"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e33"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e34"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e35"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e36"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e37"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e38"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e39"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e40"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e41"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "517a7d51ccbff340",
+      "type": "POLY",
+      "id": "e42"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "FILL",
+      "id": "e22"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "FILL",
+      "id": "e23"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e19"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e20"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "b1308603fa4fe81c",
+      "type": "POLY",
+      "id": "e21"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e1"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e2"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e3"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "51737bb081c7a134",
+      "type": "POLY",
+      "id": "e21"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "d53d4ea611bb6734",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "d53d4ea611bb6734",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "d53d4ea611bb6734",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "d53d4ea611bb6734",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "d53d4ea611bb6734",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e19"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5b7c54c4d2e151a5",
+      "type": "POLY",
+      "id": "e20"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e10"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e11"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e12"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e13"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e14"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e15"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e16"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e17"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e18"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e19"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e20"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e21"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e22"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e23"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e24"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e25"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e26"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "cb56eac13c059c39",
+      "type": "POLY",
+      "id": "e27"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "f7ff11e5e30889e3",
+      "type": "POLY",
+      "id": "e1"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "f7ff11e5e30889e3",
+      "type": "POLY",
+      "id": "e2"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "f7ff11e5e30889e3",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6372238fbac50321",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6372238fbac50321",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6372238fbac50321",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "dab3c53b5da7fcba",
+      "type": "POLY",
+      "id": "e1"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "dab3c53b5da7fcba",
+      "type": "POLY",
+      "id": "e2"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "dab3c53b5da7fcba",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "FILL",
+      "id": "e238"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e223"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e224"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e225"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e226"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e227"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e228"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e229"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e230"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e231"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e232"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e233"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e234"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e235"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e236"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e237"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "6b69a40d60760f97",
+      "type": "POLY",
+      "id": "e239"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5bdcf249575207b0",
+      "type": "POLY",
+      "id": "e1"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5bdcf249575207b0",
+      "type": "POLY",
+      "id": "e2"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "5bdcf249575207b0",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "12fb6d758b0252b5",
+      "type": "POLY",
+      "id": "e4"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "12fb6d758b0252b5",
+      "type": "POLY",
+      "id": "e5"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "12fb6d758b0252b5",
+      "type": "POLY",
+      "id": "e6"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "12fb6d758b0252b5",
+      "type": "POLY",
+      "id": "e7"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "12fb6d758b0252b5",
+      "type": "POLY",
+      "id": "e8"
+    },
+    {
+      "docType": "FOOTPRINT",
+      "document": "12fb6d758b0252b5",
+      "type": "POLY",
+      "id": "e9"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "e2dd453f9bc5e96b"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "ed7214f36b0e25fa"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "cb259874d2a7c6e0"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "f319ab7a00ed9d6d"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "14983fdf84aaa79b"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "4ab3294b365c65cc"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "da0561311b21c7a9"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "09e83efb76be141c"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "3d73f48b2ab92ab8"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "f7c78c781fd04890"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "fe992ae7d5ccdba3"
+    },
+    {
+      "docType": "PCB",
+      "document": "4211128ecf040c100b33238447713203",
+      "type": "STRING",
+      "id": "655d114124b71714"
+    }
+  ],
+  "hiddenAttributeVisibility": [],
+  "keptPCBTextIds": [
+    "11a2348a2a2abbb3",
+    "1c40b1cf5135c2f6",
+    "21fa6d8d887b76eb",
+    "26597142481c5bca",
+    "3b094ed814d9ee1d",
+    "51221ba26a2bbfe8",
+    "5eab927c5d08c175",
+    "62b0edbae000f665",
+    "8fade49b3aaf5333",
+    "af0721377e1b892a",
+    "dda43bdab91500e1",
+    "f149ee9fd7cbc189",
+    "f92d5823211de0ca",
+    "fd940d048c851faf",
+    "fd9e533e11aec707"
+  ],
+  "factoryDfmPassed": false
+}

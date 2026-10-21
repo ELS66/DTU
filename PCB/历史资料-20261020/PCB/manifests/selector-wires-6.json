@@ -1,0 +1,303 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "created": [
+      {
+        "ref": "U9",
+        "pin": "1",
+        "net": "IF_NO_SOURCE",
+        "id": "951a6aff782578be"
+      },
+      {
+        "ref": "U9",
+        "pin": "2",
+        "net": "MODE_CODE0",
+        "id": "34292514c64b967c"
+      },
+      {
+        "ref": "U9",
+        "pin": "3",
+        "net": "MODE_CODE1",
+        "id": "53afbf0a9c3a2276"
+      },
+      {
+        "ref": "U9",
+        "pin": "4",
+        "net": "MODE_TTL_N",
+        "id": "05790ccbd9a08410"
+      },
+      {
+        "ref": "U9",
+        "pin": "5",
+        "net": "MODE232_N",
+        "id": "38ab9f9c2c911fdf"
+      },
+      {
+        "ref": "U9",
+        "pin": "6",
+        "net": "MODE485_N",
+        "id": "510802b774c12cbe"
+      },
+      {
+        "ref": "U9",
+        "pin": "8",
+        "net": "GND",
+        "id": "caccd3b6f7dad5a2"
+      },
+      {
+        "ref": "U9",
+        "pin": "13",
+        "net": "GND",
+        "id": "a5ffa16f3ef6aca9"
+      },
+      {
+        "ref": "U9",
+        "pin": "14",
+        "net": "GND",
+        "id": "5e901a27bd62ef10"
+      },
+      {
+        "ref": "U9",
+        "pin": "15",
+        "net": "VDD_3V3",
+        "id": "599568240698b111"
+      },
+      {
+        "ref": "U9",
+        "pin": "16",
+        "net": "VDD_3V3",
+        "id": "dd042ce66b0e59a9"
+      },
+      {
+        "ref": "Q5",
+        "pin": "1",
+        "net": "Q5_BASE",
+        "id": "cf35ae3a74769769"
+      },
+      {
+        "ref": "Q5",
+        "pin": "3",
+        "net": "485_DE_GATED",
+        "id": "c2f1cff42f9e5b73"
+      },
+      {
+        "ref": "Q5",
+        "pin": "2",
+        "net": "GND",
+        "id": "acc2c1c179751e11"
+      },
+      {
+        "ref": "Q6",
+        "pin": "1",
+        "net": "Q6_BASE",
+        "id": "fe62247b5f301086"
+      },
+      {
+        "ref": "Q6",
+        "pin": "3",
+        "net": "232_FORCEON",
+        "id": "10876698cffef252"
+      },
+      {
+        "ref": "Q6",
+        "pin": "2",
+        "net": "GND",
+        "id": "af4da13e6d49738c"
+      },
+      {
+        "ref": "U13",
+        "pin": "1",
+        "net": "VDD_3V3",
+        "id": "f7c7e5169053acf3"
+      },
+      {
+        "ref": "U13",
+        "pin": "2",
+        "net": "RS485_PRESENT_N",
+        "id": "dae217450d1b0f1b"
+      },
+      {
+        "ref": "U13",
+        "pin": "3",
+        "net": "RS232_PRESENT_N",
+        "id": "db06f773815a24f7"
+      },
+      {
+        "ref": "U13",
+        "pin": "4",
+        "net": "TTL_PRESENT_N",
+        "id": "608dbc1f7fcdc45f"
+      },
+      {
+        "ref": "U13",
+        "pin": "5",
+        "net": "IF_DISABLE",
+        "id": "d6a63066f4f1db15"
+      },
+      {
+        "ref": "U13",
+        "pin": "7",
+        "net": "MODE_CODE1",
+        "id": "64d83b60517a094b"
+      },
+      {
+        "ref": "U13",
+        "pin": "8",
+        "net": "GND",
+        "id": "d6e5ff9b85ca058b"
+      },
+      {
+        "ref": "U13",
+        "pin": "9",
+        "net": "MODE_CODE0",
+        "id": "d99eac6ca0a936ee"
+      },
+      {
+        "ref": "U13",
+        "pin": "10",
+        "net": "VDD_3V3",
+        "id": "32f771179c23511c"
+      },
+      {
+        "ref": "U13",
+        "pin": "11",
+        "net": "VDD_3V3",
+        "id": "5de499eb479ef61f"
+      },
+      {
+        "ref": "U13",
+        "pin": "12",
+        "net": "VDD_3V3",
+        "id": "582f16459ed18ce9"
+      },
+      {
+        "ref": "U13",
+        "pin": "13",
+        "net": "VDD_3V3",
+        "id": "9e55fe4a03cf5158"
+      },
+      {
+        "ref": "U13",
+        "pin": "14",
+        "net": "IF_NO_SOURCE",
+        "id": "f030317822883679"
+      },
+      {
+        "ref": "U13",
+        "pin": "16",
+        "net": "VDD_3V3",
+        "id": "f589eedd2e66e880"
+      },
+      {
+        "ref": "U14",
+        "pin": "6",
+        "net": "RS232_VSENSE",
+        "id": "edd6eb2b2a90888a"
+      },
+      {
+        "ref": "U14",
+        "pin": "7",
+        "net": "RS232_VREF",
+        "id": "e1c9bd6600b9e5a7"
+      },
+      {
+        "ref": "U14",
+        "pin": "12",
+        "net": "GND",
+        "id": "b245eda45fc58f06"
+      },
+      {
+        "ref": "U14",
+        "pin": "1",
+        "net": "RS232_PRESENT_N",
+        "id": "55aba22139ce2224"
+      },
+      {
+        "ref": "U14",
+        "pin": "3",
+        "net": "VDD_3V3",
+        "id": "1463885372a24a4d"
+      },
+      {
+        "ref": "U14",
+        "pin": "2",
+        "net": "TTL_PRESENT_N",
+        "id": "25959a4dc0eb570c"
+      },
+      {
+        "ref": "U14",
+        "pin": "5",
+        "net": "TTL_VREF",
+        "id": "2c2ccc78e4402b69"
+      },
+      {
+        "ref": "U14",
+        "pin": "4",
+        "net": "TTL_VSENSE",
+        "id": "a74d5d9afab14dee"
+      },
+      {
+        "ref": "U14",
+        "pin": "14",
+        "net": "RS485_PRESENT_N",
+        "id": "09359aa990ebdbda"
+      },
+      {
+        "ref": "U14",
+        "pin": "8",
+        "net": "RS485_VSENSE",
+        "id": "337d0c3a5b4f06ba"
+      },
+      {
+        "ref": "U14",
+        "pin": "9",
+        "net": "RS485_VREF",
+        "id": "670ad4df4f8559fd"
+      },
+      {
+        "ref": "U14",
+        "pin": "11",
+        "net": "GND",
+        "id": "6f6e082611bf00ad"
+      },
+      {
+        "ref": "U14",
+        "pin": "10",
+        "net": "RS485_VREF",
+        "id": "eec42007e5dd6625"
+      },
+      {
+        "ref": "C105",
+        "pin": "1",
+        "net": "VDD_3V3",
+        "id": "c198170b6a2bb185"
+      },
+      {
+        "ref": "C105",
+        "pin": "2",
+        "net": "GND",
+        "id": "0ea670f9c7f8f2fe"
+      },
+      {
+        "ref": "Q7",
+        "pin": "1",
+        "net": "Q7_BASE",
+        "id": "12fa5dede368daf6"
+      },
+      {
+        "ref": "Q7",
+        "pin": "3",
+        "net": "IF_DISABLE",
+        "id": "6a355e62c4ba3381"
+      },
+      {
+        "ref": "Q7",
+        "pin": "2",
+        "net": "GND",
+        "id": "6148302f509e2a41"
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

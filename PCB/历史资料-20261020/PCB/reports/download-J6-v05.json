@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "result": {
+    "ref": "J6",
+    "component": {
+      "uuid": "897cf5e303df9ea2",
+      "name": "HDR-M_2.54_1x5P",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+    },
+    "pins": [
+      {
+        "number": "1",
+        "name": "1"
+      },
+      {
+        "number": "2",
+        "name": "2"
+      },
+      {
+        "number": "3",
+        "name": "3"
+      },
+      {
+        "number": "4",
+        "name": "4"
+      },
+      {
+        "number": "5",
+        "name": "5"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

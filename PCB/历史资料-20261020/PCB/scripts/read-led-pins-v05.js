@@ -1,0 +1,1 @@
+const rows=[];await eda.dmt_EditorControl.openDocument("8ecd39430ee2c9d6");for(const c of await eda.sch_PrimitiveComponent.getAll("part"))rows.push({ref:c.getState_Designator(),x:c.getState_X(),y:c.getState_Y(),pins:(await c.getAllPins()).map(q=>({num:q.getState_PinNumber(),x:q.getState_X(),y:q.getState_Y()}))});return rows;

@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "result": {
+    "created": [
+      {
+        "id": "6ad7af48633e01ab",
+        "net": "RS232_RX_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "625bc36c57a6133b",
+        "net": "RS232_TX_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "4609c691dd37ce9e",
+        "net": "RS232_TX_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "99750be6575c3920",
+        "net": "232_TOUT",
+        "kind": "via"
+      },
+      {
+        "id": "507765f02d2f0f7b",
+        "net": "232_TOUT",
+        "kind": "via"
+      },
+      {
+        "id": "5734f88976368655",
+        "net": "ESP_EN",
+        "kind": "via"
+      },
+      {
+        "id": "a9c77c984ea7c854",
+        "net": "ESP_EN",
+        "kind": "via"
+      },
+      {
+        "id": "36e1ed93ac5c2cb9",
+        "net": "LTE_TXD",
+        "kind": "via"
+      },
+      {
+        "id": "ccf5bb9d181310b2",
+        "net": "LTE_TXD",
+        "kind": "via"
+      },
+      {
+        "id": "e26c0e9ef26ca956",
+        "net": "SIM_CLK_M",
+        "kind": "via"
+      },
+      {
+        "id": "c1abd4eff8e28dfc",
+        "net": "SIM_CLK_M",
+        "kind": "via"
+      },
+      {
+        "id": "6912d1a98351b396",
+        "net": "LTE_BOOT_FIXTURE",
+        "kind": "via"
+      },
+      {
+        "id": "631c538bfe6a4bd0",
+        "net": "RS485_B_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "5759cef613f457b2",
+        "net": "RS485_B_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "41d0c30ef8481ded",
+        "net": "RS485_B_EXT",
+        "kind": "via"
+      },
+      {
+        "id": "869f2dc96fcf434d",
+        "net": "RS485_A_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "fe0fe381eb761476",
+        "net": "RS485_A_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "de450f7b8439aa2d",
+        "net": "RS485_A_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "56b08f667e216b7f",
+        "net": "RS485_A_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "a8040fe4edfce536",
+        "net": "RS485_A_EXT",
+        "kind": "route"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "54d14f83-2b26-423e-baa3-d79d6c8a00d6"
+}

@@ -1,0 +1,2 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5')throw Error('Wrong project');await eda.dmt_EditorControl.openDocument('4211128ecf040c100b33238447713203');return {jobs:['DTU_V04_ROUTING_JOB_20261010','DTU_V04_SMALL_ROUTING_20261010_01'].map(k=>({key:k,data:eda.sys_Storage.getExtensionUserConfig(k)})),pours:(await eda.pcb_PrimitivePour.getAll()).length};
+

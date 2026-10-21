@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "result": {
+    "ref": "F3",
+    "component": {
+      "uuid": "65306f9ec54ccea0",
+      "name": "1812L200/16DR",
+      "libraryUuid": "b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5"
+    },
+    "pins": [
+      {
+        "number": "1",
+        "name": "1",
+        "x": 140,
+        "y": 450,
+        "rotation": 180
+      },
+      {
+        "number": "2",
+        "name": "2",
+        "x": 180,
+        "y": 450,
+        "rotation": 0
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

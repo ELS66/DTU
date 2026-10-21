@@ -1,0 +1,2 @@
+from pathlib import Path
+p=Path('PCB');s=(p/'scripts/verify-revision-v05.py').read_text(encoding='utf-8-sig').replace('v05','v06').replace('V0.5','V0.6');s=s[:s.index('erc=json.loads')]+'\nerc=json.loads((p/"reports/schematic-erc-v06.json").read_text(encoding="utf-8-sig"));print([(z["type"],z["rule"],len(z["primitives"])) for z in erc["result"]])\n';(p/'scripts/verify-revision-v06.py').write_text(s,encoding='utf-8')

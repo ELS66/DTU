@@ -1,0 +1,88 @@
+{
+  "revision": "V0.13 丝印精简 2026-10-16",
+  "boardMm": [
+    60,
+    70
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 306,
+  "drilledHoles": 322,
+  "pcbDrcIssues": 0,
+  "schematicWarnings": 18,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261016-before-silk-clean-091601",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-Silkclean.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-Silkclean-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-丝印精简复查包.zip",
+  "actualCopperManifest": "exposure-fixed-actual-routing-v13.json",
+  "actualSourceSnapshot": "silkclean-reopened-source-v13.json",
+  "connectors": {
+    "model": "ZX-HY2.0-4PLT",
+    "supplierPart": "C7429562",
+    "signalFixedRowSpacingMm": 3.0
+  },
+  "factoryDfmPassed": false,
+  "files": [
+    {
+      "file": "DTU-V0.13-60x70-Silkclean.epro2",
+      "bytes": 1129096,
+      "sha256": "3bde65bf5cc9e0d98a8467c99d9799c4d594d2fc3cc587560a8ef26d2afe3f17"
+    },
+    {
+      "file": "DTU-V0.13-60x70-Silkclean-Gerber.zip",
+      "bytes": 143152,
+      "sha256": "8fe67d6c7de70fe7622f573d2c28c31a17d466b31b092a0cf2eaeff3b4f3ff55"
+    },
+    {
+      "file": "DTU-V0.13-Silkclean-BOM-99.csv",
+      "bytes": 3730,
+      "sha256": "bdcac2736e76d6ab56b4ed8c459dcbbcd6d84c36b71f2e1a858672466390ed48"
+    },
+    {
+      "file": "DTU-V0.13-Silkclean-CPL-99-Top.csv",
+      "bytes": 2529,
+      "sha256": "e2e43b1c199efb60f438391cc81e3ada2d6bbbe1fd2ab71d0ee2863b941d5682"
+    },
+    {
+      "file": "V0.13-精简丝印版接口说明.md",
+      "bytes": 1462,
+      "sha256": "db524e63ed7f417b951728162de89d0208e2fc88534e62a40a8381eb8ae9d6c7"
+    },
+    {
+      "file": "V0.13-丝印精简修正记录.md",
+      "bytes": 3062,
+      "sha256": "4a25cdab9ef9a80bcf6fe6902e4f25393b1c1fa37483ecc2f84c7f6eb9901034"
+    },
+    {
+      "file": "DTU-V0.13-Silkclean-README.md",
+      "bytes": 772,
+      "sha256": "5e411baf151874f54ae6ec8ddf05518234d7a226f0f2ba8fa9543b437a608695"
+    }
+  ],
+  "status": "仅保留三组端子文字，待厂家DFM重新检查丝印",
+  "openDfmItems": [
+    "同位号端子碰撞明细待核对",
+    "其余PCB/SMT检查分类待取得",
+    "孔环检查：普通过孔0.125mm触发0.15mm阈值，需核对过孔/插件孔分类及重复统计",
+    "四角安装孔已去除残留铜环，待新Gerber重新运行DFM确认",
+    "阻焊桥：R36/R100 原0.060mm已增至0.180mm，待本版重新运行DFM确认。",
+    "开窗露线4项对应两处GND过孔已移位，实际开窗间距约0.274/0.470mm，待新资料重跑DFM。",
+    "原7项焊盘间距中D10及ESP32四项位置已移位修正；余下D9/C33/LTE_BOOT三项维持既有工艺待确认状态。",
+    "丝印：已仅保留三组端子文字，最小开窗避让约0.289mm，待新资料重跑DFM确认。"
+  ],
+  "padSpacingReview": "D:\\DTU\\PCB\\docs\\V0.13-焊盘距焊盘提示复核记录.md",
+  "downloadHoleAssemblyReview": "D:\\DTU\\PCB\\docs\\V0.13-下载裸孔装配间距复核.md",
+  "dfmDispositionNotes": [
+    "插件焊盘距贴片焊盘21红22黄全部定位至J6/J7；默认裸孔不装不焊，按装配条件不适用；加装排针须重审。"
+  ],
+  "actualPadManifest": "silkclean-pcb-pads-v13.json",
+  "maskBridgeReview": "D:\\DTU\\PCB\\docs\\V0.13-阻焊桥修正记录.md",
+  "openingClearanceReview": "D:\\DTU\\PCB\\docs\\V0.13-开窗露线四项修正记录.md",
+  "projectUuid": "de280d363d1bdc6eb48b4e11624beec0d326c823aa88a60393f490d052ff1c05",
+  "pcbUuid": "4211128ecf040c100b33238447713203",
+  "nativeWorkspaceDirectory": "D:\\DTU\\PCB\\native-Silkclean",
+  "silkscreenReview": "D:\\DTU\\PCB\\docs\\V0.13-丝印精简修正记录.md",
+  "interfaceGuide": "D:\\DTU\\PCB\\docs\\V0.13-精简丝印版接口说明.md"
+}

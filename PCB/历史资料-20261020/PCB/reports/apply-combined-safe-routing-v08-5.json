@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "result": {
+    "ids": [
+      {
+        "kind": "route",
+        "id": "cefcd04926434823"
+      },
+      {
+        "kind": "route",
+        "id": "727b113100ed7889"
+      },
+      {
+        "kind": "route",
+        "id": "aacad800f4fed343"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

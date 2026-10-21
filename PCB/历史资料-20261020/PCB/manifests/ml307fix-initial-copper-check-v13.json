@@ -1,0 +1,446 @@
+{
+  "conflicts": [
+    {
+      "a": "t21",
+      "b": "U2:1",
+      "an": "VDD_4G",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t24",
+      "b": "U2:1",
+      "an": "VDD_4G",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t36",
+      "b": "U2:32",
+      "an": "LTE_RF_FEED",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.126054
+    },
+    {
+      "a": "t36",
+      "b": "R50:1",
+      "an": "LTE_RF_FEED",
+      "bn": "LTE_ANT",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.128002
+    },
+    {
+      "a": "t36",
+      "b": "J5:3",
+      "an": "LTE_RF_FEED",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t37",
+      "b": "U2:32",
+      "an": "LTE_RF_FEED",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t37",
+      "b": "U2:31",
+      "an": "LTE_RF_FEED",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t37",
+      "b": "U2:30",
+      "an": "LTE_RF_FEED",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t147",
+      "b": "U2:29",
+      "an": "GND",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t160",
+      "b": "J5:2",
+      "an": "GND",
+      "bn": "LTE_RF_FEED",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t252",
+      "b": "U2:32",
+      "an": "LTE_RF_FEED",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t252",
+      "b": "U2:31",
+      "an": "LTE_RF_FEED",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t252",
+      "b": "U2:30",
+      "an": "LTE_RF_FEED",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.090645
+    },
+    {
+      "a": "t321",
+      "b": "U2:1",
+      "an": "VDD_4G",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t372",
+      "b": "U2:24",
+      "an": "LTE_USB_DP",
+      "bn": "LTE_VDD_EXT",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.022561
+    },
+    {
+      "a": "t372",
+      "b": "U2:23",
+      "an": "LTE_USB_DP",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.024283
+    },
+    {
+      "a": "t375",
+      "b": "U2:26",
+      "an": "LTE_USB_DM",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.023916
+    },
+    {
+      "a": "t375",
+      "b": "U2:25",
+      "an": "LTE_USB_DM",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.022561
+    },
+    {
+      "a": "t377",
+      "b": "R61:2",
+      "an": "LTE_USB_DP_EXT",
+      "bn": "LTE_USB_DM_EXT",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t419",
+      "b": "t403",
+      "an": "TTL_RX_EXT",
+      "bn": "VDD_3V3",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.151961
+    },
+    {
+      "a": "t420",
+      "b": "t403",
+      "an": "TTL_RX_EXT",
+      "bn": "VDD_3V3",
+      "at": "track",
+      "bt": "track",
+      "distanceMm": 0.151961
+    },
+    {
+      "a": "t456",
+      "b": "U2:95",
+      "an": "LTE_TXD",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t456",
+      "b": "U2:14",
+      "an": "LTE_TXD",
+      "bn": "SIM_VDD",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t456",
+      "b": "U2:15",
+      "an": "LTE_TXD",
+      "bn": "LTE_RESET",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t456",
+      "b": "U2:16",
+      "an": "LTE_TXD",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t456",
+      "b": "U2:17",
+      "an": "LTE_TXD",
+      "bn": "LTE_RXD",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "U2:24",
+      "an": "LED_LTE_G_N",
+      "bn": "LTE_VDD_EXT",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "U2:27",
+      "an": "LED_LTE_G_N",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "C50:1",
+      "an": "LED_LTE_G_N",
+      "bn": "LTE_ANT",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "C50:2",
+      "an": "LED_LTE_G_N",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "U2:26",
+      "an": "LED_LTE_G_N",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "U2:25",
+      "an": "LED_LTE_G_N",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "U2:23",
+      "an": "LED_LTE_G_N",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "C51:2",
+      "an": "LED_LTE_G_N",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "C51:1",
+      "an": "LED_LTE_G_N",
+      "bn": "LTE_RF_FEED",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "R50:2",
+      "an": "LED_LTE_G_N",
+      "bn": "LTE_RF_FEED",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "J5:3",
+      "an": "LED_LTE_G_N",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t460",
+      "b": "J5:1",
+      "an": "LED_LTE_G_N",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t494",
+      "b": "U2:8",
+      "an": "LTE_PWRKEY",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t494",
+      "b": "U2:9",
+      "an": "LTE_PWRKEY",
+      "bn": "",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t494",
+      "b": "U2:13",
+      "an": "LTE_PWRKEY",
+      "bn": "SIM_CLK_M",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t494",
+      "b": "U2:11",
+      "an": "LTE_PWRKEY",
+      "bn": "SIM_DATA_M",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t494",
+      "b": "U2:10",
+      "an": "LTE_PWRKEY",
+      "bn": "GND",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t494",
+      "b": "U2:12",
+      "an": "LTE_PWRKEY",
+      "bn": "SIM_RST_M",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "t500",
+      "b": "U2:13",
+      "an": "LTE_PWRKEY",
+      "bn": "SIM_CLK_M",
+      "at": "track",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "v2",
+      "b": "U2:1",
+      "an": "VDD_4G",
+      "bn": "GND",
+      "at": "via",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "v95",
+      "b": "J5:2",
+      "an": "GND",
+      "bn": "LTE_RF_FEED",
+      "at": "via",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "v240",
+      "b": "U2:23",
+      "an": "LTE_USB_DP",
+      "bn": "",
+      "at": "via",
+      "bt": "pad",
+      "distanceMm": 0.0
+    },
+    {
+      "a": "v242",
+      "b": "U2:26",
+      "an": "LTE_USB_DM",
+      "bn": "",
+      "at": "via",
+      "bt": "pad",
+      "distanceMm": 0.0
+    }
+  ],
+  "minimumClearanceMm": 0.0
+}

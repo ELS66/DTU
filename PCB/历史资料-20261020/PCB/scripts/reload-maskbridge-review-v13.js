@@ -1,0 +1,1 @@
+const d=await eda.dmt_SelectControl.getCurrentDocumentInfo();if(d?.uuid!=='4211128ecf040c100b33238447713203')throw Error('Wrong PCB');if(!await eda.dmt_EditorControl.closeDocument(d.tabId))throw Error('Close failed');const tab=await eda.dmt_EditorControl.openDocument(d.uuid);if(!tab)throw Error('Reopen failed');return {tab};

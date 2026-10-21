@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "result": {
+    "SN74LVC1T45DCKR": [
+      {
+        "name": "SN74LVC1T45DCKR",
+        "uuid": "15713d554a62483087311b97659bdc17",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C9382",
+        "footprint": "SC-70-6_L2.2-W1.3-P0.65-LS2.2-BR"
+      },
+      {
+        "name": "SN74LVC1T45DCKRE4",
+        "uuid": "65ed5b4c37684338a66bd2a39c66a754",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C2677585",
+        "footprint": "SC-70-6_L2.0-W1.3-P0.65-LS2.1-BR"
+      },
+      {
+        "name": "SN74LVC1T45DCKRG4",
+        "uuid": "108473d89d1e4666ab88a78e84db08c0",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C2677601",
+        "footprint": "SC-70-6_L2.0-W1.3-P0.65-LS2.1-BL"
+      }
+    ],
+    "SN74LVC1T45DBVR": [
+      {
+        "name": "SN74LVC1T45DBVR",
+        "uuid": "c908c6b4db5b4b69917fc22fb87ed11d",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C7843",
+        "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+      },
+      {
+        "name": "SN74LVC1T45DBVRG4",
+        "uuid": "f3e24e1dacec4723bdcf47e5058d99c7",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C2677464",
+        "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-TL"
+      },
+      {
+        "name": "SN74LVC1T45DBVRE4",
+        "uuid": "9184a4ee9f2a4c58bb262efaf87f7512",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C4364049",
+        "footprint": "SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+      }
+    ]
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

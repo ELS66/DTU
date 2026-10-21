@@ -1,0 +1,1 @@
+return {tab:await eda.lib_Footprint.openInEditor('6b69a40d60760f97','af4a432d532a9999af22a410a267b35df6e20915bf20a6845a73d9b25bcae32e')};

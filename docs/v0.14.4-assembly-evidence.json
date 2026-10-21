@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-20",
+  "revision": "V0.14.4",
+  "pdf": {
+    "path": "output/pdf/DTU-V0.14.4-焊接注意与首板上电检查.pdf",
+    "pages": 7,
+    "bytes": 180729,
+    "sha256": "1416eed9f566c47a8a1ae4a0f2b494a45253660d51f815ca6d4fccc61f49b104",
+    "renderedAllPagesAndVisuallyReviewed": true,
+    "externalLinkAnnotations": 6
+  },
+  "sourceComponentCount": 104,
+  "assemblyBomRows": 99,
+  "unfittedAndFixtureRefs": [
+    "C50",
+    "C51",
+    "J6",
+    "J7",
+    "R32"
+  ],
+  "verifiedCriticalPadNets": {
+    "U4": {
+      "1": "LTE_FB",
+      "2": "VIN_PROT",
+      "3": "VIN_PROT",
+      "4": "GND",
+      "5": "LTE_SW",
+      "6": "LTE_BST"
+    },
+    "U5": {
+      "1": "VDD_3V3",
+      "2": "MCU_LDO_FB",
+      "3": "GND",
+      "4": "VDD_4G",
+      "5": "",
+      "6": "VDD_4G",
+      "7": "GND"
+    },
+    "D1": {
+      "1": "VIN_DIODE",
+      "2": "VIN_IN"
+    },
+    "D4": {
+      "1": "VIN_PROT",
+      "2": "GND"
+    },
+    "C80": {
+      "1": "VDD_4G",
+      "2": "GND"
+    },
+    "C85": {
+      "1": "VDD_4G",
+      "2": "GND"
+    },
+    "L1": {
+      "1": "LTE_SW",
+      "2": "VDD_4G"
+    },
+    "C93": {
+      "1": "VDD_4G",
+      "2": "GND"
+    },
+    "C98": {
+      "1": "VDD_3V3",
+      "2": "GND"
+    },
+    "J3": {
+      "1": "VIN_IN",
+      "2": "TTL_TX_EXT",
+      "3": "TTL_RX_EXT",
+      "4": "GND"
+    },
+    "J6": {
+      "1": "GND",
+      "2": "ESP_USB_DP_EXT",
+      "3": "ESP_USB_DM_EXT",
+      "4": "ESP_EN",
+      "5": "ESP_BOOT"
+    },
+    "J7": {
+      "1": "GND",
+      "2": "LTE_USB_DP_EXT",
+      "3": "LTE_USB_DM_EXT",
+      "4": "LTE_USB_VBUS",
+      "5": "LTE_BOOT_FIXTURE"
+    }
+  },
+  "manufacturingSourceHashesMatchExistingEvidence": true,
+  "sources": [
+    {
+      "path": "PCB/V0.14.4-最终资料/01-工程/DTU-V0.14.4-60x75-Threefix.epro2",
+      "sha256": "c7fd07146529cdc6437af6e476bad6b38e693a99d02bfccb43af3703d498230d"
+    },
+    {
+      "path": "PCB/V0.14.4-最终资料/04-验证资料/threefix-reopened-source-v14_4.json",
+      "sha256": "9da2ebee90667fc4a9591edd64dcd17ff112d06be71e97bd6ecf9b17f8495c20"
+    },
+    {
+      "path": "PCB/V0.14.4-最终资料/02-制造基准/DTU-V0.14.4-Threefix-BOM-99.csv",
+      "sha256": "c4fd439494df391c8042dc4a40db50a27435549c28092bc80ec0177eaa85272a"
+    },
+    {
+      "path": "PCB/V0.14.4-最终资料/02-制造基准/DTU-V0.14.4-Threefix-CPL-99-Top.csv",
+      "sha256": "31574f15d74a1d1a54a2690feefde08f934454f7bfaf89d4672b1d470842205a"
+    },
+    {
+      "path": "PCB/V0.14.4-最终资料/03-本次采购/采购核对记录-更新BOM前.md",
+      "sha256": "3fa22aa5053d30c38388af632a3a68b9510a03e580b08fb8a388d1384813d4d5"
+    },
+    {
+      "path": "PCB/V0.14.4-最终资料/04-验证资料/V0.14.4-天线座与电阻阵列复核记录.md",
+      "sha256": "813838ddc1358e90f288b077fa42882a81a0303016dfc365434c91c056ee3070"
+    },
+    {
+      "path": "docs/v0.14.4-assembly-checklist.md",
+      "sha256": "38d1aa8584acebe2ceb8bc94d77f8f8a0f462a00d6f8704d780243f280520bf2"
+    }
+  ],
+  "benchRecommendations": {
+    "powerOnlyInitialInputV": 9,
+    "powerOnlyInitialCurrentLimitMa": [
+      50,
+      100
+    ],
+    "railTargetsCalculatedV": {
+      "VDD_4G": 3.8,
+      "VDD_3V3": 3.3
+    },
+    "targetsMeasured": false
+  },
+  "firmwareFrozenVersion": "0.7.0-dev",
+  "firmwareSourcesMatchLastMilestone": true,
+  "pcbOrManufacturingDataEdited": false,
+  "physicalSolderingOrPowerTestsPerformed": false,
+  "partSubstitutionsPhysicallyValidated": false
+}

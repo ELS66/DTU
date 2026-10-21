@@ -1,0 +1,51 @@
+{
+  "PCB_DRC": 0,
+  "factoryDfmPassed": false,
+  "nativeCopperMatchesPlan": true,
+  "schematicAndPinNetsUnchanged": true,
+  "changedPCBSourceTypes": {
+    "POLY": 95,
+    "VIA": 16,
+    "ATTR": 6,
+    "COMPONENT": 6,
+    "POURED": 3
+  },
+  "changedFootprintTypes": {
+    "PAD": 109,
+    "FILL": 109,
+    "META": 1,
+    "ATTR": 1
+  },
+  "normalizedImportMetadataCount": 1,
+  "footprintMaster": "6b69a40d60760f97",
+  "footprintName": "DTU_ML307R_DL_LCC48_LGA61_OFFICIAL_V1_0_1",
+  "outerPadCount": 48,
+  "outerPadMm": [
+    2.6,
+    0.6
+  ],
+  "outerRadiusMm": 0.3,
+  "innerPadCount": 61,
+  "physicalLeadModelsChecked": 109,
+  "modelExactlyMatchesReconstructedManufacturerNominalDimensions": true,
+  "componentCount": 104,
+  "defaultAssemblyCount": 99,
+  "movedComponents": [
+    "J5",
+    "R50",
+    "R60",
+    "R61",
+    "C50",
+    "C51"
+  ],
+  "movedPopulatedPlacements": [
+    "R60",
+    "R61",
+    "J5",
+    "R50"
+  ],
+  "movedVias": 14,
+  "newVias": 2,
+  "viaCount": 308,
+  "routeCount": 508
+}

@@ -1,0 +1,185 @@
+{
+  "success": true,
+  "result": {
+    "TestPoint": [
+      {
+        "name": "TP-黄色测试点",
+        "uuid": "a0e59b8855a7442383da6e1a35112e6f",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C9900007422",
+        "footprint": "TESTPOINT-TH_BD3.2"
+      },
+      {
+        "name": "TP-橘色测试点",
+        "uuid": "aac021dbee864bb48c4dc094a4468c69",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C9900007421",
+        "footprint": "TESTPOINT-TH_BD3.2"
+      },
+      {
+        "name": "TP-红色测试点",
+        "uuid": "17b5ed105c5b4fe180eee3ffb4702963",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C9900007423",
+        "footprint": "TESTPOINT-TH_BD3.2"
+      },
+      {
+        "name": "5017",
+        "uuid": "5efe5c8360b84e79a82de77125ef19b0",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C9900015874",
+        "footprint": "CONN-SMD_5017"
+      },
+      {
+        "name": "TP-黑色测试点",
+        "uuid": "cf8b789614c04ee491fd17b89f81a8ab",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C9900007426",
+        "footprint": "TESTPOINT-TH_BD3.2"
+      }
+    ],
+    "TP_1.0": [],
+    "TPS259470": [
+      {
+        "name": "TPS259470LRPWR",
+        "uuid": "57e4d9388c4f499e8eb0b640dfb6bdf9",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C3662793",
+        "footprint": "VQFN-10_L2.0-W2.0-P0.45-TL"
+      },
+      {
+        "name": "TPS259470ARPWR",
+        "uuid": "676a12fadece41eb8224bb38360970ca",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C3662799",
+        "footprint": "VQFN-10_L2.0-W2.0-P0.45-TL"
+      }
+    ],
+    "TPS25947": [
+      {
+        "name": "TPS259472ARPWR",
+        "uuid": "5c9b3a214e6245c09476f8ee3ab242e4",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C3662789",
+        "footprint": "VQFN-10_L2.0-W2.0-P0.45-TL"
+      },
+      {
+        "name": "TPS259470ARPWR",
+        "uuid": "676a12fadece41eb8224bb38360970ca",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C3662799",
+        "footprint": "VQFN-10_L2.0-W2.0-P0.45-TL"
+      },
+      {
+        "name": "TPS259470LRPWR",
+        "uuid": "57e4d9388c4f499e8eb0b640dfb6bdf9",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C3662793",
+        "footprint": "VQFN-10_L2.0-W2.0-P0.45-TL"
+      },
+      {
+        "name": "TPS259474ARPWR",
+        "uuid": "1800965333c341c483e08865627e37dc",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C3662807",
+        "footprint": "VQFN-10_L2.0-W2.0-P0.45-TL"
+      },
+      {
+        "name": "TPS259472LRPWR",
+        "uuid": "f3f6a353e42446f3a7f5499c0b93d09a",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C2870148",
+        "footprint": "VQFN-10_L2.0-W2.0-P0.45-TL"
+      }
+    ],
+    "0603WAF0000T5E": [
+      {
+        "name": "0603WAF0000T5E",
+        "uuid": "fc38f436091b49a696be03a7955956ed",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C21189",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF220JT5E": [
+      {
+        "name": "0603WAF220JT5E",
+        "uuid": "dc350a4449fc446cb76492694e54aa4c",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C23345",
+        "footprint": "R0603"
+      },
+      {
+        "name": "0603WAF220JT5E_1",
+        "uuid": "3e40bdb806924055bf78cd114c0bae25",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C9900170142",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF4992T5E": [
+      {
+        "name": "0603WAF4992T5E",
+        "uuid": "d46e1a2a46a44d09ae11d130e51bc9a8",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C23184",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF3163T5E": [
+      {
+        "name": "0603WAF3163T5E",
+        "uuid": "75099516b8c047b193c5174e97bd505a",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C25814",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF1214T5E": [
+      {
+        "name": "0603WAF1214T5E",
+        "uuid": "3cd2b6c65daf473b9fe6eab6b4a6f794",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C422998",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF7502T5E": [
+      {
+        "name": "0603WAF7502T5E",
+        "uuid": "e86db94ff6f44d6ba8f8680283c9c5e0",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C23242",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF2002T5E": [
+      {
+        "name": "0603WAF2002T5E",
+        "uuid": "2f6a23c7c5254d3a93d32faca978f2a0",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C4184",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF6203T5E": [
+      {
+        "name": "0603WAF6203T5E",
+        "uuid": "b3b52be02e374788a99987f69d36b15d",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C23219",
+        "footprint": "R0603"
+      }
+    ],
+    "0603WAF2003T5E": [
+      {
+        "name": "0603WAF2003T5E",
+        "uuid": "8492e9c42c704af98a070b91ba967cca",
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "supplierId": "C25811",
+        "footprint": "R0603"
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

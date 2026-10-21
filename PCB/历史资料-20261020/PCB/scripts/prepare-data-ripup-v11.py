@@ -1,0 +1,4 @@
+import json
+from pathlib import Path
+p=Path('PCB');d=json.loads((p/'manifests/routing-interface-v11.json').read_text(encoding='utf-8-sig'))['result'];nets=['FIELD_TX','232_TOUT','232_RIN','232_RX_RAW','485_RX_RAW'];sel={k:[t['id'] for t in d[k] if t['net'] in nets] for k in ['lines','polys','vias']};print({k:len(v) for k,v in sel.items()});code='if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");const specs='+json.dumps(sel)+';for(const [k,a] of [["lines",eda.pcb_PrimitiveLine],["polys",eda.pcb_PrimitivePolyline],["vias",eda.pcb_PrimitiveVia]])if(specs[k].length&&!await a.delete(specs[k]))throw Error("Reroute failed");return {specs,saved:await eda.pcb_Document.save()};';(p/'scripts/open-data-routing-v11.js').write_text(code)
+

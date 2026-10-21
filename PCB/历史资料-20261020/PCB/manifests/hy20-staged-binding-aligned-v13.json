@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "result": {
+    "before": {
+      "uuid": "80c4e7847cda6643",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "CONN-SMD_4P-P2.00_HY2.0-4P"
+    },
+    "after": {
+      "uuid": "00972aaf978d8a12"
+    }
+  },
+  "windowId": "490674b5-0a0c-4091-99f8-25ad4dc56709"
+}

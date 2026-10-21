@@ -1,0 +1,50 @@
+{
+  "PCB_DRC": 0,
+  "factoryDfmPassed": false,
+  "reopenedNativeSourceVerified": true,
+  "keptTextObjects": 15,
+  "keptTerminalNames": [
+    "RS485",
+    "RS232",
+    "UART"
+  ],
+  "keptPinLabels": [
+    "P A B G",
+    "P T R G",
+    "P T R G"
+  ],
+  "nominalTextSizeMm": 1.8,
+  "strokeWidthMm": 0.15,
+  "textMoveYmm": -0.2,
+  "silkToMaskMinimumGapMm": 0.2890920000000001,
+  "geometryComparisonToleranceMm": 1e-05,
+  "unchangedProductionNonSilkFilesByBytes": [
+    "Gerber_TopLayer.GTL",
+    "Gerber_BottomLayer.GBL",
+    "Gerber_InnerLayer1.G1",
+    "Gerber_InnerLayer2.G2",
+    "Gerber_TopSolderMaskLayer.GTS",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_TopPasteMaskLayer.GTP",
+    "Gerber_BoardOutlineLayer.GKO",
+    "Drill_PTH_Through.DRL",
+    "Drill_NPTH_Through.DRL"
+  ],
+  "nativeNonSilkGeometryCompared": [
+    "Gerber_TopLayer.GTL",
+    "Gerber_BottomLayer.GBL",
+    "Gerber_InnerLayer1.G1",
+    "Gerber_InnerLayer2.G2",
+    "Gerber_TopSolderMaskLayer.GTS",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_TopPasteMaskLayer.GTP",
+    "Gerber_BoardOutlineLayer.GKO"
+  ],
+  "componentAndPadGeometryUnchanged": true,
+  "BOMandCPLUnchanged": true,
+  "normalizedImportMetadataCount": 152,
+  "removedFootprintGraphics": 529,
+  "removedDownloadTextObjects": 12,
+  "newProjectUuid": "de280d363d1bdc6eb48b4e11624beec0d326c823aa88a60393f490d052ff1c05",
+  "PCB": "4211128ecf040c100b33238447713203"
+}

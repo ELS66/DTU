@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "result": {
+    "name": "LM339BIPWR",
+    "libraryType": "2",
+    "uuid": "9b6d316db0d64a2daf03e7a80bd7b553",
+    "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+    "classification": [
+      "运算放大器/比较器",
+      "比较器"
+    ],
+    "type": 2,
+    "description": "",
+    "subPartNames": [
+      "LM339BIPWR.1",
+      "LM339BIPWR.2",
+      "LM339BIPWR.3",
+      "LM339BIPWR.4"
+    ],
+    "otherProperty": {
+      "Add into BOM": "yes",
+      "Convert to PCB": "yes",
+      "PCB Layer": "Default"
+    }
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

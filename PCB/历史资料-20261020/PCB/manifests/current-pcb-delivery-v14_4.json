@@ -1,0 +1,64 @@
+{
+  "revision": "V0.14.4 天线座与电阻阵列复核 2026-10-16",
+  "boardMm": [
+    60,
+    75
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 310,
+  "drilledHoles": 326,
+  "pcbDrcIssues": 0,
+  "factoryDfmPassed": false,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261016-before-antenna-array-fix-162422",
+  "projectUuid": "ba912ce2dfad253c22e034fef383544af50374bc5b74a7f6f0299caf191a7a67",
+  "pcbUuid": "4211128ecf040c100b33238447713203",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.14.4-60x75-Threefix.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.14.4-60x75-Threefix-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.14.4-60x75-天线座与电阻阵列复查包.zip",
+  "actualCopperManifest": "threefix-actual-routing-v14_4.json",
+  "actualSourceSnapshot": "threefix-reopened-source-v14_4.json",
+  "files": [
+    {
+      "file": "DTU-V0.14.4-60x75-Threefix.epro2",
+      "bytes": 1256920,
+      "sha256": "c7fd07146529cdc6437af6e476bad6b38e693a99d02bfccb43af3703d498230d"
+    },
+    {
+      "file": "DTU-V0.14.4-60x75-Threefix-Gerber.zip",
+      "bytes": 268238,
+      "sha256": "958c661a41de5aa154ccaea0e75e53448a08dbaf25f8135e45bc9ce9d7d00206"
+    },
+    {
+      "file": "DTU-V0.14.4-Threefix-BOM-99.csv",
+      "bytes": 3735,
+      "sha256": "c4fd439494df391c8042dc4a40db50a27435549c28092bc80ec0177eaa85272a"
+    },
+    {
+      "file": "DTU-V0.14.4-Threefix-CPL-99-Top.csv",
+      "bytes": 2343,
+      "sha256": "31574f15d74a1d1a54a2690feefde08f934454f7bfaf89d4672b1d470842205a"
+    },
+    {
+      "file": "DTU-V0.14.4-Threefix-README.md",
+      "bytes": 1091,
+      "sha256": "2713782a67e88c70acbbb73a5b370879a8acc360d88be45a56a3aa46d4bd974c"
+    },
+    {
+      "file": "V0.14.4-天线座与电阻阵列复核记录.md",
+      "bytes": 2626,
+      "sha256": "813838ddc1358e90f288b077fa42882a81a0303016dfc365434c91c056ee3070"
+    },
+    {
+      "file": "DTU-V0.14.4-Threefix-before-after.png",
+      "bytes": 21560,
+      "sha256": "fc074111bfe20d3c808b9bb3674cc7cd8434521bf9dae72dca5ab0a30db2ccdb"
+    }
+  ],
+  "mountKeepoutVerification": "mountfix-verification-v14_1.json",
+  "pinLandVerification": "threefix-verification-v14_4.json",
+  "J5ManufacturerReview": "threefix-J5-manufacturer-review-v14_4.json",
+  "U2AssemblyStillRequired": true
+}

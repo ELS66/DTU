@@ -1,0 +1,162 @@
+{
+  "status": "PROPOSAL_NOT_APPLIED",
+  "date": "2026-10-14",
+  "basePartCount": 159,
+  "baseAssemblyCount": 154,
+  "proposedPartCount": 116,
+  "proposedAssemblyCount": 111,
+  "reduction": 43,
+  "groups": [
+    {
+      "name": "删除三个下载按键",
+      "remove": [
+        "SW2",
+        "SW3",
+        "SW4"
+      ],
+      "add": [],
+      "reduction": 3
+    },
+    {
+      "name": "LTE串口双向转换合并",
+      "remove": [
+        "U10",
+        "U13",
+        "C70",
+        "C71",
+        "C72",
+        "C73"
+      ],
+      "add": [
+        "U10",
+        "C70",
+        "C71"
+      ],
+      "reduction": 3
+    },
+    {
+      "name": "8个LED限流电阻合并为2颗四联排阻",
+      "remove": [
+        "R140",
+        "R141",
+        "R142",
+        "R143",
+        "R144",
+        "R145",
+        "R146",
+        "R147"
+      ],
+      "add": [
+        "RN1",
+        "RN2"
+      ],
+      "reduction": 6
+    },
+    {
+      "name": "ESP上拉合并并补足GPIO7上电电平",
+      "remove": [
+        "R10",
+        "R11",
+        "R13"
+      ],
+      "add": [
+        "RN3"
+      ],
+      "reduction": 2
+    },
+    {
+      "name": "LTE控制和UART四个100k电阻合并",
+      "remove": [
+        "R71",
+        "R73",
+        "R77",
+        "R82"
+      ],
+      "add": [
+        "RN4"
+      ],
+      "reduction": 3
+    },
+    {
+      "name": "SIM三路22欧姆串联电阻合并",
+      "remove": [
+        "R51",
+        "R52",
+        "R53"
+      ],
+      "add": [
+        "RN5"
+      ],
+      "reduction": 2
+    },
+    {
+      "name": "USB单通道ESD合并成双通道",
+      "remove": [
+        "D18",
+        "D19",
+        "D20",
+        "D21"
+      ],
+      "add": [
+        "D18",
+        "D20"
+      ],
+      "reduction": 2
+    },
+    {
+      "name": "基础电源保护和公共保险丝",
+      "remove": [
+        "U3",
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5",
+        "R6",
+        "C4",
+        "F2",
+        "F3",
+        "C3"
+      ],
+      "add": [],
+      "reduction": 11
+    },
+    {
+      "name": "UART改为3.3V发送，RX保留5V容忍",
+      "remove": [
+        "U8",
+        "U11",
+        "D14",
+        "L3",
+        "R92",
+        "R93",
+        "C107",
+        "C108",
+        "C109",
+        "C36",
+        "C37"
+      ],
+      "add": [],
+      "reduction": 11
+    }
+  ],
+  "constraints": {
+    "assembly": "all top",
+    "copperLayers": 4,
+    "boardTargetMm": [
+      50,
+      60
+    ],
+    "indicators": 8,
+    "powerProtection": "basic",
+    "uartTX": "3.3V",
+    "uartRX": "accepts3.3Vand5V",
+    "powerInput": "5-12V retained in proposal; reference-board input not confirmed"
+  },
+  "powerArchitecture": "two independent bucks retained; shared buck plus LDO not accepted into proposal",
+  "candidateSources": [
+    "https://www.ti.com/lit/ds/symlink/txu0202.pdf",
+    "https://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf",
+    "https://www.bourns.com/data/global/pdfs/CATCAY.pdf"
+  ]
+}

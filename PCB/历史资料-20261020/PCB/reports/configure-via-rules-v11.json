@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "result": {
+    "before": {
+      "viaOuterdiameterMin": 0.49999899999999997,
+      "viaOuterdiameterMax": 2.00000108,
+      "viaOuterdiameterDefault": 0.5999987999999999,
+      "viaInnerdiameterMin": 0.25000204,
+      "viaInnerdiameterMax": 1.1999975999999999,
+      "viaInnerdiameterDefault": 0.29999939999999997
+    },
+    "after": {
+      "viaOuterdiameterMin": 0.45,
+      "viaOuterdiameterMax": 2.00000108,
+      "viaOuterdiameterDefault": 0.5999987999999999,
+      "viaInnerdiameterMin": 0.2,
+      "viaInnerdiameterMax": 1.1999975999999999,
+      "viaInnerdiameterDefault": 0.29999939999999997
+    },
+    "saved": true
+  },
+  "windowId": "b1faecb9-4fd3-42fc-a7ba-9730a347bfe6"
+}

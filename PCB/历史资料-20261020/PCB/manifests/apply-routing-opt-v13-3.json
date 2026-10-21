@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "result": {
+    "created": [
+      {
+        "id": "5fbe6a0c32ae5bbf",
+        "net": "RS485_A_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "40d9775a72775b49",
+        "net": "RS485_A_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "4f0dc7f376cfde7f",
+        "net": "RS485_A_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "a640bba8edf5260b",
+        "net": "RS485_A_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "d5fa68b8dc4a0d51",
+        "net": "TTL_RX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "30030a03d14c6cea",
+        "net": "TTL_RX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "011d24ccf14ede9a",
+        "net": "TTL_RX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "d3491a9d092d4fab",
+        "net": "TTL_RX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "01760afcf6b9fdf3",
+        "net": "SIM_RST_M",
+        "kind": "route"
+      },
+      {
+        "id": "0433209466e010e3",
+        "net": "SIM_RST_M",
+        "kind": "route"
+      },
+      {
+        "id": "9cc3afa448542ab2",
+        "net": "SIM_RST_M",
+        "kind": "route"
+      },
+      {
+        "id": "5aecaa9617646161",
+        "net": "TTL_TX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "5c2f99ccf75bfd69",
+        "net": "TTL_TX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "9de8dc866120ca77",
+        "net": "TTL_TX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "d5d9af22c4b16f97",
+        "net": "TTL_TX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "41c711612aa6769c",
+        "net": "TTL_TX_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "01fc9abed6451402",
+        "net": "485_RX_RAW",
+        "kind": "route"
+      },
+      {
+        "id": "8f85e6aa7cbb3f0e",
+        "net": "485_RX_RAW",
+        "kind": "route"
+      },
+      {
+        "id": "188a0564f845bf33",
+        "net": "485_RX_RAW",
+        "kind": "route"
+      },
+      {
+        "id": "a01120004d9616bd",
+        "net": "485_RX_RAW",
+        "kind": "route"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "54d14f83-2b26-423e-baa3-d79d6c8a00d6"
+}

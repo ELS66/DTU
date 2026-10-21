@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "result": [
+    {
+      "uuid": "35c275151bd5494abe76b9ca2e0da6bf",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "74AXP4T245BQX",
+      "footprint": "DHVQFN-16_L3.5-W2.5-P0.50-BL-EP",
+      "supplierId": "C546417"
+    },
+    {
+      "uuid": "b6ad983f42e34457abaa7305fbb3e454",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "name": "74AXP4T245PWJ",
+      "footprint": "TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL",
+      "supplierId": "C546418"
+    }
+  ],
+  "windowId": "8b5d94cc-0e2a-429a-8b5f-a64207bef6f6"
+}

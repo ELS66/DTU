@@ -1,0 +1,104 @@
+{
+  "success": true,
+  "result": {
+    "project": "fd71bf4d415315427fd7a027a4dd7e0a77d66de0d184ebd89693182b3f596907",
+    "name": "DTU-V0.12-ML307R-DL-60x70",
+    "document": "4211128ecf040c100b33238447713203",
+    "board": {
+      "pcb": {
+        "itemType": "PCB",
+        "uuid": "4211128ecf040c100b33238447713203",
+        "name": "DTU_V0.12_60x70",
+        "parentProjectUuid": "fd71bf4d415315427fd7a027a4dd7e0a77d66de0d184ebd89693182b3f596907",
+        "parentBoardName": "DTU_V0.12_60x70"
+      },
+      "uuid": "e7a0217c7788eb0d",
+      "name": "DTU_V0.12_60x70",
+      "zIndex": 1,
+      "schematic": {
+        "itemType": "Schematic",
+        "uuid": "5a91bce448072d09",
+        "page": [
+          {
+            "itemType": "Schematic Page",
+            "uuid": "ac9947f0c683b3f5",
+            "name": "01_Power_Protection",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "905678d5aaed7ed3",
+            "name": "02_ESP32_C5",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "a8fcac05b0a49c52",
+            "name": "03_ML307R_DL",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "8c8a42c355c95b77",
+            "name": "04_SIM_RF",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "31c8ed08a1998d0d",
+            "name": "05_Field_Interfaces",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "8902a3019bd8d84c",
+            "name": "06_Receive_Merge",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "2eb77bba50a14eab",
+            "name": "07_LTE_Control",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "61de9aff546f5073",
+            "name": "08_Power_Rails",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          },
+          {
+            "itemType": "Schematic Page",
+            "uuid": "8ecd39430ee2c9d6",
+            "name": "09_LED_Indicators",
+            "parentSchematicUuid": "5a91bce448072d09",
+            "showTitleBlock": true,
+            "titleBlockData": {}
+          }
+        ],
+        "parentProjectUuid": "fd71bf4d415315427fd7a027a4dd7e0a77d66de0d184ebd89693182b3f596907",
+        "parentBoardName": "DTU_V0.12_60x70",
+        "name": "DTU_V0.12"
+      },
+      "parentProjectUuid": "fd71bf4d415315427fd7a027a4dd7e0a77d66de0d184ebd89693182b3f596907",
+      "itemType": "Board"
+    }
+  },
+  "windowId": "035201c2-5ac3-44f1-be5e-f3d4c319ac71"
+}

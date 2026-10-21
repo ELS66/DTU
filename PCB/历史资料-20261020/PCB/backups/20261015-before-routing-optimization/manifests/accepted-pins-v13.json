@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "result": {
+    "UMH9NTN": [
+      {
+        "number": "1",
+        "name": "GND"
+      },
+      {
+        "number": "2",
+        "name": "IN"
+      },
+      {
+        "number": "3",
+        "name": "OUT"
+      },
+      {
+        "number": "4",
+        "name": "GND"
+      },
+      {
+        "number": "5",
+        "name": "IN"
+      },
+      {
+        "number": "6",
+        "name": "OUT"
+      }
+    ],
+    "TLV75901PDRVR": [
+      {
+        "number": "1",
+        "name": "OUT"
+      },
+      {
+        "number": "2",
+        "name": "FB"
+      },
+      {
+        "number": "3",
+        "name": "GND"
+      },
+      {
+        "number": "4",
+        "name": "EN"
+      },
+      {
+        "number": "5",
+        "name": "DNC"
+      },
+      {
+        "number": "6",
+        "name": "IN"
+      },
+      {
+        "number": "7",
+        "name": "EP"
+      }
+    ]
+  },
+  "windowId": "17c69e5c-92bf-46ac-8313-d4c2513d5b0d"
+}

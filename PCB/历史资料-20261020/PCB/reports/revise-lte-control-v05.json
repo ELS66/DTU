@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "removed": [
+      "Q4",
+      "R77",
+      "R78",
+      "R79",
+      "R80",
+      "R81",
+      "R83",
+      "R86",
+      "R87",
+      "C71",
+      "U10"
+    ],
+    "buffer": {
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "uuid": "eb6040cbfaeb6edb",
+      "name": "SN74LVC2G125DCUR"
+    }
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

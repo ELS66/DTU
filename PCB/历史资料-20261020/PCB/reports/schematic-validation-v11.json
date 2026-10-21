@@ -1,0 +1,230 @@
+{
+  "status": "PASS",
+  "components": 154,
+  "defaultAssembly": 148,
+  "pinNetAssertions": 458,
+  "datasheetPinChecks": [
+    {
+      "ref": "U6",
+      "pin": "1",
+      "datasheetName": "RO",
+      "libraryName": "RO",
+      "pass": true
+    },
+    {
+      "ref": "U6",
+      "pin": "2",
+      "datasheetName": "RE",
+      "libraryName": "RE",
+      "pass": true
+    },
+    {
+      "ref": "U6",
+      "pin": "3",
+      "datasheetName": "DE",
+      "libraryName": "DE",
+      "pass": true
+    },
+    {
+      "ref": "U6",
+      "pin": "4",
+      "datasheetName": "DI",
+      "libraryName": "DI",
+      "pass": true
+    },
+    {
+      "ref": "U6",
+      "pin": "5",
+      "datasheetName": "GND",
+      "libraryName": "GND",
+      "pass": true
+    },
+    {
+      "ref": "U6",
+      "pin": "6",
+      "datasheetName": "A",
+      "libraryName": "A",
+      "pass": true
+    },
+    {
+      "ref": "U6",
+      "pin": "7",
+      "datasheetName": "B",
+      "libraryName": "B",
+      "pass": true
+    },
+    {
+      "ref": "U6",
+      "pin": "8",
+      "datasheetName": "VCC",
+      "libraryName": "VCC",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "1",
+      "datasheetName": "C1+",
+      "libraryName": "C1+",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "2",
+      "datasheetName": "V+",
+      "libraryName": "V+",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "3",
+      "datasheetName": "C1-",
+      "libraryName": "C1-",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "4",
+      "datasheetName": "C2+",
+      "libraryName": "C2+",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "5",
+      "datasheetName": "C2-",
+      "libraryName": "C2-",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "6",
+      "datasheetName": "V-",
+      "libraryName": "V-",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "7",
+      "datasheetName": "DOUT2",
+      "libraryName": "DOUT2",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "8",
+      "datasheetName": "RIN2",
+      "libraryName": "RIN2",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "9",
+      "datasheetName": "ROUT2",
+      "libraryName": "ROUT2",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "10",
+      "datasheetName": "DIN2",
+      "libraryName": "DIN2",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "11",
+      "datasheetName": "DIN1",
+      "libraryName": "DIN1",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "12",
+      "datasheetName": "ROUT1",
+      "libraryName": "ROUT1",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "13",
+      "datasheetName": "RIN1",
+      "libraryName": "RIN1",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "14",
+      "datasheetName": "DOUT1",
+      "libraryName": "DOUT1",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "15",
+      "datasheetName": "GND",
+      "libraryName": "GND",
+      "pass": true
+    },
+    {
+      "ref": "U7",
+      "pin": "16",
+      "datasheetName": "VCC",
+      "libraryName": "VCC",
+      "pass": true
+    },
+    {
+      "ref": "U12",
+      "pin": "1",
+      "datasheetName": "A",
+      "libraryName": "A",
+      "pass": true
+    },
+    {
+      "ref": "U12",
+      "pin": "2",
+      "datasheetName": "GND",
+      "libraryName": "GND",
+      "pass": true
+    },
+    {
+      "ref": "U12",
+      "pin": "3",
+      "datasheetName": "B",
+      "libraryName": "B",
+      "pass": true
+    },
+    {
+      "ref": "U12",
+      "pin": "4",
+      "datasheetName": "Y",
+      "libraryName": "Y",
+      "pass": true
+    },
+    {
+      "ref": "U12",
+      "pin": "5",
+      "datasheetName": "VCC",
+      "libraryName": "VCC",
+      "pass": true
+    },
+    {
+      "ref": "U12",
+      "pin": "6",
+      "datasheetName": "C",
+      "libraryName": "C",
+      "pass": true
+    }
+  ],
+  "counts": {
+    "D": 26,
+    "U": 11,
+    "R": 56,
+    "C": 42,
+    "F": 3,
+    "SW": 3,
+    "J": 7,
+    "Q": 3,
+    "L": 3
+  },
+  "errors": []
+}

@@ -1,0 +1,64 @@
+{
+  "pcbDrcIssues": 0,
+  "factoryDfmPassed": false,
+  "reopenedSourceVerified": true,
+  "changedSourceRecords": [
+    [
+      "COMPONENT",
+      "7a588813d88aaf6c"
+    ],
+    [
+      "ATTR",
+      "7a588813d88aaf6ce16"
+    ],
+    [
+      "POLY",
+      "30030a03d14c6cea"
+    ],
+    [
+      "POLY",
+      "d5fa68b8dc4a0d51"
+    ],
+    [
+      "POLY",
+      "73b4fdd6fc55c8fe"
+    ]
+  ],
+  "R36MoveMm": [
+    -0.12,
+    0
+  ],
+  "targetMaskBridgeMm": 0.1797939999999869,
+  "topMaskSeparateOpeningGapsBelow0_1mm": [],
+  "unchangedGerberGeometryLayers": [
+    "Gerber_BottomLayer.GBL",
+    "Gerber_InnerLayer1.G1",
+    "Gerber_InnerLayer2.G2",
+    "Gerber_TopSilkscreenLayer.GTO",
+    "Gerber_BottomSilkscreenLayer.GBO",
+    "Gerber_BottomSolderMaskLayer.GBS",
+    "Gerber_BoardOutlineLayer.GKO"
+  ],
+  "geometryComparisonToleranceMm": 1e-05,
+  "drillsUnchanged": true,
+  "totalDrills": 322,
+  "removedMountPlaceholderFlashes": 16,
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 306,
+  "routes": 509,
+  "newR36CPL": {
+    "Designator": "R36",
+    "Mid X": "39.38mm",
+    "Mid Y": "14.25mm",
+    "Layer": "Top",
+    "Rotation": "270"
+  },
+  "removedNumericalMaskResidues": [
+    {
+      "x": 17.500001,
+      "y": 9.0,
+      "diameterMm": 3e-06
+    }
+  ]
+}

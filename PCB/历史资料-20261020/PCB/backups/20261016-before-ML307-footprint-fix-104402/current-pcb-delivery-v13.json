@@ -1,0 +1,123 @@
+{
+  "revision": "V0.13 焊脚避孔修正 2026-10-16",
+  "boardMm": [
+    60,
+    70
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 306,
+  "drilledHoles": 322,
+  "pcbDrcIssues": 0,
+  "schematicWarnings": 18,
+  "backupDirectory": "D:\\DTU\\PCB\\backups\\20261016-before-lead-hole-fix-100627",
+  "nativeProject": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-Leadholefix.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-Leadholefix-Gerber.zip",
+  "deliveryArchive": "D:\\DTU\\PCB\\eda\\DTU-V0.13-60x70-焊脚避孔修正复查包.zip",
+  "actualCopperManifest": "lead-hole-actual-routing-v13.json",
+  "actualSourceSnapshot": "lead-hole-reopened-source-v13.json",
+  "connectors": {
+    "model": "ZX-HY2.0-4PLT",
+    "supplierPart": "C7429562",
+    "signalFixedRowSpacingMm": 3.0
+  },
+  "factoryDfmPassed": false,
+  "files": [
+    {
+      "file": "DTU-V0.13-60x70-Leadholefix.epro2",
+      "bytes": 1128722,
+      "sha256": "519d138fade0db41595d7dd41c5634b1aea8c93f967864154f838541f20fb6bb"
+    },
+    {
+      "file": "DTU-V0.13-60x70-Leadholefix-Gerber.zip",
+      "bytes": 143709,
+      "sha256": "0f413d935b2b08a735fdae1e939e17f2f86ff2f09df6bffaabe66c99766e03ae"
+    },
+    {
+      "file": "DTU-V0.13-Leadholefix-BOM-99.csv",
+      "bytes": 3730,
+      "sha256": "bdcac2736e76d6ab56b4ed8c459dcbbcd6d84c36b71f2e1a858672466390ed48"
+    },
+    {
+      "file": "DTU-V0.13-Leadholefix-CPL-99-Top.csv",
+      "bytes": 2529,
+      "sha256": "e2e43b1c199efb60f438391cc81e3ada2d6bbbe1fd2ab71d0ee2863b941d5682"
+    },
+    {
+      "file": "DTU-V0.13-Leadholefix-README.md",
+      "bytes": 836,
+      "sha256": "e4f41e860c993a1c5d2505f236870aadc403c77f42533959ef3572439a1e0312"
+    },
+    {
+      "file": "V0.13-焊脚距孔修正记录.md",
+      "bytes": 3453,
+      "sha256": "15e54213d7187e4d8619d881153aa94a5b1d44cc230ea563c443cad329e48bbe"
+    },
+    {
+      "file": "V0.13-精简丝印版接口说明.md",
+      "bytes": 1462,
+      "sha256": "db524e63ed7f417b951728162de89d0208e2fc88534e62a40a8381eb8ae9d6c7"
+    },
+    {
+      "file": "V0.13-七项装配余量预警复核记录.md",
+      "bytes": 2196,
+      "sha256": "68932593f6b632f3c3fbd75b2c72c66c31d5eddd60186e5b666acaf854878d70"
+    },
+    {
+      "file": "V0.13-元件距元件九项复核记录.md",
+      "bytes": 1135,
+      "sha256": "505614f62dfbb38e79a85d35c2cf36ebfb5f5b578bd8b4a20d6a8323b6ad3dc3"
+    },
+    {
+      "file": "leadholefix-manufacturing-verification-v13.json",
+      "bytes": 1920,
+      "sha256": "2a9bf6dd9af6872ecf6e78feaa029f23b38625cb7b500780a9eff494efc1c592"
+    },
+    {
+      "file": "DTU-V0.13-Leadholefix-Q1-detail.png",
+      "bytes": 8968,
+      "sha256": "9b2b35d84865ab0b4c975bfc24ae6f138ea9f92fdda926ae7c5f81a3be7d13e0"
+    },
+    {
+      "file": "DTU-V0.13-Leadholefix-J4-detail.png",
+      "bytes": 10384,
+      "sha256": "d7eab822b8ce15b9c9861e047e8804f6e534ff5ed9cdc439e2979f9163f415c4"
+    }
+  ],
+  "status": "Leadholefix修正已交付；新发现U2焊脚模型不符及推荐焊盘差异，封装适配未闭环，尚未放行",
+  "openDfmItems": [
+    "其余PCB/SMT检查分类待取得",
+    "孔环检查：普通过孔0.125mm触发0.15mm阈值，需核对过孔/插件孔分类及重复统计",
+    "四角安装孔已去除残留铜环，待新Gerber重新运行DFM确认",
+    "阻焊桥：R36/R100 原0.060mm已增至0.180mm，待本版重新运行DFM确认。",
+    "开窗露线4项对应两处GND过孔已移位，实际开窗间距约0.274/0.470mm，待新资料重跑DFM。",
+    "原7项焊盘间距中D10及ESP32四项位置已移位修正；余下D9/C33/LTE_BOOT三项维持既有工艺待确认状态。",
+    "丝印：RS485整组文字已避孔；全部322孔检查，丝印距孔最小0.262mm、距开窗0.289mm，待厂家DFM重跑确认。",
+    "元件碰撞：9红全部为J1/J1、J2/J2、J3/J3同位号提示，工程/CPL无重复，模型原因待厂家确认。7黄已定位5组器件，本地本体未见重叠，实际3D装配余量仍待贴装厂确认。",
+    "元件距元件：显示的9条0mm红项全部为J1/J1、J2/J2、J3/J3同位号比较；工程/CPL无重复、端子本体无重叠，DFM模型原因仍待确认。页面共469项仅显示50项，未据此判定全项通过。",
+    "焊脚距孔：Q1接地孔与J4/SIM供电孔已移位，相关库焊脚到孔边约0.426/0.325mm；4条提示须新Gerber复查。另有J4地脚库轮廓至既有盖油孔约0.125mm，未匹配此次0.02项，待定位/工艺确认。",
+    "U2引脚边界：MC661库模型外围宽0.75/中央1.40mm与ML307R手册0.60/1.30mm不符；当前外围铜焊盘1.80×0.70mm与推荐2.60×0.60mm不同。名义引脚区域能对应，但焊接放行未确认；采用推荐封装需同时适配RF/USB周边布局，当前未改生产板。"
+  ],
+  "padSpacingReview": "D:\\DTU\\PCB\\docs\\V0.13-焊盘距焊盘提示复核记录.md",
+  "downloadHoleAssemblyReview": "D:\\DTU\\PCB\\docs\\V0.13-下载裸孔装配间距复核.md",
+  "dfmDispositionNotes": [
+    "插件焊盘距贴片焊盘21红22黄全部定位至J6/J7；默认裸孔不装不焊，按装配条件不适用；加装排针须重审。"
+  ],
+  "actualPadManifest": "silkclean-pcb-pads-v13.json",
+  "maskBridgeReview": "D:\\DTU\\PCB\\docs\\V0.13-阻焊桥修正记录.md",
+  "openingClearanceReview": "D:\\DTU\\PCB\\docs\\V0.13-开窗露线四项修正记录.md",
+  "projectUuid": "de280d363d1bdc6eb48b4e11624beec0d326c823aa88a60393f490d052ff1c05",
+  "pcbUuid": "4211128ecf040c100b33238447713203",
+  "nativeWorkspaceDirectory": "D:\\DTU\\PCB\\native-Silkclean",
+  "silkscreenReview": "D:\\DTU\\PCB\\docs\\V0.13-丝印避孔修正记录.md",
+  "interfaceGuide": "D:\\DTU\\PCB\\docs\\V0.13-精简丝印版接口说明.md",
+  "silkscreenVerification": "silkholefix-manufacturing-verification-v13.json",
+  "connectorCollisionReview": "D:\\DTU\\PCB\\docs\\V0.13-端子同位号碰撞复核记录.md",
+  "assemblyWarningReview": "D:\\DTU\\PCB\\docs\\V0.13-七项装配余量预警复核记录.md",
+  "componentDistanceReview": "D:\\DTU\\PCB\\docs\\V0.13-元件距元件九项复核记录.md",
+  "leadHoleReview": "D:\\DTU\\PCB\\docs\\V0.13-焊脚距孔修正记录.md",
+  "manufacturingVerification": "leadholefix-manufacturing-verification-v13.json",
+  "u2FootprintBoundaryReview": "D:\\DTU\\PCB\\docs\\V0.13-ML307R引脚边界与封装复核记录.md"
+}

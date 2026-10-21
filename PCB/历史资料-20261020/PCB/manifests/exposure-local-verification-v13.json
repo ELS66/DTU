@@ -1,0 +1,84 @@
+{
+  "modifiedCopperMinimumClearanceMm": 0.25790517010168734,
+  "conflicts": [],
+  "movedVias": [
+    {
+      "id": "49228cec81f7eb66",
+      "net": "GND",
+      "x": 40.749999779999996,
+      "y": 46.90000018,
+      "maskGapMm": 0.46990827000000474,
+      "diameterMm": 0.4499991,
+      "holeMm": 0.19999959999999997
+    },
+    {
+      "id": "6085135c819a0a52",
+      "net": "GND",
+      "x": 18.099999359999998,
+      "y": 62.249999960000004,
+      "maskGapMm": 0.27408681,
+      "diameterMm": 0.4499991,
+      "holeMm": 0.19999959999999997
+    }
+  ],
+  "U1ThermalPadConnectivity": [
+    {
+      "pad": "27e64738f6dde1f7e87",
+      "groundVias": [
+        "ae612ad432eb6332"
+      ]
+    },
+    {
+      "pad": "27e64738f6dde1f7e88",
+      "groundVias": [
+        "7f61a3ff2dbee01b"
+      ]
+    },
+    {
+      "pad": "27e64738f6dde1f7e89",
+      "groundVias": [
+        "43c859396b766b5f",
+        "49228cec81f7eb66"
+      ]
+    },
+    {
+      "pad": "27e64738f6dde1f7e90",
+      "groundVias": [
+        "f0a81e928a99f001"
+      ]
+    },
+    {
+      "pad": "27e64738f6dde1f7e91",
+      "groundVias": [
+        "43c859396b766b5f",
+        "49228cec81f7eb66"
+      ]
+    },
+    {
+      "pad": "27e64738f6dde1f7e92",
+      "groundVias": [
+        "c8876beeb4e233ac"
+      ]
+    },
+    {
+      "pad": "27e64738f6dde1f7e93",
+      "groundVias": [
+        "94c959e47d2e1bf2"
+      ]
+    },
+    {
+      "pad": "27e64738f6dde1f7e94",
+      "groundVias": [
+        "d3051dab07d65649"
+      ]
+    },
+    {
+      "pad": "27e64738f6dde1f7e95",
+      "groundVias": [
+        "ad7e71569fe37064"
+      ]
+    }
+  ],
+  "PCB_DRC": 0,
+  "factoryDfmPassed": false
+}

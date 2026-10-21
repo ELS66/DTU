@@ -1,0 +1,131 @@
+{
+  "sameNetGroundOnly": true,
+  "coveredViaHoles": true,
+  "locations": [
+    {
+      "via": "74a721a974fa8d8f",
+      "net": "GND",
+      "x": 29.57500054,
+      "y": 13.45000104,
+      "refs": [
+        "D9:2"
+      ],
+      "minimumCopperGapMm": 0.040744621409067726,
+      "holeToSolderMaskOpeningGapMm": 0.11549434292844374,
+      "holeExposed": false
+    },
+    {
+      "via": "f0a81e928a99f001",
+      "net": "GND",
+      "x": 42.07500094,
+      "y": 47.3750005,
+      "refs": [
+        "U1:29"
+      ],
+      "minimumCopperGapMm": 0.04531995000000525,
+      "holeToSolderMaskOpeningGapMm": 0.119907500000005,
+      "holeExposed": false
+    },
+    {
+      "via": "43c859396b766b5f",
+      "net": "GND",
+      "x": 40.37499926,
+      "y": 47.3750005,
+      "refs": [
+        "U1:29"
+      ],
+      "minimumCopperGapMm": 0.04531995000000526,
+      "holeToSolderMaskOpeningGapMm": 0.119907500000005,
+      "holeExposed": false
+    },
+    {
+      "via": "49228cec81f7eb66",
+      "net": "GND",
+      "x": 39.899998939999996,
+      "y": 49.15000076,
+      "refs": [
+        "U1:29",
+        "U1:29",
+        "U1:29",
+        "U1:29"
+      ],
+      "minimumCopperGapMm": 0.05151038212515578,
+      "holeToSolderMaskOpeningGapMm": 0.12717261216813844,
+      "holeExposed": false
+    },
+    {
+      "via": "7f61a3ff2dbee01b",
+      "net": "GND",
+      "x": 43.37500088,
+      "y": 49.62500108,
+      "refs": [
+        "U1:29"
+      ],
+      "minimumCopperGapMm": 0.05382133000001079,
+      "holeToSolderMaskOpeningGapMm": 0.12793688000000142,
+      "holeExposed": false
+    },
+    {
+      "via": "6085135c819a0a52",
+      "net": "GND",
+      "x": 17.79999996,
+      "y": 62.02499913999999,
+      "refs": [
+        "D10:2"
+      ],
+      "minimumCopperGapMm": 0.0540487241815498,
+      "holeToSolderMaskOpeningGapMm": 0.12863048060935514,
+      "holeExposed": false
+    },
+    {
+      "via": "ae612ad432eb6332",
+      "net": "GND",
+      "x": 42.07500094,
+      "y": 52.62500015999999,
+      "refs": [
+        "U1:29"
+      ],
+      "minimumCopperGapMm": 0.055680609999990444,
+      "holeToSolderMaskOpeningGapMm": 0.13005015999999045,
+      "holeExposed": false
+    },
+    {
+      "via": "c8876beeb4e233ac",
+      "net": "GND",
+      "x": 40.37499926,
+      "y": 52.62500015999999,
+      "refs": [
+        "U1:29"
+      ],
+      "minimumCopperGapMm": 0.055680609999990444,
+      "holeToSolderMaskOpeningGapMm": 0.13005015999999045,
+      "holeExposed": false
+    },
+    {
+      "via": "94c959e47d2e1bf2",
+      "net": "GND",
+      "x": 38.0500001,
+      "y": 51.70000074,
+      "refs": [
+        "U1:29"
+      ],
+      "minimumCopperGapMm": 0.12218034999999719,
+      "holeToSolderMaskOpeningGapMm": 0.19702190000000433,
+      "holeExposed": false
+    },
+    {
+      "via": "d3051dab07d65649",
+      "net": "GND",
+      "x": 38.0500001,
+      "y": 49.99999905999999,
+      "refs": [
+        "U1:29"
+      ],
+      "minimumCopperGapMm": 0.12218034999999719,
+      "holeToSolderMaskOpeningGapMm": 0.19702190000000433,
+      "holeExposed": false
+    }
+  ],
+  "DFMExactSevenNotConfirmed": false,
+  "supersededBy": "dfm-pad-spacing-final-assessment-v13.json; dfm-seven-pad-spacing-locations-v13.json"
+}

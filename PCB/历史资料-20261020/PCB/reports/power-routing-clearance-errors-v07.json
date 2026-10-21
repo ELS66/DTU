@@ -1,0 +1,59 @@
+[
+  {
+    "visible": true,
+    "errorType": "Clearance Error",
+    "errorObjType": "Board Outline to Line",
+    "ruleName": "copperThickness1oz",
+    "ruleTypeName": "Safe Spacing",
+    "obj1": {
+      "typeName": "Board Outline",
+      "suffix": ": e0"
+    },
+    "obj2": {
+      "typeName": "Line",
+      "suffix": "(VIN_OR): e785"
+    },
+    "layer": "Inner2",
+    "explanation": {
+      "str": "{obj1} to {obj2} distance is {minDistance}, should be {shouldBe}",
+      "param": {
+        "minDistance": "7.9mil",
+        "shouldBe": ">= 11.8mil",
+        "obj1": "Object 1",
+        "obj2": "object 2",
+        "type": "ClearanceError"
+      },
+      "errData": {
+        "globalIndex": "err8061",
+        "position": {
+          "x": 211.41732000000002,
+          "y": 1.574805
+        },
+        "name": "copperThickness1oz",
+        "obj1": "d4b5e25cb7255a90",
+        "obj1Type": "Board Outline",
+        "obj2": "f5473b8228c11321",
+        "obj2Type": "Line",
+        "minDistance": 0.7874049999999997,
+        "clearance": 1.1800000000000002,
+        "errorType": "Safe Spacing",
+        "isInSameComponent": false,
+        "layerIds": [
+          16
+        ],
+        "obj1Suffix": ": e0",
+        "obj2Suffix": "(VIN_OR): e785"
+      }
+    },
+    "objs": [
+      "d4b5e25cb7255a90",
+      "f5473b8228c11321"
+    ],
+    "globalIndex": "err8061",
+    "pos": {
+      "x": 211.41732000000002,
+      "y": 1.574805
+    },
+    "parentId": "DRCTab|_|Errors|_|Clearance Error|_|Board Outline to Line"
+  }
+]

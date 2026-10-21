@@ -1,0 +1,20 @@
+{
+  "C54": [
+    21.75,
+    12.75
+  ],
+  "removedPolys": [
+    "c9057fcf974f307c",
+    "2ca78311ab5b0cff"
+  ],
+  "removedVias": [
+    {
+      "id": "b5dc9e6c93a2802f",
+      "net": "VDD_3V3",
+      "x": 186.0236,
+      "y": 811.0236,
+      "hole": 11.8,
+      "diameter": 23.6
+    }
+  ]
+}

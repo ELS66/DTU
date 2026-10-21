@@ -1,0 +1,86 @@
+[
+  {
+    "ref": "U13",
+    "device": {
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "uuid": "e89f7e9f5530451e9397d03732fe84e5"
+    },
+    "page": 6,
+    "x": 480,
+    "y": 950,
+    "name": "SN74HC148DR",
+    "supplierId": "C6819",
+    "footprint": "SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL",
+    "sub": null
+  },
+  {
+    "ref": "U14",
+    "device": {
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "uuid": "5304c6986c0a446595a850bee4f77768"
+    },
+    "page": 6,
+    "x": 1000,
+    "y": 380,
+    "name": "LM339BIPWR",
+    "supplierId": "C7430196",
+    "footprint": "TSSOP-14_L5.0-W4.4-P0.65-LS6.4-BL",
+    "sub": null
+  },
+  {
+    "ref": "D15",
+    "device": {
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "uuid": "8385939f174c45f0a14bd07d6182ad3e"
+    },
+    "page": 6,
+    "x": 380,
+    "y": 270,
+    "name": "BAT54WSX",
+    "supplierId": "C5364063",
+    "footprint": "SOD-323_L1.7-W1.3-LS2.6-RD",
+    "sub": null
+  },
+  {
+    "ref": "D16",
+    "device": {
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "uuid": "8385939f174c45f0a14bd07d6182ad3e"
+    },
+    "page": 6,
+    "x": 380,
+    "y": 510,
+    "name": "BAT54WSX",
+    "supplierId": "C5364063",
+    "footprint": "SOD-323_L1.7-W1.3-LS2.6-RD",
+    "sub": null
+  },
+  {
+    "ref": "D17",
+    "device": {
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "uuid": "8385939f174c45f0a14bd07d6182ad3e"
+    },
+    "page": 6,
+    "x": 380,
+    "y": 750,
+    "name": "BAT54WSX",
+    "supplierId": "C5364063",
+    "footprint": "SOD-323_L1.7-W1.3-LS2.6-RD",
+    "sub": null
+  },
+  {
+    "ref": "U12",
+    "device": {
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+      "uuid": "ee2ff6d3f3294754bf57fb6ac86b73c0"
+    },
+    "page": 5,
+    "x": 760,
+    "y": 600,
+    "name": "SN74LVC1G125DCKR",
+    "supplierId": "C7833",
+    "footprint": "SOT-353_L2.2-W1.4-P0.65-LS2.4-BR",
+    "sub": null
+  }
+]

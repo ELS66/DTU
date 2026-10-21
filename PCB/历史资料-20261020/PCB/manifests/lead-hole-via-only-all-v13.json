@@ -1,0 +1,6295 @@
+{
+  "bd31757caf9c21db": {
+    "ref": "J4",
+    "old": {
+      "id": "bd31757caf9c21db",
+      "net": "SIM_VDD",
+      "x": 20.77500036,
+      "y": 26.274999519999998,
+      "diameter": 0.4499991,
+      "hole": 0.19999959999999997
+    },
+    "candidates": [
+      {
+        "x": 19.475,
+        "y": 26.575,
+        "distance": 1.334166865126082,
+        "leadHoleGapMm": 1.3284998141849924,
+        "annulusMaskGapMm": 1.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.475,
+        "y": 26.675,
+        "distance": 1.3601475361152402,
+        "leadHoleGapMm": 1.338968620619143,
+        "annulusMaskGapMm": 1.2715200527813129,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 26.575,
+        "distance": 1.4317825589105213,
+        "leadHoleGapMm": 1.428270085791959,
+        "annulusMaskGapMm": 1.3712729999999989,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 26.675,
+        "distance": 1.456022455870912,
+        "leadHoleGapMm": 1.4380599556345528,
+        "annulusMaskGapMm": 1.371502039599284,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 26.775,
+        "distance": 1.4866073752004463,
+        "leadHoleGapMm": 1.4542353100887144,
+        "annulusMaskGapMm": 1.3760972716370345,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 26.875,
+        "distance": 1.523155141146286,
+        "leadHoleGapMm": 1.4765996229628384,
+        "annulusMaskGapMm": 1.3868128480607296,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 24.975,
+        "distance": 1.5264335321265543,
+        "leadHoleGapMm": 0.8249886799999949,
+        "annulusMaskGapMm": 0.7712729999999971,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 26.575,
+        "distance": 1.5297063012226775,
+        "leadHoleGapMm": 1.528068546200241,
+        "annulusMaskGapMm": 1.471273,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 26.675,
+        "distance": 1.5524179411486994,
+        "leadHoleGapMm": 1.5372617882081556,
+        "annulusMaskGapMm": 1.4714864744961131,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 24.875,
+        "distance": 1.565247315921786,
+        "leadHoleGapMm": 0.724988679999997,
+        "annulusMaskGapMm": 0.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 26.975,
+        "distance": 1.565248120906192,
+        "leadHoleGapMm": 1.4581843518439421,
+        "annulusMaskGapMm": 1.3776556928386914,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 24.975,
+        "distance": 1.5811386403476295,
+        "leadHoleGapMm": 0.9249886799999963,
+        "annulusMaskGapMm": 0.8712729999999987,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 26.775,
+        "distance": 1.581139323399543,
+        "leadHoleGapMm": 1.5524663794239708,
+        "annulusMaskGapMm": 1.4758603970171624,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 24.875,
+        "distance": 1.612451311513111,
+        "leadHoleGapMm": 0.8249886799999949,
+        "annulusMaskGapMm": 0.7712729999999971,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 26.475,
+        "distance": 1.6124519664164756,
+        "leadHoleGapMm": 1.6249886826082538,
+        "annulusMaskGapMm": 1.5712729999999981,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 26.875,
+        "distance": 1.6155499546595167,
+        "leadHoleGapMm": 1.5735184812623277,
+        "annulusMaskGapMm": 1.4858566842138838,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 26.575,
+        "distance": 1.6278825019025047,
+        "leadHoleGapMm": 1.6278903110807004,
+        "annulusMaskGapMm": 1.5712729999999981,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 24.975,
+        "distance": 1.6401217857221315,
+        "leadHoleGapMm": 1.0249886799999977,
+        "annulusMaskGapMm": 0.971273,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 26.675,
+        "distance": 1.6492427159155076,
+        "leadHoleGapMm": 1.63655518171078,
+        "annulusMaskGapMm": 1.5714728901972803,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 24.775,
+        "distance": 1.6552942529956294,
+        "leadHoleGapMm": 0.724988679999997,
+        "annulusMaskGapMm": 0.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 26.975,
+        "distance": 1.6552950649356655,
+        "leadHoleGapMm": 1.5561812130112245,
+        "annulusMaskGapMm": 1.4773135816364853,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 24.875,
+        "distance": 1.6643314886164817,
+        "leadHoleGapMm": 0.9249886799999963,
+        "annulusMaskGapMm": 0.8712729999999987,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 26.775,
+        "distance": 1.676305948208846,
+        "leadHoleGapMm": 1.6508977329149066,
+        "annulusMaskGapMm": 1.5756535539135534,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 24.775,
+        "distance": 1.6999997458824385,
+        "leadHoleGapMm": 0.8249886799999949,
+        "annulusMaskGapMm": 0.7712729999999971,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 27.075,
+        "distance": 1.7000005435294325,
+        "leadHoleGapMm": 1.5398025680951144,
+        "annulusMaskGapMm": 1.4719591245591706,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 26.375,
+        "distance": 1.7029390241580473,
+        "leadHoleGapMm": 1.7249886800000005,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 26.875,
+        "distance": 1.7088012546812927,
+        "leadHoleGapMm": 1.670780009805442,
+        "annulusMaskGapMm": 1.5850205981310883,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 26.475,
+        "distance": 1.7117246904804415,
+        "leadHoleGapMm": 1.7249886824653362,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 24.875,
+        "distance": 1.720464872062303,
+        "leadHoleGapMm": 1.0249886799999977,
+        "annulusMaskGapMm": 0.971273,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 26.575,
+        "distance": 1.7262680881022978,
+        "leadHoleGapMm": 1.7277315621082228,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 24.675,
+        "distance": 1.7464246241966335,
+        "leadHoleGapMm": 0.7288506060390646,
+        "annulusMaskGapMm": 0.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 26.675,
+        "distance": 1.7464253800264025,
+        "leadHoleGapMm": 1.735925280376782,
+        "annulusMaskGapMm": 1.6714609312290245,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 26.975,
+        "distance": 1.7464254418670047,
+        "leadHoleGapMm": 1.6544041570662456,
+        "annulusMaskGapMm": 1.57701478400311,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 24.775,
+        "distance": 1.7492853420755454,
+        "leadHoleGapMm": 0.9249886799999963,
+        "annulusMaskGapMm": 0.8712729999999987,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 27.175,
+        "distance": 1.7492861241090232,
+        "leadHoleGapMm": 1.5294074733875909,
+        "annulusMaskGapMm": 1.471273,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 26.775,
+        "distance": 1.7720049954783883,
+        "leadHoleGapMm": 1.7494973931115894,
+        "annulusMaskGapMm": 1.6754713761915414,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 24.675,
+        "distance": 1.7888541136717517,
+        "leadHoleGapMm": 0.8284347382187507,
+        "annulusMaskGapMm": 0.7712729999999971,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 27.075,
+        "distance": 1.7888549186561664,
+        "leadHoleGapMm": 1.6389508901436307,
+        "annulusMaskGapMm": 1.5719154762177874,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 26.275,
+        "distance": 1.8000003600000625,
+        "leadHoleGapMm": 1.8249886799999984,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 24.575,
+        "distance": 1.8027753049119446,
+        "leadHoleGapMm": 0.6469801464104136,
+        "annulusMaskGapMm": 0.5750392596396545,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 24.775,
+        "distance": 1.802775438040013,
+        "leadHoleGapMm": 1.0249886799999977,
+        "annulusMaskGapMm": 0.971273,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 26.375,
+        "distance": 1.8027760238033883,
+        "leadHoleGapMm": 1.8249886799999984,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 26.875,
+        "distance": 1.8027761369622033,
+        "leadHoleGapMm": 1.7683306931928742,
+        "annulusMaskGapMm": 1.6842833808408249,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 26.475,
+        "distance": 1.811077438432812,
+        "leadHoleGapMm": 1.824988682337264,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 26.575,
+        "distance": 1.8248291931028382,
+        "leadHoleGapMm": 1.8275892713766997,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 24.675,
+        "distance": 1.83575573320645,
+        "leadHoleGapMm": 0.9280996056469052,
+        "annulusMaskGapMm": 0.8712729999999987,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 27.175,
+        "distance": 1.8357565241611868,
+        "leadHoleGapMm": 1.6291519454146663,
+        "annulusMaskGapMm": 1.5712729999999981,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 24.575,
+        "distance": 1.8384773243095376,
+        "leadHoleGapMm": 0.7443796984362689,
+        "annulusMaskGapMm": 0.6746779680734248,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 26.975,
+        "distance": 1.8384781467290732,
+        "leadHoleGapMm": 1.7528172285283101,
+        "annulusMaskGapMm": 1.6767515735615521,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 26.675,
+        "distance": 1.8439093470125794,
+        "leadHoleGapMm": 1.8353602690782296,
+        "annulusMaskGapMm": 1.7714503223700602,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 24.475,
+        "distance": 1.8681538030901923,
+        "leadHoleGapMm": 0.5625971563006902,
+        "annulusMaskGapMm": 0.48112942736024294,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 26.775,
+        "distance": 1.868154644562477,
+        "leadHoleGapMm": 1.8482398063704983,
+        "annulusMaskGapMm": 1.7753097033796472,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 24.575,
+        "distance": 1.8788291417796226,
+        "leadHoleGapMm": 0.8423241539572888,
+        "annulusMaskGapMm": 0.7744098211415217,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 27.075,
+        "distance": 1.878829952922926,
+        "leadHoleGapMm": 1.7381914846749047,
+        "annulusMaskGapMm": 1.6718770482224456,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 24.675,
+        "distance": 1.8867960101718346,
+        "leadHoleGapMm": 1.0278238050029465,
+        "annulusMaskGapMm": 0.971273,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 27.275,
+        "distance": 1.8867967860902135,
+        "leadHoleGapMm": 1.6251036787194348,
+        "annulusMaskGapMm": 1.5712729999999981,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 24.475,
+        "distance": 1.8973662545751009,
+        "leadHoleGapMm": 0.6576494753761516,
+        "annulusMaskGapMm": 0.5800470783567185,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 26.875,
+        "distance": 1.8973670894163726,
+        "leadHoleGapMm": 1.8661274920835011,
+        "annulusMaskGapMm": 1.7836285256334494,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 26.275,
+        "distance": 1.9000003600000606,
+        "leadHoleGapMm": 1.9249886799999998,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 26.175,
+        "distance": 1.9026300933182885,
+        "leadHoleGapMm": 1.9249886799999998,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 26.375,
+        "distance": 1.902630143774759,
+        "leadHoleGapMm": 1.9249886799999998,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 26.075,
+        "distance": 1.9104976252276158,
+        "leadHoleGapMm": 1.9249886799999998,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 26.475,
+        "distance": 1.9104977257249904,
+        "leadHoleGapMm": 1.9249886822218443,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 24.375,
+        "distance": 1.9235379881874834,
+        "leadHoleGapMm": 0.34162036585483513,
+        "annulusMaskGapMm": 0.2719284274281544,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 24.575,
+        "distance": 1.9235381503885893,
+        "leadHoleGapMm": 0.9406596692153116,
+        "annulusMaskGapMm": 0.8742029407164031,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 26.575,
+        "distance": 1.9235388366238828,
+        "leadHoleGapMm": 1.9274610070545282,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 27.175,
+        "distance": 1.923538948916909,
+        "leadHoleGapMm": 1.7289243249329183,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 24.475,
+        "distance": 1.9313204747012724,
+        "leadHoleGapMm": 0.7538328077192626,
+        "annulusMaskGapMm": 0.6789979206518664,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 26.975,
+        "distance": 1.9313213010787096,
+        "leadHoleGapMm": 1.851391661950855,
+        "annulusMaskGapMm": 1.7765179565424873,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 24.375,
+        "distance": 1.9416483883546867,
+        "leadHoleGapMm": 0.4385408838126953,
+        "annulusMaskGapMm": 0.3718079730486734,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 26.675,
+        "distance": 1.941649235057754,
+        "leadHoleGapMm": 1.9348506350900951,
+        "annulusMaskGapMm": 1.8714408472150528,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 27.375,
+        "distance": 1.9416493524836975,
+        "leadHoleGapMm": 1.6249886799999993,
+        "annulusMaskGapMm": 1.5712729999999981,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 24.375,
+        "distance": 1.9646878978607145,
+        "leadHoleGapMm": 0.5364149743192409,
+        "annulusMaskGapMm": 0.4716979126708111,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 26.775,
+        "distance": 1.9646887407425027,
+        "leadHoleGapMm": 1.9471043156435783,
+        "annulusMaskGapMm": 1.8751652602879294,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 24.475,
+        "distance": 1.9697712679395913,
+        "leadHoleGapMm": 0.8508039753481023,
+        "annulusMaskGapMm": 0.7781763211035894,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 27.075,
+        "distance": 1.969772084277863,
+        "leadHoleGapMm": 1.8375101729620216,
+        "annulusMaskGapMm": 1.7718429570289207,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 24.575,
+        "distance": 1.9723080611305015,
+        "leadHoleGapMm": 1.0392849876704793,
+        "annulusMaskGapMm": 0.9740384961765994,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 27.275,
+        "distance": 1.9723088459975946,
+        "leadHoleGapMm": 1.7250973777668226,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 24.375,
+        "distance": 1.9924855352047983,
+        "leadHoleGapMm": 0.6348617254543582,
+        "annulusMaskGapMm": 0.5716235831541572,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 26.875,
+        "distance": 1.9924863723499748,
+        "leadHoleGapMm": 1.9641354246091907,
+        "annulusMaskGapMm": 1.8830429968352074,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 26.275,
+        "distance": 2.000000360000059,
+        "leadHoleGapMm": 2.024988680000001,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 26.175,
+        "distance": 2.0024987750309275,
+        "leadHoleGapMm": 2.024988680000001,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 26.375,
+        "distance": 2.0024988229710314,
+        "leadHoleGapMm": 2.024988680000001,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 26.075,
+        "distance": 2.009975434675848,
+        "leadHoleGapMm": 2.024988680000001,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 26.475,
+        "distance": 2.009975530199402,
+        "leadHoleGapMm": 2.024988682117288,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 24.475,
+        "distance": 2.012460911421722,
+        "leadHoleGapMm": 0.9483443783117057,
+        "annulusMaskGapMm": 0.8775412225092791,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 27.175,
+        "distance": 2.0124617164061434,
+        "leadHoleGapMm": 1.828720280997564,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 24.275,
+        "distance": 2.0223744203288265,
+        "leadHoleGapMm": 0.3254616028947357,
+        "annulusMaskGapMm": 0.2712729999999972,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 25.975,
+        "distance": 2.0223751264294076,
+        "leadHoleGapMm": 2.025574927103567,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 26.575,
+        "distance": 2.0223752688362184,
+        "leadHoleGapMm": 2.0273447936633517,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 24.375,
+        "distance": 2.024845347180953,
+        "leadHoleGapMm": 0.7336782901921808,
+        "annulusMaskGapMm": 0.6715713817741188,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 26.975,
+        "distance": 2.02484617687378,
+        "leadHoleGapMm": 1.9501041813359938,
+        "annulusMaskGapMm": 1.8763092123620408,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 27.375,
+        "distance": 2.0248462361375412,
+        "leadHoleGapMm": 1.7249886800000005,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 24.275,
+        "distance": 2.0396074053602464,
+        "leadHoleGapMm": 0.42537159376745737,
+        "annulusMaskGapMm": 0.3712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 25.875,
+        "distance": 2.0396080643104852,
+        "leadHoleGapMm": 2.0302705271235704,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 26.675,
+        "distance": 2.0396082525819432,
+        "leadHoleGapMm": 2.0343886345102593,
+        "annulusMaskGapMm": 1.9714323332605155,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 24.475,
+        "distance": 2.059125783433433,
+        "leadHoleGapMm": 1.0463087156336894,
+        "annulusMaskGapMm": 0.9770357248738882,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 27.275,
+        "distance": 2.05912657600264,
+        "leadHoleGapMm": 1.825091731406928,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 24.275,
+        "distance": 2.0615524344533074,
+        "leadHoleGapMm": 0.5253103609710615,
+        "annulusMaskGapMm": 0.4712730000000001,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 24.375,
+        "distance": 2.0615525101244327,
+        "leadHoleGapMm": 0.8327471401927499,
+        "annulusMaskGapMm": 0.7715327088451894,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 25.775,
+        "distance": 2.0615530456431057,
+        "leadHoleGapMm": 2.0396346105658636,
+        "annulusMaskGapMm": 1.972696870878291,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 26.775,
+        "distance": 2.0615532784772665,
+        "leadHoleGapMm": 2.0460740469812704,
+        "annulusMaskGapMm": 1.9750354335726397,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 27.075,
+        "distance": 2.061553330864948,
+        "leadHoleGapMm": 1.9368955315212726,
+        "annulusMaskGapMm": 1.8718125078043992,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 24.275,
+        "distance": 2.088060945470787,
+        "leadHoleGapMm": 0.6252660088117709,
+        "annulusMaskGapMm": 0.5712729999999979,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 25.675,
+        "distance": 2.088061508672664,
+        "leadHoleGapMm": 2.0536062812713314,
+        "annulusMaskGapMm": 1.9781382063023947,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 26.875,
+        "distance": 2.08806178452659,
+        "leadHoleGapMm": 2.062325781913209,
+        "annulusMaskGapMm": 1.9825163652305335,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 26.275,
+        "distance": 2.1000003600000543,
+        "leadHoleGapMm": 2.124988679999999,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 24.375,
+        "distance": 2.1023793244798505,
+        "leadHoleGapMm": 0.9319956218597806,
+        "annulusMaskGapMm": 0.8715029092424177,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 26.175,
+        "distance": 2.1023799409241795,
+        "leadHoleGapMm": 2.124988679999999,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 26.375,
+        "distance": 2.1023799865867154,
+        "leadHoleGapMm": 2.124988679999999,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 27.175,
+        "distance": 2.102380134989951,
+        "leadHoleGapMm": 1.9285363339933865,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 26.075,
+        "distance": 2.1095026238429657,
+        "leadHoleGapMm": 2.124988679999999,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 26.475,
+        "distance": 2.1095027148596794,
+        "leadHoleGapMm": 2.124988682022126,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 27.375,
+        "distance": 2.1095028684503747,
+        "leadHoleGapMm": 1.8249886799999984,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 24.275,
+        "distance": 2.118961675915909,
+        "leadHoleGapMm": 0.7252324033493579,
+        "annulusMaskGapMm": 0.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 25.575,
+        "distance": 2.1189621912625913,
+        "leadHoleGapMm": 2.056976378064107,
+        "annulusMaskGapMm": 1.9875149092689617,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 26.975,
+        "distance": 2.11896250839895,
+        "leadHoleGapMm": 2.0489357576091782,
+        "annulusMaskGapMm": 1.9761215728976365,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 24.175,
+        "distance": 2.121319919295613,
+        "leadHoleGapMm": 0.3249886799999949,
+        "annulusMaskGapMm": 0.2712729999999972,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 25.975,
+        "distance": 2.1213206320592732,
+        "leadHoleGapMm": 2.125548585569707,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 26.575,
+        "distance": 2.1213207678237533,
+        "leadHoleGapMm": 2.127239009878948,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 24.175,
+        "distance": 2.137755428481085,
+        "leadHoleGapMm": 0.42498867999999634,
+        "annulusMaskGapMm": 0.3712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 25.875,
+        "distance": 2.137756096471334,
+        "leadHoleGapMm": 2.1300336891471674,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 26.675,
+        "distance": 2.1377562760989286,
+        "leadHoleGapMm": 2.1339679002005734,
+        "annulusMaskGapMm": 2.0714246413096933,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 24.375,
+        "distance": 2.1470907982664253,
+        "leadHoleGapMm": 1.0313764623403465,
+        "annulusMaskGapMm": 0.9714792436372484,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 27.275,
+        "distance": 2.147091597487252,
+        "leadHoleGapMm": 1.9250866426726856,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 24.275,
+        "distance": 2.1540656108856933,
+        "leadHoleGapMm": 0.8252060611224684,
+        "annulusMaskGapMm": 0.7712729999999971,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 25.475,
+        "distance": 2.1540660788379635,
+        "leadHoleGapMm": 2.0420849944683694,
+        "annulusMaskGapMm": 1.9777792445131452,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 27.075,
+        "distance": 2.1540664353729593,
+        "leadHoleGapMm": 2.03633825559796,
+        "annulusMaskGapMm": 1.9717851466052279,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 24.175,
+        "distance": 2.158702930928744,
+        "leadHoleGapMm": 0.5249886799999978,
+        "annulusMaskGapMm": 0.4712730000000001,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 25.775,
+        "distance": 2.158703553524744,
+        "leadHoleGapMm": 2.138980572209443,
+        "annulusMaskGapMm": 2.072628173207387,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 26.775,
+        "distance": 2.158703775880414,
+        "leadHoleGapMm": 2.145135085273614,
+        "annulusMaskGapMm": 2.074914660582538,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 24.175,
+        "distance": 2.184032604152316,
+        "leadHoleGapMm": 0.6249886799999957,
+        "annulusMaskGapMm": 0.5712729999999979,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 25.675,
+        "distance": 2.1840331810667055,
+        "leadHoleGapMm": 2.152336065229015,
+        "annulusMaskGapMm": 2.0778717414003225,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 26.875,
+        "distance": 2.184033444798948,
+        "leadHoleGapMm": 2.160674793756625,
+        "annulusMaskGapMm": 2.0820401890654368,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 24.275,
+        "distance": 2.1931709299551545,
+        "leadHoleGapMm": 0.9251848572514884,
+        "annulusMaskGapMm": 0.8712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 25.375,
+        "distance": 2.1931713512629063,
+        "leadHoleGapMm": 2.0317854374975344,
+        "annulusMaskGapMm": 1.972517483769916,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 27.175,
+        "distance": 2.1931717452129393,
+        "leadHoleGapMm": 2.0283696564110603,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 27.375,
+        "distance": 2.195450392060901,
+        "leadHoleGapMm": 1.9249886799999998,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 26.275,
+        "distance": 2.200000360000053,
+        "leadHoleGapMm": 2.2249886800000005,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 26.175,
+        "distance": 2.2022718923875777,
+        "leadHoleGapMm": 2.2249886800000005,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 26.375,
+        "distance": 2.202271935978925,
+        "leadHoleGapMm": 2.2249886800000005,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 26.075,
+        "distance": 2.209072518501908,
+        "leadHoleGapMm": 2.2249886800000005,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 26.475,
+        "distance": 2.2090726054162104,
+        "leadHoleGapMm": 2.224988681935154,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 24.175,
+        "distance": 2.213594020591931,
+        "leadHoleGapMm": 0.724988679999997,
+        "annulusMaskGapMm": 0.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 25.575,
+        "distance": 2.213594551854597,
+        "leadHoleGapMm": 2.1555586517593692,
+        "annulusMaskGapMm": 2.086800355818247,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 26.975,
+        "distance": 2.2135948554332074,
+        "leadHoleGapMm": 2.1478706871907294,
+        "annulusMaskGapMm": 2.0759519939893076,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 24.075,
+        "distance": 2.2203599041597633,
+        "leadHoleGapMm": 0.3249886799999949,
+        "annulusMaskGapMm": 0.2712729999999972,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 25.975,
+        "distance": 2.220360622962036,
+        "leadHoleGapMm": 2.225524509165907,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 26.575,
+        "distance": 2.2203607526706923,
+        "leadHoleGapMm": 2.2271423126071523,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 24.075,
+        "distance": 2.2360675696410324,
+        "leadHoleGapMm": 0.42498867999999634,
+        "annulusMaskGapMm": 0.3712729999999987,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 24.275,
+        "distance": 2.2360677091716967,
+        "leadHoleGapMm": 1.025167422003391,
+        "annulusMaskGapMm": 0.971273,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 25.275,
+        "distance": 2.2360680848311314,
+        "leadHoleGapMm": 2.026144439949119,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 25.875,
+        "distance": 2.2360682458280117,
+        "leadHoleGapMm": 2.22981715821893,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 26.675,
+        "distance": 2.236068417558006,
+        "leadHoleGapMm": 2.2335831493920604,
+        "annulusMaskGapMm": 2.171417657804458,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 27.275,
+        "distance": 2.236068514156122,
+        "leadHoleGapMm": 2.025082032847517,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 24.175,
+        "distance": 2.2472201850286826,
+        "leadHoleGapMm": 0.8249886799999949,
+        "annulusMaskGapMm": 0.7712729999999971,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 25.475,
+        "distance": 2.2472206709623226,
+        "leadHoleGapMm": 2.141322346189085,
+        "annulusMaskGapMm": 2.0775300119381526,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 27.075,
+        "distance": 2.2472210127177874,
+        "leadHoleGapMm": 2.135830690891268,
+        "annulusMaskGapMm": 2.0717604263941793,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 24.075,
+        "distance": 2.2561024462555674,
+        "leadHoleGapMm": 0.5249886799999978,
+        "annulusMaskGapMm": 0.4712730000000001,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 25.775,
+        "distance": 2.256103079205461,
+        "leadHoleGapMm": 2.238382290971973,
+        "annulusMaskGapMm": 2.172565797478409,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 26.775,
+        "distance": 2.2561032919616877,
+        "leadHoleGapMm": 2.244275855595191,
+        "annulusMaskGapMm": 2.1747942062030563,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 24.075,
+        "distance": 2.2803504818339557,
+        "leadHoleGapMm": 0.6249886799999957,
+        "annulusMaskGapMm": 0.5712729999999979,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 25.675,
+        "distance": 2.280351071216965,
+        "leadHoleGapMm": 2.2511732149570203,
+        "annulusMaskGapMm": 2.1776297169598817,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 26.875,
+        "distance": 2.2803513238096373,
+        "leadHoleGapMm": 2.259162618203028,
+        "annulusMaskGapMm": 2.1816075630966276,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 25.175,
+        "distance": 2.28254252621947,
+        "leadHoleGapMm": 2.0249886799999977,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 27.375,
+        "distance": 2.282542988861408,
+        "leadHoleGapMm": 2.024988680000001,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 24.175,
+        "distance": 2.284731632380562,
+        "leadHoleGapMm": 0.9249886799999963,
+        "annulusMaskGapMm": 0.8712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 25.375,
+        "distance": 2.284732073570193,
+        "leadHoleGapMm": 2.131480873215485,
+        "annulusMaskGapMm": 2.0724574359387917,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 27.175,
+        "distance": 2.284732451732667,
+        "leadHoleGapMm": 2.128217927028531,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 26.275,
+        "distance": 2.3000003600000487,
+        "leadHoleGapMm": 2.3249886799999984,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 26.175,
+        "distance": 2.3021732254546685,
+        "leadHoleGapMm": 2.3249886799999984,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 26.375,
+        "distance": 2.3021732671543975,
+        "leadHoleGapMm": 2.3249886799999984,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 24.075,
+        "distance": 2.308678927872032,
+        "leadHoleGapMm": 0.724988679999997,
+        "annulusMaskGapMm": 0.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 25.575,
+        "distance": 2.3086794736386342,
+        "leadHoleGapMm": 2.2542605139462686,
+        "annulusMaskGapMm": 2.1861509406991844,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 26.075,
+        "distance": 2.3086795931874895,
+        "leadHoleGapMm": 2.3249886799999984,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 26.475,
+        "distance": 2.308679676351909,
+        "leadHoleGapMm": 2.324988681855351,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 26.975,
+        "distance": 2.3086797647141033,
+        "leadHoleGapMm": 2.2468958993383854,
+        "annulusMaskGapMm": 2.1757979896637805,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 23.975,
+        "distance": 2.3194822715425834,
+        "leadHoleGapMm": 0.3249886799999949,
+        "annulusMaskGapMm": 0.2712729999999972,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 25.975,
+        "distance": 2.319482995842037,
+        "leadHoleGapMm": 2.325502417795398,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 26.575,
+        "distance": 2.3194831200076353,
+        "leadHoleGapMm": 2.3270535797807503,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 24.175,
+        "distance": 2.3259403913257,
+        "leadHoleGapMm": 1.0249886799999977,
+        "annulusMaskGapMm": 0.971273,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 25.275,
+        "distance": 2.325940788584343,
+        "leadHoleGapMm": 2.1260925217803823,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 27.275,
+        "distance": 2.325941201320523,
+        "leadHoleGapMm": 2.125077837364645,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 25.075,
+        "distance": 2.3323808196776876,
+        "leadHoleGapMm": 2.0249886799999977,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 23.975,
+        "distance": 2.3345230947669684,
+        "leadHoleGapMm": 0.42498867999999634,
+        "annulusMaskGapMm": 0.3712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 25.875,
+        "distance": 2.3345237784182777,
+        "leadHoleGapMm": 2.329618432332806,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 26.675,
+        "distance": 2.3345239429057814,
+        "leadHoleGapMm": 2.3332299626477058,
+        "annulusMaskGapMm": 2.2714112891823417,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 24.075,
+        "distance": 2.3409396540706364,
+        "leadHoleGapMm": 0.8249886799999949,
+        "annulusMaskGapMm": 0.7712729999999971,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 25.475,
+        "distance": 2.340940156432957,
+        "leadHoleGapMm": 2.2406246165343453,
+        "annulusMaskGapMm": 2.177303644644106,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 27.075,
+        "distance": 2.340940484506252,
+        "leadHoleGapMm": 2.2353664839445075,
+        "annulusMaskGapMm": 2.1717379824401,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 23.975,
+        "distance": 2.353720066618022,
+        "leadHoleGapMm": 0.5249886799999978,
+        "annulusMaskGapMm": 0.4712730000000001,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 25.775,
+        "distance": 2.3537207090052874,
+        "leadHoleGapMm": 2.337832946436511,
+        "annulusMaskGapMm": 2.272508909635557,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 26.775,
+        "distance": 2.3537209129377157,
+        "leadHoleGapMm": 2.3434866529462677,
+        "annulusMaskGapMm": 2.2746737518235713,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 25.175,
+        "distance": 2.3706540144020067,
+        "leadHoleGapMm": 2.1249886799999955,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 27.375,
+        "distance": 2.370654459848664,
+        "leadHoleGapMm": 2.124988679999999,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 23.975,
+        "distance": 2.3769724912165775,
+        "leadHoleGapMm": 0.6249886799999957,
+        "annulusMaskGapMm": 0.5712729999999979,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 24.075,
+        "distance": 2.3769725568462827,
+        "leadHoleGapMm": 0.9249886799999963,
+        "annulusMaskGapMm": 0.8712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 25.375,
+        "distance": 2.376973016254152,
+        "leadHoleGapMm": 2.231202398661804,
+        "annulusMaskGapMm": 2.1724029146956134,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 25.675,
+        "distance": 2.376973091980713,
+        "leadHoleGapMm": 2.3501047370941754,
+        "annulusMaskGapMm": 2.277408921266343,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 26.875,
+        "distance": 2.3769733343056996,
+        "leadHoleGapMm": 2.3577725678196013,
+        "annulusMaskGapMm": 2.281212784866234,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 27.175,
+        "distance": 2.376973379741634,
+        "leadHoleGapMm": 2.2280792225204307,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 24.975,
+        "distance": 2.3853721286206806,
+        "leadHoleGapMm": 2.0249886799999977,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 26.275,
+        "distance": 2.400000360000048,
+        "leadHoleGapMm": 2.42498868,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 26.175,
+        "distance": 2.4020827695981586,
+        "leadHoleGapMm": 2.42498868,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 26.375,
+        "distance": 2.4020828095634754,
+        "leadHoleGapMm": 2.42498868,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 23.975,
+        "distance": 2.4041627016490263,
+        "leadHoleGapMm": 0.724988679999997,
+        "annulusMaskGapMm": 0.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 25.575,
+        "distance": 2.4041632606793475,
+        "leadHoleGapMm": 2.3530675293449503,
+        "annulusMaskGapMm": 2.2855581694624796,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 26.975,
+        "distance": 2.40416354019446,
+        "leadHoleGapMm": 2.3460004289311396,
+        "annulusMaskGapMm": 2.275657509886253,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 26.075,
+        "distance": 2.4083192346531552,
+        "leadHoleGapMm": 2.42498868,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 26.475,
+        "distance": 2.4083193143768042,
+        "leadHoleGapMm": 2.424988681781873,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 24.075,
+        "distance": 2.416608906712122,
+        "leadHoleGapMm": 1.0249886799999977,
+        "annulusMaskGapMm": 0.971273,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 25.275,
+        "distance": 2.4166093238255044,
+        "leadHoleGapMm": 2.2260450665295695,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 27.275,
+        "distance": 2.4166097210762776,
+        "leadHoleGapMm": 2.2250740027644995,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 23.875,
+        "distance": 2.418676892848722,
+        "leadHoleGapMm": 0.3249886799999949,
+        "annulusMaskGapMm": 0.2712729999999972,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 25.075,
+        "distance": 2.4186773989104777,
+        "leadHoleGapMm": 2.1249886799999955,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 25.975,
+        "distance": 2.4186776221729835,
+        "leadHoleGapMm": 2.42548207570977,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 26.575,
+        "distance": 2.4186777412463116,
+        "leadHoleGapMm": 2.4269718667065847,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 27.475,
+        "distance": 2.4186778752037994,
+        "leadHoleGapMm": 2.124988679999999,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 23.875,
+        "distance": 2.4331045978338763,
+        "leadHoleGapMm": 0.42498867999999634,
+        "annulusMaskGapMm": 0.3712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 25.875,
+        "distance": 2.4331052883096445,
+        "leadHoleGapMm": 2.4294354039451824,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 26.675,
+        "distance": 2.4331054461326502,
+        "leadHoleGapMm": 2.4329046146917106,
+        "annulusMaskGapMm": 2.37140545766113,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 23.975,
+        "distance": 2.435158797286194,
+        "leadHoleGapMm": 0.8249886799999949,
+        "annulusMaskGapMm": 0.7712729999999971,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 25.475,
+        "distance": 2.4351593147061954,
+        "leadHoleGapMm": 2.339983879357923,
+        "annulusMaskGapMm": 2.2770971370271536,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 27.075,
+        "distance": 2.435159630085953,
+        "leadHoleGapMm": 2.334940317611773,
+        "annulusMaskGapMm": 2.2717175142109958,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 24.875,
+        "distance": 2.4413111428083805,
+        "leadHoleGapMm": 2.0249886799999977,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 23.875,
+        "distance": 2.451529737939222,
+        "leadHoleGapMm": 0.5249886799999978,
+        "annulusMaskGapMm": 0.4712730000000001,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 25.775,
+        "distance": 2.451530388961222,
+        "leadHoleGapMm": 2.4373267843798376,
+        "annulusMaskGapMm": 2.3724568161239508,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 26.775,
+        "distance": 2.4515305847572777,
+        "leadHoleGapMm": 2.4427592806096614,
+        "annulusMaskGapMm": 2.37455329744409,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 25.175,
+        "distance": 2.4596748825811017,
+        "leadHoleGapMm": 2.224988679999997,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 27.375,
+        "distance": 2.4596753119060994,
+        "leadHoleGapMm": 2.2249886800000005,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 23.975,
+        "distance": 2.4698174912329747,
+        "leadHoleGapMm": 0.9249886799999963,
+        "annulusMaskGapMm": 0.8712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 24.975,
+        "distance": 2.4698178604910015,
+        "leadHoleGapMm": 2.1249886799999955,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 25.375,
+        "distance": 2.4698179673814726,
+        "leadHoleGapMm": 2.3309468031050242,
+        "annulusMaskGapMm": 2.2723531908085914,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 27.175,
+        "distance": 2.4698183172048016,
+        "leadHoleGapMm": 2.3279519357539433,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 23.875,
+        "distance": 2.473862997015063,
+        "leadHoleGapMm": 0.6249886799999957,
+        "annulusMaskGapMm": 0.5712729999999979,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 25.675,
+        "distance": 2.4738636082048573,
+        "leadHoleGapMm": 2.449119643863608,
+        "annulusMaskGapMm": 2.3772066811996586,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 26.875,
+        "distance": 2.4738638410390257,
+        "leadHoleGapMm": 2.4564905106662462,
+        "annulusMaskGapMm": 2.3808511041881486,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 23.875,
+        "distance": 2.4999996400000444,
+        "leadHoleGapMm": 0.724988679999997,
+        "annulusMaskGapMm": 0.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 24.775,
+        "distance": 2.500000000000073,
+        "leadHoleGapMm": 2.0249886799999977,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 25.575,
+        "distance": 2.5000002112000628,
+        "leadHoleGapMm": 2.4519674840261083,
+        "annulusMaskGapMm": 2.3850149593814813,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 26.275,
+        "distance": 2.5000003600000476,
+        "leadHoleGapMm": 2.524988680000001,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 26.975,
+        "distance": 2.500000480000027,
+        "leadHoleGapMm": 2.4451750105506154,
+        "annulusMaskGapMm": 2.3755288490730795,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 26.175,
+        "distance": 2.5019995411670974,
+        "leadHoleGapMm": 2.524988680000001,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 26.375,
+        "distance": 2.501999579536409,
+        "leadHoleGapMm": 2.524988680000001,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 25.075,
+        "distance": 2.505992903421787,
+        "leadHoleGapMm": 2.224988679999997,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 27.475,
+        "distance": 2.505993363119777,
+        "leadHoleGapMm": 2.2249886800000005,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 23.975,
+        "distance": 2.507986944144715,
+        "leadHoleGapMm": 1.0249886799999977,
+        "annulusMaskGapMm": 0.971273,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 25.275,
+        "distance": 2.5079873795536436,
+        "leadHoleGapMm": 2.3260015225730046,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 26.075,
+        "distance": 2.5079875613727367,
+        "leadHoleGapMm": 2.524988680000001,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 26.475,
+        "distance": 2.5079876379281396,
+        "leadHoleGapMm": 2.5249886817139933,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 27.275,
+        "distance": 2.507987762330661,
+        "leadHoleGapMm": 2.325070484404798,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 23.775,
+        "distance": 2.5179352287142645,
+        "leadHoleGapMm": 0.32604331262270214,
+        "annulusMaskGapMm": 0.2712729999999972,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 25.975,
+        "distance": 2.5179359626488447,
+        "leadHoleGapMm": 2.5254632830666925,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 26.575,
+        "distance": 2.517936077028241,
+        "leadHoleGapMm": 2.5268963723616067,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 24.875,
+        "distance": 2.523885926106874,
+        "leadHoleGapMm": 2.1249886799999955,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 23.875,
+        "distance": 2.529821786608762,
+        "leadHoleGapMm": 0.8249886799999949,
+        "annulusMaskGapMm": 0.7712729999999971,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 25.475,
+        "distance": 2.529822317871426,
+        "leadHoleGapMm": 2.4393934448065635,
+        "annulusMaskGapMm": 2.3769079876877917,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 27.075,
+        "distance": 2.529822621450042,
+        "leadHoleGapMm": 2.4345477084346485,
+        "annulusMaskGapMm": 2.371698771845403,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 23.775,
+        "distance": 2.5317973631395456,
+        "leadHoleGapMm": 0.425842790414137,
+        "annulusMaskGapMm": 0.3712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 25.875,
+        "distance": 2.5317980598776764,
+        "leadHoleGapMm": 2.5292662852460066,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 26.675,
+        "distance": 2.5317982115485367,
+        "leadHoleGapMm": 2.532603943461031,
+        "annulusMaskGapMm": 2.4714000980466517,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 23.775,
+        "distance": 2.5495093567195157,
+        "leadHoleGapMm": 0.5257063018945287,
+        "annulusMaskGapMm": 0.4712730000000001,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 25.175,
+        "distance": 2.5495098744661386,
+        "leadHoleGapMm": 2.324988679999995,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 25.775,
+        "distance": 2.5495100156697497,
+        "leadHoleGapMm": 2.5368589167286397,
+        "annulusMaskGapMm": 2.4724089355066243,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 26.775,
+        "distance": 2.5495102039412134,
+        "leadHoleGapMm": 2.5420867690381725,
+        "annulusMaskGapMm": 2.474432843064609,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 27.375,
+        "distance": 2.5495102886633654,
+        "leadHoleGapMm": 2.3249886799999984,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 24.975,
+        "distance": 2.5553865335796764,
+        "leadHoleGapMm": 2.224988679999997,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 24.675,
+        "distance": 2.5612496762323578,
+        "leadHoleGapMm": 2.026490981671759,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 23.875,
+        "distance": 2.563200800561741,
+        "leadHoleGapMm": 0.9249886799999963,
+        "annulusMaskGapMm": 0.8712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 25.375,
+        "distance": 2.563201292134575,
+        "leadHoleGapMm": 2.430711381316831,
+        "annulusMaskGapMm": 2.372307657909908,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 27.175,
+        "distance": 2.5632016292130366,
+        "leadHoleGapMm": 2.4278347134121185,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 28.675,
+        "distance": 2.5632016994377116,
+        "leadHoleGapMm": 0.9249886799999999,
+        "annulusMaskGapMm": 0.8712729999999989,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 23.775,
+        "distance": 2.570991643704887,
+        "leadHoleGapMm": 0.6256074091618163,
+        "annulusMaskGapMm": 0.5712729999999979,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 25.675,
+        "distance": 2.5709922644769594,
+        "leadHoleGapMm": 2.548208582179911,
+        "annulusMaskGapMm": 2.4770207539738265,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 26.875,
+        "distance": 2.5709924885149644,
+        "leadHoleGapMm": 2.555304401971,
+        "annulusMaskGapMm": 2.480518532644071,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 28.775,
+        "distance": 2.5709925771966673,
+        "leadHoleGapMm": 0.6249886799999992,
+        "annulusMaskGapMm": 0.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 24.775,
+        "distance": 2.5806975940625736,
+        "leadHoleGapMm": 2.1249886799999955,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 25.075,
+        "distance": 2.5942244513534964,
+        "leadHoleGapMm": 2.324988679999995,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 27.475,
+        "distance": 2.5942248954168106,
+        "leadHoleGapMm": 2.3249886799999984,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.575,
+        "y": 28.575,
+        "distance": 2.5942249462990614,
+        "leadHoleGapMm": 1.2249886800000007,
+        "annulusMaskGapMm": 1.1712729999999996,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 23.775,
+        "distance": 2.596150631993521,
+        "leadHoleGapMm": 0.7255324634625371,
+        "annulusMaskGapMm": 0.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 25.575,
+        "distance": 2.596151214394178,
+        "leadHoleGapMm": 2.550949976051331,
+        "annulusMaskGapMm": 2.4845153585659756,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 26.975,
+        "distance": 2.5961514732388733,
+        "leadHoleGapMm": 2.544411762629136,
+        "annulusMaskGapMm": 2.4754080140241923,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 28.775,
+        "distance": 2.5961515564389464,
+        "leadHoleGapMm": 0.7249886800000006,
+        "annulusMaskGapMm": 0.6712729999999995,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 23.875,
+        "distance": 2.5999996953846654,
+        "leadHoleGapMm": 1.0249886799999977,
+        "annulusMaskGapMm": 0.971273,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 25.275,
+        "distance": 2.6000001476923726,
+        "leadHoleGapMm": 2.4259614255816624,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 26.275,
+        "distance": 2.6000003600000436,
+        "leadHoleGapMm": 2.624988679999999,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 27.275,
+        "distance": 2.600000516923095,
+        "leadHoleGapMm": 2.425067244714748,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 28.675,
+        "distance": 2.600000581538469,
+        "leadHoleGapMm": 1.0249886800000012,
+        "annulusMaskGapMm": 0.9712729999999999,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 26.175,
+        "distance": 2.6019227075377076,
+        "leadHoleGapMm": 2.624988679999999,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 26.375,
+        "distance": 2.6019227444335,
+        "leadHoleGapMm": 2.624988679999999,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 24.875,
+        "distance": 2.6076810080990267,
+        "leadHoleGapMm": 2.224988679999997,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 26.075,
+        "distance": 2.607681284206403,
+        "leadHoleGapMm": 2.624988679999999,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 26.475,
+        "distance": 2.607681357835032,
+        "leadHoleGapMm": 2.624988681651092,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 23.675,
+        "distance": 2.6172500300888992,
+        "leadHoleGapMm": 0.3444149550032318,
+        "annulusMaskGapMm": 0.2724168470584098,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 25.975,
+        "distance": 2.617250768268175,
+        "leadHoleGapMm": 2.6254458693452936,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 26.575,
+        "distance": 2.6172508783073045,
+        "leadHoleGapMm": 2.626826413090235,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 23.775,
+        "distance": 2.624880602237053,
+        "leadHoleGapMm": 0.8254737080168839,
+        "annulusMaskGapMm": 0.7712729999999971,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 24.575,
+        "distance": 2.624880913108319,
+        "leadHoleGapMm": 2.032591766637797,
+        "annulusMaskGapMm": 1.9728928519536992,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 25.475,
+        "distance": 2.624881146261743,
+        "leadHoleGapMm": 2.538847627947956,
+        "annulusMaskGapMm": 2.4767340980433885,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 27.075,
+        "distance": 2.6248814388464043,
+        "leadHoleGapMm": 2.534184849689052,
+        "annulusMaskGapMm": 2.4716815459061467,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 28.775,
+        "distance": 2.6248815165641974,
+        "leadHoleGapMm": 0.8249886799999985,
+        "annulusMaskGapMm": 0.7712729999999973,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 23.675,
+        "distance": 2.630588867915385,
+        "leadHoleGapMm": 0.4408348992349931,
+        "annulusMaskGapMm": 0.37229639267892817,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 25.875,
+        "distance": 2.630589570419596,
+        "leadHoleGapMm": 2.6291095497856665,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 26.675,
+        "distance": 2.630589716394474,
+        "leadHoleGapMm": 2.632325247683108,
+        "annulusMaskGapMm": 2.571395155285354,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 24.675,
+        "distance": 2.640075751943559,
+        "leadHoleGapMm": 2.126423506687645,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 25.175,
+        "distance": 2.640075883757956,
+        "leadHoleGapMm": 2.4249886799999962,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 27.375,
+        "distance": 2.640076283746431,
+        "leadHoleGapMm": 2.42498868,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.675,
+        "y": 28.675,
+        "distance": 2.6400763428356333,
+        "leadHoleGapMm": 1.124988679999999,
+        "annulusMaskGapMm": 1.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 24.975,
+        "distance": 2.641969039939784,
+        "leadHoleGapMm": 2.324988679999995,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 23.675,
+        "distance": 2.647640055596747,
+        "leadHoleGapMm": 0.5383573640450355,
+        "annulusMaskGapMm": 0.4721759382994466,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 25.775,
+        "distance": 2.6476407218503715,
+        "leadHoleGapMm": 2.6364251648330024,
+        "annulusMaskGapMm": 2.57236477669342,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 26.775,
+        "distance": 2.6476409031438455,
+        "leadHoleGapMm": 2.641463155164876,
+        "annulusMaskGapMm": 2.574312693637855,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 23.775,
+        "distance": 2.657065721430382,
+        "leadHoleGapMm": 0.9254264089784906,
+        "annulusMaskGapMm": 0.8712729999999987,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 25.375,
+        "distance": 2.6570662272514705,
+        "leadHoleGapMm": 2.530493837956392,
+        "annulusMaskGapMm": 2.472265807670769,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 27.175,
+        "distance": 2.6570665524221204,
+        "leadHoleGapMm": 2.5277264078155732,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 28.775,
+        "distance": 2.6570666246822574,
+        "leadHoleGapMm": 0.9249886799999999,
+        "annulusMaskGapMm": 0.8712729999999989,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 24.775,
+        "distance": 2.6627054181791046,
+        "leadHoleGapMm": 2.224988679999997,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 23.675,
+        "distance": 2.668332426066952,
+        "leadHoleGapMm": 0.636544540561209,
+        "annulusMaskGapMm": 0.5720554839199622,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 25.675,
+        "distance": 2.668333055673589,
+        "leadHoleGapMm": 2.6473635417853463,
+        "annulusMaskGapMm": 2.5768492439593387,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 26.875,
+        "distance": 2.668333271538688,
+        "leadHoleGapMm": 2.654203914587037,
+        "annulusMaskGapMm": 2.580211696986789,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 28.875,
+        "distance": 2.668333361482476,
+        "leadHoleGapMm": 0.6249886799999992,
+        "annulusMaskGapMm": 0.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 25.075,
+        "distance": 2.683281680331075,
+        "leadHoleGapMm": 2.4249886799999962,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 27.475,
+        "distance": 2.6832821096560773,
+        "leadHoleGapMm": 2.42498868,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.575,
+        "y": 28.675,
+        "distance": 2.6832821633216986,
+        "leadHoleGapMm": 1.2249886800000007,
+        "annulusMaskGapMm": 1.1712729999999996,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 24.475,
+        "distance": 2.6907247558976284,
+        "leadHoleGapMm": 2.036352272341281,
+        "annulusMaskGapMm": 1.9747874704096926,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 23.675,
+        "distance": 2.6925820336621773,
+        "leadHoleGapMm": 0.7351620179525192,
+        "annulusMaskGapMm": 0.6719417395652685,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 23.775,
+        "distance": 2.6925820915991325,
+        "leadHoleGapMm": 1.0253875138060333,
+        "annulusMaskGapMm": 0.971273,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 24.875,
+        "distance": 2.6925824615042613,
+        "leadHoleGapMm": 2.324988679999995,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 25.275,
+        "distance": 2.6925825595513992,
+        "leadHoleGapMm": 2.5259243819132626,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 25.575,
+        "distance": 2.6925826264017143,
+        "leadHoleGapMm": 2.6500060929980753,
+        "annulusMaskGapMm": 2.5840543294263316,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 26.975,
+        "distance": 2.692582875976218,
+        "leadHoleGapMm": 2.643703939263732,
+        "annulusMaskGapMm": 2.5752875596447073,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 27.275,
+        "distance": 2.6925829160864048,
+        "leadHoleGapMm": 2.5250642518481974,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 28.875,
+        "distance": 2.692582960653278,
+        "leadHoleGapMm": 0.7249886800000006,
+        "annulusMaskGapMm": 0.6712729999999995,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 28.775,
+        "distance": 2.6925829829367127,
+        "leadHoleGapMm": 1.0249886800000012,
+        "annulusMaskGapMm": 0.9712729999999999,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 26.275,
+        "distance": 2.7000003600000433,
+        "leadHoleGapMm": 2.7249886800000005,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 24.575,
+        "distance": 2.701851195014328,
+        "leadHoleGapMm": 2.132251190867934,
+        "annulusMaskGapMm": 2.072814705971084,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 26.175,
+        "distance": 2.701851559209048,
+        "leadHoleGapMm": 2.7249886800000005,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 26.375,
+        "distance": 2.7018515947402375,
+        "leadHoleGapMm": 2.7249886800000005,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 26.075,
+        "distance": 2.707397597694207,
+        "leadHoleGapMm": 2.7249886800000005,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 26.475,
+        "distance": 2.707397668611016,
+        "leadHoleGapMm": 2.7249886815926474,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 23.575,
+        "distance": 2.716615104132411,
+        "leadHoleGapMm": 0.38321465233426477,
+        "annulusMaskGapMm": 0.2867904979197153,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 25.975,
+        "distance": 2.7166158462322865,
+        "leadHoleGapMm": 2.7254296881591893,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 26.575,
+        "distance": 2.716615952246538,
+        "leadHoleGapMm": 2.7267614018743367,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 23.675,
+        "distance": 2.72029374884411,
+        "leadHoleGapMm": 0.834073515431478,
+        "annulusMaskGapMm": 0.7718551038698881,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 24.675,
+        "distance": 2.7202941105697294,
+        "leadHoleGapMm": 2.226361830655609,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 25.475,
+        "distance": 2.720294304666381,
+        "leadHoleGapMm": 2.638341567359072,
+        "annulusMaskGapMm": 2.5765736944414277,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 27.075,
+        "distance": 2.7202945869887616,
+        "leadHoleGapMm": 2.633848488547111,
+        "annulusMaskGapMm": 2.571665659523607,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 28.875,
+        "distance": 2.7202946663919274,
+        "leadHoleGapMm": 0.8249886799999985,
+        "annulusMaskGapMm": 0.7712729999999973,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 23.575,
+        "distance": 2.729468390731124,
+        "leadHoleGapMm": 0.4731440798180897,
+        "annulusMaskGapMm": 0.3841977460412842,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 24.975,
+        "distance": 2.7294689007204957,
+        "leadHoleGapMm": 2.4249886799999962,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 25.875,
+        "distance": 2.7294690985611765,
+        "leadHoleGapMm": 2.7289638864310963,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 26.675,
+        "distance": 2.7294692392478734,
+        "leadHoleGapMm": 2.7320662059928202,
+        "annulusMaskGapMm": 2.6713905825665023,
+        "routes": []
+      },
+      {
+        "x": 19.475,
+        "y": 28.675,
+        "distance": 2.7294694063133167,
+        "leadHoleGapMm": 1.3249886799999986,
+        "annulusMaskGapMm": 1.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 25.175,
+        "distance": 2.731300192948472,
+        "leadHoleGapMm": 2.5249886799999977,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 27.375,
+        "distance": 2.731300579577497,
+        "leadHoleGapMm": 2.524988680000001,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 19.675,
+        "y": 28.775,
+        "distance": 2.731300641086653,
+        "leadHoleGapMm": 1.124988679999999,
+        "annulusMaskGapMm": 1.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 23.575,
+        "distance": 2.7459056371260018,
+        "leadHoleGapMm": 0.565951854288676,
+        "annulusMaskGapMm": 0.4826203393933604,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 24.775,
+        "distance": 2.74590608288054,
+        "leadHoleGapMm": 2.324988679999995,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 25.775,
+        "distance": 2.745906310127926,
+        "leadHoleGapMm": 2.7360219355166016,
+        "annulusMaskGapMm": 2.6723239220523016,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 26.775,
+        "distance": 2.745906484933594,
+        "leadHoleGapMm": 2.7408833075518193,
+        "annulusMaskGapMm": 2.674199028611183,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 23.675,
+        "distance": 2.7513629626060507,
+        "leadHoleGapMm": 0.9331945935933469,
+        "annulusMaskGapMm": 0.8717883351880763,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 25.375,
+        "distance": 2.7513634816214947,
+        "leadHoleGapMm": 2.6302922128458226,
+        "annulusMaskGapMm": 2.5722272107607425,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 27.175,
+        "distance": 2.7513637956475985,
+        "leadHoleGapMm": 2.627626039311717,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 28.875,
+        "distance": 2.7513638697926472,
+        "leadHoleGapMm": 0.9249886799999999,
+        "annulusMaskGapMm": 0.8712729999999989,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 24.375,
+        "distance": 2.7586227752268626,
+        "leadHoleGapMm": 2.028377330159705,
+        "annulusMaskGapMm": 1.971374627212697,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 23.575,
+        "distance": 2.765862946713078,
+        "leadHoleGapMm": 0.6605850433912847,
+        "annulusMaskGapMm": 0.5815076334994468,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 24.475,
+        "distance": 2.7658632981404456,
+        "leadHoleGapMm": 2.1358440839060635,
+        "annulusMaskGapMm": 2.074667016030207,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 25.675,
+        "distance": 2.7658635844886423,
+        "leadHoleGapMm": 2.7465776235211523,
+        "annulusMaskGapMm": 2.6766905380657255,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 26.875,
+        "distance": 2.765863792741856,
+        "leadHoleGapMm": 2.7531801448780913,
+        "annulusMaskGapMm": 2.679927725097118,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 28.975,
+        "distance": 2.765863883852634,
+        "leadHoleGapMm": 0.6249886799999992,
+        "annulusMaskGapMm": 0.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 25.075,
+        "distance": 2.773085041609861,
+        "leadHoleGapMm": 2.5249886799999977,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 27.475,
+        "distance": 2.7730854570316392,
+        "leadHoleGapMm": 2.524988680000001,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 19.575,
+        "y": 28.775,
+        "distance": 2.7730855132866647,
+        "leadHoleGapMm": 1.2249886800000007,
+        "annulusMaskGapMm": 1.1712729999999996,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 24.875,
+        "distance": 2.778488866992336,
+        "leadHoleGapMm": 2.4249886799999962,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 28.675,
+        "distance": 2.778489393897406,
+        "leadHoleGapMm": 1.42498868,
+        "annulusMaskGapMm": 1.3712729999999989,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 24.575,
+        "distance": 2.7802877462594333,
+        "leadHoleGapMm": 2.231939775193887,
+        "annulusMaskGapMm": 2.172743750489228,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 23.675,
+        "distance": 2.7856773366634457,
+        "leadHoleGapMm": 1.0324702222268467,
+        "annulusMaskGapMm": 0.9717353041698136,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 25.275,
+        "distance": 2.785677819131343,
+        "leadHoleGapMm": 2.625890055656416,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 27.275,
+        "distance": 2.785678163751218,
+        "leadHoleGapMm": 2.6250614786333397,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 28.875,
+        "distance": 2.7856782326751905,
+        "leadHoleGapMm": 1.0249886800000012,
+        "annulusMaskGapMm": 0.9712729999999999,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 23.575,
+        "distance": 2.789264761904175,
+        "leadHoleGapMm": 0.756438756847519,
+        "annulusMaskGapMm": 0.6804252844959261,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 25.575,
+        "distance": 2.789265364213373,
+        "leadHoleGapMm": 2.7491281556866736,
+        "annulusMaskGapMm": 2.6836275799566036,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 26.975,
+        "distance": 2.789265605137017,
+        "leadHoleGapMm": 2.743045733422403,
+        "annulusMaskGapMm": 2.6751671052652255,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 28.975,
+        "distance": 2.7892656911811717,
+        "leadHoleGapMm": 0.7249886800000006,
+        "annulusMaskGapMm": 0.6712729999999995,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 26.275,
+        "distance": 2.80000036000004,
+        "leadHoleGapMm": 2.8249886799999984,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 24.675,
+        "distance": 2.80178516663936,
+        "leadHoleGapMm": 2.3263052370077646,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 26.175,
+        "distance": 2.8017854878631145,
+        "leadHoleGapMm": 2.8249886799999984,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 26.375,
+        "distance": 2.8017855221269796,
+        "leadHoleGapMm": 2.8249886799999984,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.575,
+        "y": 23.475,
+        "distance": 2.807133316392426,
+        "leadHoleGapMm": 0.36313109616017447,
+        "annulusMaskGapMm": 0.22702938694725658,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 26.075,
+        "distance": 2.8071340944102317,
+        "leadHoleGapMm": 2.8249886799999984,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 26.475,
+        "distance": 2.807134162807391,
+        "leadHoleGapMm": 2.824988681538196,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 23.475,
+        "distance": 2.8160251291493013,
+        "leadHoleGapMm": 0.43804102838958514,
+        "annulusMaskGapMm": 0.31765086122144753,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 23.575,
+        "distance": 2.8160252101144887,
+        "leadHoleGapMm": 0.8531448369636796,
+        "annulusMaskGapMm": 0.779428375015928,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 25.475,
+        "distance": 2.8160257768707226,
+        "leadHoleGapMm": 2.737871081555071,
+        "annulusMaskGapMm": 2.676425267659143,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 25.975,
+        "distance": 2.816025874881186,
+        "leadHoleGapMm": 2.825414613132867,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 26.575,
+        "distance": 2.816025977152972,
+        "leadHoleGapMm": 2.8267008318457414,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 27.075,
+        "distance": 2.816026049595487,
+        "leadHoleGapMm": 2.73353582901846,
+        "annulusMaskGapMm": 2.67165096230271,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 28.975,
+        "distance": 2.816026130560648,
+        "leadHoleGapMm": 0.8249886799999985,
+        "annulusMaskGapMm": 0.7712729999999973,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 24.975,
+        "distance": 2.8178006586698707,
+        "leadHoleGapMm": 2.5249886799999977,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.475,
+        "y": 28.775,
+        "distance": 2.8178011526721254,
+        "leadHoleGapMm": 1.3249886799999986,
+        "annulusMaskGapMm": 1.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 25.175,
+        "distance": 2.823118987219694,
+        "leadHoleGapMm": 2.6249886799999955,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 27.375,
+        "distance": 2.823119361274043,
+        "leadHoleGapMm": 2.624988679999999,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.675,
+        "y": 28.875,
+        "distance": 2.8231194250333034,
+        "leadHoleGapMm": 1.124988679999999,
+        "annulusMaskGapMm": 1.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 23.475,
+        "distance": 2.82842670048215,
+        "leadHoleGapMm": 0.5200692576079893,
+        "annulusMaskGapMm": 0.41125485254324495,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 24.275,
+        "distance": 2.8284270398934392,
+        "leadHoleGapMm": 2.0250833130815726,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 25.875,
+        "distance": 2.828427413245804,
+        "leadHoleGapMm": 2.8288281627182092,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 26.675,
+        "distance": 2.8284275490102897,
+        "leadHoleGapMm": 2.8318248124890673,
+        "annulusMaskGapMm": 2.771386339835171,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 24.775,
+        "distance": 2.830194390496942,
+        "leadHoleGapMm": 2.4249886799999962,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 24.375,
+        "distance": 2.831960396615805,
+        "leadHoleGapMm": 2.1282252569113704,
+        "annulusMaskGapMm": 2.0713697209378124,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 24.475,
+        "distance": 2.842534055380929,
+        "leadHoleGapMm": 2.235379306138031,
+        "annulusMaskGapMm": 2.1745465616507262,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 23.475,
+        "distance": 2.8442921214250028,
+        "leadHoleGapMm": 0.6067415512268427,
+        "annulusMaskGapMm": 0.5058714958326209,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 25.775,
+        "distance": 2.844292800680048,
+        "leadHoleGapMm": 2.8356461221903637,
+        "annulusMaskGapMm": 2.7722860141718755,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 26.775,
+        "distance": 2.84429296943904,
+        "leadHoleGapMm": 2.840342786670723,
+        "annulusMaskGapMm": 2.774093553690103,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 23.575,
+        "distance": 2.846049552625596,
+        "leadHoleGapMm": 0.9504679034746951,
+        "annulusMaskGapMm": 0.8786516956432359,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 25.375,
+        "distance": 2.846050083888258,
+        "leadHoleGapMm": 2.730104822003338,
+        "annulusMaskGapMm": 2.6721915020780225,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 27.175,
+        "distance": 2.8460503874668786,
+        "leadHoleGapMm": 2.727532766623816,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 28.975,
+        "distance": 2.84605046336153,
+        "leadHoleGapMm": 0.9249886799999999,
+        "annulusMaskGapMm": 0.8712729999999989,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 24.575,
+        "distance": 2.860069933410781,
+        "leadHoleGapMm": 2.331653933258453,
+        "annulusMaskGapMm": 2.272679037015563,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 23.475,
+        "distance": 2.863563818740616,
+        "leadHoleGapMm": 0.6965433800054586,
+        "annulusMaskGapMm": 0.6021094098060102,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 25.075,
+        "distance": 2.863564338372783,
+        "leadHoleGapMm": 2.6249886799999955,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 25.675,
+        "distance": 2.863564464090227,
+        "leadHoleGapMm": 2.8458448538121144,
+        "annulusMaskGapMm": 2.7765432550290536,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 26.875,
+        "distance": 2.8635646652381284,
+        "leadHoleGapMm": 2.852225376749979,
+        "annulusMaskGapMm": 2.779664156372306,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 27.475,
+        "distance": 2.8635647406685893,
+        "leadHoleGapMm": 2.624988679999999,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 29.075,
+        "distance": 2.8635647574309133,
+        "leadHoleGapMm": 0.6274750705876877,
+        "annulusMaskGapMm": 0.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.575,
+        "y": 28.875,
+        "distance": 2.863564799336724,
+        "leadHoleGapMm": 1.2249886800000007,
+        "annulusMaskGapMm": 1.1712729999999996,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 24.875,
+        "distance": 2.865309835951491,
+        "leadHoleGapMm": 2.5249886799999977,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 28.775,
+        "distance": 2.865310351078983,
+        "leadHoleGapMm": 1.42498868,
+        "annulusMaskGapMm": 1.3712729999999989,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 23.575,
+        "distance": 2.8792356846914,
+        "leadHoleGapMm": 1.0482510841408004,
+        "annulusMaskGapMm": 0.9780332370290377,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 25.275,
+        "distance": 2.8792361806563145,
+        "leadHoleGapMm": 2.7258581584231267,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 27.275,
+        "distance": 2.8792365140780576,
+        "leadHoleGapMm": 2.7250589017454723,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 28.975,
+        "distance": 2.879236584930176,
+        "leadHoleGapMm": 1.0249886800000012,
+        "annulusMaskGapMm": 0.9712729999999999,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 24.675,
+        "distance": 2.884441053653264,
+        "leadHoleGapMm": 2.4262531225376667,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 23.475,
+        "distance": 2.8861735595768216,
+        "leadHoleGapMm": 0.7885263598962733,
+        "annulusMaskGapMm": 0.6991010171878608,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 25.575,
+        "distance": 2.8861741707666138,
+        "leadHoleGapMm": 2.8483095128440183,
+        "annulusMaskGapMm": 2.7832314309773967,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 26.975,
+        "distance": 2.8861744036007866,
+        "leadHoleGapMm": 2.8424321195791955,
+        "annulusMaskGapMm": 2.7750466508857405,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 29.075,
+        "distance": 2.8861744909135982,
+        "leadHoleGapMm": 0.7271745367977446,
+        "annulusMaskGapMm": 0.6712729999999995,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 24.175,
+        "distance": 2.8999999006897146,
+        "leadHoleGapMm": 2.0249886799999977,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 24.275,
+        "distance": 2.8999999296552326,
+        "leadHoleGapMm": 2.12507906006455,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 26.275,
+        "distance": 2.9000003600000395,
+        "leadHoleGapMm": 2.9249886800000002,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 20.675,
+        "y": 23.375,
+        "distance": 2.9017231584009435,
+        "leadHoleGapMm": 0.38526737396050537,
+        "annulusMaskGapMm": 0.2032913229987572,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 26.175,
+        "distance": 2.9017239689536907,
+        "leadHoleGapMm": 2.9249886800000002,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 26.375,
+        "distance": 2.9017240020374717,
+        "leadHoleGapMm": 2.9249886800000002,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 20.575,
+        "y": 23.375,
+        "distance": 2.9068879166559465,
+        "leadHoleGapMm": 0.43896396932496806,
+        "annulusMaskGapMm": 0.28018810910293146,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 24.375,
+        "distance": 2.9068883294685324,
+        "leadHoleGapMm": 2.228086237994149,
+        "annulusMaskGapMm": 2.1713652665588064,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 24.975,
+        "distance": 2.906888478081047,
+        "leadHoleGapMm": 2.6249886799999955,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 26.075,
+        "distance": 2.9068886968716843,
+        "leadHoleGapMm": 2.9249886800000002,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 26.475,
+        "distance": 2.9068887629216844,
+        "leadHoleGapMm": 2.9249886814873474,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 27.575,
+        "distance": 2.9068889074060533,
+        "leadHoleGapMm": 2.624988679999999,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.475,
+        "y": 28.875,
+        "distance": 2.906888961071676,
+        "leadHoleGapMm": 1.3249886799999986,
+        "annulusMaskGapMm": 1.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 23.475,
+        "distance": 2.912043593080354,
+        "leadHoleGapMm": 0.8820778116985015,
+        "annulusMaskGapMm": 0.7963032472824798,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 25.475,
+        "distance": 2.9120441699947386,
+        "leadHoleGapMm": 2.83743255437917,
+        "annulusMaskGapMm": 2.776287525426908,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 27.075,
+        "distance": 2.9120444337269915,
+        "leadHoleGapMm": 2.833244454581193,
+        "annulusMaskGapMm": 2.7716373255483813,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 29.075,
+        "distance": 2.912044516143317,
+        "leadHoleGapMm": 0.8269387521980941,
+        "annulusMaskGapMm": 0.7712729999999973,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 23.375,
+        "distance": 2.91547550701431,
+        "leadHoleGapMm": 0.5045493331652287,
+        "annulusMaskGapMm": 0.36341137364147114,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 24.775,
+        "distance": 2.915476009162203,
+        "leadHoleGapMm": 2.5249886799999977,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 25.175,
+        "distance": 2.9154760997134512,
+        "leadHoleGapMm": 2.724988679999997,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 25.975,
+        "distance": 2.9154762561201486,
+        "leadHoleGapMm": 2.925400534595598,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 26.575,
+        "distance": 2.915476354903322,
+        "leadHoleGapMm": 2.9266442630620735,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 27.375,
+        "distance": 2.9154764619184235,
+        "leadHoleGapMm": 2.7249886800000005,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 19.675,
+        "y": 28.975,
+        "distance": 2.9154765277738695,
+        "leadHoleGapMm": 1.124988679999999,
+        "annulusMaskGapMm": 1.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 28.775,
+        "distance": 2.9154765442377286,
+        "leadHoleGapMm": 1.5249886800000012,
+        "annulusMaskGapMm": 1.471273,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 24.475,
+        "distance": 2.9206163609759397,
+        "leadHoleGapMm": 2.3349526154604607,
+        "annulusMaskGapMm": 2.274426107271241,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 23.375,
+        "distance": 2.9274558073522385,
+        "leadHoleGapMm": 0.5785850221088903,
+        "annulusMaskGapMm": 0.4506328268684093,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 25.875,
+        "distance": 2.927456524698592,
+        "leadHoleGapMm": 2.9287013954385346,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 26.675,
+        "distance": 2.9274566558704778,
+        "leadHoleGapMm": 2.9315993249647225,
+        "annulusMaskGapMm": 2.8713823926159665,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 23.475,
+        "distance": 2.9410878871601813,
+        "leadHoleGapMm": 0.9767890063659265,
+        "annulusMaskGapMm": 0.8940991810563201,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 24.575,
+        "distance": 2.9410882502910987,
+        "leadHoleGapMm": 2.4313906429335064,
+        "annulusMaskGapMm": 2.3726197768057977,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 25.375,
+        "distance": 2.941088429816477,
+        "leadHoleGapMm": 2.829930210692148,
+        "annulusMaskGapMm": 2.7721583691733747,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 27.175,
+        "distance": 2.941088723585257,
+        "leadHoleGapMm": 2.8274458632622603,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 29.075,
+        "distance": 2.9410888011075706,
+        "leadHoleGapMm": 0.9267488428659475,
+        "annulusMaskGapMm": 0.8712729999999989,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 23.375,
+        "distance": 2.942787382058097,
+        "leadHoleGapMm": 0.6586009281766825,
+        "annulusMaskGapMm": 0.5410122563110988,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 25.775,
+        "distance": 2.942788067122802,
+        "leadHoleGapMm": 2.9352950253198333,
+        "annulusMaskGapMm": 2.8722507453864456,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 26.775,
+        "distance": 2.9427882302334227,
+        "leadHoleGapMm": 2.9398377323677263,
+        "annulusMaskGapMm": 2.8739954148580322,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 24.875,
+        "distance": 2.952964701448419,
+        "leadHoleGapMm": 2.6249886799999955,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 28.875,
+        "distance": 2.9529652053487476,
+        "leadHoleGapMm": 1.42498868,
+        "annulusMaskGapMm": 1.3712729999999989,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 25.075,
+        "distance": 2.9546574745645833,
+        "leadHoleGapMm": 2.724988679999997,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 27.475,
+        "distance": 2.9546578644574693,
+        "leadHoleGapMm": 2.7249886800000005,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 19.575,
+        "y": 28.975,
+        "distance": 2.954657925378229,
+        "leadHoleGapMm": 1.2249886800000007,
+        "annulusMaskGapMm": 1.1712729999999996,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 23.375,
+        "distance": 2.9614181818852177,
+        "leadHoleGapMm": 0.7428956662781703,
+        "annulusMaskGapMm": 0.633362192166142,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 25.675,
+        "distance": 2.9614188342752796,
+        "leadHoleGapMm": 2.9451600349950944,
+        "annulusMaskGapMm": 2.8764062052366843,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 26.875,
+        "distance": 2.9614190287766373,
+        "leadHoleGapMm": 2.951332890906294,
+        "annulusMaskGapMm": 2.8794188706573647,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 29.175,
+        "distance": 2.9614191219752017,
+        "leadHoleGapMm": 0.6424546789714254,
+        "annulusMaskGapMm": 0.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 24.675,
+        "distance": 2.968164460403156,
+        "leadHoleGapMm": 2.526204975840865,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 28.775,
+        "distance": 2.9681650142807694,
+        "leadHoleGapMm": 1.6249886799999993,
+        "annulusMaskGapMm": 1.5712729999999981,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 24.175,
+        "distance": 2.9698483961307427,
+        "leadHoleGapMm": 2.1249886799999955,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 23.475,
+        "distance": 2.973213418508726,
+        "leadHoleGapMm": 1.0723789064251035,
+        "annulusMaskGapMm": 0.992334535072998,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 24.075,
+        "distance": 2.97321363645473,
+        "leadHoleGapMm": 2.0249886799999977,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 24.275,
+        "distance": 2.9732136929592463,
+        "leadHoleGapMm": 2.2250751728788787,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 25.275,
+        "distance": 2.9732139270493723,
+        "leadHoleGapMm": 2.825828441232762,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 27.275,
+        "distance": 2.973214249932277,
+        "leadHoleGapMm": 2.8250565010493935,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 29.075,
+        "distance": 2.9732143225809287,
+        "leadHoleGapMm": 1.026592615955992,
+        "annulusMaskGapMm": 0.9712729999999999,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 23.375,
+        "distance": 2.9832863959064255,
+        "leadHoleGapMm": 0.830306852726842,
+        "annulusMaskGapMm": 0.727407057437374,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 24.375,
+        "distance": 2.983286749878453,
+        "leadHoleGapMm": 2.327958662650116,
+        "annulusMaskGapMm": 2.2713612043922002,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 25.575,
+        "distance": 2.9832870153574493,
+        "leadHoleGapMm": 2.947544375317042,
+        "annulusMaskGapMm": 2.8828627107195475,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 26.975,
+        "distance": 2.9832872406123356,
+        "leadHoleGapMm": 2.941858726885804,
+        "annulusMaskGapMm": 2.8749261965062596,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 29.175,
+        "distance": 2.9832873291053237,
+        "leadHoleGapMm": 0.7403788945032855,
+        "annulusMaskGapMm": 0.6712729999999995,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 24.975,
+        "distance": 2.9966649288835003,
+        "leadHoleGapMm": 2.724988679999997,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 27.575,
+        "distance": 2.9966653453464516,
+        "leadHoleGapMm": 2.7249886800000005,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 19.475,
+        "y": 28.975,
+        "distance": 2.9966654014087686,
+        "leadHoleGapMm": 1.3249886799999986,
+        "annulusMaskGapMm": 1.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 20.775,
+        "y": 23.275,
+        "distance": 2.999999520000021,
+        "leadHoleGapMm": 0.4444983344607467,
+        "annulusMaskGapMm": 0.22035154866509263,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 24.475,
+        "distance": 3.0000000000000577,
+        "leadHoleGapMm": 2.434559522981803,
+        "annulusMaskGapMm": 2.37430565289176,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 26.275,
+        "distance": 3.0000003600000396,
+        "leadHoleGapMm": 3.0249886800000017,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 20.875,
+        "y": 23.275,
+        "distance": 3.0016657122338515,
+        "leadHoleGapMm": 0.4305475475681021,
+        "annulusMaskGapMm": 0.17891625783737505,
+        "routes": []
+      },
+      {
+        "x": 20.675,
+        "y": 23.275,
+        "distance": 3.0016657362205335,
+        "leadHoleGapMm": 0.47573967401120254,
+        "annulusMaskGapMm": 0.27678911055300254,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 24.775,
+        "distance": 3.0016662759208184,
+        "leadHoleGapMm": 2.6249886799999955,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 26.175,
+        "distance": 3.0016665477698163,
+        "leadHoleGapMm": 3.0249886800000017,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 26.375,
+        "distance": 3.0016665797520496,
+        "leadHoleGapMm": 3.0249886800000017,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 28.875,
+        "distance": 3.001666799629895,
+        "leadHoleGapMm": 1.5249886800000012,
+        "annulusMaskGapMm": 1.471273,
+        "routes": []
+      },
+      {
+        "x": 20.575,
+        "y": 23.275,
+        "distance": 3.0066588206845744,
+        "leadHoleGapMm": 0.5216702568327729,
+        "annulusMaskGapMm": 0.3445760268284558,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 26.075,
+        "distance": 3.0066596029481567,
+        "leadHoleGapMm": 3.0249886800000017,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 26.475,
+        "distance": 3.0066596668063994,
+        "leadHoleGapMm": 3.0249886814397535,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 23.375,
+        "distance": 3.008321424316282,
+        "leadHoleGapMm": 0.9200336152453593,
+        "annulusMaskGapMm": 0.8220567989753542,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 25.175,
+        "distance": 3.008321950855717,
+        "leadHoleGapMm": 2.824988679999995,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 25.475,
+        "distance": 3.008322010689739,
+        "leadHoleGapMm": 2.9370228427732545,
+        "annulusMaskGapMm": 2.876159354819867,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 27.075,
+        "distance": 3.008322265981549,
+        "leadHoleGapMm": 2.932972266001014,
+        "annulusMaskGapMm": 2.871624638488288,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 27.375,
+        "distance": 3.008322301881957,
+        "leadHoleGapMm": 2.8249886799999984,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 29.175,
+        "distance": 3.008322349749171,
+        "leadHoleGapMm": 0.8387408707021127,
+        "annulusMaskGapMm": 0.7712729999999973,
+        "routes": []
+      },
+      {
+        "x": 19.675,
+        "y": 29.075,
+        "distance": 3.008322369693841,
+        "leadHoleGapMm": 1.1264618454426376,
+        "annulusMaskGapMm": 1.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 20.475,
+        "y": 23.275,
+        "distance": 3.014962244539781,
+        "leadHoleGapMm": 0.5793170424996884,
+        "annulusMaskGapMm": 0.42012067503782624,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 25.975,
+        "distance": 3.014962996787915,
+        "leadHoleGapMm": 3.025387356909754,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 26.575,
+        "distance": 3.0149630923114747,
+        "leadHoleGapMm": 3.026591311816524,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 24.575,
+        "distance": 3.023243319350985,
+        "leadHoleGapMm": 2.531147339684974,
+        "annulusMaskGapMm": 2.4725653085995525,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 28.775,
+        "distance": 3.0232438909225245,
+        "leadHoleGapMm": 1.7249886800000005,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 20.375,
+        "y": 23.275,
+        "distance": 3.0265487618738867,
+        "leadHoleGapMm": 0.6459687528513,
+        "annulusMaskGapMm": 0.5011045633030307,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 25.875,
+        "distance": 3.026549483487816,
+        "leadHoleGapMm": 3.0285827268479473,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 26.675,
+        "distance": 3.026549610364973,
+        "leadHoleGapMm": 3.031388222997361,
+        "annulusMaskGapMm": 2.9713787110742045,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 23.375,
+        "distance": 3.036444938410764,
+        "leadHoleGapMm": 1.0115153225351954,
+        "annulusMaskGapMm": 0.9178274085156853,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 25.375,
+        "distance": 3.0364454916893133,
+        "leadHoleGapMm": 2.9297671157246623,
+        "annulusMaskGapMm": 2.872127543090312,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 27.175,
+        "distance": 3.036445776232529,
+        "leadHoleGapMm": 2.927364698600307,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 29.175,
+        "distance": 3.0364458552723077,
+        "leadHoleGapMm": 0.9374160970057112,
+        "annulusMaskGapMm": 0.8712729999999989,
+        "routes": []
+      },
+      {
+        "x": 20.275,
+        "y": 23.275,
+        "distance": 3.0413808508636926,
+        "leadHoleGapMm": 0.7194309709978779,
+        "annulusMaskGapMm": 0.5863699546418099,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 24.075,
+        "distance": 3.0413811665097734,
+        "leadHoleGapMm": 2.1249886799999955,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 24.175,
+        "distance": 3.041381194128804,
+        "leadHoleGapMm": 2.224988679999997,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 24.875,
+        "distance": 3.0413813637885596,
+        "leadHoleGapMm": 2.724988679999997,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 25.775,
+        "distance": 3.0413815413394563,
+        "leadHoleGapMm": 3.034966287973658,
+        "annulusMaskGapMm": 2.972217849413633,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 26.775,
+        "distance": 3.041381699162466,
+        "leadHoleGapMm": 3.039364772549786,
+        "annulusMaskGapMm": 2.9739038727949834,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 28.975,
+        "distance": 3.0413818569854687,
+        "leadHoleGapMm": 1.42498868,
+        "annulusMaskGapMm": 1.3712729999999989,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 25.075,
+        "distance": 3.0463093841565647,
+        "leadHoleGapMm": 2.824988679999995,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 27.475,
+        "distance": 3.0463097623190523,
+        "leadHoleGapMm": 2.8249886799999984,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.575,
+        "y": 29.075,
+        "distance": 3.04630982534613,
+        "leadHoleGapMm": 1.2263507810253529,
+        "annulusMaskGapMm": 1.1712729999999996,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 23.975,
+        "distance": 3.0479500048393757,
+        "leadHoleGapMm": 2.0249886799999977,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 24.275,
+        "distance": 3.047950087517896,
+        "leadHoleGapMm": 2.3250716062701606,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 24.675,
+        "distance": 3.0528675595250356,
+        "leadHoleGapMm": 2.626160360494464,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 28.875,
+        "distance": 3.052868101965817,
+        "leadHoleGapMm": 1.6249886799999993,
+        "annulusMaskGapMm": 1.5712729999999981,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 23.275,
+        "distance": 3.0594113080787873,
+        "leadHoleGapMm": 0.7980338814490917,
+        "annulusMaskGapMm": 0.6742384939805649,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 25.675,
+        "distance": 3.059411967029018,
+        "leadHoleGapMm": 3.0445186236896955,
+        "annulusMaskGapMm": 2.9762783586218666,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 26.875,
+        "distance": 3.0594121553004867,
+        "leadHoleGapMm": 3.050496809572511,
+        "annulusMaskGapMm": 2.9791900313968736,
+        "routes": []
+      },
+      {
+        "x": 20.175,
+        "y": 29.275,
+        "distance": 3.0594122494362153,
+        "leadHoleGapMm": 0.6702323820293211,
+        "annulusMaskGapMm": 0.5755341409308663,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 24.375,
+        "distance": 3.0610455573219344,
+        "leadHoleGapMm": 2.4278411745079524,
+        "annulusMaskGapMm": 2.3713574848212984,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 23.375,
+        "distance": 3.067571993613247,
+        "leadHoleGapMm": 1.1043521280051452,
+        "annulusMaskGapMm": 1.014414571515824,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 25.275,
+        "distance": 3.0675725138943917,
+        "leadHoleGapMm": 2.925800688004175,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 27.275,
+        "distance": 3.0675728268454137,
+        "leadHoleGapMm": 2.9250542590722777,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 29.175,
+        "distance": 3.067572901171279,
+        "leadHoleGapMm": 1.0363229709578903,
+        "annulusMaskGapMm": 0.9712729999999999,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 23.275,
+        "distance": 3.0805839745087873,
+        "leadHoleGapMm": 0.8805419869799166,
+        "annulusMaskGapMm": 0.7645171373637891,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 24.475,
+        "distance": 3.0805843718360246,
+        "leadHoleGapMm": 2.5341962173569668,
+        "annulusMaskGapMm": 2.474185587383857,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 25.575,
+        "distance": 3.0805846016625424,
+        "leadHoleGapMm": 3.0468276812571973,
+        "annulusMaskGapMm": 2.9825186704082887,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 26.975,
+        "distance": 3.08058481980295,
+        "leadHoleGapMm": 3.041321736201393,
+        "annulusMaskGapMm": 2.974805920454812,
+        "routes": []
+      },
+      {
+        "x": 20.075,
+        "y": 29.275,
+        "distance": 3.0805849093963253,
+        "leadHoleGapMm": 0.7650177213945182,
+        "annulusMaskGapMm": 0.6750998132526727,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 24.975,
+        "distance": 3.0870699324764805,
+        "leadHoleGapMm": 2.824988679999995,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 27.575,
+        "distance": 3.087070336743294,
+        "leadHoleGapMm": 2.8249886799999984,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.475,
+        "y": 29.075,
+        "distance": 3.087070395051004,
+        "leadHoleGapMm": 1.3262552823132883,
+        "annulusMaskGapMm": 1.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 24.775,
+        "distance": 3.08868912388417,
+        "leadHoleGapMm": 2.724988679999997,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 28.975,
+        "distance": 3.0886896367230525,
+        "leadHoleGapMm": 1.5249886800000012,
+        "annulusMaskGapMm": 1.471273,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 25.175,
+        "distance": 3.101612650219294,
+        "leadHoleGapMm": 2.9249886799999962,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 27.375,
+        "distance": 3.1016129906873235,
+        "leadHoleGapMm": 2.9249886800000002,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.675,
+        "y": 29.175,
+        "distance": 3.1016130603285084,
+        "leadHoleGapMm": 1.135405856521071,
+        "annulusMaskGapMm": 1.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 23.275,
+        "distance": 3.104834568217823,
+        "leadHoleGapMm": 0.9660489314428858,
+        "annulusMaskGapMm": 0.8561190678343735,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 25.475,
+        "distance": 3.104835163418561,
+        "leadHoleGapMm": 3.0366392020005346,
+        "annulusMaskGapMm": 2.9760382730382093,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 27.075,
+        "distance": 3.104835410774679,
+        "leadHoleGapMm": 3.0327174309744787,
+        "annulusMaskGapMm": 2.9716128052579465,
+        "routes": []
+      },
+      {
+        "x": 19.975,
+        "y": 29.275,
+        "distance": 3.1048354958033384,
+        "leadHoleGapMm": 0.8608607569916468,
+        "annulusMaskGapMm": 0.7747773669452095,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 24.575,
+        "distance": 3.1064449520312367,
+        "leadHoleGapMm": 2.63092183321517,
+        "annulusMaskGapMm": 2.5725150738703144,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 28.875,
+        "distance": 3.106445512157001,
+        "leadHoleGapMm": 1.7249886800000005,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 24.075,
+        "distance": 3.1112697523680515,
+        "leadHoleGapMm": 2.224988679999997,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 23.975,
+        "distance": 3.114482188743474,
+        "leadHoleGapMm": 2.1249886799999955,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 24.175,
+        "distance": 3.1144822426850247,
+        "leadHoleGapMm": 2.324988679999995,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 23.875,
+        "distance": 3.124099732082885,
+        "leadHoleGapMm": 2.0249886799999977,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 24.275,
+        "distance": 3.1240998396338675,
+        "leadHoleGapMm": 2.4250683221524407,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 24.875,
+        "distance": 3.130495275831022,
+        "leadHoleGapMm": 2.824988679999995,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 29.075,
+        "distance": 3.1304957588216547,
+        "leadHoleGapMm": 1.426172292477675,
+        "annulusMaskGapMm": 1.3712729999999989,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 23.275,
+        "distance": 3.1320915963618234,
+        "leadHoleGapMm": 1.0538882355889239,
+        "annulusMaskGapMm": 0.9494173283105148,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 25.375,
+        "distance": 3.132092159563694,
+        "leadHoleGapMm": 3.0296144349626437,
+        "annulusMaskGapMm": 2.9720987910528818,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 27.175,
+        "distance": 3.1320924354176354,
+        "leadHoleGapMm": 3.0272887225728513,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.875,
+        "y": 29.275,
+        "distance": 3.132092515875028,
+        "leadHoleGapMm": 0.9574739383675436,
+        "annulusMaskGapMm": 0.8745285465937148,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 24.675,
+        "distance": 3.138471030294904,
+        "leadHoleGapMm": 2.7261189018035514,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 25.075,
+        "distance": 3.1384711144122956,
+        "leadHoleGapMm": 2.9249886799999962,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 27.475,
+        "distance": 3.1384714814699795,
+        "leadHoleGapMm": 2.9249886800000002,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.575,
+        "y": 29.175,
+        "distance": 3.1384715464697743,
+        "leadHoleGapMm": 1.2346255528523964,
+        "annulusMaskGapMm": 1.1712729999999996,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 28.975,
+        "distance": 3.138471561763843,
+        "leadHoleGapMm": 1.6249886799999993,
+        "annulusMaskGapMm": 1.5712729999999981,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 24.375,
+        "distance": 3.140063689799995,
+        "leadHoleGapMm": 2.527732623296699,
+        "annulusMaskGapMm": 2.4713540662596287,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 23.275,
+        "distance": 3.1622773186424302,
+        "leadHoleGapMm": 1.1435657587078065,
+        "annulusMaskGapMm": 1.0435607409759515,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 24.475,
+        "distance": 3.162277682936833,
+        "leadHoleGapMm": 2.633859441803426,
+        "annulusMaskGapMm": 2.5740724389220264,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 25.275,
+        "distance": 3.162277849905091,
+        "leadHoleGapMm": 3.025774710296081,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 27.275,
+        "distance": 3.1622781534837143,
+        "leadHoleGapMm": 3.025052160577698,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.775,
+        "y": 29.275,
+        "distance": 3.162278229378365,
+        "leadHoleGapMm": 1.0546639625131486,
+        "annulusMaskGapMm": 0.974330739166162,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 28.875,
+        "distance": 3.1622782597362247,
+        "leadHoleGapMm": 1.8249886799999984,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 24.775,
+        "distance": 3.176476125520283,
+        "leadHoleGapMm": 2.824988679999995,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 29.075,
+        "distance": 3.1764766279638152,
+        "leadHoleGapMm": 1.5260995056658022,
+        "annulusMaskGapMm": 1.471273,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 24.975,
+        "distance": 3.178049848570716,
+        "leadHoleGapMm": 2.9249886799999962,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 27.575,
+        "distance": 3.178050241264345,
+        "leadHoleGapMm": 2.9249886800000002,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.475,
+        "y": 29.175,
+        "distance": 3.1780503016787467,
+        "leadHoleGapMm": 1.333953661150373,
+        "annulusMaskGapMm": 1.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 23.975,
+        "distance": 3.182765994540024,
+        "leadHoleGapMm": 2.224988679999997,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 24.075,
+        "distance": 3.1827660209321618,
+        "leadHoleGapMm": 2.324988679999995,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 23.875,
+        "distance": 3.1890436196452923,
+        "leadHoleGapMm": 2.1249886799999955,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 24.175,
+        "distance": 3.1890436986658472,
+        "leadHoleGapMm": 2.4249886799999962,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 24.575,
+        "distance": 3.190611275602272,
+        "leadHoleGapMm": 2.730712241668395,
+        "annulusMaskGapMm": 2.672468597624675,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 28.975,
+        "distance": 3.1906118247133075,
+        "leadHoleGapMm": 1.7249886800000005,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 25.175,
+        "distance": 3.1953092344873855,
+        "leadHoleGapMm": 3.024988679999998,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 27.375,
+        "distance": 3.1953095649718155,
+        "leadHoleGapMm": 3.0249886800000017,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.675,
+        "y": 29.275,
+        "distance": 3.1953096363264017,
+        "leadHoleGapMm": 1.1522965313082045,
+        "annulusMaskGapMm": 1.0741697257700185,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 23.775,
+        "distance": 3.201561968789666,
+        "leadHoleGapMm": 2.025199853244518,
+        "annulusMaskGapMm": 1.9712730000000003,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 24.275,
+        "distance": 3.2015620999756296,
+        "leadHoleGapMm": 2.5250652882428946,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 24.375,
+        "distance": 3.220248445073819,
+        "leadHoleGapMm": 2.6276320271506086,
+        "annulusMaskGapMm": 2.5713509135895842,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 24.875,
+        "distance": 3.220248553140014,
+        "leadHoleGapMm": 2.9249886799999962,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 29.175,
+        "distance": 3.2202490263953774,
+        "leadHoleGapMm": 1.4333691135296038,
+        "annulusMaskGapMm": 1.3712729999999989,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 28.875,
+        "distance": 3.220249037574636,
+        "leadHoleGapMm": 1.9249886799999998,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 24.675,
+        "distance": 3.224903173740313,
+        "leadHoleGapMm": 2.826080276262307,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 29.075,
+        "distance": 3.2249036946861476,
+        "leadHoleGapMm": 1.6260351497946266,
+        "annulusMaskGapMm": 1.5712729999999981,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 25.075,
+        "distance": 3.2310990402648394,
+        "leadHoleGapMm": 3.024988679999998,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 27.475,
+        "distance": 3.2310993967998534,
+        "leadHoleGapMm": 3.0249886800000017,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.575,
+        "y": 29.275,
+        "distance": 3.231099463650162,
+        "leadHoleGapMm": 1.2502756527193122,
+        "annulusMaskGapMm": 1.1740361196477735,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 24.475,
+        "distance": 3.244996181199656,
+        "leadHoleGapMm": 2.733546396926958,
+        "annulusMaskGapMm": 2.6739677486495603,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 28.975,
+        "distance": 3.2449967469938046,
+        "leadHoleGapMm": 1.8249886799999984,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 23.975,
+        "distance": 3.252691108605356,
+        "leadHoleGapMm": 2.324988679999995,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 23.875,
+        "distance": 3.2557640086468727,
+        "leadHoleGapMm": 2.224988679999997,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 24.075,
+        "distance": 3.255764060247664,
+        "leadHoleGapMm": 2.4249886799999962,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 23.775,
+        "distance": 3.264965407473769,
+        "leadHoleGapMm": 2.125190363144356,
+        "annulusMaskGapMm": 2.071272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 24.175,
+        "distance": 3.2649655103845054,
+        "leadHoleGapMm": 2.5249886799999977,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 24.775,
+        "distance": 3.2649656426983054,
+        "leadHoleGapMm": 2.9249886799999962,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 29.175,
+        "distance": 3.2649661351996255,
+        "leadHoleGapMm": 1.532855956392531,
+        "annulusMaskGapMm": 1.471273,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 24.975,
+        "distance": 3.26955668432287,
+        "leadHoleGapMm": 3.024988679999998,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 27.575,
+        "distance": 3.2695570660259734,
+        "leadHoleGapMm": 3.0249886800000017,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.475,
+        "y": 29.275,
+        "distance": 3.2695571284197436,
+        "leadHoleGapMm": 1.3485310056490192,
+        "annulusMaskGapMm": 1.2739155886453029,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 24.575,
+        "distance": 3.2756679294458935,
+        "leadHoleGapMm": 2.830516939232957,
+        "annulusMaskGapMm": 2.772425473351806,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 29.075,
+        "distance": 3.2756684679619776,
+        "leadHoleGapMm": 1.7259778405902313,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 23.675,
+        "distance": 3.2802437324077536,
+        "leadHoleGapMm": 2.0289589390663503,
+        "annulusMaskGapMm": 1.9715008245927772,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 24.275,
+        "distance": 3.28024388605487,
+        "leadHoleGapMm": 2.625062476997131,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 24.375,
+        "distance": 3.3015148220173653,
+        "leadHoleGapMm": 2.7275385428916343,
+        "annulusMaskGapMm": 2.6713479969517255,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 28.975,
+        "distance": 3.301515403568546,
+        "leadHoleGapMm": 1.9249886799999998,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 24.875,
+        "distance": 3.3105891946903294,
+        "leadHoleGapMm": 3.024988679999998,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 27.675,
+        "distance": 3.310589600660338,
+        "leadHoleGapMm": 3.0249886800000017,
+        "annulusMaskGapMm": 2.9712730000000005,
+        "routes": []
+      },
+      {
+        "x": 19.375,
+        "y": 29.275,
+        "distance": 3.3105896586560473,
+        "leadHoleGapMm": 1.4470099580566904,
+        "annulusMaskGapMm": 1.3737951342658212,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 24.675,
+        "distance": 3.3120991156667325,
+        "leadHoleGapMm": 2.9260442031026757,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 29.175,
+        "distance": 3.3120996265209737,
+        "leadHoleGapMm": 1.6324018905342261,
+        "annulusMaskGapMm": 1.5712729999999981,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 23.875,
+        "distance": 3.3241539302505747,
+        "leadHoleGapMm": 2.324988679999995,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 23.975,
+        "distance": 3.324153955520163,
+        "leadHoleGapMm": 2.4249886799999962,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 24.475,
+        "distance": 3.3286634386793055,
+        "leadHoleGapMm": 2.8332546632602043,
+        "annulusMaskGapMm": 2.7738706027531252,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 29.075,
+        "distance": 3.3286639938570493,
+        "leadHoleGapMm": 1.8259264810284312,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 23.775,
+        "distance": 3.3301650385529484,
+        "leadHoleGapMm": 2.2251816892945198,
+        "annulusMaskGapMm": 2.1712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 24.075,
+        "distance": 3.3301651142248727,
+        "leadHoleGapMm": 2.5249886799999977,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 23.675,
+        "distance": 3.3421548462033206,
+        "leadHoleGapMm": 2.1287808102706083,
+        "annulusMaskGapMm": 2.0714898265185835,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 24.175,
+        "distance": 3.3421549718707455,
+        "leadHoleGapMm": 2.6249886799999955,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 24.775,
+        "distance": 3.3541020735810005,
+        "leadHoleGapMm": 3.024988679999998,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 19.275,
+        "y": 29.275,
+        "distance": 3.3541025565716334,
+        "leadHoleGapMm": 1.5456723690718537,
+        "annulusMaskGapMm": 1.4736746798863398,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 23.575,
+        "distance": 3.360059351856803,
+        "leadHoleGapMm": 2.0373951230950533,
+        "annulusMaskGapMm": 1.9752850724645075,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 24.275,
+        "distance": 3.3600595268537075,
+        "leadHoleGapMm": 2.7250598647706115,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 28.975,
+        "distance": 3.3600601232716634,
+        "leadHoleGapMm": 2.024988680000001,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 24.575,
+        "distance": 3.361547330620284,
+        "leadHoleGapMm": 2.930334514064628,
+        "annulusMaskGapMm": 2.872385351113251,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 29.175,
+        "distance": 3.3615478589483714,
+        "leadHoleGapMm": 1.7319972833840571,
+        "annulusMaskGapMm": 1.6712729999999996,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 24.375,
+        "distance": 3.383784891508375,
+        "leadHoleGapMm": 2.827451442387684,
+        "annulusMaskGapMm": 2.7713452907961478,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 29.075,
+        "distance": 3.3837854624666095,
+        "leadHoleGapMm": 1.9258801905163496,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 23.875,
+        "distance": 3.394112464842665,
+        "leadHoleGapMm": 2.4249886799999962,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 23.775,
+        "distance": 3.397057440786121,
+        "leadHoleGapMm": 2.3251737307315747,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 23.975,
+        "distance": 3.3970574902406865,
+        "leadHoleGapMm": 2.5249886799999977,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 24.675,
+        "distance": 3.4000000917647575,
+        "leadHoleGapMm": 3.0260104374635914,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 19.175,
+        "y": 29.275,
+        "distance": 3.400000592941178,
+        "leadHoleGapMm": 1.6444871115392512,
+        "annulusMaskGapMm": 1.5735542255068544,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 23.675,
+        "distance": 3.4058771392991187,
+        "leadHoleGapMm": 2.228617966998991,
+        "annulusMaskGapMm": 2.171479841345527,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 24.075,
+        "distance": 3.4058772379521183,
+        "leadHoleGapMm": 2.6249886799999955,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 24.475,
+        "distance": 3.4132096859115393,
+        "leadHoleGapMm": 2.932982139007373,
+        "annulusMaskGapMm": 2.8737802144245466,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 29.175,
+        "distance": 3.4132102308531143,
+        "leadHoleGapMm": 1.8316344846597032,
+        "annulusMaskGapMm": 1.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 23.575,
+        "distance": 3.420526117427018,
+        "leadHoleGapMm": 2.1368405504707995,
+        "annulusMaskGapMm": 2.0751557358371606,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 24.175,
+        "distance": 3.420526264772769,
+        "leadHoleGapMm": 2.724988679999997,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 28.975,
+        "distance": 3.4205268752051015,
+        "leadHoleGapMm": 2.124988679999999,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 23.475,
+        "distance": 3.4409299254707797,
+        "leadHoleGapMm": 2.0504533615567015,
+        "annulusMaskGapMm": 1.9830125294713938,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 24.275,
+        "distance": 3.440930120766818,
+        "leadHoleGapMm": 2.8250574311520333,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 29.075,
+        "distance": 3.4409307066548687,
+        "leadHoleGapMm": 2.0258382540368793,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 24.575,
+        "distance": 3.4481880064753376,
+        "leadHoleGapMm": 3.0301637342368073,
+        "annulusMaskGapMm": 2.9723479280343343,
+        "routes": []
+      },
+      {
+        "x": 19.075,
+        "y": 29.275,
+        "distance": 3.4481885250085105,
+        "leadHoleGapMm": 1.7434296890108298,
+        "annulusMaskGapMm": 1.673433771127374,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 23.775,
+        "distance": 3.4655445932782856,
+        "leadHoleGapMm": 2.425166402483312,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 23.875,
+        "distance": 3.4655446175169002,
+        "leadHoleGapMm": 2.5249886799999977,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 24.375,
+        "distance": 3.466987202745397,
+        "leadHoleGapMm": 2.9273700935858074,
+        "annulusMaskGapMm": 2.8713427731321093,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 29.175,
+        "distance": 3.4669877634627406,
+        "leadHoleGapMm": 1.9313073421633082,
+        "annulusMaskGapMm": 1.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 23.675,
+        "distance": 3.4713108705502504,
+        "leadHoleGapMm": 2.328468524035365,
+        "annulusMaskGapMm": 2.271470735310052,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 23.975,
+        "distance": 3.471310943145304,
+        "leadHoleGapMm": 2.6249886799999955,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 23.575,
+        "distance": 3.482814808743117,
+        "leadHoleGapMm": 2.2363333204469167,
+        "annulusMaskGapMm": 2.1750349812809815,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 24.075,
+        "distance": 3.482814929335229,
+        "leadHoleGapMm": 2.724988679999997,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 24.475,
+        "distance": 3.4985711986467214,
+        "leadHoleGapMm": 3.0327269896270486,
+        "annulusMaskGapMm": 2.9736959025458543,
+        "routes": []
+      },
+      {
+        "x": 18.975,
+        "y": 29.275,
+        "distance": 3.498571733722257,
+        "leadHoleGapMm": 1.8424805672970213,
+        "annulusMaskGapMm": 1.7733143896740335,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 23.475,
+        "distance": 3.4999998320000443,
+        "leadHoleGapMm": 2.149321541316516,
+        "annulusMaskGapMm": 2.0825126416224435,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 24.175,
+        "distance": 3.5000000000000484,
+        "leadHoleGapMm": 2.824988679999995,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 29.075,
+        "distance": 3.500000600000001,
+        "leadHoleGapMm": 2.125800084986645,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 23.375,
+        "distance": 3.5227828000034793,
+        "leadHoleGapMm": 2.0680501396947713,
+        "annulusMaskGapMm": 1.9957008423412141,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 24.275,
+        "distance": 3.522783014606542,
+        "leadHoleGapMm": 2.925055158428973,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 29.175,
+        "distance": 3.522783590287712,
+        "leadHoleGapMm": 2.0310108527003257,
+        "annulusMaskGapMm": 1.971273,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 23.775,
+        "distance": 3.5355338210799743,
+        "leadHoleGapMm": 2.525159632523424,
+        "annulusMaskGapMm": 2.4712730000000005,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 23.675,
+        "distance": 3.5383610940660573,
+        "leadHoleGapMm": 2.428330893738102,
+        "annulusMaskGapMm": 2.3714623972076794,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 23.875,
+        "distance": 3.5383611415456655,
+        "leadHoleGapMm": 2.6249886799999955,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 23.575,
+        "distance": 3.5468294382448597,
+        "leadHoleGapMm": 2.335867631918964,
+        "annulusMaskGapMm": 2.2749145269014965,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 23.975,
+        "distance": 3.546829532977353,
+        "leadHoleGapMm": 2.724988679999997,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 24.375,
+        "distance": 3.5510562282228593,
+        "leadHoleGapMm": 3.027293945176524,
+        "annulusMaskGapMm": 2.971340424929126,
+        "routes": []
+      },
+      {
+        "x": 18.875,
+        "y": 29.275,
+        "distance": 3.551056779044847,
+        "leadHoleGapMm": 1.9416239835793863,
+        "annulusMaskGapMm": 1.8732054144233607,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 23.475,
+        "distance": 3.560898607935972,
+        "leadHoleGapMm": 2.2482855729724425,
+        "annulusMaskGapMm": 2.18205845773986,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 24.075,
+        "distance": 3.5608987494732767,
+        "leadHoleGapMm": 2.824988679999995,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 29.075,
+        "distance": 3.5608993628015337,
+        "leadHoleGapMm": 2.2257651975912283,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 23.375,
+        "distance": 3.580502580364989,
+        "leadHoleGapMm": 2.1661507329016105,
+        "annulusMaskGapMm": 2.094623230334446,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 24.175,
+        "distance": 3.5805027680481336,
+        "leadHoleGapMm": 2.9249886799999962,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 29.175,
+        "distance": 3.5805033579093837,
+        "leadHoleGapMm": 2.130740906140056,
+        "annulusMaskGapMm": 2.0712729999999984,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 23.275,
+        "distance": 3.605551075771963,
+        "leadHoleGapMm": 2.0900760617454632,
+        "annulusMaskGapMm": 2.012048385229169,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 24.275,
+        "distance": 3.6055513087460516,
+        "leadHoleGapMm": 3.0250530311560713,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 22.775,
+        "y": 29.275,
+        "distance": 3.605551475156104,
+        "leadHoleGapMm": 0.5973199603371255,
+        "annulusMaskGapMm": 0.185086996952984,
+        "routes": []
+      },
+      {
+        "x": 18.775,
+        "y": 29.275,
+        "distance": 3.6055518745402027,
+        "leadHoleGapMm": 2.0408470814905413,
+        "annulusMaskGapMm": 1.9731074792380168,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 23.675,
+        "distance": 3.606937662893601,
+        "leadHoleGapMm": 2.528203729589949,
+        "annulusMaskGapMm": 2.471454733829855,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 23.775,
+        "distance": 3.6069376861820546,
+        "leadHoleGapMm": 2.6251533593965872,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 23.575,
+        "distance": 3.6124782540522444,
+        "leadHoleGapMm": 2.4354385924787274,
+        "annulusMaskGapMm": 2.3747940725220147,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 23.875,
+        "distance": 3.6124783238104494,
+        "leadHoleGapMm": 2.724988679999997,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 23.475,
+        "distance": 3.623534043996321,
+        "leadHoleGapMm": 2.3473338285224803,
+        "annulusMaskGapMm": 2.2816439957782215,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 23.975,
+        "distance": 3.6235341599052626,
+        "leadHoleGapMm": 2.824988679999995,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 29.075,
+        "distance": 3.6235347858134825,
+        "leadHoleGapMm": 2.3257331861370396,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 23.375,
+        "distance": 3.640054779807627,
+        "leadHoleGapMm": 2.2644104720269094,
+        "annulusMaskGapMm": 2.193619540288032,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 24.075,
+        "distance": 3.6400549413436543,
+        "leadHoleGapMm": 2.9249886799999962,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 29.175,
+        "distance": 3.6400555446312053,
+        "leadHoleGapMm": 2.230494094892018,
+        "annulusMaskGapMm": 2.171273,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 23.275,
+        "distance": 3.6619664979352766,
+        "leadHoleGapMm": 2.187232146554107,
+        "annulusMaskGapMm": 2.1103680220369756,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 24.175,
+        "distance": 3.6619667043817254,
+        "leadHoleGapMm": 3.024988679999998,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 22.875,
+        "y": 29.275,
+        "distance": 3.6619668715050335,
+        "leadHoleGapMm": 0.6909833317362462,
+        "annulusMaskGapMm": 0.28395807273599977,
+        "routes": []
+      },
+      {
+        "x": 18.675,
+        "y": 29.275,
+        "distance": 3.661967284397877,
+        "leadHoleGapMm": 2.1401392729753566,
+        "annulusMaskGapMm": 2.073018988003967,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 23.675,
+        "distance": 3.676955177317279,
+        "leadHoleGapMm": 2.6280858821214745,
+        "annulusMaskGapMm": 2.5714476664653296,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 23.575,
+        "distance": 3.679673790976635,
+        "leadHoleGapMm": 2.5350420475260953,
+        "annulusMaskGapMm": 2.4746736181425333,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 23.775,
+        "distance": 3.6796738366328556,
+        "leadHoleGapMm": 2.7251475303478423,
+        "annulusMaskGapMm": 2.6712729999999993,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 23.475,
+        "distance": 3.687817652758924,
+        "leadHoleGapMm": 2.446456479940411,
+        "annulusMaskGapMm": 2.3812642721771926,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 23.875,
+        "distance": 3.6878177438697186,
+        "leadHoleGapMm": 2.824988679999995,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 23.375,
+        "distance": 3.7013509522876022,
+        "leadHoleGapMm": 2.362810308617069,
+        "annulusMaskGapMm": 2.2927029676803383,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 23.975,
+        "distance": 3.701351088454099,
+        "leadHoleGapMm": 2.9249886799999962,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 29.175,
+        "distance": 3.7013517044453326,
+        "leadHoleGapMm": 2.330267570109628,
+        "annulusMaskGapMm": 2.271272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 23.275,
+        "distance": 3.72021487336422,
+        "leadHoleGapMm": 2.2846233724071636,
+        "annulusMaskGapMm": 2.208838534698546,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 24.075,
+        "distance": 3.7202150539989436,
+        "leadHoleGapMm": 3.024988679999998,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 22.975,
+        "y": 29.275,
+        "distance": 3.7202152217311797,
+        "leadHoleGapMm": 0.7860328070024128,
+        "annulusMaskGapMm": 0.38287572373247897,
+        "routes": []
+      },
+      {
+        "x": 18.575,
+        "y": 29.275,
+        "distance": 3.7202156475129726,
+        "leadHoleGapMm": 2.239491760687899,
+        "annulusMaskGapMm": 2.1729386380257028,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 23.575,
+        "distance": 3.7483328667556126,
+        "leadHoleGapMm": 2.6346744464799654,
+        "annulusMaskGapMm": 2.574553163763049,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 23.675,
+        "distance": 3.7483328891655754,
+        "leadHoleGapMm": 2.7279763641569765,
+        "annulusMaskGapMm": 2.6714411281871806,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 23.475,
+        "distance": 3.753664757540336,
+        "leadHoleGapMm": 2.545645165215947,
+        "annulusMaskGapMm": 2.480915102220216,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 23.775,
+        "distance": 3.753664824674727,
+        "leadHoleGapMm": 2.8251420998355785,
+        "annulusMaskGapMm": 2.771272999999997,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 23.375,
+        "distance": 3.764305904678889,
+        "leadHoleGapMm": 2.4613340961753716,
+        "annulusMaskGapMm": 2.3918626859598353,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 23.875,
+        "distance": 3.764306016253242,
+        "leadHoleGapMm": 2.9249886799999962,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 29.175,
+        "distance": 3.764306644257396,
+        "leadHoleGapMm": 2.4300589317892505,
+        "annulusMaskGapMm": 2.3712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 23.275,
+        "distance": 3.780211472391505,
+        "leadHoleGapMm": 2.382222061828978,
+        "annulusMaskGapMm": 2.307440607318457,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 23.975,
+        "distance": 3.7802116279383555,
+        "leadHoleGapMm": 3.024988679999998,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 23.075,
+        "y": 29.275,
+        "distance": 3.780211796182902,
+        "leadHoleGapMm": 0.8820660054622456,
+        "annulusMaskGapMm": 0.4819634147544688,
+        "routes": []
+      },
+      {
+        "x": 18.475,
+        "y": 29.275,
+        "distance": 3.7802122342535687,
+        "leadHoleGapMm": 2.3388971758412764,
+        "annulusMaskGapMm": 2.2728653555864207,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 23.575,
+        "distance": 3.8183765335545887,
+        "leadHoleGapMm": 2.7343327370353876,
+        "annulusMaskGapMm": 2.674433005586417,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 23.475,
+        "distance": 3.8209945281301225,
+        "leadHoleGapMm": 2.644892725814709,
+        "annulusMaskGapMm": 2.580592946379009,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 23.675,
+        "distance": 3.820994572097733,
+        "leadHoleGapMm": 2.8278743231618564,
+        "annulusMaskGapMm": 2.771435061727044,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 23.375,
+        "distance": 3.828837815316856,
+        "leadHoleGapMm": 2.559968061505723,
+        "annulusMaskGapMm": 2.491089584692563,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 23.775,
+        "distance": 3.8288379030719435,
+        "leadHoleGapMm": 2.9251370283394613,
+        "annulusMaskGapMm": 2.8712729999999986,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 29.175,
+        "distance": 3.828838542430378,
+        "leadHoleGapMm": 2.5298661438040093,
+        "annulusMaskGapMm": 2.471273,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 23.275,
+        "distance": 3.841874392532941,
+        "leadHoleGapMm": 2.4800046705830803,
+        "annulusMaskGapMm": 2.4061580663445894,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 23.875,
+        "distance": 3.8418745237189045,
+        "leadHoleGapMm": 3.024988679999998,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 23.175,
+        "y": 29.275,
+        "distance": 3.8418746923865656,
+        "leadHoleGapMm": 0.9788202552253894,
+        "annulusMaskGapMm": 0.5813605969091395,
+        "routes": []
+      },
+      {
+        "x": 18.375,
+        "y": 29.275,
+        "distance": 3.8418751421669555,
+        "leadHoleGapMm": 2.4383493002986336,
+        "annulusMaskGapMm": 2.3727982477709717,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 23.475,
+        "distance": 3.8897299721189316,
+        "leadHoleGapMm": 2.7441929984145785,
+        "annulusMaskGapMm": 2.6802947907604984,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 23.575,
+        "distance": 3.889729993714261,
+        "leadHoleGapMm": 2.834014280849788,
+        "annulusMaskGapMm": 2.7743191059014793,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 23.375,
+        "distance": 3.894868301753006,
+        "leadHoleGapMm": 2.6587003868181305,
+        "annulusMaskGapMm": 2.5903759436499785,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 23.675,
+        "distance": 3.894868366453524,
+        "leadHoleGapMm": 2.92777901905514,
+        "annulusMaskGapMm": 2.8714294177935127,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 29.175,
+        "distance": 3.8948690165396282,
+        "leadHoleGapMm": 2.629687467518316,
+        "annulusMaskGapMm": 2.571272999999998,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 23.275,
+        "distance": 3.9051246996735407,
+        "leadHoleGapMm": 2.5779510518735242,
+        "annulusMaskGapMm": 2.504977270189911,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 23.775,
+        "distance": 3.9051248072245226,
+        "leadHoleGapMm": 3.0251322813971435,
+        "annulusMaskGapMm": 2.971273,
+        "routes": []
+      },
+      {
+        "x": 23.275,
+        "y": 29.275,
+        "distance": 3.9051249762332008,
+        "leadHoleGapMm": 1.076117616178148,
+        "annulusMaskGapMm": 0.6809343243774025,
+        "routes": []
+      },
+      {
+        "x": 18.275,
+        "y": 29.275,
+        "distance": 3.905125437165927,
+        "leadHoleGapMm": 2.537842850953515,
+        "annulusMaskGapMm": 2.4727365659578457,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 23.475,
+        "distance": 3.9597978897918935,
+        "leadHoleGapMm": 2.843540648306134,
+        "annulusMaskGapMm": 2.7800180531526433,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 23.375,
+        "distance": 3.962322445233395,
+        "leadHoleGapMm": 2.757520876604493,
+        "annulusMaskGapMm": 2.6897151782144677,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 23.575,
+        "distance": 3.9623224876327714,
+        "leadHoleGapMm": 2.9337167857647004,
+        "annulusMaskGapMm": 2.874213127339375,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 23.275,
+        "distance": 3.969886521300118,
+        "leadHoleGapMm": 2.676043870732324,
+        "annulusMaskGapMm": 2.603879795765617,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 23.675,
+        "distance": 3.9698866059372975,
+        "leadHoleGapMm": 3.0276898062676407,
+        "annulusMaskGapMm": 2.971424153729992,
+        "routes": []
+      },
+      {
+        "x": 18.175,
+        "y": 29.275,
+        "distance": 3.9698872467615955,
+        "leadHoleGapMm": 2.637373310735413,
+        "annulusMaskGapMm": 2.572679677811637,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 23.375,
+        "distance": 4.03112877889064,
+        "leadHoleGapMm": 2.8564206899949975,
+        "annulusMaskGapMm": 2.7891016385915437,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 23.475,
+        "distance": 4.031128799728475,
+        "leadHoleGapMm": 2.9429310350762967,
+        "annulusMaskGapMm": 2.8797605085026396,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 23.275,
+        "distance": 4.036087098168269,
+        "leadHoleGapMm": 2.7742681343657747,
+        "annulusMaskGapMm": 2.702797446762096,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 23.575,
+        "distance": 4.036087160604979,
+        "leadHoleGapMm": 3.0334382509043505,
+        "annulusMaskGapMm": 2.9741142717404117,
+        "routes": []
+      },
+      {
+        "x": 18.075,
+        "y": 29.275,
+        "distance": 4.036087811730608,
+        "leadHoleGapMm": 2.7369367949121757,
+        "annulusMaskGapMm": 2.6726270455536807,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 23.375,
+        "distance": 4.101219246029204,
+        "leadHoleGapMm": 2.9553921241357064,
+        "annulusMaskGapMm": 2.888530450050822,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 23.275,
+        "distance": 4.10365680046472,
+        "leadHoleGapMm": 2.872610812775614,
+        "annulusMaskGapMm": 2.7901557502855256,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 23.475,
+        "distance": 4.103656841403817,
+        "leadHoleGapMm": 3.0423601035257737,
+        "annulusMaskGapMm": 2.979520229300038,
+        "routes": []
+      },
+      {
+        "x": 17.975,
+        "y": 29.275,
+        "distance": 4.103657502277737,
+        "leadHoleGapMm": 2.8365299443946683,
+        "annulusMaskGapMm": 2.7725782089284667,
+        "routes": []
+      },
+      {
+        "x": 17.875,
+        "y": 23.275,
+        "distance": 4.172529114098589,
+        "leadHoleGapMm": 2.9710605302127315,
+        "annulusMaskGapMm": 2.8337325246414142,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 23.375,
+        "distance": 4.172529134230264,
+        "leadHoleGapMm": 3.0544284376461155,
+        "annulusMaskGapMm": 2.9683277784412283,
+        "routes": []
+      },
+      {
+        "x": 17.775,
+        "y": 23.275,
+        "distance": 4.242640602266514,
+        "leadHoleGapMm": 3.0696073126225767,
+        "annulusMaskGapMm": 2.880038016625351,
+        "routes": []
+      }
+    ]
+  }
+}

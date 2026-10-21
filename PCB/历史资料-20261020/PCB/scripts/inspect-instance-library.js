@@ -1,0 +1,1 @@
+const cs=await eda.sch_PrimitiveComponent.getAll("part");return cs.filter(c=>["R70","R71","C70"].includes(c.getState_Designator())).map(c=>({ref:c.getState_Designator(),component:c.getState_Component(),symbol:c.getState_Symbol(),footprint:c.getState_Footprint()}));

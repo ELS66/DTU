@@ -1,0 +1,40 @@
+menu "V0.14.4 IoT module"
+    config MODULE_STATUS_POLL_MS
+        int "Device B2 polling interval (ms)"
+        range 500 60000
+        default 1000
+    config MODULE_REPLY_TIMEOUT_MS
+        int "Device reply timeout (ms)"
+        range 100 10000
+        default 500
+    config MODULE_FRAME_GAP_MS
+        int "Discard incomplete UART frame after idle gap (ms)"
+        range 20 10000
+        default 250
+    config MODULE_QUERY_GUARD_MS
+        int "Drain interval after a reply timeout (ms)"
+        range 100 10000
+        default 500
+    config MODULE_BOARD_STALE_MS
+        int "Board contact/state stale timeout (ms; extended to 3 polls + reply timeout)"
+        range 1000 300000
+        default 5000
+    config MODULE_MODEM_BAUD
+        int "ML307R AT UART baud (verify factory firmware)"
+        range 9600 921600
+        default 115200
+    config MODULE_NETWORK_BOOT_MS
+        int "Initial Wi-Fi and SIM detection window (ms)"
+        range 15000 120000
+        default 45000
+    config MODULE_PROVISION_MS
+        int "SmartConfig session timeout (ms)"
+        range 30000 600000
+        default 180000
+    config MODULE_WIFI_COUNTRY
+        string "Deployment Wi-Fi country code (two letters)"
+        default "CN"
+    config MODULE_MODEM_APN
+        string "LTE APN (empty keeps carrier/modem context; CID 1)"
+        default ""
+endmenu

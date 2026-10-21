@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "result": [
+    {
+      "uuid": "8902a3019bd8d84c",
+      "name": "06_Interface_Selection",
+      "renamed": false
+    },
+    {
+      "uuid": "2eb77bba50a14eab",
+      "name": "07_LTE_Control",
+      "renamed": true
+    },
+    {
+      "uuid": "61de9aff546f5073",
+      "name": "08_Power_Rails",
+      "renamed": true
+    }
+  ],
+  "windowId": "7f59f6fe-cee0-4116-a908-2223d15abdac"
+}

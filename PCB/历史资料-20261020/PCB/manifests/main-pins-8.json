@@ -1,0 +1,236 @@
+{
+  "success": true,
+  "result": [
+    {
+      "ref": "U4",
+      "page": 8,
+      "id": "be6b528ab0ddd38a",
+      "sub": "AP63200WU-7.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "FB",
+          "x": 235,
+          "y": 210,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "EN",
+          "x": 235,
+          "y": 200,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "VIN",
+          "x": 235,
+          "y": 190,
+          "rotation": 180
+        },
+        {
+          "number": "4",
+          "name": "GND",
+          "x": 305,
+          "y": 190,
+          "rotation": 0
+        },
+        {
+          "number": "5",
+          "name": "SW",
+          "x": 305,
+          "y": 200,
+          "rotation": 0
+        },
+        {
+          "number": "6",
+          "name": "BST",
+          "x": 305,
+          "y": 210,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "U5",
+      "page": 8,
+      "id": "aa4b3deb1a18712d",
+      "sub": "AP63203WU-7.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "FB",
+          "x": 695,
+          "y": 210,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "EN",
+          "x": 695,
+          "y": 200,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "VIN",
+          "x": 695,
+          "y": 190,
+          "rotation": 180
+        },
+        {
+          "number": "4",
+          "name": "GND",
+          "x": 765,
+          "y": 190,
+          "rotation": 0
+        },
+        {
+          "number": "5",
+          "name": "SW",
+          "x": 765,
+          "y": 200,
+          "rotation": 0
+        },
+        {
+          "number": "6",
+          "name": "BST",
+          "x": 765,
+          "y": 210,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "U11",
+      "page": 8,
+      "id": "5f365226a11aa869",
+      "sub": "TPS61040DBVR.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "SW",
+          "x": 285,
+          "y": 530,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "GND",
+          "x": 285,
+          "y": 520,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "FB",
+          "x": 285,
+          "y": 510,
+          "rotation": 180
+        },
+        {
+          "number": "4",
+          "name": "EN",
+          "x": 355,
+          "y": 510,
+          "rotation": 0
+        },
+        {
+          "number": "5",
+          "name": "VIN",
+          "x": 355,
+          "y": 530,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "D14",
+      "page": 8,
+      "id": "4e5aeb8bfdb68f96",
+      "sub": "MBR0530_C2983233.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 510,
+          "y": 490,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 550,
+          "y": 490,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "L1",
+      "page": 8,
+      "id": "49c4c96cea61f3ef",
+      "sub": "SWPA6045S6R8MT.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "2",
+          "x": 450,
+          "y": 180,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "1",
+          "x": 410,
+          "y": 180,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "L2",
+      "page": 8,
+      "id": "cdab11726d742655",
+      "sub": "NR5040T4R7N.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "2",
+          "x": 920,
+          "y": 180,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "1",
+          "x": 880,
+          "y": 180,
+          "rotation": 180
+        }
+      ]
+    },
+    {
+      "ref": "L3",
+      "page": 8,
+      "id": "e15be814673ead3b",
+      "sub": "SWPA4020S3R3MT.1",
+      "pins": [
+        {
+          "number": "2",
+          "name": "2",
+          "x": 180,
+          "y": 490,
+          "rotation": 0
+        },
+        {
+          "number": "1",
+          "name": "1",
+          "x": 140,
+          "y": 490,
+          "rotation": 180
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1485 @@
+{
+  "success": true,
+  "result": {
+    "parts": [
+      {
+        "ref": "U1",
+        "sub": "ESP32-C5-WROOM-1U-N8-R4.1",
+        "id": "e33",
+        "pins": [
+          {
+            "number": "20",
+            "name": "NC",
+            "x": 525,
+            "y": 375,
+            "rotation": 180
+          },
+          {
+            "number": "22",
+            "name": "NC",
+            "x": 525,
+            "y": 365,
+            "rotation": 180
+          },
+          {
+            "number": "19",
+            "name": "NC/IO15",
+            "x": 525,
+            "y": 355,
+            "rotation": 180
+          },
+          {
+            "number": "15",
+            "name": "IO28",
+            "x": 635,
+            "y": 255,
+            "rotation": 0
+          },
+          {
+            "number": "18",
+            "name": "IO27",
+            "x": 635,
+            "y": 265,
+            "rotation": 0
+          },
+          {
+            "number": "27",
+            "name": "IO26",
+            "x": 635,
+            "y": 275,
+            "rotation": 0
+          },
+          {
+            "number": "26",
+            "name": "IO25",
+            "x": 635,
+            "y": 285,
+            "rotation": 0
+          },
+          {
+            "number": "23",
+            "name": "IO24",
+            "x": 635,
+            "y": 295,
+            "rotation": 0
+          },
+          {
+            "number": "21",
+            "name": "IO23",
+            "x": 635,
+            "y": 305,
+            "rotation": 0
+          },
+          {
+            "number": "14",
+            "name": "IO14",
+            "x": 635,
+            "y": 315,
+            "rotation": 0
+          },
+          {
+            "number": "13",
+            "name": "IO13",
+            "x": 635,
+            "y": 325,
+            "rotation": 0
+          },
+          {
+            "number": "12",
+            "name": "IO10",
+            "x": 635,
+            "y": 335,
+            "rotation": 0
+          },
+          {
+            "number": "11",
+            "name": "IO9",
+            "x": 635,
+            "y": 345,
+            "rotation": 0
+          },
+          {
+            "number": "10",
+            "name": "IO8",
+            "x": 635,
+            "y": 355,
+            "rotation": 0
+          },
+          {
+            "number": "9",
+            "name": "IO7",
+            "x": 635,
+            "y": 365,
+            "rotation": 0
+          },
+          {
+            "number": "8",
+            "name": "IO6",
+            "x": 635,
+            "y": 375,
+            "rotation": 0
+          },
+          {
+            "number": "16",
+            "name": "IO5",
+            "x": 635,
+            "y": 385,
+            "rotation": 0
+          },
+          {
+            "number": "17",
+            "name": "IO4",
+            "x": 635,
+            "y": 395,
+            "rotation": 0
+          },
+          {
+            "number": "5",
+            "name": "IO3",
+            "x": 635,
+            "y": 405,
+            "rotation": 0
+          },
+          {
+            "number": "4",
+            "name": "IO2",
+            "x": 635,
+            "y": 415,
+            "rotation": 0
+          },
+          {
+            "number": "7",
+            "name": "IO1",
+            "x": 635,
+            "y": 425,
+            "rotation": 0
+          },
+          {
+            "number": "6",
+            "name": "IO0",
+            "x": 635,
+            "y": 435,
+            "rotation": 0
+          },
+          {
+            "number": "25",
+            "name": "TX0",
+            "x": 525,
+            "y": 390,
+            "rotation": 180
+          },
+          {
+            "number": "24",
+            "name": "RX0",
+            "x": 525,
+            "y": 400,
+            "rotation": 180
+          },
+          {
+            "number": "3",
+            "name": "EN",
+            "x": 525,
+            "y": 410,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "3V3",
+            "x": 525,
+            "y": 420,
+            "rotation": 180
+          },
+          {
+            "number": "29",
+            "name": "GND",
+            "x": 525,
+            "y": 320,
+            "rotation": 180
+          },
+          {
+            "number": "28",
+            "name": "GND",
+            "x": 525,
+            "y": 310,
+            "rotation": 180
+          },
+          {
+            "number": "1",
+            "name": "GND",
+            "x": 525,
+            "y": 300,
+            "rotation": 180
+          },
+          {
+            "number": "30",
+            "name": "GND",
+            "x": 525,
+            "y": 290,
+            "rotation": 180
+          },
+          {
+            "number": "32",
+            "name": "GND",
+            "x": 525,
+            "y": 280,
+            "rotation": 180
+          },
+          {
+            "number": "31",
+            "name": "ANT2",
+            "x": 525,
+            "y": 340,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "SW2",
+        "sub": "SKRPACE010.1",
+        "id": "6cd9b7d2315fdc49",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 190,
+            "y": 325,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 250,
+            "y": 325,
+            "rotation": 0
+          },
+          {
+            "number": "3",
+            "name": "3",
+            "x": 190,
+            "y": 305,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "4",
+            "x": 250,
+            "y": 305,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "SW3",
+        "sub": "SKRPACE010.1",
+        "id": "5b314c850f032076",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 820,
+            "y": 355,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 880,
+            "y": 355,
+            "rotation": 0
+          },
+          {
+            "number": "3",
+            "name": "3",
+            "x": 820,
+            "y": 335,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "4",
+            "x": 880,
+            "y": 335,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "R10",
+        "sub": "0603WAF1002T5E.1",
+        "id": "6b2e3ad7308c19ba",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 240,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 200,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R11",
+        "sub": "0603WAF1002T5E.1",
+        "id": "972b3eb65f526315",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 560,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 520,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R12",
+        "sub": "0603WAF1002T5E.1",
+        "id": "a380ef50a82bfd26",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 880,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 840,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R13",
+        "sub": "0603WAF1002T5E.1",
+        "id": "bbdf6fa6c2f3a01f",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1200,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1160,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R14",
+        "sub": "0603WAF1003T5E.1",
+        "id": "b390e6cce80d4b59",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1520,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1480,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R15",
+        "sub": "0603WAF220JT5E.1",
+        "id": "4b5f44f676621a71",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1840,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1800,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R16",
+        "sub": "0603WAF220JT5E.1",
+        "id": "1079203ce2b89a73",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 240,
+            "y": 1030,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 200,
+            "y": 1030,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R17",
+        "sub": "0603WAF5101T5E.1",
+        "id": "e9e2de39fc2c1e18",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 560,
+            "y": 1030,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 520,
+            "y": 1030,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R18",
+        "sub": "0603WAF5101T5E.1",
+        "id": "25660d7a3d53f96e",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 880,
+            "y": 1030,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 840,
+            "y": 1030,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "C10",
+        "sub": "CL10A105KB8NNNC.1",
+        "id": "ce7d2c0adc973de7",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1200,
+            "y": 1030,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1160,
+            "y": 1030,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "C11",
+        "sub": "CL31B106KAHNNNE.1",
+        "id": "99672818698afe0c",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1480,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1520,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C12",
+        "sub": "CC0603KRX7R9BB104.1",
+        "id": "0f3c534218585b69",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1800,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1840,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "J6",
+        "sub": "TYPE-C-31-M-12.1",
+        "id": "b84e0ae90706a1f6",
+        "pins": [
+          {
+            "number": "A1B12",
+            "name": "GND",
+            "x": 185,
+            "y": 1215,
+            "rotation": 180
+          },
+          {
+            "number": "A4B9",
+            "name": "VBUS",
+            "x": 185,
+            "y": 1205,
+            "rotation": 180
+          },
+          {
+            "number": "B8",
+            "name": "SBU2",
+            "x": 185,
+            "y": 1195,
+            "rotation": 180
+          },
+          {
+            "number": "A5",
+            "name": "CC1",
+            "x": 185,
+            "y": 1185,
+            "rotation": 180
+          },
+          {
+            "number": "B7",
+            "name": "DN2",
+            "x": 185,
+            "y": 1175,
+            "rotation": 180
+          },
+          {
+            "number": "A6",
+            "name": "DP1",
+            "x": 185,
+            "y": 1165,
+            "rotation": 180
+          },
+          {
+            "number": "A7",
+            "name": "DN1",
+            "x": 185,
+            "y": 1155,
+            "rotation": 180
+          },
+          {
+            "number": "B6",
+            "name": "DP2",
+            "x": 185,
+            "y": 1145,
+            "rotation": 180
+          },
+          {
+            "number": "A8",
+            "name": "SBU1",
+            "x": 185,
+            "y": 1135,
+            "rotation": 180
+          },
+          {
+            "number": "B5",
+            "name": "CC2",
+            "x": 185,
+            "y": 1125,
+            "rotation": 180
+          },
+          {
+            "number": "B4A9",
+            "name": "VBUS",
+            "x": 185,
+            "y": 1115,
+            "rotation": 180
+          },
+          {
+            "number": "B1A12",
+            "name": "GND",
+            "x": 185,
+            "y": 1105,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "EH",
+            "x": 255,
+            "y": 1135,
+            "rotation": 0
+          },
+          {
+            "number": "3",
+            "name": "EH",
+            "x": 255,
+            "y": 1125,
+            "rotation": 0
+          },
+          {
+            "number": "2",
+            "name": "EH",
+            "x": 255,
+            "y": 1115,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "EH",
+            "x": 255,
+            "y": 1105,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "D18",
+        "sub": "PESD5V0U1UL,315.1",
+        "id": "959eb1823b644443",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 510,
+            "y": 1160,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 570,
+            "y": 1160,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "D19",
+        "sub": "PESD5V0U1UL,315.1",
+        "id": "3bc4498e4dbe6e6b",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 830,
+            "y": 1160,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 890,
+            "y": 1160,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "R93",
+        "sub": "0603WAF1002T5E.1",
+        "id": "20bd2860ad059c60",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1200,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1160,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      }
+    ],
+    "wires": [
+      {
+        "id": "eae99e252882267f",
+        "net": "FIELD_RX",
+        "line": [
+          655,
+          295,
+          635,
+          295
+        ]
+      },
+      {
+        "id": "f10a0a63e2d5cb05",
+        "net": "FIELD_TX",
+        "line": [
+          655,
+          305,
+          635,
+          305
+        ]
+      },
+      {
+        "id": "fcfa6e79abdbf6e1",
+        "net": "MCU_485_DE",
+        "line": [
+          655,
+          405,
+          635,
+          405
+        ]
+      },
+      {
+        "id": "7ec613a23e5f7cec",
+        "net": "MCU_IF_ENABLE",
+        "line": [
+          655,
+          415,
+          635,
+          415
+        ]
+      },
+      {
+        "id": "13c04f6d40eb8e66",
+        "net": "ESP_EN",
+        "line": [
+          170,
+          325,
+          190,
+          325
+        ]
+      },
+      {
+        "id": "d486c5e46b5ed1a7",
+        "net": "ESP_EN",
+        "line": [
+          270,
+          325,
+          250,
+          325
+        ]
+      },
+      {
+        "id": "46c3f27986d3c88d",
+        "net": "GND",
+        "line": [
+          170,
+          305,
+          190,
+          305
+        ]
+      },
+      {
+        "id": "6e513e65894cf2f2",
+        "net": "GND",
+        "line": [
+          270,
+          305,
+          250,
+          305
+        ]
+      },
+      {
+        "id": "d1ca0da06d6c41cd",
+        "net": "ESP_BOOT",
+        "line": [
+          800,
+          355,
+          820,
+          355
+        ]
+      },
+      {
+        "id": "f1b71e678e634cea",
+        "net": "ESP_BOOT",
+        "line": [
+          900,
+          355,
+          880,
+          355
+        ]
+      },
+      {
+        "id": "c50ba2de99ebbc1d",
+        "net": "GND",
+        "line": [
+          800,
+          335,
+          820,
+          335
+        ]
+      },
+      {
+        "id": "1f46bc0a1192c301",
+        "net": "GND",
+        "line": [
+          900,
+          335,
+          880,
+          335
+        ]
+      },
+      {
+        "id": "68eb3e47400b161d",
+        "net": "ESP_EN",
+        "line": [
+          260,
+          900,
+          240,
+          900
+        ]
+      },
+      {
+        "id": "0a3b79779975575a",
+        "net": "VDD_3V3",
+        "line": [
+          180,
+          900,
+          200,
+          900
+        ]
+      },
+      {
+        "id": "95c8dc45910487d8",
+        "net": "ESP_BOOT",
+        "line": [
+          580,
+          900,
+          560,
+          900
+        ]
+      },
+      {
+        "id": "388aaade7241a2e1",
+        "net": "VDD_3V3",
+        "line": [
+          500,
+          900,
+          520,
+          900
+        ]
+      },
+      {
+        "id": "1f8a4e53fe791f59",
+        "net": "ESP_STRAP26",
+        "line": [
+          900,
+          900,
+          880,
+          900
+        ]
+      },
+      {
+        "id": "8133e7a3061c6cbd",
+        "net": "GND",
+        "line": [
+          820,
+          900,
+          840,
+          900
+        ]
+      },
+      {
+        "id": "58be979d08023275",
+        "net": "ESP_STRAP27",
+        "line": [
+          1220,
+          900,
+          1200,
+          900
+        ]
+      },
+      {
+        "id": "77eb8032e9dd30bb",
+        "net": "VDD_3V3",
+        "line": [
+          1140,
+          900,
+          1160,
+          900
+        ]
+      },
+      {
+        "id": "f879b5fb70cc91c4",
+        "net": "GND",
+        "line": [
+          1540,
+          900,
+          1520,
+          900
+        ]
+      },
+      {
+        "id": "553a01a60e4b5f0b",
+        "net": "LTE_PWR_EN",
+        "line": [
+          1460,
+          900,
+          1480,
+          900
+        ]
+      },
+      {
+        "id": "c7db7fce2c98e832",
+        "net": "ESP_USB_DP_EXT",
+        "line": [
+          1860,
+          900,
+          1840,
+          900
+        ]
+      },
+      {
+        "id": "42014db6f7ea1b6e",
+        "net": "ESP_USB_DP",
+        "line": [
+          1780,
+          900,
+          1800,
+          900
+        ]
+      },
+      {
+        "id": "66450423b03303c5",
+        "net": "ESP_USB_DM_EXT",
+        "line": [
+          260,
+          1030,
+          240,
+          1030
+        ]
+      },
+      {
+        "id": "bae890db9b126ce2",
+        "net": "ESP_USB_DM",
+        "line": [
+          180,
+          1030,
+          200,
+          1030
+        ]
+      },
+      {
+        "id": "6c6cfd90ee0ce626",
+        "net": "GND",
+        "line": [
+          580,
+          1030,
+          560,
+          1030
+        ]
+      },
+      {
+        "id": "89b94dd09717d872",
+        "net": "ESP_USB_CC1",
+        "line": [
+          500,
+          1030,
+          520,
+          1030
+        ]
+      },
+      {
+        "id": "041cc099346fb8f3",
+        "net": "ESP_BOOT",
+        "line": [
+          655,
+          255,
+          635,
+          255
+        ]
+      },
+      {
+        "id": "53b37fea7b3e8dbc",
+        "net": "ESP_STRAP27",
+        "line": [
+          655,
+          265,
+          635,
+          265
+        ]
+      },
+      {
+        "id": "f78d02452031dd6b",
+        "net": "ESP_STRAP26",
+        "line": [
+          655,
+          275,
+          635,
+          275
+        ]
+      },
+      {
+        "id": "aa854ed56693701a",
+        "net": "ESP_USB_DP",
+        "line": [
+          655,
+          315,
+          635,
+          315
+        ]
+      },
+      {
+        "id": "64750ff12a6de8ee",
+        "net": "ESP_USB_DM",
+        "line": [
+          655,
+          325,
+          635,
+          325
+        ]
+      },
+      {
+        "id": "a7093fc2f08b3b31",
+        "net": "LTE_PWR_EN",
+        "line": [
+          655,
+          335,
+          635,
+          335
+        ]
+      },
+      {
+        "id": "13166b251652ca44",
+        "net": "LTE_STATUS_N",
+        "line": [
+          655,
+          345,
+          635,
+          345
+        ]
+      },
+      {
+        "id": "c7ef37971d2bd5a8",
+        "net": "MCU_LTE_RESET",
+        "line": [
+          655,
+          355,
+          635,
+          355
+        ]
+      },
+      {
+        "id": "301be421fdaca73d",
+        "net": "MCU_LTE_PWRKEY",
+        "line": [
+          655,
+          375,
+          635,
+          375
+        ]
+      },
+      {
+        "id": "ca2be779d9da4b9a",
+        "net": "MCU_LTE_CTS",
+        "line": [
+          655,
+          385,
+          635,
+          385
+        ]
+      },
+      {
+        "id": "88dded9196b37a19",
+        "net": "MCU_LTE_RTS",
+        "line": [
+          655,
+          395,
+          635,
+          395
+        ]
+      },
+      {
+        "id": "ff3ec9991854480d",
+        "net": "MCU_LTE_RX",
+        "line": [
+          655,
+          425,
+          635,
+          425
+        ]
+      },
+      {
+        "id": "15c401552baae82a",
+        "net": "MCU_LTE_TX",
+        "line": [
+          655,
+          435,
+          635,
+          435
+        ]
+      },
+      {
+        "id": "8086bd1dfbee2e6d",
+        "net": "ESP_EN",
+        "line": [
+          505,
+          410,
+          525,
+          410
+        ]
+      },
+      {
+        "id": "e8e04783ab0b0c53",
+        "net": "VDD_3V3",
+        "line": [
+          505,
+          420,
+          525,
+          420
+        ]
+      },
+      {
+        "id": "b175c33559ca8e43",
+        "net": "GND",
+        "line": [
+          505,
+          320,
+          525,
+          320
+        ]
+      },
+      {
+        "id": "6daa559cd350b0d8",
+        "net": "GND",
+        "line": [
+          505,
+          310,
+          525,
+          310
+        ]
+      },
+      {
+        "id": "07536ad826e7027f",
+        "net": "GND",
+        "line": [
+          505,
+          300,
+          525,
+          300
+        ]
+      },
+      {
+        "id": "30c67871e2d9cad1",
+        "net": "GND",
+        "line": [
+          505,
+          290,
+          525,
+          290
+        ]
+      },
+      {
+        "id": "9e3820951808da64",
+        "net": "GND",
+        "line": [
+          505,
+          280,
+          525,
+          280
+        ]
+      },
+      {
+        "id": "c32e3144bb403ada",
+        "net": "GND",
+        "line": [
+          900,
+          1030,
+          880,
+          1030
+        ]
+      },
+      {
+        "id": "729cb3ac0b1d3015",
+        "net": "ESP_USB_CC2",
+        "line": [
+          820,
+          1030,
+          840,
+          1030
+        ]
+      },
+      {
+        "id": "081d5933a6e47ca3",
+        "net": "GND",
+        "line": [
+          1220,
+          1030,
+          1200,
+          1030
+        ]
+      },
+      {
+        "id": "20f7777cad0dd18c",
+        "net": "ESP_EN",
+        "line": [
+          1140,
+          1030,
+          1160,
+          1030
+        ]
+      },
+      {
+        "id": "1936e2ac2d514610",
+        "net": "VDD_3V3",
+        "line": [
+          1460,
+          1030,
+          1480,
+          1030
+        ]
+      },
+      {
+        "id": "92ce9a04f3e0af75",
+        "net": "GND",
+        "line": [
+          1540,
+          1030,
+          1520,
+          1030
+        ]
+      },
+      {
+        "id": "f9666c81c9381358",
+        "net": "VDD_3V3",
+        "line": [
+          1780,
+          1030,
+          1800,
+          1030
+        ]
+      },
+      {
+        "id": "7a4dd6d383a6ad53",
+        "net": "GND",
+        "line": [
+          1860,
+          1030,
+          1840,
+          1030
+        ]
+      },
+      {
+        "id": "55ab7ac208f365e3",
+        "net": "GND",
+        "line": [
+          165,
+          1215,
+          185,
+          1215
+        ]
+      },
+      {
+        "id": "3448a004e6e42864",
+        "net": "ESP_USB_VBUS",
+        "line": [
+          165,
+          1205,
+          185,
+          1205
+        ]
+      },
+      {
+        "id": "63fde02979253541",
+        "net": "ESP_USB_CC1",
+        "line": [
+          165,
+          1185,
+          185,
+          1185
+        ]
+      },
+      {
+        "id": "701a1cee6a8c47d8",
+        "net": "ESP_USB_DM_EXT",
+        "line": [
+          165,
+          1175,
+          185,
+          1175
+        ]
+      },
+      {
+        "id": "3f5f9458f25f954a",
+        "net": "ESP_USB_DP_EXT",
+        "line": [
+          165,
+          1165,
+          185,
+          1165
+        ]
+      },
+      {
+        "id": "6728851f92f794e7",
+        "net": "ESP_USB_DM_EXT",
+        "line": [
+          165,
+          1155,
+          185,
+          1155
+        ]
+      },
+      {
+        "id": "0d7791ba55eddcef",
+        "net": "ESP_USB_DP_EXT",
+        "line": [
+          165,
+          1145,
+          185,
+          1145
+        ]
+      },
+      {
+        "id": "995d3b9f9cb4c5b2",
+        "net": "ESP_USB_CC2",
+        "line": [
+          165,
+          1125,
+          185,
+          1125
+        ]
+      },
+      {
+        "id": "5dee5a6d22a798fd",
+        "net": "ESP_USB_VBUS",
+        "line": [
+          165,
+          1115,
+          185,
+          1115
+        ]
+      },
+      {
+        "id": "2acb32b5033295d7",
+        "net": "GND",
+        "line": [
+          165,
+          1105,
+          185,
+          1105
+        ]
+      },
+      {
+        "id": "0f19cbea77bff7b2",
+        "net": "GND",
+        "line": [
+          275,
+          1135,
+          255,
+          1135
+        ]
+      },
+      {
+        "id": "d44b3d228c6cb17e",
+        "net": "GND",
+        "line": [
+          275,
+          1125,
+          255,
+          1125
+        ]
+      },
+      {
+        "id": "78fe85887640de0e",
+        "net": "GND",
+        "line": [
+          275,
+          1115,
+          255,
+          1115
+        ]
+      },
+      {
+        "id": "6e14cfefdd0bfc32",
+        "net": "GND",
+        "line": [
+          275,
+          1105,
+          255,
+          1105
+        ]
+      },
+      {
+        "id": "abafd210c112305c",
+        "net": "ESP_USB_DP_EXT",
+        "line": [
+          490,
+          1160,
+          510,
+          1160
+        ]
+      },
+      {
+        "id": "f0a24787c045df5d",
+        "net": "GND",
+        "line": [
+          590,
+          1160,
+          570,
+          1160
+        ]
+      },
+      {
+        "id": "572ccadf71aebefc",
+        "net": "ESP_USB_DM_EXT",
+        "line": [
+          810,
+          1160,
+          830,
+          1160
+        ]
+      },
+      {
+        "id": "fb5ec2fdc1c49823",
+        "net": "GND",
+        "line": [
+          910,
+          1160,
+          890,
+          1160
+        ]
+      }
+    ]
+  },
+  "windowId": "85b38436-b87a-4f79-b4e4-e135b424871d"
+}

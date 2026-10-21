@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "component": {
+      "uuid": "2a7ea242ee7d1ec0",
+      "name": "SN74LVC1T45DCKR",
+      "libraryUuid": "0819f05c4eef4c71ace90d822a990e87"
+    },
+    "pins": [
+      {
+        "number": "1",
+        "name": "VCCA",
+        "x": 1455,
+        "y": 710,
+        "rotation": 180
+      },
+      {
+        "number": "2",
+        "name": "GND",
+        "x": 1455,
+        "y": 700,
+        "rotation": 180
+      },
+      {
+        "number": "3",
+        "name": "A",
+        "x": 1455,
+        "y": 690,
+        "rotation": 180
+      },
+      {
+        "number": "4",
+        "name": "B",
+        "x": 1545,
+        "y": 690,
+        "rotation": 0
+      },
+      {
+        "number": "5",
+        "name": "DIR",
+        "x": 1545,
+        "y": 700,
+        "rotation": 0
+      },
+      {
+        "number": "6",
+        "name": "VCCB",
+        "x": 1545,
+        "y": 710,
+        "rotation": 0
+      }
+    ]
+  },
+  "windowId": "f859bb64-72b9-4c83-abeb-97ca0e7892b3"
+}

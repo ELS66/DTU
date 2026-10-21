@@ -1,0 +1,908 @@
+{
+  "success": true,
+  "result": {
+    "parts": [
+      {
+        "ref": "J5",
+        "sub": "U.FL-R-SMT(10).1",
+        "id": "fd7edfe08b2ba821",
+        "pins": [
+          {
+            "number": "1",
+            "name": "GND",
+            "x": 850,
+            "y": 570,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "SIG",
+            "x": 900,
+            "y": 620,
+            "rotation": 90
+          },
+          {
+            "number": "3",
+            "name": "GND",
+            "x": 950,
+            "y": 570,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "D10",
+        "sub": "PESD5V0U1UL,315.1",
+        "id": "3d581f78aa5d29ef",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 870,
+            "y": 700,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 930,
+            "y": 700,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "D11",
+        "sub": "PESD5V0U1UL,315.1",
+        "id": "57225d3c6148a230",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 150,
+            "y": 420,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 210,
+            "y": 420,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "D12",
+        "sub": "PESD5V0U1UL,315.1",
+        "id": "0c0544356574fb68",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 360,
+            "y": 420,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 420,
+            "y": 420,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "D13",
+        "sub": "PESD5V0U1UL,315.1",
+        "id": "5964313b7fd41b4d",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 570,
+            "y": 420,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 630,
+            "y": 420,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "J4",
+        "sub": "SMN-303.1",
+        "id": "ea1adccbacfa6709",
+        "pins": [
+          {
+            "number": "C1",
+            "name": "VCC",
+            "x": 410,
+            "y": 260,
+            "rotation": 180
+          },
+          {
+            "number": "C2",
+            "name": "RST",
+            "x": 410,
+            "y": 250,
+            "rotation": 180
+          },
+          {
+            "number": "C3",
+            "name": "CLK",
+            "x": 410,
+            "y": 240,
+            "rotation": 180
+          },
+          {
+            "number": "C7",
+            "name": "I/O",
+            "x": 530,
+            "y": 240,
+            "rotation": 0
+          },
+          {
+            "number": "C6",
+            "name": "VPP",
+            "x": 530,
+            "y": 250,
+            "rotation": 0
+          },
+          {
+            "number": "C5",
+            "name": "GND",
+            "x": 530,
+            "y": 260,
+            "rotation": 0
+          },
+          {
+            "number": "CD",
+            "name": "CD",
+            "x": 530,
+            "y": 230,
+            "rotation": 0
+          },
+          {
+            "number": "8",
+            "name": "EP",
+            "x": 450,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "9",
+            "name": "EP",
+            "x": 460,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "10",
+            "name": "EP",
+            "x": 480,
+            "y": 200,
+            "rotation": 270
+          },
+          {
+            "number": "11",
+            "name": "EP",
+            "x": 490,
+            "y": 200,
+            "rotation": 270
+          }
+        ]
+      },
+      {
+        "ref": "R50",
+        "sub": "0603WAF0000T5E.1",
+        "id": "9bed4a8ade62f5f8",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 240,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 200,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R51",
+        "sub": "0603WAF220JT5E.1",
+        "id": "a41e3e38f57999d1",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 560,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 520,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R52",
+        "sub": "0603WAF220JT5E.1",
+        "id": "53b2d8479ec8274c",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 880,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 840,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R53",
+        "sub": "0603WAF220JT5E.1",
+        "id": "f57cc88fe5596139",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1200,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1160,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R54",
+        "sub": "0603WAF1002T5E.1",
+        "id": "d615a745b821e277",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1520,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1480,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "R55",
+        "sub": "0603WAF1003T5E.1",
+        "id": "fccbae9a3362abff",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1840,
+            "y": 900,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1800,
+            "y": 900,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "C50",
+        "sub": "CL10A105KB8NNNC.1",
+        "id": "bbc22d3847c48465",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 240,
+            "y": 1030,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 200,
+            "y": 1030,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "C51",
+        "sub": "CL10A105KB8NNNC.1",
+        "id": "e7e1534ffcaa10f2",
+        "pins": [
+          {
+            "number": "2",
+            "name": "2",
+            "x": 560,
+            "y": 1030,
+            "rotation": 0
+          },
+          {
+            "number": "1",
+            "name": "1",
+            "x": 520,
+            "y": 1030,
+            "rotation": 180
+          }
+        ]
+      },
+      {
+        "ref": "C52",
+        "sub": "CC0603KRX7R9BB104.1",
+        "id": "d7b41a239f13b641",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 840,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 880,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C53",
+        "sub": "CL10C101JB8NNNC.1",
+        "id": "7a8acd0bdc7debe9",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1165,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1195,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C54",
+        "sub": "CL10B103KB8NNNC.1",
+        "id": "68885c27cda7144e",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1485,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1515,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      },
+      {
+        "ref": "C55",
+        "sub": "CL10C330JB8NNNC.1",
+        "id": "2ea04a809e47009a",
+        "pins": [
+          {
+            "number": "1",
+            "name": "1",
+            "x": 1805,
+            "y": 1030,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "2",
+            "x": 1835,
+            "y": 1030,
+            "rotation": 0
+          }
+        ]
+      }
+    ],
+    "wires": [
+      {
+        "id": "a7581e045dd67c32",
+        "net": "GND",
+        "line": [
+          830,
+          570,
+          850,
+          570
+        ]
+      },
+      {
+        "id": "80edc9604672506f",
+        "net": "LTE_RF_FEED",
+        "line": [
+          900,
+          640,
+          900,
+          620
+        ]
+      },
+      {
+        "id": "5b120088790fc6cd",
+        "net": "GND",
+        "line": [
+          970,
+          570,
+          950,
+          570
+        ]
+      },
+      {
+        "id": "375f9a06213fbb97",
+        "net": "LTE_RF_FEED",
+        "line": [
+          850,
+          700,
+          870,
+          700
+        ]
+      },
+      {
+        "id": "df08f20c65edcf22",
+        "net": "GND",
+        "line": [
+          950,
+          700,
+          930,
+          700
+        ]
+      },
+      {
+        "id": "a1f78cf03ac194bf",
+        "net": "SIM_DATA",
+        "line": [
+          130,
+          420,
+          150,
+          420
+        ]
+      },
+      {
+        "id": "9f789894de770a8a",
+        "net": "GND",
+        "line": [
+          230,
+          420,
+          210,
+          420
+        ]
+      },
+      {
+        "id": "cf5b1c34ce26b8c0",
+        "net": "SIM_RST",
+        "line": [
+          340,
+          420,
+          360,
+          420
+        ]
+      },
+      {
+        "id": "7d0df9af07f0819e",
+        "net": "GND",
+        "line": [
+          440,
+          420,
+          420,
+          420
+        ]
+      },
+      {
+        "id": "18a58031e0f6e1b0",
+        "net": "SIM_CLK",
+        "line": [
+          550,
+          420,
+          570,
+          420
+        ]
+      },
+      {
+        "id": "4026bddd245d3ef0",
+        "net": "GND",
+        "line": [
+          650,
+          420,
+          630,
+          420
+        ]
+      },
+      {
+        "id": "d6aee4ab73a27032",
+        "net": "SIM_VDD",
+        "line": [
+          390,
+          260,
+          410,
+          260
+        ]
+      },
+      {
+        "id": "b9fbd91a6650e864",
+        "net": "SIM_RST",
+        "line": [
+          390,
+          250,
+          410,
+          250
+        ]
+      },
+      {
+        "id": "533f15c35181e4d0",
+        "net": "SIM_CLK",
+        "line": [
+          390,
+          240,
+          410,
+          240
+        ]
+      },
+      {
+        "id": "d6de83cc7147c221",
+        "net": "SIM_DATA",
+        "line": [
+          550,
+          240,
+          530,
+          240
+        ]
+      },
+      {
+        "id": "89ee71167c515693",
+        "net": "GND",
+        "line": [
+          550,
+          260,
+          530,
+          260
+        ]
+      },
+      {
+        "id": "1d05e26fb164aec0",
+        "net": "SIM_DET",
+        "line": [
+          550,
+          230,
+          530,
+          230
+        ]
+      },
+      {
+        "id": "a5f3fbe4bd109ec6",
+        "net": "GND",
+        "line": [
+          450,
+          180,
+          450,
+          200
+        ]
+      },
+      {
+        "id": "8fb13960f7699772",
+        "net": "GND",
+        "line": [
+          460,
+          180,
+          460,
+          200
+        ]
+      },
+      {
+        "id": "c6909f252618ea8d",
+        "net": "GND",
+        "line": [
+          480,
+          180,
+          480,
+          200
+        ]
+      },
+      {
+        "id": "0f77a4cf13983a4d",
+        "net": "GND",
+        "line": [
+          490,
+          180,
+          490,
+          200
+        ]
+      },
+      {
+        "id": "0d0a50ffe1ae28c9",
+        "net": "LTE_RF_FEED",
+        "line": [
+          260,
+          900,
+          240,
+          900
+        ]
+      },
+      {
+        "id": "22f50c1c678ce73e",
+        "net": "LTE_ANT",
+        "line": [
+          180,
+          900,
+          200,
+          900
+        ]
+      },
+      {
+        "id": "c305ccf3bdc62790",
+        "net": "SIM_DATA",
+        "line": [
+          580,
+          900,
+          560,
+          900
+        ]
+      },
+      {
+        "id": "d601370313b1d680",
+        "net": "SIM_DATA_M",
+        "line": [
+          500,
+          900,
+          520,
+          900
+        ]
+      },
+      {
+        "id": "5bac8e0831756b33",
+        "net": "SIM_RST",
+        "line": [
+          900,
+          900,
+          880,
+          900
+        ]
+      },
+      {
+        "id": "0f60bea46d369b2f",
+        "net": "SIM_RST_M",
+        "line": [
+          820,
+          900,
+          840,
+          900
+        ]
+      },
+      {
+        "id": "6fa9557d0c42fff8",
+        "net": "SIM_CLK",
+        "line": [
+          1220,
+          900,
+          1200,
+          900
+        ]
+      },
+      {
+        "id": "f14049e1ba1cdb7b",
+        "net": "SIM_CLK_M",
+        "line": [
+          1140,
+          900,
+          1160,
+          900
+        ]
+      },
+      {
+        "id": "dd44398da14d22ad",
+        "net": "SIM_DATA",
+        "line": [
+          1540,
+          900,
+          1520,
+          900
+        ]
+      },
+      {
+        "id": "5aa80fe367ea6e2e",
+        "net": "SIM_VDD",
+        "line": [
+          1460,
+          900,
+          1480,
+          900
+        ]
+      },
+      {
+        "id": "fdad6d4cb00d00da",
+        "net": "SIM_DET",
+        "line": [
+          1860,
+          900,
+          1840,
+          900
+        ]
+      },
+      {
+        "id": "79363e2889a350fa",
+        "net": "LTE_VREF",
+        "line": [
+          1780,
+          900,
+          1800,
+          900
+        ]
+      },
+      {
+        "id": "7892ec68076afd29",
+        "net": "GND",
+        "line": [
+          260,
+          1030,
+          240,
+          1030
+        ]
+      },
+      {
+        "id": "e08ebfa5c0478e61",
+        "net": "LTE_ANT",
+        "line": [
+          180,
+          1030,
+          200,
+          1030
+        ]
+      },
+      {
+        "id": "9bbcd02afc196c92",
+        "net": "GND",
+        "line": [
+          580,
+          1030,
+          560,
+          1030
+        ]
+      },
+      {
+        "id": "9c525096c3ad2224",
+        "net": "LTE_RF_FEED",
+        "line": [
+          500,
+          1030,
+          520,
+          1030
+        ]
+      },
+      {
+        "id": "dd425cd37c53087c",
+        "net": "SIM_VDD",
+        "line": [
+          820,
+          1030,
+          840,
+          1030
+        ]
+      },
+      {
+        "id": "81fc4ad3df877f28",
+        "net": "GND",
+        "line": [
+          900,
+          1030,
+          880,
+          1030
+        ]
+      },
+      {
+        "id": "85e1d0ef81f8d5c6",
+        "net": "SIM_VDD",
+        "line": [
+          1145,
+          1030,
+          1165,
+          1030
+        ]
+      },
+      {
+        "id": "87f0a8cf6656acd1",
+        "net": "GND",
+        "line": [
+          1215,
+          1030,
+          1195,
+          1030
+        ]
+      },
+      {
+        "id": "dd1c5752fcb28f61",
+        "net": "SIM_DET",
+        "line": [
+          1465,
+          1030,
+          1485,
+          1030
+        ]
+      },
+      {
+        "id": "e38749934f0762e0",
+        "net": "GND",
+        "line": [
+          1535,
+          1030,
+          1515,
+          1030
+        ]
+      },
+      {
+        "id": "2221d2ef94b7324a",
+        "net": "SIM_CLK",
+        "line": [
+          1785,
+          1030,
+          1805,
+          1030
+        ]
+      },
+      {
+        "id": "3bbd5b6bd6309370",
+        "net": "GND",
+        "line": [
+          1855,
+          1030,
+          1835,
+          1030
+        ]
+      }
+    ]
+  },
+  "windowId": "85b38436-b87a-4f79-b4e4-e135b424871d"
+}

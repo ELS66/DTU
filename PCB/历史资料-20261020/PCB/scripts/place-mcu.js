@@ -1,0 +1,5 @@
+const p=await eda.dmt_Project.getCurrentProjectInfo();if(p?.uuid!=="12230af40fcb3675a68a591406a0a990f01e9023920d5aea6411657b74722ec6")throw new Error("Wrong project");
+const tab=await eda.dmt_EditorControl.openDocument("905678d5aaed7ed3");if(!tab)throw new Error("Open failed");
+const renamed=await eda.dmt_Schematic.modifySchematicPageName("905678d5aaed7ed3","02_ESP32_C5");
+const parts=await eda.sch_PrimitiveComponent.getAll("part");let c=parts.find(p=>p.getState_Designator()==="U1");if(!c){c=await eda.sch_PrimitiveComponent.create({libraryUuid:"0819f05c4eef4c71ace90d822a990e87",uuid:"c843baa5a4ee419aab9e70c7ba2520e8"},500,500,undefined,0,false,true,true);if(!c)throw new Error("MCU creation failed");const a=c.toAsync();a.setState_Designator("U1");await a.done();}
+const pins=await c.getAllPins();const saved=await eda.sch_Document.save();return {renamed,saved,componentId:c.getState_PrimitiveId(),pins:pins.map(p=>({number:p.getState_PinNumber(),name:p.getState_PinName(),x:p.getState_X(),y:p.getState_Y(),rotation:p.getState_Rotation()}))};

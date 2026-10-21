@@ -1,0 +1,241 @@
+{
+  "success": true,
+  "result": [
+    {
+      "ref": "U10",
+      "page": 7,
+      "id": "d539d50ac214dc1e",
+      "sub": "SN74AXC4T774PWR.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "DIR1",
+          "x": 315,
+          "y": 245,
+          "rotation": 180
+        },
+        {
+          "number": "2",
+          "name": "DIR2",
+          "x": 315,
+          "y": 235,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "A1",
+          "x": 315,
+          "y": 225,
+          "rotation": 180
+        },
+        {
+          "number": "4",
+          "name": "A2",
+          "x": 315,
+          "y": 215,
+          "rotation": 180
+        },
+        {
+          "number": "5",
+          "name": "A3",
+          "x": 315,
+          "y": 205,
+          "rotation": 180
+        },
+        {
+          "number": "6",
+          "name": "A4",
+          "x": 315,
+          "y": 195,
+          "rotation": 180
+        },
+        {
+          "number": "7",
+          "name": "DIR3",
+          "x": 315,
+          "y": 185,
+          "rotation": 180
+        },
+        {
+          "number": "8",
+          "name": "DIR4",
+          "x": 315,
+          "y": 175,
+          "rotation": 180
+        },
+        {
+          "number": "9",
+          "name": "OE#",
+          "x": 405,
+          "y": 175,
+          "rotation": 0
+        },
+        {
+          "number": "10",
+          "name": "GND",
+          "x": 405,
+          "y": 185,
+          "rotation": 0
+        },
+        {
+          "number": "11",
+          "name": "B4",
+          "x": 405,
+          "y": 195,
+          "rotation": 0
+        },
+        {
+          "number": "12",
+          "name": "B3",
+          "x": 405,
+          "y": 205,
+          "rotation": 0
+        },
+        {
+          "number": "13",
+          "name": "B2",
+          "x": 405,
+          "y": 215,
+          "rotation": 0
+        },
+        {
+          "number": "14",
+          "name": "B1",
+          "x": 405,
+          "y": 225,
+          "rotation": 0
+        },
+        {
+          "number": "15",
+          "name": "VCCB",
+          "x": 405,
+          "y": 235,
+          "rotation": 0
+        },
+        {
+          "number": "16",
+          "name": "VCCA",
+          "x": 405,
+          "y": 245,
+          "rotation": 0
+        }
+      ]
+    },
+    {
+      "ref": "Q1",
+      "page": 7,
+      "id": "a5361f992d27ebb9",
+      "sub": "MMBT3904LT1G.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 190,
+          "y": 500,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "3",
+          "x": 210,
+          "y": 520,
+          "rotation": 90
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 210,
+          "y": 480,
+          "rotation": 270
+        }
+      ]
+    },
+    {
+      "ref": "Q2",
+      "page": 7,
+      "id": "c745f07d13b7f059",
+      "sub": "MMBT3904LT1G.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 450,
+          "y": 500,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "3",
+          "x": 470,
+          "y": 520,
+          "rotation": 90
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 470,
+          "y": 480,
+          "rotation": 270
+        }
+      ]
+    },
+    {
+      "ref": "Q3",
+      "page": 7,
+      "id": "2d2f3ca938aa8dbd",
+      "sub": "MMBT3904LT1G.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 720,
+          "y": 500,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "3",
+          "x": 740,
+          "y": 520,
+          "rotation": 90
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 740,
+          "y": 480,
+          "rotation": 270
+        }
+      ]
+    },
+    {
+      "ref": "Q4",
+      "page": 7,
+      "id": "fac3b9b7bb26c31a",
+      "sub": "MMBT3904LT1G.1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "x": 980,
+          "y": 500,
+          "rotation": 180
+        },
+        {
+          "number": "3",
+          "name": "3",
+          "x": 1000,
+          "y": 520,
+          "rotation": 90
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "x": 1000,
+          "y": 480,
+          "rotation": 270
+        }
+      ]
+    }
+  ]
+}

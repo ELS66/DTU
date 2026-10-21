@@ -1,0 +1,1 @@
+if((await eda.dmt_Project.getCurrentProjectInfo())?.uuid!=='52c709566e222603927d1a7d15a5e220a7f38cb78f29ecab14bf35ab4cfcb0b9')throw Error('Wrong project');const tab=await eda.dmt_EditorControl.openDocument('7ee770cbd5586921');return {tab,document:await eda.dmt_SelectControl.getCurrentDocumentInfo(),source:await eda.sys_FileManager.getDocumentSource()};

@@ -1,0 +1,31 @@
+{
+  "totalDrilledHoles": 326,
+  "PTH": 320,
+  "NPTH": 6,
+  "drillDiameters": {
+    "0.2": 298,
+    "0.3": 12,
+    "1.1": 10,
+    "0.75": 2,
+    "3.2": 4
+  },
+  "minimumDrillWallGapMm": 0.41846487370019997,
+  "closestDrills": [
+    [
+      38.05,
+      49.999999,
+      0.2
+    ],
+    [
+      37.9,
+      49.4,
+      0.2
+    ]
+  ],
+  "topSilkMaskClearanceMm": 0.47431699999999927,
+  "manufacturingFileCount": 12,
+  "removedDuplicateViaDrill": true,
+  "copperLayers": 4,
+  "assemblySide": "Top only",
+  "factoryDFM": "Pending"
+}

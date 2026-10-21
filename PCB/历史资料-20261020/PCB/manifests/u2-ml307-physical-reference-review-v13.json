@@ -1,0 +1,1339 @@
+{
+  "source": "ML307R AT V1.0.1 by China Mobile IoT, Figures19/20, printed pages55/56",
+  "pdfUrl": "https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1189/M307R_Hardware_Datasheet.pdf",
+  "pdfSha256": "535828e9c7df1bccf7643c1ffa4445f8c0d1a64cd8612506f45f9b88aa28d6ec",
+  "scope": "Nominal dimensions read visually; no tolerance stack or assembly certification. Physical nominal shapes reconstructed on the documented nominal grid; this is not a substitute for manufacturer CAD.",
+  "physicalPadCoverageWithin1umCount": 109,
+  "physicalPads": [
+    {
+      "pin": "23",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        -6.8999999999999995,
+        7.9,
+        -6.3
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "24",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        -5.8,
+        7.9,
+        -5.2
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "25",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        -4.7,
+        7.9,
+        -4.1000000000000005
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "26",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        -3.5999999999999996,
+        7.9,
+        -3.0
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "27",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        -2.5,
+        7.9,
+        -1.9000000000000001
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "28",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        -1.4000000000000001,
+        7.9,
+        -0.8
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009952e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "29",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        -0.3,
+        7.9,
+        0.3
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "30",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        0.8,
+        7.9,
+        1.4000000000000001
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009952e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "31",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        1.9000000000000001,
+        7.9,
+        2.5
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "32",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        3.0,
+        7.9,
+        3.5999999999999996
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "33",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        4.1000000000000005,
+        7.9,
+        4.7
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "34",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        5.2,
+        7.9,
+        5.8
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "35",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        6.6,
+        6.3,
+        7.9,
+        6.8999999999999995
+      ],
+      "maxOutsideCurrentPadMm": 8.840000000009951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "13",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        -6.8999999999999995,
+        -6.6,
+        -6.3
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "12",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        -5.8,
+        -6.6,
+        -5.2
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "11",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        -4.7,
+        -6.6,
+        -4.1000000000000005
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "10",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        -3.5999999999999996,
+        -6.6,
+        -3.0
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "9",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        -2.5,
+        -6.6,
+        -1.9000000000000001
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "8",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        -1.4000000000000001,
+        -6.6,
+        -0.8
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "7",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        -0.3,
+        -6.6,
+        0.3
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "6",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        0.8,
+        -6.6,
+        1.4000000000000001
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "5",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        1.9000000000000001,
+        -6.6,
+        2.5
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "4",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        3.0,
+        -6.6,
+        3.5999999999999996
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "3",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        4.1000000000000005,
+        -6.6,
+        4.7
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "2",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        5.2,
+        -6.6,
+        5.8
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "1",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -7.9,
+        6.3,
+        -6.6,
+        6.8999999999999995
+      ],
+      "maxOutsideCurrentPadMm": 0.00013920000000045007,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "98",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.8,
+        7.549999999999999,
+        -5.2,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "44",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -4.7,
+        7.549999999999999,
+        -4.1000000000000005,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "43",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.5999999999999996,
+        7.549999999999999,
+        -3.0,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "42",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -2.5,
+        7.549999999999999,
+        -1.9000000000000001,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "41",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -1.4000000000000001,
+        7.549999999999999,
+        -0.8,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "40",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -0.3,
+        7.549999999999999,
+        0.3,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "39",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        0.8,
+        7.549999999999999,
+        1.4000000000000001,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "38",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        1.9000000000000001,
+        7.549999999999999,
+        2.5,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "37",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        3.0,
+        7.549999999999999,
+        3.5999999999999996,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "36",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.1000000000000005,
+        7.549999999999999,
+        4.7,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "97",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        5.2,
+        7.549999999999999,
+        5.8,
+        8.85
+      ],
+      "maxOutsideCurrentPadMm": 0.0,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "96",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        5.2,
+        -8.85,
+        5.8,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.0001500000000005386,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "22",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.1000000000000005,
+        -8.85,
+        4.7,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.0001500000000005386,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "21",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        3.0,
+        -8.85,
+        3.5999999999999996,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.0001500000000005386,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "20",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        1.9000000000000001,
+        -8.85,
+        2.5,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.0001500000000005386,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "19",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        0.8,
+        -8.85,
+        1.4000000000000001,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.0001500000000005386,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "18",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -0.3,
+        -8.85,
+        0.3,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.00015000000000053862,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "17",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -1.4000000000000001,
+        -8.85,
+        -0.8,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.00015000000000053856,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "16",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -2.5,
+        -8.85,
+        -1.9000000000000001,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.0001500000000005386,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "15",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.5999999999999996,
+        -8.85,
+        -3.0,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.0001500000000005386,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "14",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -4.7,
+        -8.85,
+        -4.1000000000000005,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.0001500000000005386,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "95",
+      "group": "outer_48",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.8,
+        -8.85,
+        -5.2,
+        -7.549999999999999
+      ],
+      "maxOutsideCurrentPadMm": 0.0001500000000005386,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "45",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        4.45,
+        -4.5,
+        5.1499999999999995
+      ],
+      "maxOutsideCurrentPadMm": 2.3263920563119698e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "46",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        3.25,
+        -4.5,
+        3.95
+      ],
+      "maxOutsideCurrentPadMm": 0.00013589323014814484,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "47",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        2.05,
+        -4.5,
+        2.75
+      ],
+      "maxOutsideCurrentPadMm": 3.498242415877603e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "48",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        0.85,
+        -4.5,
+        1.5499999999999998
+      ],
+      "maxOutsideCurrentPadMm": 0.00018164187292551065,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "49",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        -0.35,
+        -4.5,
+        0.35
+      ],
+      "maxOutsideCurrentPadMm": 7.862932023101951e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "50",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        -1.5499999999999998,
+        -4.5,
+        -0.85
+      ],
+      "maxOutsideCurrentPadMm": 3.2881757860443996e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "51",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        -2.75,
+        -4.5,
+        -2.05
+      ],
+      "maxOutsideCurrentPadMm": 0.0001239893947077841,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "52",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        -3.95,
+        -4.5,
+        -3.25
+      ],
+      "maxOutsideCurrentPadMm": 2.5023389059027844e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "53",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        -5.1499999999999995,
+        -4.5,
+        -4.45
+      ],
+      "maxOutsideCurrentPadMm": 0.00016969434286321345,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "54",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -2.75,
+        -6.45,
+        -2.05,
+        -5.45
+      ],
+      "maxOutsideCurrentPadMm": 7.706004152584346e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "55",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -1.5499999999999998,
+        -6.45,
+        -0.85,
+        -5.45
+      ],
+      "maxOutsideCurrentPadMm": 8.383513583175612e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "56",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -0.35,
+        -6.45,
+        0.35,
+        -5.45
+      ],
+      "maxOutsideCurrentPadMm": 3.769681684100828e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "57",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        0.85,
+        -6.45,
+        1.5499999999999998,
+        -5.45
+      ],
+      "maxOutsideCurrentPadMm": 0.00013291294143120085,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "58",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        2.05,
+        -6.45,
+        2.75,
+        -5.45
+      ],
+      "maxOutsideCurrentPadMm": 3.454750352710676e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "59",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        -5.1499999999999995,
+        5.5,
+        -4.45
+      ],
+      "maxOutsideCurrentPadMm": 0.00017277780528714983,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "60",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        -3.95,
+        5.5,
+        -3.25
+      ],
+      "maxOutsideCurrentPadMm": 4.101426581161597e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "61",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        -2.75,
+        5.5,
+        -2.05
+      ],
+      "maxOutsideCurrentPadMm": 0.00012817710403995362,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "62",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        -1.5499999999999998,
+        5.5,
+        -0.85
+      ],
+      "maxOutsideCurrentPadMm": 4.622996863571602e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "63",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        -0.35,
+        5.5,
+        0.35
+      ],
+      "maxOutsideCurrentPadMm": 8.507978608376158e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "64",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        0.85,
+        5.5,
+        1.5499999999999998
+      ],
+      "maxOutsideCurrentPadMm": 0.00018452579765429488,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "65",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        2.05,
+        5.5,
+        2.75
+      ],
+      "maxOutsideCurrentPadMm": 4.774693707549138e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "66",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        3.25,
+        5.5,
+        3.95
+      ],
+      "maxOutsideCurrentPadMm": 0.0001397246220254794,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "67",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        4.45,
+        5.5,
+        5.1499999999999995
+      ],
+      "maxOutsideCurrentPadMm": 3.996510978382969e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "68",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        2.05,
+        5.45,
+        2.75,
+        6.45
+      ],
+      "maxOutsideCurrentPadMm": 0.00012897104326223475,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "69",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        0.85,
+        5.45,
+        1.5499999999999998,
+        6.45
+      ],
+      "maxOutsideCurrentPadMm": 0.0001819501305305594,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "70",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -0.35,
+        5.45,
+        0.35,
+        6.45
+      ],
+      "maxOutsideCurrentPadMm": 0.00012985010589190252,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "71",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -1.5499999999999998,
+        5.45,
+        -0.85,
+        6.45
+      ],
+      "maxOutsideCurrentPadMm": 0.00014989439615983906,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "72",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -2.75,
+        5.45,
+        -2.05,
+        6.45
+      ],
+      "maxOutsideCurrentPadMm": 0.00014621302951569842,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "73",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.7,
+        3.85,
+        -2.7,
+        4.55
+      ],
+      "maxOutsideCurrentPadMm": 0.0002047451342517656,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "74",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.7,
+        2.65,
+        -2.7,
+        3.35
+      ],
+      "maxOutsideCurrentPadMm": 0.00011773431955086039,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "75",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.7,
+        1.4500000000000002,
+        -2.7,
+        2.15
+      ],
+      "maxOutsideCurrentPadMm": 8.657488088394607e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "76",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.7,
+        0.25,
+        -2.7,
+        0.95
+      ],
+      "maxOutsideCurrentPadMm": 0.00015363648655207054,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "77",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.7,
+        -0.95,
+        -2.7,
+        -0.25
+      ],
+      "maxOutsideCurrentPadMm": 8.722941017837694e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "78",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.7,
+        -2.15,
+        -2.7,
+        -1.4500000000000002
+      ],
+      "maxOutsideCurrentPadMm": 0.00019385295974006276,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "79",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.7,
+        -3.35,
+        -2.7,
+        -2.65
+      ],
+      "maxOutsideCurrentPadMm": 0.00010961646774116525,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "80",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.7,
+        -4.55,
+        -2.7,
+        -3.85
+      ],
+      "maxOutsideCurrentPadMm": 9.043898495672209e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "81",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        2.7,
+        -4.55,
+        3.7,
+        -3.85
+      ],
+      "maxOutsideCurrentPadMm": 0.00013875737818227278,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "82",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        2.7,
+        -3.35,
+        3.7,
+        -2.65
+      ],
+      "maxOutsideCurrentPadMm": 0.0001519544997690624,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "83",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        2.7,
+        -2.15,
+        3.7,
+        -1.4500000000000002
+      ],
+      "maxOutsideCurrentPadMm": 0.0002205750892553338,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "84",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        2.7,
+        -0.95,
+        3.7,
+        -0.25
+      ],
+      "maxOutsideCurrentPadMm": 0.0001366871244853867,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "85",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        2.7,
+        0.25,
+        3.7,
+        0.95
+      ],
+      "maxOutsideCurrentPadMm": 0.0001862218300846617,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "86",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        2.7,
+        1.4500000000000002,
+        3.7,
+        2.15
+      ],
+      "maxOutsideCurrentPadMm": 0.00013627035627782557,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "87",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        2.7,
+        2.65,
+        3.7,
+        3.35
+      ],
+      "maxOutsideCurrentPadMm": 0.0001579106392872886,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "88",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        2.7,
+        3.85,
+        3.7,
+        4.55
+      ],
+      "maxOutsideCurrentPadMm": 0.00023020636394285364,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "99",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        5.65,
+        -4.5,
+        6.35
+      ],
+      "maxOutsideCurrentPadMm": 9.040005530853873e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "100",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -5.5,
+        -6.35,
+        -4.5,
+        -5.65
+      ],
+      "maxOutsideCurrentPadMm": 6.694004780300344e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "101",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.95,
+        -6.45,
+        -3.25,
+        -5.45
+      ],
+      "maxOutsideCurrentPadMm": 4.299686035030709e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "102",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        3.25,
+        -6.45,
+        3.95,
+        -5.45
+      ],
+      "maxOutsideCurrentPadMm": 8.838919617210688e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "103",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        -6.35,
+        5.5,
+        -5.65
+      ],
+      "maxOutsideCurrentPadMm": 7.441081910538817e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "104",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        4.5,
+        5.65,
+        5.5,
+        6.35
+      ],
+      "maxOutsideCurrentPadMm": 9.606336450412966e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "105",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        3.25,
+        5.45,
+        3.95,
+        6.45
+      ],
+      "maxOutsideCurrentPadMm": 0.00015248819626497313,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "106",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -3.95,
+        5.45,
+        -3.25,
+        6.45
+      ],
+      "maxOutsideCurrentPadMm": 0.0001314866152890764,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "107",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -1.5499999999999998,
+        -4.65,
+        -0.85,
+        -3.6500000000000004
+      ],
+      "maxOutsideCurrentPadMm": 0.00019962647619942102,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "108",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -0.35,
+        -4.65,
+        0.35,
+        -3.6500000000000004
+      ],
+      "maxOutsideCurrentPadMm": 0.0001850498581458887,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "109",
+      "group": "inner_55",
+      "manufacturerNominalPhysicalBoundsMm": [
+        0.85,
+        -4.65,
+        1.5499999999999998,
+        -3.6500000000000004
+      ],
+      "maxOutsideCurrentPadMm": 0.0002246959056141496,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "89",
+      "group": "central_6",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -1.55,
+        1.15,
+        -0.25,
+        2.45
+      ],
+      "maxOutsideCurrentPadMm": 5.864145291565756e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "90",
+      "group": "central_6",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -1.55,
+        -0.65,
+        -0.25,
+        0.65
+      ],
+      "maxOutsideCurrentPadMm": 9.440052965980265e-05,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "91",
+      "group": "central_6",
+      "manufacturerNominalPhysicalBoundsMm": [
+        -1.55,
+        -2.45,
+        -0.25,
+        -1.15
+      ],
+      "maxOutsideCurrentPadMm": 0.00018359046816237128,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "92",
+      "group": "central_6",
+      "manufacturerNominalPhysicalBoundsMm": [
+        0.25,
+        -2.45,
+        1.55,
+        -1.15
+      ],
+      "maxOutsideCurrentPadMm": 0.0002043583617081807,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "93",
+      "group": "central_6",
+      "manufacturerNominalPhysicalBoundsMm": [
+        0.25,
+        -0.65,
+        1.55,
+        0.65
+      ],
+      "maxOutsideCurrentPadMm": 0.00013026258096638586,
+      "coveredWithin1um": true
+    },
+    {
+      "pin": "94",
+      "group": "central_6",
+      "manufacturerNominalPhysicalBoundsMm": [
+        0.25,
+        1.15,
+        1.55,
+        2.45
+      ],
+      "maxOutsideCurrentPadMm": 0.00010721800221992684,
+      "coveredWithin1um": true
+    }
+  ],
+  "currentOuterLandMm": [
+    1.8,
+    0.7
+  ],
+  "recommendedOuterLandMm": [
+    2.6,
+    0.6
+  ],
+  "currentExternalToeNominalMm": 0.5,
+  "recommendedExternalToeNominalMm": 1.3,
+  "currentModelOuterWidthMm": 0.75,
+  "manufacturerPhysicalOuterWidthMm": 0.6,
+  "currentModelCentralSquareMm": 1.4,
+  "manufacturerPhysicalCentralSquareMm": 1.3,
+  "PCBModified": false,
+  "factoryDfmPassed": false,
+  "trialRecommendedPadEnlargement": "Offline only; 44 auxiliary clearance pairs including2 old rounding pairs; includes RF feed, USB resistors, adjacent tracks. Pad substitution needs local relayout.",
+  "screenshotTotalResults": 85,
+  "screenshotDisplayLimit": 50,
+  "visibleRowsAllU2": true,
+  "remaining35RowsNotProvided": true,
+  "DFMDisposition": "Not accepted. Library lead model does not match ML307R physical dimensions, current PCB lands also differ from manufacturer recommendation. Nominal physical footprint coverage does not verify solderability or manufacturing tolerances. Requires dedicated footprint/model review and local RF/USB relayout before release."
+}

@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "result": {
+    "created": [
+      {
+        "id": "cef15d4c060df35d",
+        "net": "RS485_B_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "5e39c1217894e745",
+        "net": "RS485_B_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "66517141fb5643c6",
+        "net": "RS485_B_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "2df7b48c644e9112",
+        "net": "RS485_B_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "27772da8eab92dea",
+        "net": "RS485_B_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "a6301aee9b755935",
+        "net": "RS485_B_EXT",
+        "kind": "route"
+      },
+      {
+        "id": "2995c91b0139904f",
+        "net": "RS485_A",
+        "kind": "route"
+      },
+      {
+        "id": "ea6544c44240eca1",
+        "net": "RS485_B",
+        "kind": "route"
+      },
+      {
+        "id": "5e3b72614d35cad8",
+        "net": "RS485_B",
+        "kind": "route"
+      }
+    ],
+    "saved": true
+  },
+  "windowId": "54d14f83-2b26-423e-baa3-d79d6c8a00d6"
+}

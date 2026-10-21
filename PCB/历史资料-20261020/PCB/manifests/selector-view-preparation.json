@@ -1,0 +1,76 @@
+{
+  "success": true,
+  "result": {
+    "doc": {
+      "documentType": 1,
+      "uuid": "8902a3019bd8d84c",
+      "tabId": "8902a3019bd8d84c@b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5",
+      "parentProjectUuid": "b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5"
+    },
+    "bounds": {
+      "left": -498.42042906094434,
+      "right": 1838.4926946859443,
+      "bottom": -2.5,
+      "top": 1531.6826171875
+    },
+    "sheets": [
+      {
+        "async": true,
+        "primitiveType": "Component",
+        "primitiveId": "281cae095792e55a",
+        "componentType": "sheet",
+        "x": 0,
+        "y": 0,
+        "subPartName": "pid8a0e77bacb214e",
+        "rotation": 0,
+        "mirror": false,
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "net": "",
+        "component": {
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+          "uuid": "9f86200c5133c407",
+          "name": "Drawing-Symbol_A4"
+        },
+        "symbol": {
+          "uuid": "abc4e560de2855f6",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+          "name": "Drawing-Symbol_A4"
+        },
+        "name": "",
+        "otherProperty": {
+          "Company": "嘉立创EDA",
+          "Drawed": "",
+          "Reviewed": "",
+          "Version": "V1.0",
+          "Page Size": "A4",
+          "@Project Name": "DTU-C5-Air780EPT-HW-V0.1-library",
+          "@Update Date": "2026-10-09",
+          "@Create Date": "2026-10-09",
+          "Part Number": "",
+          "@Board Name": "Board1",
+          "@Page Name": "06_Auto_Interface_Selection",
+          "@Create Time": "14:35:38",
+          "@Page Count": "8",
+          "@Page No": "6",
+          "@Schematic Name": "Schematic1",
+          "@Update Time": "15:15:30",
+          "@Assembly Variant": "Basic",
+          "Border": "1",
+          "Title Block Position": "3",
+          "Size": "A4",
+          "Width": "1170",
+          "Height": "825",
+          "Region Start": "1",
+          "X Region Count": "6",
+          "Y Region Count": "4",
+          "Blade Width": "10",
+          "Color": "",
+          "Title Block": "1",
+          "Description": ""
+        }
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

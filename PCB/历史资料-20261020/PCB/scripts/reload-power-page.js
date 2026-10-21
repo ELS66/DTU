@@ -1,0 +1,1 @@
+const d=await eda.dmt_SelectControl.getCurrentDocumentInfo();if(d.uuid!=="61de9aff546f5073")throw Error("Wrong page");await eda.sch_Document.save();return {closed:await eda.dmt_EditorControl.closeDocument(d.tabId)};

@@ -1,0 +1,144 @@
+{
+  "revision": "V0.14.4 天线座与电阻阵列复核 2026-10-16",
+  "boardMm": [
+    60,
+    75
+  ],
+  "layers": 4,
+  "assembly": "Top",
+  "components": 104,
+  "defaultAssembly": 99,
+  "vias": 310,
+  "drilledHoles": 326,
+  "pcbDrcIssues": 0,
+  "factoryDfmPassed": false,
+  "backupDirectory": "D:\\DTU\\PCB\\历史资料-20261020\\PCB\\backups\\20261016-before-antenna-array-fix-162422",
+  "projectUuid": "ba912ce2dfad253c22e034fef383544af50374bc5b74a7f6f0299caf191a7a67",
+  "pcbUuid": "4211128ecf040c100b33238447713203",
+  "nativeProject": "D:\\DTU\\PCB\\V0.14.4-最终资料\\01-工程\\DTU-V0.14.4-60x75-Threefix.epro2",
+  "productionGerber": "D:\\DTU\\PCB\\V0.14.4-最终资料\\02-制造基准\\DTU-V0.14.4-60x75-Threefix-Gerber.zip",
+  "actualCopperManifest": "D:\\DTU\\PCB\\V0.14.4-最终资料\\04-验证资料\\threefix-actual-routing-v14_4.json",
+  "actualSourceSnapshot": "D:\\DTU\\PCB\\V0.14.4-最终资料\\04-验证资料\\threefix-reopened-source-v14_4.json",
+  "files": [
+    {
+      "file": "01-工程/DTU-V0.14.4-60x75-Threefix.epro2",
+      "bytes": 1256920,
+      "sha256": "c7fd07146529cdc6437af6e476bad6b38e693a99d02bfccb43af3703d498230d"
+    },
+    {
+      "file": "01-工程/DTU-V0.14.4-三处修正-60x75.eprj2",
+      "bytes": 2510848,
+      "sha256": "92cb780ad90298710be4518097fbb1043cde35cfd7d92f7b8d1cfc2210bdced6"
+    },
+    {
+      "file": "02-制造基准/DTU-V0.14.4-60x75-Threefix-Gerber.zip",
+      "bytes": 268238,
+      "sha256": "958c661a41de5aa154ccaea0e75e53448a08dbaf25f8135e45bc9ce9d7d00206"
+    },
+    {
+      "file": "02-制造基准/DTU-V0.14.4-Threefix-BOM-99.csv",
+      "bytes": 3735,
+      "sha256": "c4fd439494df391c8042dc4a40db50a27435549c28092bc80ec0177eaa85272a"
+    },
+    {
+      "file": "02-制造基准/DTU-V0.14.4-Threefix-CPL-99-Top.csv",
+      "bytes": 2343,
+      "sha256": "31574f15d74a1d1a54a2690feefde08f934454f7bfaf89d4672b1d470842205a"
+    },
+    {
+      "file": "03-本次采购/DTU-V0.14.4-BOM-本次采购验证版-20261020.xlsx",
+      "bytes": 13261,
+      "sha256": "4e5460987262ed37e49d4d63ebc1853714d03d46d416641bedcc5b3bcda941fe"
+    },
+    {
+      "file": "03-本次采购/订单数据-20261020.xlsx",
+      "bytes": 13111,
+      "sha256": "dbb7f147faa516b4c1399f198bafd9476f85ab4df05f8179496ae319eb4344b1"
+    },
+    {
+      "file": "03-本次采购/采购核对记录-更新BOM前.md",
+      "bytes": 11609,
+      "sha256": "3fa22aa5053d30c38388af632a3a68b9510a03e580b08fb8a388d1384813d4d5"
+    },
+    {
+      "file": "04-验证资料/V0.14-封装边界与模组净空修正记录.md",
+      "bytes": 4111,
+      "sha256": "8a7c6885b61bbc9e8715162b450dcff06cc45360851e723eaba3bc0cf44e9fbc"
+    },
+    {
+      "file": "04-验证资料/V0.14.1-安装孔禁铜错位修正记录.md",
+      "bytes": 1961,
+      "sha256": "0f0bb863353af39d357a7d733805509b5f89c74ddcdc3540217ab76de577b25a"
+    },
+    {
+      "file": "04-验证资料/V0.14.2-引脚边界修正记录.md",
+      "bytes": 2536,
+      "sha256": "beb3150a51b0316b90f3d0eb3c2ee99111c96b4d25cb7705e6b8868e69ce704c"
+    },
+    {
+      "file": "04-验证资料/V0.14.4-天线座与电阻阵列复核记录.md",
+      "bytes": 2626,
+      "sha256": "813838ddc1358e90f288b077fa42882a81a0303016dfc365434c91c056ee3070"
+    },
+    {
+      "file": "04-验证资料/原工程导出说明-20261016.md",
+      "bytes": 1091,
+      "sha256": "2713782a67e88c70acbbb73a5b370879a8acc360d88be45a56a3aa46d4bd974c"
+    },
+    {
+      "file": "04-验证资料/天线座与排阻修正对比.png",
+      "bytes": 21560,
+      "sha256": "fc074111bfe20d3c808b9bb3674cc7cd8434521bf9dae72dca5ab0a30db2ccdb"
+    },
+    {
+      "file": "04-验证资料/threefix-actual-routing-v14_4.json",
+      "bytes": 458526,
+      "sha256": "aadaff3ed59e9df258908322b9671129203ca52bb5af4f2eb737b4275f66acfd"
+    },
+    {
+      "file": "04-验证资料/threefix-reopened-source-v14_4.json",
+      "bytes": 937019,
+      "sha256": "9da2ebee90667fc4a9591edd64dcd17ff112d06be71e97bd6ecf9b17f8495c20"
+    },
+    {
+      "file": "04-验证资料/threefix-drc-v14_4.json",
+      "bytes": 95,
+      "sha256": "3d05af68b2c15f9344eb342511edf4430dbba99f821abf65d94433aef0c1eea7"
+    },
+    {
+      "file": "04-验证资料/threefix-verification-v14_4.json",
+      "bytes": 27743,
+      "sha256": "282c7abd687c9a76b571da81caf7f5df52463aef9204c40af4ca97280e011c2c"
+    },
+    {
+      "file": "04-验证资料/threefix-J5-manufacturer-review-v14_4.json",
+      "bytes": 1251,
+      "sha256": "962b1d50e5a68ae874ab08d162d5cba83f28c68aa726694b798ad2b70f48c0cd"
+    },
+    {
+      "file": "04-验证资料/mountfix-verification-v14_1.json",
+      "bytes": 8647,
+      "sha256": "8f79f4e480bf1d5bc86c6efdd960c7d39168b8af30416bbfb684f97b4bdfc0b4"
+    },
+    {
+      "file": "04-验证资料/pinfix-verification-v14_2.json",
+      "bytes": 25428,
+      "sha256": "1e29c38662dc084c4edc8e20d0726262ab43284024534314e271665462be0cc2"
+    }
+  ],
+  "mountKeepoutVerification": "D:\\DTU\\PCB\\V0.14.4-最终资料\\04-验证资料\\mountfix-verification-v14_1.json",
+  "pinLandVerification": "D:\\DTU\\PCB\\V0.14.4-最终资料\\04-验证资料\\threefix-verification-v14_4.json",
+  "J5ManufacturerReview": "D:\\DTU\\PCB\\V0.14.4-最终资料\\04-验证资料\\threefix-J5-manufacturer-review-v14_4.json",
+  "U2AssemblyStillRequired": true,
+  "organizedDate": "2026-10-20",
+  "deliveryDirectory": "D:\\DTU\\PCB\\V0.14.4-最终资料",
+  "historyDirectory": "D:\\DTU\\PCB\\历史资料-20261020",
+  "editableNativeProject": "D:\\DTU\\PCB\\V0.14.4-最终资料\\01-工程\\DTU-V0.14.4-三处修正-60x75.eprj2",
+  "baselineBom": "D:\\DTU\\PCB\\V0.14.4-最终资料\\02-制造基准\\DTU-V0.14.4-Threefix-BOM-99.csv",
+  "coordinates": "D:\\DTU\\PCB\\V0.14.4-最终资料\\02-制造基准\\DTU-V0.14.4-Threefix-CPL-99-Top.csv",
+  "procurementBom": "D:\\DTU\\PCB\\V0.14.4-最终资料\\03-本次采购\\DTU-V0.14.4-BOM-本次采购验证版-20261020.xlsx",
+  "procurementOrder": "D:\\DTU\\PCB\\V0.14.4-最终资料\\03-本次采购\\订单数据-20261020.xlsx",
+  "procurementBomStatus": "本次采购验证版，橙灯用于本次验证，下次恢复红色；尺寸与首板验证项见工作簿。",
+  "pcbGeometryChangedDuringOrganization": false,
+  "legacyReviewArchive": "D:\\DTU\\PCB\\历史资料-20261020\\PCB\\eda\\DTU-V0.14.4-60x75-天线座与电阻阵列复查包.zip"
+}

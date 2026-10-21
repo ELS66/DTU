@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "result": {
+    "saved": true,
+    "parts": [
+      {
+        "ref": "U12",
+        "id": "bb8c554e572259ad",
+        "sub": "SN74LVC1G125DCKR.1",
+        "pins": [
+          {
+            "number": "1",
+            "name": "OE#",
+            "x": 740,
+            "y": 620,
+            "rotation": 180
+          },
+          {
+            "number": "2",
+            "name": "A",
+            "x": 740,
+            "y": 610,
+            "rotation": 180
+          },
+          {
+            "number": "3",
+            "name": "GND",
+            "x": 740,
+            "y": 600,
+            "rotation": 180
+          },
+          {
+            "number": "4",
+            "name": "Y",
+            "x": 740,
+            "y": 590,
+            "rotation": 180
+          },
+          {
+            "number": "5",
+            "name": "VCC",
+            "x": 740,
+            "y": 580,
+            "rotation": 180
+          }
+        ]
+      }
+    ]
+  },
+  "windowId": "00cff7be-8dc7-4305-83a8-0c020d3d3f61"
+}

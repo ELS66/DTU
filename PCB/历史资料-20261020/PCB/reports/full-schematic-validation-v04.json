@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "physicalComponents": 196,
+  "pinNetAssertions": 610,
+  "errors": [],
+  "scope": "Actual exported schematic nets and BOM IDs; hardware tests and PCB checks separate"
+}

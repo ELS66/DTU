@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");return {zoom:await eda.pcb_Document.zoomToBoardOutline(),rules:await eda.pcb_Drc.getCurrentRuleConfiguration(),netClasses:await eda.pcb_Drc.getAllNetClasses(),pairs:await eda.pcb_Drc.getAllDifferentialPairs()};

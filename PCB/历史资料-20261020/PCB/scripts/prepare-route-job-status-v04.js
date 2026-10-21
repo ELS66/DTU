@@ -1,0 +1,1 @@
+if((await eda.dmt_SelectControl.getCurrentDocumentInfo())?.uuid!=="4211128ecf040c100b33238447713203")throw Error("Wrong PCB");const key="DTU_V04_ROUTING_JOB_20261010";const ok=await eda.sys_Storage.setExtensionUserConfig(key,{status:"idle",project:"b7122aadd3e496b681150192bfbef370394a2ba91164cb1621df30a137bdfaf5"});return {ok,value:eda.sys_Storage.getExtensionUserConfig(key)};

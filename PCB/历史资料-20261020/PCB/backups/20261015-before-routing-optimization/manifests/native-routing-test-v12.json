@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "result": {
+    "success": true,
+    "totalNetsCount": 1,
+    "successNetsCount": 1,
+    "failedNets": [],
+    "duration": 926
+  },
+  "windowId": "bff860cc-b4f1-49a6-999b-aa757014f786"
+}

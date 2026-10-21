@@ -1,0 +1,1 @@
+const d=await eda.dmt_SelectControl.getCurrentDocumentInfo();await eda.dmt_EditorControl.zoomToAllPrimitives(d.tabId);const f=await eda.dmt_EditorControl.getCurrentRenderedAreaImage(d.tabId);if(!f)throw Error('No render');return {type:f.type,bytes:Array.from(new Uint8Array(await f.arrayBuffer()))};

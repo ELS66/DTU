@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-19",
+  "status": "Procurement candidate; reference-level pin and nominal mechanical review completed; no assembled-board test performed",
+  "referenceNative": "D:\\DTU\\PCB\\eda\\DTU-V0.14.4-60x75-Threefix.epro2",
+  "referenceRevision": "V0.14.4 天线座与电阻阵列复核 2026-10-16",
+  "component": "U6",
+  "oldModel": "MAX3485ESA+",
+  "oldCode": "C1545222",
+  "sameChipReelModel": "MAX3485ESA+T",
+  "sameChipReelCode": "C18148",
+  "candidateModel": "SP3485EN-L/TR",
+  "candidateCode": "C8963",
+  "manufacturer": "MaxLinear",
+  "existingFootprint": "6372238fbac50321",
+  "pinMap": {
+    "1": "RO",
+    "2": "/RE",
+    "3": "DE",
+    "4": "DI",
+    "5": "GND",
+    "6": "A",
+    "7": "B",
+    "8": "VCC"
+  },
+  "netMap": {
+    "3": "MCU_485_DE",
+    "4": "FIELD_TX",
+    "2": "MCU_485_DE",
+    "1": "485_RX_RAW",
+    "5": "GND",
+    "6": "RS485_A",
+    "7": "RS485_B",
+    "8": "VDD_3V3"
+  },
+  "pads": [
+    {
+      "pin": "1",
+      "function": "RO",
+      "net": "485_RX_RAW",
+      "centerLocalMm": [
+        -1.905,
+        -2.450084
+      ],
+      "landSizeMm": [
+        0.5999987999999999,
+        1.7999964
+      ],
+      "transverseNominalLeadMarginMm": 0.04499939999999997,
+      "landRadialMm": [
+        1.5500858,
+        3.3500822
+      ],
+      "referenceLeadRadialMm": [
+        1.73,
+        3
+      ]
+    },
+    {
+      "pin": "2",
+      "function": "/RE",
+      "net": "MCU_485_DE",
+      "centerLocalMm": [
+        -0.635,
+        -2.450084
+      ],
+      "landSizeMm": [
+        0.5999987999999999,
+        1.7999964
+      ],
+      "transverseNominalLeadMarginMm": 0.04499939999999997,
+      "landRadialMm": [
+        1.5500858,
+        3.3500822
+      ],
+      "referenceLeadRadialMm": [
+        1.73,
+        3
+      ]
+    },
+    {
+      "pin": "3",
+      "function": "DE",
+      "net": "MCU_485_DE",
+      "centerLocalMm": [
+        0.635,
+        -2.450084
+      ],
+      "landSizeMm": [
+        0.5999987999999999,
+        1.7999964
+      ],
+      "transverseNominalLeadMarginMm": 0.04499939999999997,
+      "landRadialMm": [
+        1.5500858,
+        3.3500822
+      ],
+      "referenceLeadRadialMm": [
+        1.73,
+        3
+      ]
+    },
+    {
+      "pin": "4",
+      "function": "DI",
+      "net": "FIELD_TX",
+      "centerLocalMm": [
+        1.905,
+        -2.450084
+      ],
+      "landSizeMm": [
+        0.5999987999999999,
+        1.7999964
+      ],
+      "transverseNominalLeadMarginMm": 0.04499939999999997,
+      "landRadialMm": [
+        1.5500858,
+        3.3500822
+      ],
+      "referenceLeadRadialMm": [
+        1.73,
+        3
+      ]
+    },
+    {
+      "pin": "5",
+      "function": "GND",
+      "net": "GND",
+      "centerLocalMm": [
+        1.905,
+        2.450084
+      ],
+      "landSizeMm": [
+        0.5999987999999999,
+        1.7999964
+      ],
+      "transverseNominalLeadMarginMm": 0.04499939999999997,
+      "landRadialMm": [
+        1.5500858,
+        3.3500822
+      ],
+      "referenceLeadRadialMm": [
+        1.73,
+        3
+      ]
+    },
+    {
+      "pin": "6",
+      "function": "A",
+      "net": "RS485_A",
+      "centerLocalMm": [
+        0.635,
+        2.450084
+      ],
+      "landSizeMm": [
+        0.5999987999999999,
+        1.7999964
+      ],
+      "transverseNominalLeadMarginMm": 0.04499939999999997,
+      "landRadialMm": [
+        1.5500858,
+        3.3500822
+      ],
+      "referenceLeadRadialMm": [
+        1.73,
+        3
+      ]
+    },
+    {
+      "pin": "7",
+      "function": "B",
+      "net": "RS485_B",
+      "centerLocalMm": [
+        -0.635,
+        2.450084
+      ],
+      "landSizeMm": [
+        0.5999987999999999,
+        1.7999964
+      ],
+      "transverseNominalLeadMarginMm": 0.04499939999999997,
+      "landRadialMm": [
+        1.5500858,
+        3.3500822
+      ],
+      "referenceLeadRadialMm": [
+        1.73,
+        3
+      ]
+    },
+    {
+      "pin": "8",
+      "function": "VCC",
+      "net": "VDD_3V3",
+      "centerLocalMm": [
+        -1.905,
+        2.450084
+      ],
+      "landSizeMm": [
+        0.5999987999999999,
+        1.7999964
+      ],
+      "transverseNominalLeadMarginMm": 0.04499939999999997,
+      "landRadialMm": [
+        1.5500858,
+        3.3500822
+      ],
+      "referenceLeadRadialMm": [
+        1.73,
+        3
+      ]
+    }
+  ],
+  "oldSupplyV": [
+    3.0,
+    3.6
+  ],
+  "candidateCharacterizedSupplyV": [
+    3.135,
+    3.465
+  ],
+  "temperatureC": [
+    -40,
+    85
+  ],
+  "dataRateMbps": 10,
+  "pcbGeometryChanged": false,
+  "referenceArtifactsUnchanged": [
+    {
+      "file": "DTU-V0.14.4-60x75-Threefix.epro2",
+      "sha256": "c7fd07146529cdc6437af6e476bad6b38e693a99d02bfccb43af3703d498230d"
+    },
+    {
+      "file": "DTU-V0.14.4-60x75-Threefix-Gerber.zip",
+      "sha256": "958c661a41de5aa154ccaea0e75e53448a08dbaf25f8135e45bc9ce9d7d00206"
+    },
+    {
+      "file": "DTU-V0.14.4-Threefix-BOM-99.csv",
+      "sha256": "c4fd439494df391c8042dc4a40db50a27435549c28092bc80ec0177eaa85272a"
+    },
+    {
+      "file": "DTU-V0.14.4-Threefix-CPL-99-Top.csv",
+      "sha256": "31574f15d74a1d1a54a2690feefde08f934454f7bfaf89d4672b1d470842205a"
+    }
+  ],
+  "limitations": [
+    "Nominal geometric review, not complete mechanical tolerance-stack or factory assembly qualification.",
+    "Candidate supply characterization is narrower than original. Measure 3.3V rail under LTE and Wi-Fi load.",
+    "Verify required baud rates, direction turnaround, idle behavior and field cable operation on first boards.",
+    "RMB purchase price, minimum order, spare quantities and SMT charges require an actual quotation."
+  ]
+}

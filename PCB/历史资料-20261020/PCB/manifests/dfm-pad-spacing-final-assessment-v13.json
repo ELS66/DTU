@@ -1,0 +1,820 @@
+{
+  "allNearPairsSameNet": true,
+  "nearPairs": 82,
+  "distinctCopperIslandsNearPairs": [
+    {
+      "a": {
+        "kind": "via",
+        "id": "74a721a974fa8d8f",
+        "ref": "74a721a974fa8d8f",
+        "net": "GND",
+        "layer": 12,
+        "x": 29.57500054,
+        "y": 13.45000104,
+        "diameter": 0.4499991,
+        "hole": 0.19999959999999997
+      },
+      "b": {
+        "kind": "pad",
+        "id": "d4a61923be0d68fce19",
+        "ref": "D9",
+        "number": "2",
+        "net": "GND",
+        "layer": 1,
+        "shape": [
+          "RECT",
+          31.5,
+          31.5,
+          0
+        ],
+        "x": 28.956,
+        "y": 14.000480000000001
+      },
+      "gapMm": 0.040744621409067726,
+      "sameNet": true,
+      "aCopperIslands": [
+        222
+      ],
+      "bCopperIslands": [
+        194
+      ]
+    },
+    {
+      "a": {
+        "kind": "via",
+        "id": "6085135c819a0a52",
+        "ref": "6085135c819a0a52",
+        "net": "GND",
+        "layer": 12,
+        "x": 17.79999996,
+        "y": 62.02499913999999,
+        "diameter": 0.4499991,
+        "hole": 0.19999959999999997
+      },
+      "b": {
+        "kind": "pad",
+        "id": "437ee3b0ea55cd34e15",
+        "ref": "D10",
+        "number": "2",
+        "net": "GND",
+        "layer": 1,
+        "shape": [
+          "RECT",
+          15.7,
+          27.6,
+          0
+        ],
+        "x": 17.35074,
+        "y": 62.49923999999999
+      },
+      "gapMm": 0.0540487241815498,
+      "sameNet": true,
+      "aCopperIslands": [
+        99
+      ],
+      "bCopperIslands": [
+        100
+      ]
+    },
+    {
+      "a": {
+        "kind": "via",
+        "id": "49228cec81f7eb66",
+        "ref": "49228cec81f7eb66",
+        "net": "GND",
+        "layer": 12,
+        "x": 39.899998939999996,
+        "y": 49.15000076,
+        "diameter": 0.4499991,
+        "hole": 0.19999959999999997
+      },
+      "b": {
+        "kind": "pad",
+        "id": "27e64738f6dde1f7e94",
+        "ref": "U1",
+        "number": "29",
+        "net": "GND",
+        "layer": 1,
+        "shape": [
+          "RECT",
+          51.2,
+          51.2,
+          0
+        ],
+        "x": 39.047419999999995,
+        "y": 49.99482
+      },
+      "gapMm": 0.055866168157247084,
+      "sameNet": true,
+      "aCopperIslands": [
+        334
+      ],
+      "bCopperIslands": [
+        320
+      ]
+    },
+    {
+      "a": {
+        "kind": "via",
+        "id": "49228cec81f7eb66",
+        "ref": "49228cec81f7eb66",
+        "net": "GND",
+        "layer": 12,
+        "x": 39.899998939999996,
+        "y": 49.15000076,
+        "diameter": 0.4499991,
+        "hole": 0.19999959999999997
+      },
+      "b": {
+        "kind": "pad",
+        "id": "27e64738f6dde1f7e89",
+        "ref": "U1",
+        "number": "29",
+        "net": "GND",
+        "layer": 1,
+        "shape": [
+          "RECT",
+          51.2,
+          51.2,
+          0
+        ],
+        "x": 40.74668,
+        "y": 48.29556
+      },
+      "gapMm": 0.05849600767476582,
+      "sameNet": true,
+      "aCopperIslands": [
+        334
+      ],
+      "bCopperIslands": [
+        333
+      ]
+    },
+    {
+      "a": {
+        "kind": "via",
+        "id": "49228cec81f7eb66",
+        "ref": "49228cec81f7eb66",
+        "net": "GND",
+        "layer": 12,
+        "x": 39.899998939999996,
+        "y": 49.15000076,
+        "diameter": 0.4499991,
+        "hole": 0.19999959999999997
+      },
+      "b": {
+        "kind": "pad",
+        "id": "27e64738f6dde1f7e95",
+        "ref": "U1",
+        "number": "29",
+        "net": "GND",
+        "layer": 1,
+        "shape": [
+          "RECT",
+          51.2,
+          51.2,
+          0
+        ],
+        "x": 39.047419999999995,
+        "y": 48.29556
+      },
+      "gapMm": 0.06248129987595402,
+      "sameNet": true,
+      "aCopperIslands": [
+        334
+      ],
+      "bCopperIslands": [
+        319
+      ]
+    }
+  ],
+  "distinctCopperIslandsWarningPairs": [],
+  "holesCovered": true,
+  "vias": [
+    {
+      "via": "bd31757caf9c21db",
+      "net": "SIM_VDD",
+      "x": 20.77500036,
+      "y": 26.274999519999998,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.09627284000000012
+    },
+    {
+      "via": "d8f9caa9fb18f54d",
+      "net": "GND",
+      "x": 48.29999992,
+      "y": 65.85000038,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.11411358000000059
+    },
+    {
+      "via": "74a721a974fa8d8f",
+      "net": "GND",
+      "x": 29.57500054,
+      "y": 13.45000104,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.11549454292844376
+    },
+    {
+      "via": "f458542bc3611304",
+      "net": "LTE_BOOT",
+      "x": 8.35000108,
+      "y": 43.19999996,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.1171981599999929
+    },
+    {
+      "via": "b4dc676947c86711",
+      "net": "GND",
+      "x": 30.97500028,
+      "y": 35.050001019999996,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.11920047999999907
+    },
+    {
+      "via": "f0a81e928a99f001",
+      "net": "GND",
+      "x": 42.07500094,
+      "y": 47.3750005,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.11990770000000502
+    },
+    {
+      "via": "43c859396b766b5f",
+      "net": "GND",
+      "x": 40.37499926,
+      "y": 47.3750005,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.11990770000000502
+    },
+    {
+      "via": "5a60860386c9a4a1",
+      "net": "GND",
+      "x": 34.74999908,
+      "y": 20.49999964,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.11921756000000182
+    },
+    {
+      "via": "a053eda934d00356",
+      "net": "GND",
+      "x": 9.475000099999999,
+      "y": 40.79999968,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.11920029999999836
+    },
+    {
+      "via": "f46478f25cd4abcc",
+      "net": "LED_LTE_R_N",
+      "x": 39.42500116,
+      "y": 60.7249992,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.1232073999999974
+    },
+    {
+      "via": "c0ce0e8ad069fb6c",
+      "net": "GND",
+      "x": 16.45000012,
+      "y": 46.14999914,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12418605999999864
+    },
+    {
+      "via": "7279f8bfdf1ba240",
+      "net": "GND",
+      "x": 15.249999979999998,
+      "y": 46.14999914,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12418605999999864
+    },
+    {
+      "via": "da3bacfb17ca2fd0",
+      "net": "GND",
+      "x": 14.049999839999998,
+      "y": 46.14999914,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12418605999999864
+    },
+    {
+      "via": "898ca265f17c52fa",
+      "net": "GND",
+      "x": 12.8499997,
+      "y": 46.14999914,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12418605999999864
+    },
+    {
+      "via": "fd6c2fb7019faf50",
+      "net": "GND",
+      "x": 20.87500016,
+      "y": 43.24999986,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12406433999999587
+    },
+    {
+      "via": "306529af706bc5c3",
+      "net": "GND",
+      "x": 20.174999019999998,
+      "y": 32.22500032,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12418787999999288
+    },
+    {
+      "via": "ba6eb1194b792ca7",
+      "net": "GND",
+      "x": 8.17500016,
+      "y": 32.22500032,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12418787999999291
+    },
+    {
+      "via": "046678d6d116a946",
+      "net": "GND",
+      "x": 30.050000859999997,
+      "y": 40.875000799999995,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12417800000003627
+    },
+    {
+      "via": "3a3289e05ad060d7",
+      "net": "GND",
+      "x": 8.17500016,
+      "y": 19.22500092,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12421328000000197
+    },
+    {
+      "via": "1b5108dd7378941f",
+      "net": "RS485_B_EXT",
+      "x": 37.37500018,
+      "y": 17.12500004,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12418524000000185
+    },
+    {
+      "via": "fa46963b80859e44",
+      "net": "GND",
+      "x": 20.174999019999998,
+      "y": 20.77500036,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12418856000000296
+    },
+    {
+      "via": "fb331bdbbf3ebd23",
+      "net": "GND",
+      "x": 17.82500118,
+      "y": 62.69999906,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12408838000000251
+    },
+    {
+      "via": "a9b9ba87672a2edf",
+      "net": "GND",
+      "x": 29.074999,
+      "y": 23.75000076,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12417620001699019
+    },
+    {
+      "via": "ff492964edf36a17",
+      "net": "GND",
+      "x": 17.42499944,
+      "y": 53.74999918,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12430437999999723
+    },
+    {
+      "via": "39c1a2852aea74a7",
+      "net": "GND",
+      "x": 19.22500092,
+      "y": 53.74999918,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12430437999999723
+    },
+    {
+      "via": "c5b5235b7ff31b5a",
+      "net": "GND",
+      "x": 12.07499998,
+      "y": 58.25000034,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12428786000000168
+    },
+    {
+      "via": "31780437ea8d2598",
+      "net": "GND",
+      "x": 19.77499982,
+      "y": 58.25000034,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12428786000000168
+    },
+    {
+      "via": "9ca3c30c2d0b93b8",
+      "net": "GND",
+      "x": 25.899998999999998,
+      "y": 45.79999984,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12405936000000307
+    },
+    {
+      "via": "c93eb56e5e80efec",
+      "net": "GND",
+      "x": 19.22500092,
+      "y": 50.09999886,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12425433999999934
+    },
+    {
+      "via": "17d4b2ba02bc077b",
+      "net": "GND",
+      "x": 17.42499944,
+      "y": 50.09999886,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12425433999999934
+    },
+    {
+      "via": "49af5a167a1c5462",
+      "net": "GND",
+      "x": 52.80000108,
+      "y": 37.12500068,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12417787999999687
+    },
+    {
+      "via": "49228cec81f7eb66",
+      "net": "GND",
+      "x": 39.899998939999996,
+      "y": 49.15000076,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12717281216813847
+    },
+    {
+      "via": "7f61a3ff2dbee01b",
+      "net": "GND",
+      "x": 43.37500088,
+      "y": 49.62500108,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12793708000000142
+    },
+    {
+      "via": "6085135c819a0a52",
+      "net": "GND",
+      "x": 17.79999996,
+      "y": 62.02499913999999,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12863068060935517
+    },
+    {
+      "via": "16b29bef50314ece",
+      "net": "LTE_USB_VBUS",
+      "x": 20.599999439999998,
+      "y": 57.6999989,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.12873121582887848
+    },
+    {
+      "via": "ae612ad432eb6332",
+      "net": "GND",
+      "x": 42.07500094,
+      "y": 52.62500015999999,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.13005035999999048
+    },
+    {
+      "via": "c8876beeb4e233ac",
+      "net": "GND",
+      "x": 40.37499926,
+      "y": 52.62500015999999,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.13005035999999048
+    },
+    {
+      "via": "591f03eba42af829",
+      "net": "GND",
+      "x": 34.69999918,
+      "y": 31.5000005,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.13323770000000135
+    },
+    {
+      "via": "f6e9c43708c21769",
+      "net": "RS485_B",
+      "x": 13.35000124,
+      "y": 16.64999972,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.13498841999999822
+    },
+    {
+      "via": "012e6eca0b6aa2b4",
+      "net": "GND",
+      "x": 50.47499938,
+      "y": 50.09999886,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.1349910600000035
+    },
+    {
+      "via": "3b941d012a229e69",
+      "net": "GND",
+      "x": 50.075000179999996,
+      "y": 59.40000058,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.13996438000000117
+    },
+    {
+      "via": "b4203b25c2e281b8",
+      "net": "LTE_BOOT",
+      "x": 21.25000068,
+      "y": 55.89999996,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14197904856158766
+    },
+    {
+      "via": "c67f4fe96146c1c4",
+      "net": "GND",
+      "x": 46.27500016,
+      "y": 26.37499932,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14836386662423362
+    },
+    {
+      "via": "d0d6d6b8ffb92363",
+      "net": "SIM_VDD",
+      "x": 24.900001,
+      "y": 25.449999899999998,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14259809999999978
+    },
+    {
+      "via": "d38f297a4dec083c",
+      "net": "GND",
+      "x": 12.999999399999998,
+      "y": 19.1999997,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14498839999999813
+    },
+    {
+      "via": "e7f2e9e72f0942da",
+      "net": "FIELD_TX",
+      "x": 18.199999159999997,
+      "y": 19.1999997,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14498839999999813
+    },
+    {
+      "via": "1ad71257f7f70b14",
+      "net": "GND",
+      "x": 50.09999886,
+      "y": 41.65000052,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14489706000000435
+    },
+    {
+      "via": "4c09f9e41cf2a28b",
+      "net": "ESP_STRAP27",
+      "x": 36.800000059999995,
+      "y": 40.89999948,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14795772000000706
+    },
+    {
+      "via": "aaac5bd1b6fbbf4a",
+      "net": "RS485_B",
+      "x": 25.9499989,
+      "y": 15.499999480000001,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14932610000000235
+    },
+    {
+      "via": "5f53d4c41ce544c9",
+      "net": "GND",
+      "x": 12.949999499999999,
+      "y": 54.99999922,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.149387700000001
+    },
+    {
+      "via": "536b4f5e81f6de30",
+      "net": "GND",
+      "x": 12.949999499999999,
+      "y": 48.59999932,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.149387700000001
+    },
+    {
+      "via": "d562ca35ae459883",
+      "net": "GND",
+      "x": 11.05000076,
+      "y": 49.52499874,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.1493264399999985
+    },
+    {
+      "via": "d9db561d0c8487e0",
+      "net": "GND",
+      "x": 11.05000076,
+      "y": 50.724998879999994,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.1493264399999985
+    },
+    {
+      "via": "f7dcb8349079a6dc",
+      "net": "GND",
+      "x": 11.05000076,
+      "y": 51.92499902,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.1493264399999985
+    },
+    {
+      "via": "12531cbad715701e",
+      "net": "VIN_DIODE",
+      "x": 47.199999580000004,
+      "y": 16.549999919999998,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14929811999999654
+    },
+    {
+      "via": "d3b2388593d4b626",
+      "net": "GND",
+      "x": 8.14999894,
+      "y": 50.82500122,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14920725999999984
+    },
+    {
+      "via": "c0299af4fcc5f953",
+      "net": "GND",
+      "x": 8.14999894,
+      "y": 51.92499902,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14920725999999984
+    },
+    {
+      "via": "d34fbe859532576a",
+      "net": "GND",
+      "x": 8.14999894,
+      "y": 55.22500003999999,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14920725999999984
+    },
+    {
+      "via": "fdd329252a28af53",
+      "net": "GND",
+      "x": 8.14999894,
+      "y": 56.32500037999999,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14920725999999984
+    },
+    {
+      "via": "72d09e8995ecd704",
+      "net": "GND",
+      "x": 44.1500006,
+      "y": 19.3499994,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14920180000000283
+    },
+    {
+      "via": "c2e8d37358c542a9",
+      "net": "GND",
+      "x": 22.14999888,
+      "y": 21.150000879999997,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14908732000000224
+    },
+    {
+      "via": "4bf89dbd2cb2b406",
+      "net": "VDD_3V3",
+      "x": 33.80000097999999,
+      "y": 35.500000119999996,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14920208000000112
+    },
+    {
+      "via": "38334f63cac5d625",
+      "net": "GND",
+      "x": 33.00000004,
+      "y": 24.14999996,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.1492022400000037
+    },
+    {
+      "via": "ba6ada48dfa2731d",
+      "net": "GND",
+      "x": 35.15000082,
+      "y": 24.000000259999997,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.1492019400000073
+    },
+    {
+      "via": "fd302ef1e665d731",
+      "net": "GND",
+      "x": 50.47499938,
+      "y": 46.07500056,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.1500096400000066
+    },
+    {
+      "via": "5e011d935cf9a7a8",
+      "net": "LED_LTE_R_N",
+      "x": 2.10000088,
+      "y": 52.24999964,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14907508000000025
+    },
+    {
+      "via": "16506acbbefc56e8",
+      "net": "GND",
+      "x": 47.04999988,
+      "y": 26.40000054,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14920266000000287
+    },
+    {
+      "via": "25c169ac6ab7e5dd",
+      "net": "GND",
+      "x": 38.1499999,
+      "y": 31.600000299999998,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14920230000000512
+    },
+    {
+      "via": "896a020a9cdc53f4",
+      "net": "GND",
+      "x": 6.6499994,
+      "y": 43.24999986,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14920205999999947
+    },
+    {
+      "via": "3d1c6edadfce6953",
+      "net": "GND",
+      "x": 47.800000919999995,
+      "y": 30.02499964,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14919456000000064
+    },
+    {
+      "via": "62300cd6de97c40e",
+      "net": "GND",
+      "x": 39.25000024,
+      "y": 39.899998939999996,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.14920243999999538
+    },
+    {
+      "via": "b704426fa578cfc7",
+      "net": "GND",
+      "x": 34.6250006,
+      "y": 35.59999992,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.16020559999999673
+    },
+    {
+      "via": "9cbcb8aba783a981",
+      "net": "GND",
+      "x": 39.25000024,
+      "y": 25.549999699999997,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.16719850000000402
+    },
+    {
+      "via": "89874552aef43aae",
+      "net": "GND",
+      "x": 44.6499996,
+      "y": 26.350000639999998,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.16719556000000235
+    },
+    {
+      "via": "362c5ee7007d430e",
+      "net": "FIELD_RX",
+      "x": 42.57499994,
+      "y": 40.875000799999995,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.1729564000000101
+    },
+    {
+      "via": "209317caee097b98",
+      "net": "GND",
+      "x": 28.149999580000003,
+      "y": 14.700001079999998,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.21708236868828218
+    },
+    {
+      "via": "ec57077f3dd26cfd",
+      "net": "GND",
+      "x": 31.400000699999996,
+      "y": 14.700001079999998,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.21716055996377198
+    },
+    {
+      "via": "ade7fae35a7f5fcb",
+      "net": "GND",
+      "x": 25.57500092,
+      "y": 38.074998779999994,
+      "holeExposed": false,
+      "holeToMaskOpeningGapMm": 0.174203420000004
+    }
+  ],
+  "usesUniquePadIds": true
+}
